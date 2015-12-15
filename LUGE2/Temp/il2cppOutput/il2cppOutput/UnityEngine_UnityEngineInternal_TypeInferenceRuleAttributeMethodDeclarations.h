@@ -13,7 +13,7 @@
 #include <exception>
 
 // UnityEngineInternal.TypeInferenceRuleAttribute
-struct TypeInferenceRuleAttribute_t5_280;
+struct TypeInferenceRuleAttribute_t5_281;
 // System.String
 struct String_t;
 
@@ -21,8 +21,8 @@ struct String_t;
 #include "UnityEngine_UnityEngineInternal_TypeInferenceRules.h"
 
 // System.Void UnityEngineInternal.TypeInferenceRuleAttribute::.ctor(UnityEngineInternal.TypeInferenceRules)
-extern "C" void TypeInferenceRuleAttribute__ctor_m5_1775 (TypeInferenceRuleAttribute_t5_280 * __this, int32_t ___rule, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TypeInferenceRuleAttribute__ctor_m5_1778 (TypeInferenceRuleAttribute_t5_281 * __this, int32_t ___rule, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngineInternal.TypeInferenceRuleAttribute::.ctor(System.String)
-extern "C" void TypeInferenceRuleAttribute__ctor_m5_1776 (TypeInferenceRuleAttribute_t5_280 * __this, String_t* ___rule, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TypeInferenceRuleAttribute__ctor_m5_1779 (TypeInferenceRuleAttribute_t5_281 * __this, String_t* ___rule, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String UnityEngineInternal.TypeInferenceRuleAttribute::ToString()
-extern "C" String_t* TypeInferenceRuleAttribute_ToString_m5_1777 (TypeInferenceRuleAttribute_t5_280 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* TypeInferenceRuleAttribute_ToString_m5_1780 (TypeInferenceRuleAttribute_t5_281 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

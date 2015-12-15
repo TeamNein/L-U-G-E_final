@@ -15,7 +15,7 @@ struct RectTransform_t5_70;
 // UnityEngine.UI.Graphic
 struct Graphic_t6_76;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 
 #include "UnityEngine_UI_UnityEngine_EventSystems_UIBehaviour.h"
 
@@ -29,7 +29,7 @@ struct  Mask_t6_101  : public UIBehaviour_t6_3
 	// UnityEngine.UI.Graphic UnityEngine.UI.Mask::m_Graphic
 	Graphic_t6_76 * ___m_Graphic_4;
 	// UnityEngine.Material UnityEngine.UI.Mask::m_MaskMaterial
-	Material_t5_76 * ___m_MaskMaterial_5;
+	Material_t5_77 * ___m_MaskMaterial_5;
 	// UnityEngine.Material UnityEngine.UI.Mask::m_UnmaskMaterial
-	Material_t5_76 * ___m_UnmaskMaterial_6;
+	Material_t5_77 * ___m_UnmaskMaterial_6;
 };

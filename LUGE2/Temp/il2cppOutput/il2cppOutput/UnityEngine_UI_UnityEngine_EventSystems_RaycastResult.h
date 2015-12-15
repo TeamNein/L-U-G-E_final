@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.EventSystems.BaseRaycaster
 struct BaseRaycaster_t6_32;
 
@@ -23,7 +23,7 @@ struct BaseRaycaster_t6_32;
 struct  RaycastResult_t6_31 
 {
 	// UnityEngine.GameObject UnityEngine.EventSystems.RaycastResult::m_GameObject
-	GameObject_t5_100 * ___m_GameObject_0;
+	GameObject_t5_101 * ___m_GameObject_0;
 	// UnityEngine.EventSystems.BaseRaycaster UnityEngine.EventSystems.RaycastResult::module
 	BaseRaycaster_t6_32 * ___module_1;
 	// System.Single UnityEngine.EventSystems.RaycastResult::distance

@@ -16,7 +16,7 @@ struct String_t;
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // SetParticleSortingLayer
-struct  SetParticleSortingLayer_t7_45  : public MonoBehaviour_t5_92
+struct  SetParticleSortingLayer_t7_46  : public MonoBehaviour_t5_93
 {
 	// System.String SetParticleSortingLayer::sortingLayerName
 	String_t* ___sortingLayerName_2;

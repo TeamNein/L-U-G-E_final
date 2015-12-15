@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.DisallowMultipleComponent
-struct  DisallowMultipleComponent_t5_219  : public Attribute_t1_2
+struct  DisallowMultipleComponent_t5_220  : public Attribute_t1_2
 {
 };

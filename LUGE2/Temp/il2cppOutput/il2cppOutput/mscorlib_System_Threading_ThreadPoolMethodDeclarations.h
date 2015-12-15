@@ -20,4 +20,4 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Boolean System.Threading.ThreadPool::QueueUserWorkItem(System.Threading.WaitCallback,System.Object)
-extern "C" bool ThreadPool_QueueUserWorkItem_m1_4502 (Object_t * __this /* static, unused */, WaitCallback_t1_769 * ___callBack, Object_t * ___state, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool ThreadPool_QueueUserWorkItem_m1_4497 (Object_t * __this /* static, unused */, WaitCallback_t1_769 * ___callBack, Object_t * ___state, const MethodInfo* method) IL2CPP_METHOD_ATTR;

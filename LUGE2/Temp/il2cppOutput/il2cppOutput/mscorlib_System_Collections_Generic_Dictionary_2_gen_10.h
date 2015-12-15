@@ -15,7 +15,7 @@ struct Int32U5BU5D_t1_159;
 // System.Collections.Generic.Link[]
 struct LinkU5BU5D_t1_995;
 // UnityEngine.RectTransform[]
-struct RectTransformU5BU5D_t5_368;
+struct RectTransformU5BU5D_t5_369;
 // System.Collections.Generic.IEqualityComparer`1<System.Int32>
 struct IEqualityComparer_1_t1_1261;
 // System.Runtime.Serialization.SerializationInfo
@@ -35,7 +35,7 @@ struct  Dictionary_2_t1_953  : public Object_t
 	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
 	Int32U5BU5D_t1_159* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
-	RectTransformU5BU5D_t5_368* ___valueSlots_7;
+	RectTransformU5BU5D_t5_369* ___valueSlots_7;
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots
 	int32_t ___touchedSlots_8;
 	// System.Int32 System.Collections.Generic.Dictionary`2::emptySlot

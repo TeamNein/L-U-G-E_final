@@ -20,4 +20,4 @@ struct IMessageSink_t1_415;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Messaging.ServerObjectTerminatorSink::.ctor(System.Runtime.Remoting.Messaging.IMessageSink)
-extern "C" void ServerObjectTerminatorSink__ctor_m1_3311 (ServerObjectTerminatorSink_t1_457 * __this, Object_t * ___nextSink, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ServerObjectTerminatorSink__ctor_m1_3306 (ServerObjectTerminatorSink_t1_457 * __this, Object_t * ___nextSink, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -13,21 +13,21 @@
 #include <exception>
 
 // PlayerControl/<Taunt>c__Iterator5
-struct U3CTauntU3Ec__Iterator5_t7_38;
+struct U3CTauntU3Ec__Iterator5_t7_39;
 // System.Object
 struct Object_t;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void PlayerControl/<Taunt>c__Iterator5::.ctor()
-extern "C" void U3CTauntU3Ec__Iterator5__ctor_m7_140 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void U3CTauntU3Ec__Iterator5__ctor_m7_144 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object PlayerControl/<Taunt>c__Iterator5::System.Collections.Generic.IEnumerator<object>.get_Current()
-extern "C" Object_t * U3CTauntU3Ec__Iterator5_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m7_141 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * U3CTauntU3Ec__Iterator5_System_Collections_Generic_IEnumeratorU3CobjectU3E_get_Current_m7_145 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object PlayerControl/<Taunt>c__Iterator5::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * U3CTauntU3Ec__Iterator5_System_Collections_IEnumerator_get_Current_m7_142 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * U3CTauntU3Ec__Iterator5_System_Collections_IEnumerator_get_Current_m7_146 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean PlayerControl/<Taunt>c__Iterator5::MoveNext()
-extern "C" bool U3CTauntU3Ec__Iterator5_MoveNext_m7_143 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool U3CTauntU3Ec__Iterator5_MoveNext_m7_147 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void PlayerControl/<Taunt>c__Iterator5::Dispose()
-extern "C" void U3CTauntU3Ec__Iterator5_Dispose_m7_144 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void U3CTauntU3Ec__Iterator5_Dispose_m7_148 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void PlayerControl/<Taunt>c__Iterator5::Reset()
-extern "C" void U3CTauntU3Ec__Iterator5_Reset_m7_145 (U3CTauntU3Ec__Iterator5_t7_38 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void U3CTauntU3Ec__Iterator5_Reset_m7_149 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

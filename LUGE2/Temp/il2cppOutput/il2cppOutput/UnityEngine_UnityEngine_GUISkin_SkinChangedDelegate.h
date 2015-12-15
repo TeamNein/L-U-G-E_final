@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.GUISkin/SkinChangedDelegate
-struct  SkinChangedDelegate_t5_200  : public MulticastDelegate_t1_21
+struct  SkinChangedDelegate_t5_201  : public MulticastDelegate_t1_21
 {
 };

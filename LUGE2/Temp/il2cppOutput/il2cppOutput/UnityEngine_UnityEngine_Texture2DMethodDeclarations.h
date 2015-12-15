@@ -27,6 +27,6 @@ extern "C" void Texture2D_Internal_Create_m5_155 (Object_t * __this /* static, u
 // UnityEngine.Texture2D UnityEngine.Texture2D::get_whiteTexture()
 extern "C" Texture2D_t5_34 * Texture2D_get_whiteTexture_m5_156 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color UnityEngine.Texture2D::GetPixelBilinear(System.Single,System.Single)
-extern "C" Color_t5_164  Texture2D_GetPixelBilinear_m5_157 (Texture2D_t5_34 * __this, float ___u, float ___v, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color_t5_165  Texture2D_GetPixelBilinear_m5_157 (Texture2D_t5_34 * __this, float ___u, float ___v, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Texture2D::INTERNAL_CALL_GetPixelBilinear(UnityEngine.Texture2D,System.Single,System.Single,UnityEngine.Color&)
-extern "C" void Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___self, float ___u, float ___v, Color_t5_164 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___self, float ___u, float ___v, Color_t5_165 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;

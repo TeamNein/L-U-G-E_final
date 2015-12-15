@@ -11,14 +11,14 @@
 #include <stdint.h>
 
 // UnityEngine.Collider
-struct Collider_t5_126;
+struct Collider_t5_127;
 
 #include "mscorlib_System_ValueType.h"
 #include "UnityEngine_UnityEngine_Vector3.h"
 #include "UnityEngine_UnityEngine_Vector2.h"
 
 // UnityEngine.RaycastHit
-struct  RaycastHit_t5_133 
+struct  RaycastHit_t5_134 
 {
 	// UnityEngine.Vector3 UnityEngine.RaycastHit::m_Point
 	Vector3_t5_45  ___m_Point_0;
@@ -31,5 +31,5 @@ struct  RaycastHit_t5_133
 	// UnityEngine.Vector2 UnityEngine.RaycastHit::m_UV
 	Vector2_t5_44  ___m_UV_4;
 	// UnityEngine.Collider UnityEngine.RaycastHit::m_Collider
-	Collider_t5_126 * ___m_Collider_5;
+	Collider_t5_127 * ___m_Collider_5;
 };

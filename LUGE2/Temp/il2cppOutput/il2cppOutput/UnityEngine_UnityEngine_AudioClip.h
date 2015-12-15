@@ -11,17 +11,17 @@
 #include <stdint.h>
 
 // UnityEngine.AudioClip/PCMReaderCallback
-struct PCMReaderCallback_t5_144;
+struct PCMReaderCallback_t5_145;
 // UnityEngine.AudioClip/PCMSetPositionCallback
-struct PCMSetPositionCallback_t5_145;
+struct PCMSetPositionCallback_t5_146;
 
 #include "UnityEngine_UnityEngine_Object.h"
 
 // UnityEngine.AudioClip
-struct  AudioClip_t5_146  : public Object_t5_5
+struct  AudioClip_t5_147  : public Object_t5_5
 {
 	// UnityEngine.AudioClip/PCMReaderCallback UnityEngine.AudioClip::m_PCMReaderCallback
-	PCMReaderCallback_t5_144 * ___m_PCMReaderCallback_2;
+	PCMReaderCallback_t5_145 * ___m_PCMReaderCallback_2;
 	// UnityEngine.AudioClip/PCMSetPositionCallback UnityEngine.AudioClip::m_PCMSetPositionCallback
-	PCMSetPositionCallback_t5_145 * ___m_PCMSetPositionCallback_3;
+	PCMSetPositionCallback_t5_146 * ___m_PCMSetPositionCallback_3;
 };

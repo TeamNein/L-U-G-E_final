@@ -26,5 +26,5 @@ struct  Enumerator_t1_1250
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	UILineInfo_t5_172  ___current_3;
+	UILineInfo_t5_173  ___current_3;
 };

@@ -21,6 +21,6 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.EntryPointNotFoundException::.ctor()
-extern "C" void EntryPointNotFoundException__ctor_m1_4967 (EntryPointNotFoundException_t1_705 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EntryPointNotFoundException__ctor_m1_4962 (EntryPointNotFoundException_t1_705 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.EntryPointNotFoundException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void EntryPointNotFoundException__ctor_m1_4968 (EntryPointNotFoundException_t1_705 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EntryPointNotFoundException__ctor_m1_4963 (EntryPointNotFoundException_t1_705 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

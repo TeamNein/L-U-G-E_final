@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -19,9 +19,9 @@ struct Sprite_t5_78;
 struct  SpriteState_t6_121 
 {
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_HighlightedSprite
-	Sprite_t5_78 * ___m_HighlightedSprite_0;
+	Sprite_t5_79 * ___m_HighlightedSprite_0;
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_PressedSprite
-	Sprite_t5_78 * ___m_PressedSprite_1;
+	Sprite_t5_79 * ___m_PressedSprite_1;
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_DisabledSprite
-	Sprite_t5_78 * ___m_DisabledSprite_2;
+	Sprite_t5_79 * ___m_DisabledSprite_2;
 };

@@ -23,8 +23,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.FormatException::.ctor()
-extern "C" void FormatException__ctor_m1_5008 (FormatException_t1_718 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FormatException__ctor_m1_5003 (FormatException_t1_718 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.FormatException::.ctor(System.String)
-extern "C" void FormatException__ctor_m1_5009 (FormatException_t1_718 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FormatException__ctor_m1_5004 (FormatException_t1_718 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.FormatException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void FormatException__ctor_m1_5010 (FormatException_t1_718 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FormatException__ctor_m1_5005 (FormatException_t1_718 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

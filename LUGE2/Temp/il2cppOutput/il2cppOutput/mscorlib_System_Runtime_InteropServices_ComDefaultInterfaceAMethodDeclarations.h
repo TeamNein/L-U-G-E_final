@@ -20,4 +20,4 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.InteropServices.ComDefaultInterfaceAttribute::.ctor(System.Type)
-extern "C" void ComDefaultInterfaceAttribute__ctor_m1_3030 (ComDefaultInterfaceAttribute_t1_384 * __this, Type_t * ___defaultInterface, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ComDefaultInterfaceAttribute__ctor_m1_3025 (ComDefaultInterfaceAttribute_t1_384 * __this, Type_t * ___defaultInterface, const MethodInfo* method) IL2CPP_METHOD_ATTR;

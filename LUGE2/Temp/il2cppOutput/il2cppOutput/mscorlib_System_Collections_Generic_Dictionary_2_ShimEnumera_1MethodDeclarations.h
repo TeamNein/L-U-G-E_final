@@ -23,23 +23,23 @@ struct Object_t;
 #include "mscorlib_System_Collections_DictionaryEntry.h"
 
 // System.Void System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::.ctor(System.Collections.Generic.Dictionary`2<TKey,TValue>)
-extern "C" void ShimEnumerator__ctor_m1_7198_gshared (ShimEnumerator_t1_1122 * __this, Dictionary_2_t1_1113 * ___host, const MethodInfo* method);
-#define ShimEnumerator__ctor_m1_7198(__this, ___host, method) (( void (*) (ShimEnumerator_t1_1122 *, Dictionary_2_t1_1113 *, const MethodInfo*))ShimEnumerator__ctor_m1_7198_gshared)(__this, ___host, method)
+extern "C" void ShimEnumerator__ctor_m1_7193_gshared (ShimEnumerator_t1_1122 * __this, Dictionary_2_t1_1113 * ___host, const MethodInfo* method);
+#define ShimEnumerator__ctor_m1_7193(__this, ___host, method) (( void (*) (ShimEnumerator_t1_1122 *, Dictionary_2_t1_1113 *, const MethodInfo*))ShimEnumerator__ctor_m1_7193_gshared)(__this, ___host, method)
 // System.Boolean System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::MoveNext()
-extern "C" bool ShimEnumerator_MoveNext_m1_7199_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_MoveNext_m1_7199(__this, method) (( bool (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_MoveNext_m1_7199_gshared)(__this, method)
+extern "C" bool ShimEnumerator_MoveNext_m1_7194_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_MoveNext_m1_7194(__this, method) (( bool (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_MoveNext_m1_7194_gshared)(__this, method)
 // System.Collections.DictionaryEntry System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::get_Entry()
-extern "C" DictionaryEntry_t1_166  ShimEnumerator_get_Entry_m1_7200_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_get_Entry_m1_7200(__this, method) (( DictionaryEntry_t1_166  (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Entry_m1_7200_gshared)(__this, method)
+extern "C" DictionaryEntry_t1_166  ShimEnumerator_get_Entry_m1_7195_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_get_Entry_m1_7195(__this, method) (( DictionaryEntry_t1_166  (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Entry_m1_7195_gshared)(__this, method)
 // System.Object System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::get_Key()
-extern "C" Object_t * ShimEnumerator_get_Key_m1_7201_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_get_Key_m1_7201(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Key_m1_7201_gshared)(__this, method)
+extern "C" Object_t * ShimEnumerator_get_Key_m1_7196_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_get_Key_m1_7196(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Key_m1_7196_gshared)(__this, method)
 // System.Object System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::get_Value()
-extern "C" Object_t * ShimEnumerator_get_Value_m1_7202_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_get_Value_m1_7202(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Value_m1_7202_gshared)(__this, method)
+extern "C" Object_t * ShimEnumerator_get_Value_m1_7197_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_get_Value_m1_7197(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Value_m1_7197_gshared)(__this, method)
 // System.Object System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::get_Current()
-extern "C" Object_t * ShimEnumerator_get_Current_m1_7203_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_get_Current_m1_7203(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Current_m1_7203_gshared)(__this, method)
+extern "C" Object_t * ShimEnumerator_get_Current_m1_7198_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_get_Current_m1_7198(__this, method) (( Object_t * (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_get_Current_m1_7198_gshared)(__this, method)
 // System.Void System.Collections.Generic.Dictionary`2/ShimEnumerator<System.Object,System.Boolean>::Reset()
-extern "C" void ShimEnumerator_Reset_m1_7204_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
-#define ShimEnumerator_Reset_m1_7204(__this, method) (( void (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_Reset_m1_7204_gshared)(__this, method)
+extern "C" void ShimEnumerator_Reset_m1_7199_gshared (ShimEnumerator_t1_1122 * __this, const MethodInfo* method);
+#define ShimEnumerator_Reset_m1_7199(__this, method) (( void (*) (ShimEnumerator_t1_1122 *, const MethodInfo*))ShimEnumerator_Reset_m1_7199_gshared)(__this, method)

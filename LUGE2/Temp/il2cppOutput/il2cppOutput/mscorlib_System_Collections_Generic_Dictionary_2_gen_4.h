@@ -15,7 +15,7 @@ struct Int32U5BU5D_t1_159;
 // System.Collections.Generic.Link[]
 struct LinkU5BU5D_t1_995;
 // UnityEngine.Font[]
-struct FontU5BU5D_t5_364;
+struct FontU5BU5D_t5_365;
 // System.Collections.Generic.List`1<UnityEngine.UI.Text>[]
 struct List_1U5BU5D_t1_1373;
 // System.Collections.Generic.IEqualityComparer`1<UnityEngine.Font>
@@ -35,7 +35,7 @@ struct  Dictionary_2_t1_919  : public Object_t
 	// System.Collections.Generic.Link[] System.Collections.Generic.Dictionary`2::linkSlots
 	LinkU5BU5D_t1_995* ___linkSlots_5;
 	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
-	FontU5BU5D_t5_364* ___keySlots_6;
+	FontU5BU5D_t5_365* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
 	List_1U5BU5D_t1_1373* ___valueSlots_7;
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots

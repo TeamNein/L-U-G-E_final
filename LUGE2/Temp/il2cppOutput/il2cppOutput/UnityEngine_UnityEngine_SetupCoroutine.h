@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.SetupCoroutine
-struct  SetupCoroutine_t5_224  : public Object_t
+struct  SetupCoroutine_t5_225  : public Object_t
 {
 };

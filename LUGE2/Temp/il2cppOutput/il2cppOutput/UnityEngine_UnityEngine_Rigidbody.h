@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Component.h"
 
 // UnityEngine.Rigidbody
-struct  Rigidbody_t5_128  : public Component_t5_25
+struct  Rigidbody_t5_129  : public Component_t5_25
 {
 };

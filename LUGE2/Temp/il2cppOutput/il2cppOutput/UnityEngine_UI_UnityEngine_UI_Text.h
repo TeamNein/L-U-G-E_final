@@ -15,11 +15,11 @@ struct FontData_t6_74;
 // System.String
 struct String_t;
 // UnityEngine.TextGenerator
-struct TextGenerator_t5_165;
+struct TextGenerator_t5_166;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 // UnityEngine.UIVertex[]
-struct UIVertexU5BU5D_t5_314;
+struct UIVertexU5BU5D_t5_315;
 
 #include "UnityEngine_UI_UnityEngine_UI_MaskableGraphic.h"
 
@@ -31,15 +31,15 @@ struct  Text_t6_64  : public MaskableGraphic_t6_89
 	// System.String UnityEngine.UI.Text::m_Text
 	String_t* ___m_Text_29;
 	// UnityEngine.TextGenerator UnityEngine.UI.Text::m_TextCache
-	TextGenerator_t5_165 * ___m_TextCache_30;
+	TextGenerator_t5_166 * ___m_TextCache_30;
 	// UnityEngine.TextGenerator UnityEngine.UI.Text::m_TextCacheForLayout
-	TextGenerator_t5_165 * ___m_TextCacheForLayout_31;
+	TextGenerator_t5_166 * ___m_TextCacheForLayout_31;
 	// System.Boolean UnityEngine.UI.Text::m_DisableFontTextureRebuiltCallback
 	bool ___m_DisableFontTextureRebuiltCallback_33;
 	// UnityEngine.UIVertex[] UnityEngine.UI.Text::m_TempVerts
-	UIVertexU5BU5D_t5_314* ___m_TempVerts_34;
+	UIVertexU5BU5D_t5_315* ___m_TempVerts_34;
 };
 struct Text_t6_64_StaticFields{
 	// UnityEngine.Material UnityEngine.UI.Text::s_DefaultText
-	Material_t5_76 * ___s_DefaultText_32;
+	Material_t5_77 * ___s_DefaultText_32;
 };

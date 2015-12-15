@@ -20,6 +20,6 @@ struct ObjectU5BU5D_t1_156;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.ChannelInfo::.ctor()
-extern "C" void ChannelInfo__ctor_m1_3076 (ChannelInfo_t1_404 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ChannelInfo__ctor_m1_3071 (ChannelInfo_t1_404 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object[] System.Runtime.Remoting.ChannelInfo::get_ChannelData()
-extern "C" ObjectU5BU5D_t1_156* ChannelInfo_get_ChannelData_m1_3077 (ChannelInfo_t1_404 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" ObjectU5BU5D_t1_156* ChannelInfo_get_ChannelData_m1_3072 (ChannelInfo_t1_404 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

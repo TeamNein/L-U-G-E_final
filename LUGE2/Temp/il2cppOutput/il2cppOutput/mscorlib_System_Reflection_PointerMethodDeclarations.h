@@ -21,6 +21,6 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Reflection.Pointer::.ctor()
-extern "C" void Pointer__ctor_m1_2958 (Pointer_t1_348 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Pointer__ctor_m1_2953 (Pointer_t1_348 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Reflection.Pointer::System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void Pointer_System_Runtime_Serialization_ISerializable_GetObjectData_m1_2959 (Pointer_t1_348 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Pointer_System_Runtime_Serialization_ISerializable_GetObjectData_m1_2954 (Pointer_t1_348 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

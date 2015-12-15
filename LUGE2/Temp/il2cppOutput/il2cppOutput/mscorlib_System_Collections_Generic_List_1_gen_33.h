@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.CanvasGroup[]
-struct CanvasGroupU5BU5D_t5_367;
+struct CanvasGroupU5BU5D_t5_368;
 
 #include "mscorlib_System_Object.h"
 
@@ -19,7 +19,7 @@ struct CanvasGroupU5BU5D_t5_367;
 struct  List_1_t1_925  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1::_items
-	CanvasGroupU5BU5D_t5_367* ____items_1;
+	CanvasGroupU5BU5D_t5_368* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
@@ -27,5 +27,5 @@ struct  List_1_t1_925  : public Object_t
 };
 struct List_1_t1_925_StaticFields{
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	CanvasGroupU5BU5D_t5_367* ___EmptyArray_4;
+	CanvasGroupU5BU5D_t5_368* ___EmptyArray_4;
 };

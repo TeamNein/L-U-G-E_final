@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GUILayoutUtility/LayoutCache
-struct LayoutCache_t5_192;
+struct LayoutCache_t5_193;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

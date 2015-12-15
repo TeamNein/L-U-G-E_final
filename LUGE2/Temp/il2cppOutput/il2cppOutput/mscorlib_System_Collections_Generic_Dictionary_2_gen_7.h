@@ -15,7 +15,7 @@ struct Int32U5BU5D_t1_159;
 // System.Collections.Generic.Link[]
 struct LinkU5BU5D_t1_995;
 // UnityEngine.Canvas[]
-struct CanvasU5BU5D_t5_362;
+struct CanvasU5BU5D_t5_363;
 // UnityEngine.UI.Collections.IndexedSet`1<UnityEngine.UI.Graphic>[]
 struct IndexedSet_1U5BU5D_t6_221;
 // System.Collections.Generic.IEqualityComparer`1<UnityEngine.Canvas>
@@ -35,7 +35,7 @@ struct  Dictionary_2_t1_922  : public Object_t
 	// System.Collections.Generic.Link[] System.Collections.Generic.Dictionary`2::linkSlots
 	LinkU5BU5D_t1_995* ___linkSlots_5;
 	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
-	CanvasU5BU5D_t5_362* ___keySlots_6;
+	CanvasU5BU5D_t5_363* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
 	IndexedSet_1U5BU5D_t6_221* ___valueSlots_7;
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots

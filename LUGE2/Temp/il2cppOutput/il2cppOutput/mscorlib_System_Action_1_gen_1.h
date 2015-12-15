@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.SocialPlatforms.IAchievement[]
-struct IAchievementU5BU5D_t5_301;
+struct IAchievementU5BU5D_t5_302;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

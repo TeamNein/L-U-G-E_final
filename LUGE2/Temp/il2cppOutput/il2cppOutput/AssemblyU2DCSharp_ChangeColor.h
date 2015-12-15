@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ChangeColor
-struct  ChangeColor_t7_19  : public MonoBehaviour_t5_92
+struct  ChangeColor_t7_20  : public MonoBehaviour_t5_93
 {
 };

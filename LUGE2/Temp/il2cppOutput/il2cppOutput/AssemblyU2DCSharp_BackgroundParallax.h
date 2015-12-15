@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Transform[]
-struct TransformU5BU5D_t5_323;
+struct TransformU5BU5D_t5_324;
 // UnityEngine.Transform
 struct Transform_t5_71;
 
@@ -19,10 +19,10 @@ struct Transform_t5_71;
 #include "UnityEngine_UnityEngine_Vector3.h"
 
 // BackgroundParallax
-struct  BackgroundParallax_t7_10  : public MonoBehaviour_t5_92
+struct  BackgroundParallax_t7_11  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Transform[] BackgroundParallax::backgrounds
-	TransformU5BU5D_t5_323* ___backgrounds_2;
+	TransformU5BU5D_t5_324* ___backgrounds_2;
 	// System.Single BackgroundParallax::parallaxScale
 	float ___parallaxScale_3;
 	// System.Single BackgroundParallax::parallaxReductionFactor

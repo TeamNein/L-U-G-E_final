@@ -22,8 +22,8 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.ActivatedServiceTypeEntry::.ctor(System.String,System.String)
-extern "C" void ActivatedServiceTypeEntry__ctor_m1_3360 (ActivatedServiceTypeEntry_t1_472 * __this, String_t* ___typeName, String_t* ___assemblyName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ActivatedServiceTypeEntry__ctor_m1_3355 (ActivatedServiceTypeEntry_t1_472 * __this, String_t* ___typeName, String_t* ___assemblyName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Type System.Runtime.Remoting.ActivatedServiceTypeEntry::get_ObjectType()
-extern "C" Type_t * ActivatedServiceTypeEntry_get_ObjectType_m1_3361 (ActivatedServiceTypeEntry_t1_472 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Type_t * ActivatedServiceTypeEntry_get_ObjectType_m1_3356 (ActivatedServiceTypeEntry_t1_472 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Remoting.ActivatedServiceTypeEntry::ToString()
-extern "C" String_t* ActivatedServiceTypeEntry_ToString_m1_3362 (ActivatedServiceTypeEntry_t1_472 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* ActivatedServiceTypeEntry_ToString_m1_3357 (ActivatedServiceTypeEntry_t1_472 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

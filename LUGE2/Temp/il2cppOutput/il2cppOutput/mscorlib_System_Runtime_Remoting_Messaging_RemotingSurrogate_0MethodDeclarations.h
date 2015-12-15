@@ -25,8 +25,8 @@ struct ISurrogateSelector_t1_454;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Runtime.Remoting.Messaging.RemotingSurrogateSelector::.ctor()
-extern "C" void RemotingSurrogateSelector__ctor_m1_3292 (RemotingSurrogateSelector_t1_453 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingSurrogateSelector__ctor_m1_3287 (RemotingSurrogateSelector_t1_453 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.Messaging.RemotingSurrogateSelector::.cctor()
-extern "C" void RemotingSurrogateSelector__cctor_m1_3293 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingSurrogateSelector__cctor_m1_3288 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Runtime.Serialization.ISerializationSurrogate System.Runtime.Remoting.Messaging.RemotingSurrogateSelector::GetSurrogate(System.Type,System.Runtime.Serialization.StreamingContext,System.Runtime.Serialization.ISurrogateSelector&)
-extern "C" Object_t * RemotingSurrogateSelector_GetSurrogate_m1_3294 (RemotingSurrogateSelector_t1_453 * __this, Type_t * ___type, StreamingContext_t1_504  ___context, Object_t ** ___ssout, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * RemotingSurrogateSelector_GetSurrogate_m1_3289 (RemotingSurrogateSelector_t1_453 * __this, Type_t * ___type, StreamingContext_t1_504  ___context, Object_t ** ___ssout, const MethodInfo* method) IL2CPP_METHOD_ATTR;

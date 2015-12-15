@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.MonoBehaviour
-struct MonoBehaviour_t5_92;
+struct MonoBehaviour_t5_93;
 // System.Collections.IEnumerator
 struct IEnumerator_t1_129;
 
@@ -21,7 +21,7 @@ struct IEnumerator_t1_129;
 struct  TweenRunner_1_t6_73  : public Object_t
 {
 	// UnityEngine.MonoBehaviour UnityEngine.UI.CoroutineTween.TweenRunner`1::m_CoroutineContainer
-	MonoBehaviour_t5_92 * ___m_CoroutineContainer_0;
+	MonoBehaviour_t5_93 * ___m_CoroutineContainer_0;
 	// System.Collections.IEnumerator UnityEngine.UI.CoroutineTween.TweenRunner`1::m_Tween
 	Object_t * ___m_Tween_1;
 };

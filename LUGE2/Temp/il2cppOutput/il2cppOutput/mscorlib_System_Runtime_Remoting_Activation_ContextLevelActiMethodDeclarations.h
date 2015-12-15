@@ -20,4 +20,4 @@ struct IActivator_t1_397;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Activation.ContextLevelActivator::.ctor(System.Runtime.Remoting.Activation.IActivator)
-extern "C" void ContextLevelActivator__ctor_m1_3070 (ContextLevelActivator_t1_400 * __this, Object_t * ___next, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ContextLevelActivator__ctor_m1_3065 (ContextLevelActivator_t1_400 * __this, Object_t * ___next, const MethodInfo* method) IL2CPP_METHOD_ATTR;

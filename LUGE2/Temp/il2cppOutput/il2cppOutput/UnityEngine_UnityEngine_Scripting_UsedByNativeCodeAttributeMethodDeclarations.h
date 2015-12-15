@@ -13,9 +13,9 @@
 #include <exception>
 
 // UnityEngine.Scripting.UsedByNativeCodeAttribute
-struct UsedByNativeCodeAttribute_t5_277;
+struct UsedByNativeCodeAttribute_t5_278;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Scripting.UsedByNativeCodeAttribute::.ctor()
-extern "C" void UsedByNativeCodeAttribute__ctor_m5_1772 (UsedByNativeCodeAttribute_t5_277 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void UsedByNativeCodeAttribute__ctor_m5_1775 (UsedByNativeCodeAttribute_t5_278 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

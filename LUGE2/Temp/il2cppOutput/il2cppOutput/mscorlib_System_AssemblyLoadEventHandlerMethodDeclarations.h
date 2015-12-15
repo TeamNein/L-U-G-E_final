@@ -27,11 +27,11 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.AssemblyLoadEventHandler::.ctor(System.Object,System.IntPtr)
-extern "C" void AssemblyLoadEventHandler__ctor_m1_5449 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyLoadEventHandler__ctor_m1_5444 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.AssemblyLoadEventHandler::Invoke(System.Object,System.AssemblyLoadEventArgs)
-extern "C" void AssemblyLoadEventHandler_Invoke_m1_5450 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___sender, AssemblyLoadEventArgs_t1_687 * ___args, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyLoadEventHandler_Invoke_m1_5445 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___sender, AssemblyLoadEventArgs_t1_687 * ___args, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 extern "C" void pinvoke_delegate_wrapper_AssemblyLoadEventHandler_t1_677(Il2CppObject* delegate, Object_t * ___sender, AssemblyLoadEventArgs_t1_687 * ___args);
 // System.IAsyncResult System.AssemblyLoadEventHandler::BeginInvoke(System.Object,System.AssemblyLoadEventArgs,System.AsyncCallback,System.Object)
-extern "C" Object_t * AssemblyLoadEventHandler_BeginInvoke_m1_5451 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___sender, AssemblyLoadEventArgs_t1_687 * ___args, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * AssemblyLoadEventHandler_BeginInvoke_m1_5446 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___sender, AssemblyLoadEventArgs_t1_687 * ___args, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.AssemblyLoadEventHandler::EndInvoke(System.IAsyncResult)
-extern "C" void AssemblyLoadEventHandler_EndInvoke_m1_5452 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyLoadEventHandler_EndInvoke_m1_5447 (AssemblyLoadEventHandler_t1_677 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -15,7 +15,7 @@
 // UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform
 struct GameCenterPlatform_t5_17;
 // UnityEngine.SocialPlatforms.ILocalUser
-struct ILocalUser_t5_285;
+struct ILocalUser_t5_286;
 // System.Action`1<System.Boolean>
 struct Action_1_t1_873;
 // System.String
@@ -25,9 +25,9 @@ struct Texture2D_t5_34;
 // System.String[]
 struct StringU5BU5D_t1_198;
 // UnityEngine.SocialPlatforms.GameCenter.GcAchievementData[]
-struct GcAchievementDataU5BU5D_t5_283;
+struct GcAchievementDataU5BU5D_t5_284;
 // UnityEngine.SocialPlatforms.GameCenter.GcScoreData[]
-struct GcScoreDataU5BU5D_t5_284;
+struct GcScoreDataU5BU5D_t5_285;
 // System.Action`1<UnityEngine.SocialPlatforms.IAchievementDescription[]>
 struct Action_1_t1_874;
 // System.Action`1<UnityEngine.SocialPlatforms.IAchievement[]>
@@ -35,13 +35,13 @@ struct Action_1_t1_875;
 // System.Action`1<UnityEngine.SocialPlatforms.IScore[]>
 struct Action_1_t1_876;
 // UnityEngine.SocialPlatforms.ILeaderboard
-struct ILeaderboard_t5_286;
+struct ILeaderboard_t5_287;
 // System.Action`1<UnityEngine.SocialPlatforms.IUserProfile[]>
 struct Action_1_t1_877;
 // UnityEngine.SocialPlatforms.Impl.UserProfile[]
 struct UserProfileU5BU5D_t5_19;
 // UnityEngine.SocialPlatforms.IAchievement
-struct IAchievement_t5_287;
+struct IAchievement_t5_288;
 
 #include "codegen/il2cpp-codegen.h"
 #include "UnityEngine_UnityEngine_SocialPlatforms_TimeScope.h"
@@ -101,7 +101,7 @@ extern "C" void GameCenterPlatform_Internal_ShowSpecificLeaderboardUI_m5_48 (Obj
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ClearAchievementDescriptions(System.Int32)
 extern "C" void GameCenterPlatform_ClearAchievementDescriptions_m5_49 (Object_t * __this /* static, unused */, int32_t ___size, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetAchievementDescription(UnityEngine.SocialPlatforms.GameCenter.GcAchievementDescriptionData,System.Int32)
-extern "C" void GameCenterPlatform_SetAchievementDescription_m5_50 (Object_t * __this /* static, unused */, GcAchievementDescriptionData_t5_228  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GameCenterPlatform_SetAchievementDescription_m5_50 (Object_t * __this /* static, unused */, GcAchievementDescriptionData_t5_229  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetAchievementDescriptionImage(UnityEngine.Texture2D,System.Int32)
 extern "C" void GameCenterPlatform_SetAchievementDescriptionImage_m5_51 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___texture, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerAchievementDescriptionCallback()
@@ -111,19 +111,19 @@ extern "C" void GameCenterPlatform_AuthenticateCallbackWrapper_m5_53 (Object_t *
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ClearFriends(System.Int32)
 extern "C" void GameCenterPlatform_ClearFriends_m5_54 (Object_t * __this /* static, unused */, int32_t ___size, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetFriends(UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData,System.Int32)
-extern "C" void GameCenterPlatform_SetFriends_m5_55 (Object_t * __this /* static, unused */, GcUserProfileData_t5_227  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GameCenterPlatform_SetFriends_m5_55 (Object_t * __this /* static, unused */, GcUserProfileData_t5_228  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetFriendImage(UnityEngine.Texture2D,System.Int32)
 extern "C" void GameCenterPlatform_SetFriendImage_m5_56 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___texture, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerFriendsCallbackWrapper(System.Int32)
 extern "C" void GameCenterPlatform_TriggerFriendsCallbackWrapper_m5_57 (Object_t * __this /* static, unused */, int32_t ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::AchievementCallbackWrapper(UnityEngine.SocialPlatforms.GameCenter.GcAchievementData[])
-extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * __this /* static, unused */, GcAchievementDataU5BU5D_t5_283* ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * __this /* static, unused */, GcAchievementDataU5BU5D_t5_284* ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ProgressCallbackWrapper(System.Boolean)
 extern "C" void GameCenterPlatform_ProgressCallbackWrapper_m5_59 (Object_t * __this /* static, unused */, bool ___success, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ScoreCallbackWrapper(System.Boolean)
 extern "C" void GameCenterPlatform_ScoreCallbackWrapper_m5_60 (Object_t * __this /* static, unused */, bool ___success, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ScoreLoaderCallbackWrapper(UnityEngine.SocialPlatforms.GameCenter.GcScoreData[])
-extern "C" void GameCenterPlatform_ScoreLoaderCallbackWrapper_m5_61 (Object_t * __this /* static, unused */, GcScoreDataU5BU5D_t5_284* ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GameCenterPlatform_ScoreLoaderCallbackWrapper_m5_61 (Object_t * __this /* static, unused */, GcScoreDataU5BU5D_t5_285* ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.SocialPlatforms.ILocalUser UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::get_localUser()
 extern "C" Object_t * GameCenterPlatform_get_localUser_m5_62 (GameCenterPlatform_t5_17 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::PopulateLocalUser()
@@ -153,7 +153,7 @@ extern "C" void GameCenterPlatform_ShowLeaderboardUI_m5_74 (GameCenterPlatform_t
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ClearUsers(System.Int32)
 extern "C" void GameCenterPlatform_ClearUsers_m5_75 (Object_t * __this /* static, unused */, int32_t ___size, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetUser(UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData,System.Int32)
-extern "C" void GameCenterPlatform_SetUser_m5_76 (Object_t * __this /* static, unused */, GcUserProfileData_t5_227  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GameCenterPlatform_SetUser_m5_76 (Object_t * __this /* static, unused */, GcUserProfileData_t5_228  ___data, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetUserImage(UnityEngine.Texture2D,System.Int32)
 extern "C" void GameCenterPlatform_SetUserImage_m5_77 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___texture, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerUsersCallbackWrapper()

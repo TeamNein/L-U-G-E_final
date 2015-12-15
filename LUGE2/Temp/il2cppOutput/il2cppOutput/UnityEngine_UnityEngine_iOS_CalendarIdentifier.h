@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_iOS_CalendarIdentifier.h"
 
 // UnityEngine.iOS.CalendarIdentifier
-struct  CalendarIdentifier_t5_111 
+struct  CalendarIdentifier_t5_112 
 {
 	// System.Int32 UnityEngine.iOS.CalendarIdentifier::value__
 	int32_t ___value___1;

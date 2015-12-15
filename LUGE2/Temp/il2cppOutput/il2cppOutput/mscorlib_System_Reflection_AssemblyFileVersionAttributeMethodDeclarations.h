@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Reflection.AssemblyFileVersionAttribute::.ctor(System.String)
-extern "C" void AssemblyFileVersionAttribute__ctor_m1_2695 (AssemblyFileVersionAttribute_t1_309 * __this, String_t* ___version, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyFileVersionAttribute__ctor_m1_2690 (AssemblyFileVersionAttribute_t1_309 * __this, String_t* ___version, const MethodInfo* method) IL2CPP_METHOD_ATTR;

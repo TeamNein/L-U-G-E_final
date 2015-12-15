@@ -3,6 +3,9 @@
 		<type fullname="LoadWhenTapped">
 			<method name="LoadScene"/>
 		</type>
+		<type fullname="MusicVolume">
+			<method name="OnValueChanged"/>
+		</type>
 		<type fullname="PauseManager">
 			<method name="Quit"/>
 			<method name="Pause"/>

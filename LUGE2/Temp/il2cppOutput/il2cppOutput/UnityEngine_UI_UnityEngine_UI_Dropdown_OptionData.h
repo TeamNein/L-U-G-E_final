@@ -13,7 +13,7 @@
 // System.String
 struct String_t;
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 
 #include "mscorlib_System_Object.h"
 
@@ -23,5 +23,5 @@ struct  OptionData_t6_67  : public Object_t
 	// System.String UnityEngine.UI.Dropdown/OptionData::m_Text
 	String_t* ___m_Text_0;
 	// UnityEngine.Sprite UnityEngine.UI.Dropdown/OptionData::m_Image
-	Sprite_t5_78 * ___m_Image_1;
+	Sprite_t5_79 * ___m_Image_1;
 };

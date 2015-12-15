@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.ILogHandler
-struct ILogHandler_t5_275;
+struct ILogHandler_t5_276;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_LogType.h"
 
 // UnityEngine.Logger
-struct  Logger_t5_88  : public Object_t
+struct  Logger_t5_89  : public Object_t
 {
 	// UnityEngine.ILogHandler UnityEngine.Logger::<logHandler>k__BackingField
 	Object_t * ___U3ClogHandlerU3Ek__BackingField_0;

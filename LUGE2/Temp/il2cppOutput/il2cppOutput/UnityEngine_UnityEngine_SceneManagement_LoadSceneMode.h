@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_SceneManagement_LoadSceneMode.h"
 
 // UnityEngine.SceneManagement.LoadSceneMode
-struct  LoadSceneMode_t5_118 
+struct  LoadSceneMode_t5_119 
 {
 	// System.Int32 UnityEngine.SceneManagement.LoadSceneMode::value__
 	int32_t ___value___1;

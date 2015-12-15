@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_SocialPlatforms_UserScope.h"
 
 // UnityEngine.SocialPlatforms.UserScope
-struct  UserScope_t5_249 
+struct  UserScope_t5_250 
 {
 	// System.Int32 UnityEngine.SocialPlatforms.UserScope::value__
 	int32_t ___value___1;

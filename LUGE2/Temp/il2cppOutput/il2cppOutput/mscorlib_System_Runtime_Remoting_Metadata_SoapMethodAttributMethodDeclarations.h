@@ -22,10 +22,10 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Metadata.SoapMethodAttribute::.ctor()
-extern "C" void SoapMethodAttribute__ctor_m1_3321 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SoapMethodAttribute__ctor_m1_3316 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Runtime.Remoting.Metadata.SoapMethodAttribute::get_UseAttribute()
-extern "C" bool SoapMethodAttribute_get_UseAttribute_m1_3322 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool SoapMethodAttribute_get_UseAttribute_m1_3317 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Remoting.Metadata.SoapMethodAttribute::get_XmlNamespace()
-extern "C" String_t* SoapMethodAttribute_get_XmlNamespace_m1_3323 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* SoapMethodAttribute_get_XmlNamespace_m1_3318 (SoapMethodAttribute_t1_462 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.Metadata.SoapMethodAttribute::SetReflectionObject(System.Object)
-extern "C" void SoapMethodAttribute_SetReflectionObject_m1_3324 (SoapMethodAttribute_t1_462 * __this, Object_t * ___reflectionObject, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SoapMethodAttribute_SetReflectionObject_m1_3319 (SoapMethodAttribute_t1_462 * __this, Object_t * ___reflectionObject, const MethodInfo* method) IL2CPP_METHOD_ATTR;

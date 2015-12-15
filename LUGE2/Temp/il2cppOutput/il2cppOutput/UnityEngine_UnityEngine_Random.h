@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.Random
-struct  Random_t5_103  : public Object_t
+struct  Random_t5_104  : public Object_t
 {
 };

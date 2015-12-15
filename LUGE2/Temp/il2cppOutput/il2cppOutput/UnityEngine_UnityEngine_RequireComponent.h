@@ -16,7 +16,7 @@ struct Type_t;
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.RequireComponent
-struct  RequireComponent_t5_220  : public Attribute_t1_2
+struct  RequireComponent_t5_221  : public Attribute_t1_2
 {
 	// System.Type UnityEngine.RequireComponent::m_Type0
 	Type_t * ___m_Type0_0;

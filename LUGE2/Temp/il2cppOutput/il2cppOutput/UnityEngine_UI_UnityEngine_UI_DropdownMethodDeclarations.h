@@ -33,9 +33,9 @@ struct PointerEventData_t6_37;
 // UnityEngine.EventSystems.BaseEventData
 struct BaseEventData_t6_5;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 // UnityEngine.UI.Dropdown/DropdownItem
 struct DropdownItem_t6_63;
 // UnityEngine.UI.Dropdown/OptionData
@@ -108,13 +108,13 @@ extern "C" void Dropdown_OnCancel_m6_442 (Dropdown_t6_71 * __this, BaseEventData
 // System.Void UnityEngine.UI.Dropdown::Show()
 extern "C" void Dropdown_Show_m6_443 (Dropdown_t6_71 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateBlocker(UnityEngine.Canvas)
-extern "C" GameObject_t5_100 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * __this, Canvas_t5_176 * ___rootCanvas, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * __this, Canvas_t5_177 * ___rootCanvas, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Dropdown::DestroyBlocker(UnityEngine.GameObject)
-extern "C" void Dropdown_DestroyBlocker_m6_445 (Dropdown_t6_71 * __this, GameObject_t5_100 * ___blocker, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Dropdown_DestroyBlocker_m6_445 (Dropdown_t6_71 * __this, GameObject_t5_101 * ___blocker, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateDropdownList(UnityEngine.GameObject)
-extern "C" GameObject_t5_100 * Dropdown_CreateDropdownList_m6_446 (Dropdown_t6_71 * __this, GameObject_t5_100 * ___template, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * Dropdown_CreateDropdownList_m6_446 (Dropdown_t6_71 * __this, GameObject_t5_101 * ___template, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Dropdown::DestroyDropdownList(UnityEngine.GameObject)
-extern "C" void Dropdown_DestroyDropdownList_m6_447 (Dropdown_t6_71 * __this, GameObject_t5_100 * ___dropdownList, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Dropdown_DestroyDropdownList_m6_447 (Dropdown_t6_71 * __this, GameObject_t5_101 * ___dropdownList, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.UI.Dropdown/DropdownItem UnityEngine.UI.Dropdown::CreateItem(UnityEngine.UI.Dropdown/DropdownItem)
 extern "C" DropdownItem_t6_63 * Dropdown_CreateItem_m6_448 (Dropdown_t6_71 * __this, DropdownItem_t6_63 * ___itemTemplate, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Dropdown::DestroyItem(UnityEngine.UI.Dropdown/DropdownItem)

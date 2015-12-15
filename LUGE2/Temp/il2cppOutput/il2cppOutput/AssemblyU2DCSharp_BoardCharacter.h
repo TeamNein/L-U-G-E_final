@@ -16,7 +16,7 @@ struct Transform_t5_71;
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // BoardCharacter
-struct  BoardCharacter_t7_1  : public MonoBehaviour_t5_92
+struct  BoardCharacter_t7_1  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Transform BoardCharacter::RightBound
 	Transform_t5_71 * ___RightBound_2;

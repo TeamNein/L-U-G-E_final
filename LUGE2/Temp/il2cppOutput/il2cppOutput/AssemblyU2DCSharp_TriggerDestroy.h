@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // TriggerDestroy
-struct  TriggerDestroy_t7_49  : public MonoBehaviour_t5_92
+struct  TriggerDestroy_t7_50  : public MonoBehaviour_t5_93
 {
 };

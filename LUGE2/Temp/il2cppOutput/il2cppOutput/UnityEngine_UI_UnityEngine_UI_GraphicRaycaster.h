@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 // System.Collections.Generic.List`1<UnityEngine.UI.Graphic>
 struct List_1_t1_920;
 // System.Comparison`1<UnityEngine.UI.Graphic>
@@ -31,7 +31,7 @@ struct  GraphicRaycaster_t6_80  : public BaseRaycaster_t6_32
 	// UnityEngine.LayerMask UnityEngine.UI.GraphicRaycaster::m_BlockingMask
 	LayerMask_t5_43  ___m_BlockingMask_5;
 	// UnityEngine.Canvas UnityEngine.UI.GraphicRaycaster::m_Canvas
-	Canvas_t5_176 * ___m_Canvas_6;
+	Canvas_t5_177 * ___m_Canvas_6;
 	// System.Collections.Generic.List`1<UnityEngine.UI.Graphic> UnityEngine.UI.GraphicRaycaster::m_RaycastResults
 	List_1_t1_920 * ___m_RaycastResults_7;
 };

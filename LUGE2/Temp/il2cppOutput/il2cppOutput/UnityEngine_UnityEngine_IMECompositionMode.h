@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_IMECompositionMode.h"
 
 // UnityEngine.IMECompositionMode
-struct  IMECompositionMode_t5_94 
+struct  IMECompositionMode_t5_95 
 {
 	// System.Int32 UnityEngine.IMECompositionMode::value__
 	int32_t ___value___1;

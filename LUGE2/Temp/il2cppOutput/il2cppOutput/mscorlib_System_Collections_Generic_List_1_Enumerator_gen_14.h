@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>
 struct List_1_t1_879;
 // UnityEngine.Rigidbody2D
-struct Rigidbody2D_t5_138;
+struct Rigidbody2D_t5_139;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_1224
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	Rigidbody2D_t5_138 * ___current_3;
+	Rigidbody2D_t5_139 * ___current_3;
 };

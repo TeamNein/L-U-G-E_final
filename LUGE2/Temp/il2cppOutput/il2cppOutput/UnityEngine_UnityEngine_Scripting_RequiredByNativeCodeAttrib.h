@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.Scripting.RequiredByNativeCodeAttribute
-struct  RequiredByNativeCodeAttribute_t5_276  : public Attribute_t1_2
+struct  RequiredByNativeCodeAttribute_t5_277  : public Attribute_t1_2
 {
 };

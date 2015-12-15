@@ -13,13 +13,13 @@
 #include <exception>
 
 // UnityEngine.AddComponentMenu
-struct AddComponentMenu_t5_221;
+struct AddComponentMenu_t5_222;
 // System.String
 struct String_t;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.AddComponentMenu::.ctor(System.String)
-extern "C" void AddComponentMenu__ctor_m5_1572 (AddComponentMenu_t5_221 * __this, String_t* ___menuName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AddComponentMenu__ctor_m5_1575 (AddComponentMenu_t5_222 * __this, String_t* ___menuName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.AddComponentMenu::.ctor(System.String,System.Int32)
-extern "C" void AddComponentMenu__ctor_m5_1573 (AddComponentMenu_t5_221 * __this, String_t* ___menuName, int32_t ___order, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AddComponentMenu__ctor_m5_1576 (AddComponentMenu_t5_222 * __this, String_t* ___menuName, int32_t ___order, const MethodInfo* method) IL2CPP_METHOD_ATTR;

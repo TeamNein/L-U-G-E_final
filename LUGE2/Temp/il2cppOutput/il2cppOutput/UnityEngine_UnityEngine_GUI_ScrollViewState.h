@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.GUI/ScrollViewState
-struct  ScrollViewState_t5_185  : public Object_t
+struct  ScrollViewState_t5_186  : public Object_t
 {
 };

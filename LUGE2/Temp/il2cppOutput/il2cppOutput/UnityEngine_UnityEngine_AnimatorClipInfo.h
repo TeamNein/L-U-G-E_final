@@ -14,7 +14,7 @@
 #include "mscorlib_System_ValueType.h"
 
 // UnityEngine.AnimatorClipInfo
-struct  AnimatorClipInfo_t5_152 
+struct  AnimatorClipInfo_t5_153 
 {
 	// System.Int32 UnityEngine.AnimatorClipInfo::m_ClipInstanceID
 	int32_t ___m_ClipInstanceID_0;

@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Collider.h"
 
 // UnityEngine.CharacterController
-struct  CharacterController_t5_125  : public Collider_t5_126
+struct  CharacterController_t5_126  : public Collider_t5_127
 {
 };

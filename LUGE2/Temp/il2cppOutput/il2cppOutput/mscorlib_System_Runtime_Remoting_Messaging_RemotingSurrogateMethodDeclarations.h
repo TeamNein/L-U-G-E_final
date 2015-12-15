@@ -25,6 +25,6 @@ struct ISurrogateSelector_t1_454;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Runtime.Remoting.Messaging.RemotingSurrogate::.ctor()
-extern "C" void RemotingSurrogate__ctor_m1_3288 (RemotingSurrogate_t1_451 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingSurrogate__ctor_m1_3283 (RemotingSurrogate_t1_451 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Runtime.Remoting.Messaging.RemotingSurrogate::SetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext,System.Runtime.Serialization.ISurrogateSelector)
-extern "C" Object_t * RemotingSurrogate_SetObjectData_m1_3289 (RemotingSurrogate_t1_451 * __this, Object_t * ___obj, SerializationInfo_t1_176 * ___si, StreamingContext_t1_504  ___sc, Object_t * ___selector, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * RemotingSurrogate_SetObjectData_m1_3284 (RemotingSurrogate_t1_451 * __this, Object_t * ___obj, SerializationInfo_t1_176 * ___si, StreamingContext_t1_504  ___sc, Object_t * ___selector, const MethodInfo* method) IL2CPP_METHOD_ATTR;

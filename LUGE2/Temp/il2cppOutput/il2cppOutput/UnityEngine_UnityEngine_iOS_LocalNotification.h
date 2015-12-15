@@ -15,12 +15,12 @@
 #include "mscorlib_System_IntPtr.h"
 
 // UnityEngine.iOS.LocalNotification
-struct  LocalNotification_t5_113  : public Object_t
+struct  LocalNotification_t5_114  : public Object_t
 {
 	// System.IntPtr UnityEngine.iOS.LocalNotification::notificationWrapper
 	IntPtr_t ___notificationWrapper_0;
 };
-struct LocalNotification_t5_113_StaticFields{
+struct LocalNotification_t5_114_StaticFields{
 	// System.Int64 UnityEngine.iOS.LocalNotification::m_NSReferenceDateTicks
 	int64_t ___m_NSReferenceDateTicks_1;
 };

@@ -21,7 +21,7 @@ struct OptionDataList_t6_68;
 // UnityEngine.UI.Dropdown/DropdownEvent
 struct DropdownEvent_t6_69;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // System.Collections.Generic.List`1<UnityEngine.UI.Dropdown/DropdownItem>
 struct List_1_t1_918;
 // UnityEngine.UI.CoroutineTween.TweenRunner`1<UnityEngine.UI.CoroutineTween.FloatTween>
@@ -51,9 +51,9 @@ struct  Dropdown_t6_71  : public Selectable_t6_56
 	// UnityEngine.UI.Dropdown/DropdownEvent UnityEngine.UI.Dropdown::m_OnValueChanged
 	DropdownEvent_t6_69 * ___m_OnValueChanged_23;
 	// UnityEngine.GameObject UnityEngine.UI.Dropdown::m_Dropdown
-	GameObject_t5_100 * ___m_Dropdown_24;
+	GameObject_t5_101 * ___m_Dropdown_24;
 	// UnityEngine.GameObject UnityEngine.UI.Dropdown::m_Blocker
-	GameObject_t5_100 * ___m_Blocker_25;
+	GameObject_t5_101 * ___m_Blocker_25;
 	// System.Collections.Generic.List`1<UnityEngine.UI.Dropdown/DropdownItem> UnityEngine.UI.Dropdown::m_Items
 	List_1_t1_918 * ___m_Items_26;
 	// UnityEngine.UI.CoroutineTween.TweenRunner`1<UnityEngine.UI.CoroutineTween.FloatTween> UnityEngine.UI.Dropdown::m_AlphaTweenRunner

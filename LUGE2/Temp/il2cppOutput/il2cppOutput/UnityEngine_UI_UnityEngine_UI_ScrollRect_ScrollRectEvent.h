@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Events_UnityEvent_1_gen_5.h"
 
 // UnityEngine.UI.ScrollRect/ScrollRectEvent
-struct  ScrollRectEvent_t6_117  : public UnityEvent_1_t5_316
+struct  ScrollRectEvent_t6_117  : public UnityEvent_1_t5_317
 {
 };

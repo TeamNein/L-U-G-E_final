@@ -19,6 +19,6 @@ struct LeaseManager_t1_425;
 #include "mscorlib_System_TimeSpan.h"
 
 // System.Void System.Runtime.Remoting.Lifetime.LeaseManager::.ctor()
-extern "C" void LeaseManager__ctor_m1_3167 (LeaseManager_t1_425 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LeaseManager__ctor_m1_3162 (LeaseManager_t1_425 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.Lifetime.LeaseManager::SetPollTime(System.TimeSpan)
-extern "C" void LeaseManager_SetPollTime_m1_3168 (LeaseManager_t1_425 * __this, TimeSpan_t1_209  ___timeSpan, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LeaseManager_SetPollTime_m1_3163 (LeaseManager_t1_425 * __this, TimeSpan_t1_209  ___timeSpan, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -22,6 +22,6 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.TypeInfo::.ctor(System.Type)
-extern "C" void TypeInfo__ctor_m1_3499 (TypeInfo_t1_494 * __this, Type_t * ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TypeInfo__ctor_m1_3494 (TypeInfo_t1_494 * __this, Type_t * ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Remoting.TypeInfo::get_TypeName()
-extern "C" String_t* TypeInfo_get_TypeName_m1_3500 (TypeInfo_t1_494 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* TypeInfo_get_TypeName_m1_3495 (TypeInfo_t1_494 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

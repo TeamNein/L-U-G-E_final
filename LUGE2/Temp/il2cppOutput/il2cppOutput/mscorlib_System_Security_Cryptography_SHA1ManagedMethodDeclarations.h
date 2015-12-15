@@ -20,10 +20,10 @@ struct ByteU5BU5D_t1_70;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.SHA1Managed::.ctor()
-extern "C" void SHA1Managed__ctor_m1_3957 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SHA1Managed__ctor_m1_3952 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Security.Cryptography.SHA1Managed::HashCore(System.Byte[],System.Int32,System.Int32)
-extern "C" void SHA1Managed_HashCore_m1_3958 (SHA1Managed_t1_590 * __this, ByteU5BU5D_t1_70* ___rgb, int32_t ___ibStart, int32_t ___cbSize, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SHA1Managed_HashCore_m1_3953 (SHA1Managed_t1_590 * __this, ByteU5BU5D_t1_70* ___rgb, int32_t ___ibStart, int32_t ___cbSize, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Byte[] System.Security.Cryptography.SHA1Managed::HashFinal()
-extern "C" ByteU5BU5D_t1_70* SHA1Managed_HashFinal_m1_3959 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" ByteU5BU5D_t1_70* SHA1Managed_HashFinal_m1_3954 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Security.Cryptography.SHA1Managed::Initialize()
-extern "C" void SHA1Managed_Initialize_m1_3960 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SHA1Managed_Initialize_m1_3955 (SHA1Managed_t1_590 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

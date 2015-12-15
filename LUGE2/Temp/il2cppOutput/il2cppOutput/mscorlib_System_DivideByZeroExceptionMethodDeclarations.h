@@ -21,6 +21,6 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.DivideByZeroException::.ctor()
-extern "C" void DivideByZeroException__ctor_m1_4963 (DivideByZeroException_t1_702 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DivideByZeroException__ctor_m1_4958 (DivideByZeroException_t1_702 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.DivideByZeroException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void DivideByZeroException__ctor_m1_4964 (DivideByZeroException_t1_702 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DivideByZeroException__ctor_m1_4959 (DivideByZeroException_t1_702 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -14,7 +14,7 @@
 #include "mscorlib_System_ValueType.h"
 
 // UnityEngine.UILineInfo
-struct  UILineInfo_t5_172 
+struct  UILineInfo_t5_173 
 {
 	// System.Int32 UnityEngine.UILineInfo::startCharIdx
 	int32_t ___startCharIdx_0;

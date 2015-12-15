@@ -14,6 +14,6 @@
 #include "mscorlib_System_Exception.h"
 
 // UnityEngine.ExitGUIException
-struct  ExitGUIException_t5_206  : public Exception_t1_33
+struct  ExitGUIException_t5_207  : public Exception_t1_33
 {
 };

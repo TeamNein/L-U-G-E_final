@@ -18,4 +18,4 @@ struct FormatterData_t1_485;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.FormatterData::.ctor()
-extern "C" void FormatterData__ctor_m1_3442 (FormatterData_t1_485 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FormatterData__ctor_m1_3437 (FormatterData_t1_485 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

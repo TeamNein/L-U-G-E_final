@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_GUILayoutOption_Type.h"
 
 // UnityEngine.GUILayoutOption/Type
-struct  Type_t5_197 
+struct  Type_t5_198 
 {
 	// System.Int32 UnityEngine.GUILayoutOption/Type::value__
 	int32_t ___value___1;

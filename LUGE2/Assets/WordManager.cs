@@ -32,6 +32,7 @@ public class WordManager : MonoBehaviour {
 	public Text countText; 
 	public Text score;
 	public Text endScore;
+	public Text finalWord;
 
 	public GameObject EndScreen;
 	private AudioSource audio;
@@ -41,17 +42,21 @@ public class WordManager : MonoBehaviour {
 	public AudioClip obstacleSound;
 
 	void Start(){
- 
+		//wordLength = 0;
 		audio = gameObject.GetComponent<AudioSource>();
 		SetCountText (); 
 		SetWordText (); 
 		SetScoreText ();
 		setPossibleWords(wordLength); //set words for game
 		//SET TO BE RANDOM
-		wordFinal = matchingWords [(int) (Random.Range(0F, 9.0F))];
+		wordFinal = matchingWords [(int) (Random.Range(0F, matchingWords.Length))];
 	}
 	
 	private void nextLevel (){
+		finalWord.text = wordCurrent;
+		Animator anim = finalWord.gameObject.GetComponent<Animator> ();
+		anim.Play ("Discovered");
+
 		wordCount ++; 
 		wordLength++; 
 		wordCurrent = ""; 
@@ -60,7 +65,7 @@ public class WordManager : MonoBehaviour {
 		//NEXT LEVEL!
 		setPossibleWords (wordLength); 
 		//wordFinal = matchingWords [wordCount]; 
-		wordFinal = matchingWords[(int) (Random.Range(0F, 9.0F))];
+		wordFinal = matchingWords[(int) (Random.Range(0F, matchingWords.Length))];
 		SetCountText (); 
 		SetScoreText ();
 		SetWordText (); 
@@ -81,11 +86,13 @@ public class WordManager : MonoBehaviour {
 	private void SetWordText(){
 		wordCurrentText.text = "Letters: " + wordCurrent; 
 
-	
+//		Debug.Log (wordLength - lettersGotten);
 		//add in spaces _ for letters player needs to get
 		for (int i = 0; i < wordLength - lettersGotten; i++) {
-			wordCurrentText.text = wordCurrentText.text + "_ "; 
+			//wordCurrentText.text = wordCurrentText.text + "_ "; 
+			wordCurrentText.text += " _";
 		}
+//		Debug.Log (wordCurrentText.text);
 	}
 	
 	private void OnTriggerEnter(Collider other){
@@ -132,7 +139,7 @@ public class WordManager : MonoBehaviour {
 		for (int i = 0; i < numLetters; i++) {
 			if (!hasCreatedLetter && 1 == Random.Range (0, numLetters)){
 				threeLetters += getNextLetter ();
-				Debug.Log (getNextLetter());
+//				Debug.Log (getNextLetter());
 				hasCreatedLetter = true;
 			}
 			else
@@ -175,6 +182,7 @@ public class WordManager : MonoBehaviour {
 	}
  	private void setPossibleWords(int wordCount){
 		string file; 
+
 		if (wordCount == 3) {
 			file = "three.txt"; 
 		} else if (wordCount == 4) {
@@ -194,18 +202,9 @@ public class WordManager : MonoBehaviour {
 		else
 			file = "ten.txt";
 
-		StreamReader theReader = new StreamReader(file, Encoding.Default);
-		string line; 
-		int count = 0; 
-		Debug.Log ("Testing before"); 
-		do {
-			line = theReader.ReadLine (); 
-
-			matchingWords [count] = line; 
-			count++;
-		} while (line!= null); 
-		
-		theReader.Close (); 
+		TextAsset textFile = Resources.Load (file) as TextAsset;
+		string[] names = textFile.text.Split ('\n');
+		matchingWords = names;
 	}
 	
 }

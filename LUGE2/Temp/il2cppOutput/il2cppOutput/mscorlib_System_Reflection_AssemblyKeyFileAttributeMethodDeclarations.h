@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Reflection.AssemblyKeyFileAttribute::.ctor(System.String)
-extern "C" void AssemblyKeyFileAttribute__ctor_m1_2697 (AssemblyKeyFileAttribute_t1_311 * __this, String_t* ___keyFile, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyKeyFileAttribute__ctor_m1_2692 (AssemblyKeyFileAttribute_t1_311 * __this, String_t* ___keyFile, const MethodInfo* method) IL2CPP_METHOD_ATTR;

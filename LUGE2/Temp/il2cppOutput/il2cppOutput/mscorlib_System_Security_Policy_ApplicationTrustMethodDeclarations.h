@@ -18,4 +18,4 @@ struct ApplicationTrust_t1_609;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Policy.ApplicationTrust::.ctor()
-extern "C" void ApplicationTrust__ctor_m1_4066 (ApplicationTrust_t1_609 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ApplicationTrust__ctor_m1_4061 (ApplicationTrust_t1_609 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

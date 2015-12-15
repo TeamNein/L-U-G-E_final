@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Rocket
-struct  Rocket_t7_42  : public MonoBehaviour_t5_92
+struct  Rocket_t7_43  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.GameObject Rocket::explosion
-	GameObject_t5_100 * ___explosion_2;
+	GameObject_t5_101 * ___explosion_2;
 };

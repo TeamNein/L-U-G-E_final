@@ -17,7 +17,7 @@ struct RectTransform_t5_70;
 #include "UnityEngine_UnityEngine_Vector2.h"
 
 // ResizePanel
-struct  ResizePanel_t7_41  : public MonoBehaviour_t5_92
+struct  ResizePanel_t7_42  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Vector2 ResizePanel::minSize
 	Vector2_t5_44  ___minSize_2;

@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.WrapperlessIcall
-struct  WrapperlessIcall_t5_213  : public Attribute_t1_2
+struct  WrapperlessIcall_t5_214  : public Attribute_t1_2
 {
 };

@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Events.PersistentCall
-struct PersistentCall_t5_267;
+struct PersistentCall_t5_268;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

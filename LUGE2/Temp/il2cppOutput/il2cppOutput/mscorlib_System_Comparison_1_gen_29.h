@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

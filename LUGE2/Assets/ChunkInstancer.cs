@@ -37,7 +37,7 @@ public class ChunkInstancer : MonoBehaviour {
 		newChunk.name = "Chunk " + chunkCounter++;
 
 		string newLetters = GetComponent<WordManager>().getNewLetters(newChunk.Find("Letters").childCount);
-		Debug.Log (newLetters);
+//		Debug.Log (newLetters);
 		ChunkManager chunkManager = newChunk.GetComponent<ChunkManager>();
 		Transform[] newLetterObjs = getObjectsFromLetters(newLetters, chunkManager.getLetters());
 		

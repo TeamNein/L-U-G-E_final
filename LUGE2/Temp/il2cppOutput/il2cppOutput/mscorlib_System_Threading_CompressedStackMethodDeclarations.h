@@ -21,14 +21,14 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Threading.CompressedStack::.ctor(System.Int32)
-extern "C" void CompressedStack__ctor_m1_4428 (CompressedStack_t1_618 * __this, int32_t ___length, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CompressedStack__ctor_m1_4423 (CompressedStack_t1_618 * __this, int32_t ___length, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Threading.CompressedStack::.ctor(System.Threading.CompressedStack)
-extern "C" void CompressedStack__ctor_m1_4429 (CompressedStack_t1_618 * __this, CompressedStack_t1_618 * ___cs, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CompressedStack__ctor_m1_4424 (CompressedStack_t1_618 * __this, CompressedStack_t1_618 * ___cs, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Threading.CompressedStack System.Threading.CompressedStack::CreateCopy()
-extern "C" CompressedStack_t1_618 * CompressedStack_CreateCopy_m1_4430 (CompressedStack_t1_618 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" CompressedStack_t1_618 * CompressedStack_CreateCopy_m1_4425 (CompressedStack_t1_618 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Threading.CompressedStack System.Threading.CompressedStack::Capture()
-extern "C" CompressedStack_t1_618 * CompressedStack_Capture_m1_4431 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" CompressedStack_t1_618 * CompressedStack_Capture_m1_4426 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Threading.CompressedStack::GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void CompressedStack_GetObjectData_m1_4432 (CompressedStack_t1_618 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CompressedStack_GetObjectData_m1_4427 (CompressedStack_t1_618 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Threading.CompressedStack::IsEmpty()
-extern "C" bool CompressedStack_IsEmpty_m1_4433 (CompressedStack_t1_618 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool CompressedStack_IsEmpty_m1_4428 (CompressedStack_t1_618 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

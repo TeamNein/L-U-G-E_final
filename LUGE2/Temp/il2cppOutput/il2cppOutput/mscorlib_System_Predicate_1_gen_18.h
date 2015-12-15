@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GUILayoutEntry
-struct GUILayoutEntry_t5_195;
+struct GUILayoutEntry_t5_196;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

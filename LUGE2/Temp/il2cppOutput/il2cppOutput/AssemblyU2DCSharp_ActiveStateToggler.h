@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ActiveStateToggler
-struct  ActiveStateToggler_t7_8  : public MonoBehaviour_t5_92
+struct  ActiveStateToggler_t7_9  : public MonoBehaviour_t5_93
 {
 };

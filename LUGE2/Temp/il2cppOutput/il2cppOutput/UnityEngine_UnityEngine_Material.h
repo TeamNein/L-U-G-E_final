@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Object.h"
 
 // UnityEngine.Material
-struct  Material_t5_76  : public Object_t5_5
+struct  Material_t5_77  : public Object_t5_5
 {
 };

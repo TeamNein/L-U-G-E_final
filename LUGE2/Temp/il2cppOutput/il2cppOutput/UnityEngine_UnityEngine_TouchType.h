@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_TouchType.h"
 
 // UnityEngine.TouchType
-struct  TouchType_t5_95 
+struct  TouchType_t5_96 
 {
 	// System.Int32 UnityEngine.TouchType::value__
 	int32_t ___value___1;

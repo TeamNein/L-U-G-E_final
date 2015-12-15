@@ -13,13 +13,13 @@
 #include <exception>
 
 // LayBombs
-struct LayBombs_t7_15;
+struct LayBombs_t7_16;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void LayBombs::.ctor()
-extern "C" void LayBombs__ctor_m7_105 (LayBombs_t7_15 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LayBombs__ctor_m7_108 (LayBombs_t7_16 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void LayBombs::Awake()
-extern "C" void LayBombs_Awake_m7_106 (LayBombs_t7_15 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LayBombs_Awake_m7_109 (LayBombs_t7_16 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void LayBombs::Update()
-extern "C" void LayBombs_Update_m7_107 (LayBombs_t7_15 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LayBombs_Update_m7_110 (LayBombs_t7_16 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

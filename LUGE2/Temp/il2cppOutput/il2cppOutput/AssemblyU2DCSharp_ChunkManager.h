@@ -11,17 +11,17 @@
 #include <stdint.h>
 
 // UnityEngine.Transform[]
-struct TransformU5BU5D_t5_323;
+struct TransformU5BU5D_t5_324;
 // UnityEngine.Transform
 struct Transform_t5_71;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ChunkManager
-struct  ChunkManager_t7_3  : public MonoBehaviour_t5_92
+struct  ChunkManager_t7_3  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Transform[] ChunkManager::letters
-	TransformU5BU5D_t5_323* ___letters_2;
+	TransformU5BU5D_t5_324* ___letters_2;
 	// UnityEngine.Transform ChunkManager::lettersParent
 	Transform_t5_71 * ___lettersParent_3;
 };

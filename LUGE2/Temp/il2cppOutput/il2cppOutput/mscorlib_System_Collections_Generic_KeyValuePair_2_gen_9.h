@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 // UnityEngine.UI.Collections.IndexedSet`1<UnityEngine.UI.Graphic>
 struct IndexedSet_1_t6_186;
 
@@ -21,7 +21,7 @@ struct IndexedSet_1_t6_186;
 struct  KeyValuePair_2_t1_1391 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2::key
-	Canvas_t5_176 * ___key_0;
+	Canvas_t5_177 * ___key_0;
 	// TValue System.Collections.Generic.KeyValuePair`2::value
 	IndexedSet_1_t6_186 * ___value_1;
 };

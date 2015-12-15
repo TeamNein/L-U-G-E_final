@@ -13,7 +13,7 @@
 #include <exception>
 
 // UnityEngine.SocialPlatforms.Impl.UserProfile
-struct UserProfile_t5_236;
+struct UserProfile_t5_237;
 // UnityEngine.SocialPlatforms.Impl.UserProfile[]
 struct UserProfileU5BU5D_t5_19;
 
@@ -21,6 +21,6 @@ struct UserProfileU5BU5D_t5_19;
 #include "UnityEngine_UnityEngine_SocialPlatforms_GameCenter_GcUserPro.h"
 
 // UnityEngine.SocialPlatforms.Impl.UserProfile UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData::ToUserProfile()
-extern "C" UserProfile_t5_236 * GcUserProfileData_ToUserProfile_m5_1594 (GcUserProfileData_t5_227 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" UserProfile_t5_237 * GcUserProfileData_ToUserProfile_m5_1597 (GcUserProfileData_t5_228 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData::AddToArray(UnityEngine.SocialPlatforms.Impl.UserProfile[]&,System.Int32)
-extern "C" void GcUserProfileData_AddToArray_m5_1595 (GcUserProfileData_t5_227 * __this, UserProfileU5BU5D_t5_19** ___array, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GcUserProfileData_AddToArray_m5_1598 (GcUserProfileData_t5_228 * __this, UserProfileU5BU5D_t5_19** ___array, int32_t ___number, const MethodInfo* method) IL2CPP_METHOD_ATTR;

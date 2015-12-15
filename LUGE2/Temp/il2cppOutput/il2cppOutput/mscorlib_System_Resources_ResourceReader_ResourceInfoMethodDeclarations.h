@@ -19,7 +19,7 @@ struct String_t;
 #include "mscorlib_System_Resources_ResourceReader_ResourceInfo.h"
 
 // System.Void System.Resources.ResourceReader/ResourceInfo::.ctor(System.String,System.Int64,System.Int32)
-extern "C" void ResourceInfo__ctor_m1_2980 (ResourceInfo_t1_358 * __this, String_t* ___resourceName, int64_t ___valuePosition, int32_t ___type_index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ResourceInfo__ctor_m1_2975 (ResourceInfo_t1_358 * __this, String_t* ___resourceName, int64_t ___valuePosition, int32_t ___type_index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 extern "C" void ResourceInfo_t1_358_marshal(const ResourceInfo_t1_358& unmarshaled, ResourceInfo_t1_358_marshaled& marshaled);
 extern "C" void ResourceInfo_t1_358_marshal_back(const ResourceInfo_t1_358_marshaled& marshaled, ResourceInfo_t1_358& unmarshaled);
 extern "C" void ResourceInfo_t1_358_marshal_cleanup(ResourceInfo_t1_358_marshaled& marshaled);

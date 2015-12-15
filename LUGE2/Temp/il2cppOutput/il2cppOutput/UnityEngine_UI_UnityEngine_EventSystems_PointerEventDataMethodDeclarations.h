@@ -17,9 +17,9 @@ struct PointerEventData_t6_37;
 // UnityEngine.EventSystems.EventSystem
 struct EventSystem_t6_2;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.Camera
-struct Camera_t5_85;
+struct Camera_t5_86;
 // System.String
 struct String_t;
 
@@ -32,21 +32,21 @@ struct String_t;
 // System.Void UnityEngine.EventSystems.PointerEventData::.ctor(UnityEngine.EventSystems.EventSystem)
 extern "C" void PointerEventData__ctor_m6_124 (PointerEventData_t6_37 * __this, EventSystem_t6_2 * ___eventSystem, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::get_pointerEnter()
-extern "C" GameObject_t5_100 * PointerEventData_get_pointerEnter_m6_125 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * PointerEventData_get_pointerEnter_m6_125 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_pointerEnter(UnityEngine.GameObject)
-extern "C" void PointerEventData_set_pointerEnter_m6_126 (PointerEventData_t6_37 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PointerEventData_set_pointerEnter_m6_126 (PointerEventData_t6_37 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::get_lastPress()
-extern "C" GameObject_t5_100 * PointerEventData_get_lastPress_m6_127 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * PointerEventData_get_lastPress_m6_127 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_lastPress(UnityEngine.GameObject)
-extern "C" void PointerEventData_set_lastPress_m6_128 (PointerEventData_t6_37 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PointerEventData_set_lastPress_m6_128 (PointerEventData_t6_37 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::get_rawPointerPress()
-extern "C" GameObject_t5_100 * PointerEventData_get_rawPointerPress_m6_129 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * PointerEventData_get_rawPointerPress_m6_129 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_rawPointerPress(UnityEngine.GameObject)
-extern "C" void PointerEventData_set_rawPointerPress_m6_130 (PointerEventData_t6_37 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PointerEventData_set_rawPointerPress_m6_130 (PointerEventData_t6_37 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::get_pointerDrag()
-extern "C" GameObject_t5_100 * PointerEventData_get_pointerDrag_m6_131 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * PointerEventData_get_pointerDrag_m6_131 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_pointerDrag(UnityEngine.GameObject)
-extern "C" void PointerEventData_set_pointerDrag_m6_132 (PointerEventData_t6_37 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PointerEventData_set_pointerDrag_m6_132 (PointerEventData_t6_37 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.EventSystems.RaycastResult UnityEngine.EventSystems.PointerEventData::get_pointerCurrentRaycast()
 extern "C" RaycastResult_t6_31  PointerEventData_get_pointerCurrentRaycast_m6_133 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_pointerCurrentRaycast(UnityEngine.EventSystems.RaycastResult)
@@ -112,12 +112,12 @@ extern "C" bool PointerEventData_IsPointerMoving_m6_163 (PointerEventData_t6_37 
 // System.Boolean UnityEngine.EventSystems.PointerEventData::IsScrolling()
 extern "C" bool PointerEventData_IsScrolling_m6_164 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Camera UnityEngine.EventSystems.PointerEventData::get_enterEventCamera()
-extern "C" Camera_t5_85 * PointerEventData_get_enterEventCamera_m6_165 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Camera_t5_86 * PointerEventData_get_enterEventCamera_m6_165 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Camera UnityEngine.EventSystems.PointerEventData::get_pressEventCamera()
-extern "C" Camera_t5_85 * PointerEventData_get_pressEventCamera_m6_166 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Camera_t5_86 * PointerEventData_get_pressEventCamera_m6_166 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.PointerEventData::get_pointerPress()
-extern "C" GameObject_t5_100 * PointerEventData_get_pointerPress_m6_167 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * PointerEventData_get_pointerPress_m6_167 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.PointerEventData::set_pointerPress(UnityEngine.GameObject)
-extern "C" void PointerEventData_set_pointerPress_m6_168 (PointerEventData_t6_37 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PointerEventData_set_pointerPress_m6_168 (PointerEventData_t6_37 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String UnityEngine.EventSystems.PointerEventData::ToString()
 extern "C" String_t* PointerEventData_ToString_m6_169 (PointerEventData_t6_37 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

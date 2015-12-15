@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // DoNotDestroy
-struct  DoNotDestroy_t7_21  : public MonoBehaviour_t5_92
+struct  DoNotDestroy_t7_22  : public MonoBehaviour_t5_93
 {
 };

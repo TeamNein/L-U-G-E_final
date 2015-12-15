@@ -13,11 +13,11 @@
 #include <exception>
 
 // ActiveStateToggler
-struct ActiveStateToggler_t7_8;
+struct ActiveStateToggler_t7_9;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void ActiveStateToggler::.ctor()
-extern "C" void ActiveStateToggler__ctor_m7_23 (ActiveStateToggler_t7_8 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ActiveStateToggler__ctor_m7_26 (ActiveStateToggler_t7_9 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ActiveStateToggler::ToggleActive()
-extern "C" void ActiveStateToggler_ToggleActive_m7_24 (ActiveStateToggler_t7_8 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ActiveStateToggler_ToggleActive_m7_27 (ActiveStateToggler_t7_9 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

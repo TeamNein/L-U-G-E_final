@@ -18,6 +18,6 @@ struct CriticalFinalizerObject_t1_377;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.ConstrainedExecution.CriticalFinalizerObject::.ctor()
-extern "C" void CriticalFinalizerObject__ctor_m1_3026 (CriticalFinalizerObject_t1_377 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CriticalFinalizerObject__ctor_m1_3021 (CriticalFinalizerObject_t1_377 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.ConstrainedExecution.CriticalFinalizerObject::Finalize()
-extern "C" void CriticalFinalizerObject_Finalize_m1_3027 (CriticalFinalizerObject_t1_377 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CriticalFinalizerObject_Finalize_m1_3022 (CriticalFinalizerObject_t1_377 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

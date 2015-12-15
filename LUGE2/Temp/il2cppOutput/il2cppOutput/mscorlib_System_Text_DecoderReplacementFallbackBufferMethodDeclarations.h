@@ -22,12 +22,12 @@ struct ByteU5BU5D_t1_70;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Text.DecoderReplacementFallbackBuffer::.ctor(System.Text.DecoderReplacementFallback)
-extern "C" void DecoderReplacementFallbackBuffer__ctor_m1_4203 (DecoderReplacementFallbackBuffer_t1_638 * __this, DecoderReplacementFallback_t1_637 * ___fallback, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DecoderReplacementFallbackBuffer__ctor_m1_4198 (DecoderReplacementFallbackBuffer_t1_638 * __this, DecoderReplacementFallback_t1_637 * ___fallback, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Text.DecoderReplacementFallbackBuffer::get_Remaining()
-extern "C" int32_t DecoderReplacementFallbackBuffer_get_Remaining_m1_4204 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t DecoderReplacementFallbackBuffer_get_Remaining_m1_4199 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Text.DecoderReplacementFallbackBuffer::Fallback(System.Byte[],System.Int32)
-extern "C" bool DecoderReplacementFallbackBuffer_Fallback_m1_4205 (DecoderReplacementFallbackBuffer_t1_638 * __this, ByteU5BU5D_t1_70* ___bytesUnknown, int32_t ___index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool DecoderReplacementFallbackBuffer_Fallback_m1_4200 (DecoderReplacementFallbackBuffer_t1_638 * __this, ByteU5BU5D_t1_70* ___bytesUnknown, int32_t ___index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Char System.Text.DecoderReplacementFallbackBuffer::GetNextChar()
-extern "C" uint16_t DecoderReplacementFallbackBuffer_GetNextChar_m1_4206 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" uint16_t DecoderReplacementFallbackBuffer_GetNextChar_m1_4201 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Text.DecoderReplacementFallbackBuffer::Reset()
-extern "C" void DecoderReplacementFallbackBuffer_Reset_m1_4207 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DecoderReplacementFallbackBuffer_Reset_m1_4202 (DecoderReplacementFallbackBuffer_t1_638 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

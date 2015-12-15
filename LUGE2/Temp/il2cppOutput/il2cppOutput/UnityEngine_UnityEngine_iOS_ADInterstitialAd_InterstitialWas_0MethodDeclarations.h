@@ -13,7 +13,7 @@
 #include <exception>
 
 // UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate
-struct InterstitialWasViewedDelegate_t5_109;
+struct InterstitialWasViewedDelegate_t5_110;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -25,11 +25,11 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void InterstitialWasViewedDelegate__ctor_m5_864 (InterstitialWasViewedDelegate_t5_109 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void InterstitialWasViewedDelegate__ctor_m5_867 (InterstitialWasViewedDelegate_t5_110 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate::Invoke()
-extern "C" void InterstitialWasViewedDelegate_Invoke_m5_865 (InterstitialWasViewedDelegate_t5_109 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern "C" void pinvoke_delegate_wrapper_InterstitialWasViewedDelegate_t5_109(Il2CppObject* delegate);
+extern "C" void InterstitialWasViewedDelegate_Invoke_m5_868 (InterstitialWasViewedDelegate_t5_110 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void pinvoke_delegate_wrapper_InterstitialWasViewedDelegate_t5_110(Il2CppObject* delegate);
 // System.IAsyncResult UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * InterstitialWasViewedDelegate_BeginInvoke_m5_866 (InterstitialWasViewedDelegate_t5_109 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * InterstitialWasViewedDelegate_BeginInvoke_m5_869 (InterstitialWasViewedDelegate_t5_110 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void InterstitialWasViewedDelegate_EndInvoke_m5_867 (InterstitialWasViewedDelegate_t5_109 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void InterstitialWasViewedDelegate_EndInvoke_m5_870 (InterstitialWasViewedDelegate_t5_110 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;

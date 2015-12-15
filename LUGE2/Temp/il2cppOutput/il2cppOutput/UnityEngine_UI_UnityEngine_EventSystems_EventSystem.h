@@ -15,7 +15,7 @@ struct List_1_t1_906;
 // UnityEngine.EventSystems.BaseInputModule
 struct BaseInputModule_t6_4;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.EventSystems.BaseEventData
 struct BaseEventData_t6_5;
 // System.Comparison`1<UnityEngine.EventSystems.RaycastResult>
@@ -33,13 +33,13 @@ struct  EventSystem_t6_2  : public UIBehaviour_t6_3
 	// UnityEngine.EventSystems.BaseInputModule UnityEngine.EventSystems.EventSystem::m_CurrentInputModule
 	BaseInputModule_t6_4 * ___m_CurrentInputModule_3;
 	// UnityEngine.GameObject UnityEngine.EventSystems.EventSystem::m_FirstSelected
-	GameObject_t5_100 * ___m_FirstSelected_4;
+	GameObject_t5_101 * ___m_FirstSelected_4;
 	// System.Boolean UnityEngine.EventSystems.EventSystem::m_sendNavigationEvents
 	bool ___m_sendNavigationEvents_5;
 	// System.Int32 UnityEngine.EventSystems.EventSystem::m_DragThreshold
 	int32_t ___m_DragThreshold_6;
 	// UnityEngine.GameObject UnityEngine.EventSystems.EventSystem::m_CurrentSelected
-	GameObject_t5_100 * ___m_CurrentSelected_7;
+	GameObject_t5_101 * ___m_CurrentSelected_7;
 	// System.Boolean UnityEngine.EventSystems.EventSystem::m_SelectionGuard
 	bool ___m_SelectionGuard_8;
 	// UnityEngine.EventSystems.BaseEventData UnityEngine.EventSystems.EventSystem::m_DummyData

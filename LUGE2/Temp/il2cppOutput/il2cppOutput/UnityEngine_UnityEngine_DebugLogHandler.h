@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.DebugLogHandler
-struct  DebugLogHandler_t5_86  : public Object_t
+struct  DebugLogHandler_t5_87  : public Object_t
 {
 };

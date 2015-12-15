@@ -20,4 +20,4 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.InteropServices.TypeLibImportClassAttribute::.ctor(System.Type)
-extern "C" void TypeLibImportClassAttribute__ctor_m1_3061 (TypeLibImportClassAttribute_t1_393 * __this, Type_t * ___importClass, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TypeLibImportClassAttribute__ctor_m1_3056 (TypeLibImportClassAttribute_t1_393 * __this, Type_t * ___importClass, const MethodInfo* method) IL2CPP_METHOD_ATTR;

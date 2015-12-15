@@ -13,14 +13,14 @@
 // UnityEngine.Transform
 struct Transform_t5_71;
 // UnityEngine.Transform[]
-struct TransformU5BU5D_t5_323;
+struct TransformU5BU5D_t5_324;
 // UnityEngine.Material[]
-struct MaterialU5BU5D_t5_324;
+struct MaterialU5BU5D_t5_325;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ChunkInstancer
-struct  ChunkInstancer_t7_2  : public MonoBehaviour_t5_92
+struct  ChunkInstancer_t7_2  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Transform ChunkInstancer::chunkPrefab
 	Transform_t5_71 * ___chunkPrefab_5;
@@ -29,11 +29,11 @@ struct  ChunkInstancer_t7_2  : public MonoBehaviour_t5_92
 	// System.Int32 ChunkInstancer::previousPos
 	int32_t ___previousPos_7;
 	// UnityEngine.Transform[] ChunkInstancer::letterPrefabs
-	TransformU5BU5D_t5_323* ___letterPrefabs_8;
+	TransformU5BU5D_t5_324* ___letterPrefabs_8;
 	// UnityEngine.Material[] ChunkInstancer::letterMats
-	MaterialU5BU5D_t5_324* ___letterMats_9;
+	MaterialU5BU5D_t5_325* ___letterMats_9;
 	// UnityEngine.Material[] ChunkInstancer::particleMats
-	MaterialU5BU5D_t5_324* ___particleMats_10;
+	MaterialU5BU5D_t5_325* ___particleMats_10;
 	// System.Int32 ChunkInstancer::CHAR_OFFSET
 	int32_t ___CHAR_OFFSET_11;
 	// System.Int32 ChunkInstancer::chunkCounter

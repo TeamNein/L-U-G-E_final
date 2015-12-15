@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.ResolveEventArgs::.ctor(System.String)
-extern "C" void ResolveEventArgs__ctor_m1_5280 (ResolveEventArgs_t1_748 * __this, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ResolveEventArgs__ctor_m1_5275 (ResolveEventArgs_t1_748 * __this, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;

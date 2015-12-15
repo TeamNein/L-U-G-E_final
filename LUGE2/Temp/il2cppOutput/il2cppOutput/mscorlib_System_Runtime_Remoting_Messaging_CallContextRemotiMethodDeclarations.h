@@ -20,6 +20,6 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Messaging.CallContextRemotingData::.ctor()
-extern "C" void CallContextRemotingData__ctor_m1_3223 (CallContextRemotingData_t1_445 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CallContextRemotingData__ctor_m1_3218 (CallContextRemotingData_t1_445 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Runtime.Remoting.Messaging.CallContextRemotingData::Clone()
-extern "C" Object_t * CallContextRemotingData_Clone_m1_3224 (CallContextRemotingData_t1_445 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * CallContextRemotingData_Clone_m1_3219 (CallContextRemotingData_t1_445 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -24,6 +24,6 @@ extern "C" void Color32__ctor_m5_247 (Color32_t5_46 * __this, uint8_t ___r, uint
 // System.String UnityEngine.Color32::ToString()
 extern "C" String_t* Color32_ToString_m5_248 (Color32_t5_46 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color32 UnityEngine.Color32::op_Implicit(UnityEngine.Color)
-extern "C" Color32_t5_46  Color32_op_Implicit_m5_249 (Object_t * __this /* static, unused */, Color_t5_164  ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color32_t5_46  Color32_op_Implicit_m5_249 (Object_t * __this /* static, unused */, Color_t5_165  ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color UnityEngine.Color32::op_Implicit(UnityEngine.Color32)
-extern "C" Color_t5_164  Color32_op_Implicit_m5_250 (Object_t * __this /* static, unused */, Color32_t5_46  ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color_t5_165  Color32_op_Implicit_m5_250 (Object_t * __this /* static, unused */, Color32_t5_46  ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;

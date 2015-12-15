@@ -475,6 +475,7 @@ UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetInnerUV
 UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetOuterUV
 UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetPadding
 UnityEngine.Sprites.DataUtility::Internal_GetMinSize
+UnityEngine.TextAsset::get_text
 UnityEngine.TextGenerator::INTERNAL_CALL_Populate_Internal_cpp
 UnityEngine.TextGenerator::get_lineCount
 UnityEngine.TextGenerator::get_vertexCount

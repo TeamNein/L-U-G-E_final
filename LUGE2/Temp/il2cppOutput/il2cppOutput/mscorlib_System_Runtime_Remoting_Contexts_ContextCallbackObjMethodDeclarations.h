@@ -20,6 +20,6 @@ struct CrossContextDelegate_t1_765;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Contexts.ContextCallbackObject::.ctor()
-extern "C" void ContextCallbackObject__ctor_m1_3144 (ContextCallbackObject_t1_414 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ContextCallbackObject__ctor_m1_3139 (ContextCallbackObject_t1_414 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.Contexts.ContextCallbackObject::DoCallBack(System.Runtime.Remoting.Contexts.CrossContextDelegate)
-extern "C" void ContextCallbackObject_DoCallBack_m1_3145 (ContextCallbackObject_t1_414 * __this, CrossContextDelegate_t1_765 * ___deleg, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ContextCallbackObject_DoCallBack_m1_3140 (ContextCallbackObject_t1_414 * __this, CrossContextDelegate_t1_765 * ___deleg, const MethodInfo* method) IL2CPP_METHOD_ATTR;

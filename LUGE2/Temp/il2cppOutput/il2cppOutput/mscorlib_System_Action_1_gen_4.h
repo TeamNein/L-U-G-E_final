@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Object.h"
 
 // UnityEngine.Shader
-struct  Shader_t5_75  : public Object_t5_5
+struct  Shader_t5_76  : public Object_t5_5
 {
 };

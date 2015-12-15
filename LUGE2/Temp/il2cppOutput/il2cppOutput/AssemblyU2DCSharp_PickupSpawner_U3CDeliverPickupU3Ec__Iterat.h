@@ -13,13 +13,13 @@
 // System.Object
 struct Object_t;
 // PickupSpawner
-struct PickupSpawner_t7_16;
+struct PickupSpawner_t7_17;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_Vector3.h"
 
 // PickupSpawner/<DeliverPickup>c__Iterator4
-struct  U3CDeliverPickupU3Ec__Iterator4_t7_36  : public Object_t
+struct  U3CDeliverPickupU3Ec__Iterator4_t7_37  : public Object_t
 {
 	// System.Single PickupSpawner/<DeliverPickup>c__Iterator4::<dropPosX>__0
 	float ___U3CdropPosXU3E__0_0;
@@ -32,5 +32,5 @@ struct  U3CDeliverPickupU3Ec__Iterator4_t7_36  : public Object_t
 	// System.Object PickupSpawner/<DeliverPickup>c__Iterator4::$current
 	Object_t * ___U24current_4;
 	// PickupSpawner PickupSpawner/<DeliverPickup>c__Iterator4::<>f__this
-	PickupSpawner_t7_16 * ___U3CU3Ef__this_5;
+	PickupSpawner_t7_17 * ___U3CU3Ef__this_5;
 };

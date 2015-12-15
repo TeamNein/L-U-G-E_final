@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_Rendering_ColorWriteMask.h"
 
 // UnityEngine.Rendering.ColorWriteMask
-struct  ColorWriteMask_t5_234 
+struct  ColorWriteMask_t5_235 
 {
 	// System.Int32 UnityEngine.Rendering.ColorWriteMask::value__
 	int32_t ___value___1;

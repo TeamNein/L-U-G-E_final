@@ -15,7 +15,7 @@
 // UnityEngine.Renderer
 struct Renderer_t5_24;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 // System.String
 struct String_t;
 
@@ -24,9 +24,9 @@ struct String_t;
 // System.Void UnityEngine.Renderer::set_enabled(System.Boolean)
 extern "C" void Renderer_set_enabled_m5_121 (Renderer_t5_24 * __this, bool ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.Renderer::get_material()
-extern "C" Material_t5_76 * Renderer_get_material_m5_122 (Renderer_t5_24 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * Renderer_get_material_m5_122 (Renderer_t5_24 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Renderer::set_sharedMaterial(UnityEngine.Material)
-extern "C" void Renderer_set_sharedMaterial_m5_123 (Renderer_t5_24 * __this, Material_t5_76 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Renderer_set_sharedMaterial_m5_123 (Renderer_t5_24 * __this, Material_t5_77 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Renderer::set_sortingLayerName(System.String)
 extern "C" void Renderer_set_sortingLayerName_m5_124 (Renderer_t5_24 * __this, String_t* ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.Renderer::get_sortingLayerID()

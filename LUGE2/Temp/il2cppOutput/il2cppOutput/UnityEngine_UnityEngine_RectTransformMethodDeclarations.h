@@ -17,7 +17,7 @@ struct ReapplyDrivenProperties_t5_69;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 // UnityEngine.Vector3[]
-struct Vector3U5BU5D_t5_180;
+struct Vector3U5BU5D_t5_181;
 
 #include "codegen/il2cpp-codegen.h"
 #include "UnityEngine_UnityEngine_Rect.h"
@@ -76,9 +76,9 @@ extern "C" void RectTransform_INTERNAL_set_pivot_m5_500 (RectTransform_t5_70 * _
 // System.Void UnityEngine.RectTransform::SendReapplyDrivenProperties(UnityEngine.RectTransform)
 extern "C" void RectTransform_SendReapplyDrivenProperties_m5_501 (Object_t * __this /* static, unused */, RectTransform_t5_70 * ___driven, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.RectTransform::GetLocalCorners(UnityEngine.Vector3[])
-extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_180* ___fourCornersArray, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_181* ___fourCornersArray, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.RectTransform::GetWorldCorners(UnityEngine.Vector3[])
-extern "C" void RectTransform_GetWorldCorners_m5_503 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_180* ___fourCornersArray, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RectTransform_GetWorldCorners_m5_503 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_181* ___fourCornersArray, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.RectTransform::set_offsetMin(UnityEngine.Vector2)
 extern "C" void RectTransform_set_offsetMin_m5_504 (RectTransform_t5_70 * __this, Vector2_t5_44  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.RectTransform::set_offsetMax(UnityEngine.Vector2)

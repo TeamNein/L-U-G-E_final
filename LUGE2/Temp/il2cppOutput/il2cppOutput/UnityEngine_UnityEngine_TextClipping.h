@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_TextClipping.h"
 
 // UnityEngine.TextClipping
-struct  TextClipping_t5_205 
+struct  TextClipping_t5_206 
 {
 	// System.Int32 UnityEngine.TextClipping::value__
 	int32_t ___value___1;

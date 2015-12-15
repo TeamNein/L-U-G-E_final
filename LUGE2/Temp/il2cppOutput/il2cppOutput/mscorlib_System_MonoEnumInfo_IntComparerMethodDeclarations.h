@@ -20,8 +20,8 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.MonoEnumInfo/IntComparer::.ctor()
-extern "C" void IntComparer__ctor_m1_4975 (IntComparer_t1_708 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void IntComparer__ctor_m1_4970 (IntComparer_t1_708 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.MonoEnumInfo/IntComparer::Compare(System.Object,System.Object)
-extern "C" int32_t IntComparer_Compare_m1_4976 (IntComparer_t1_708 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t IntComparer_Compare_m1_4971 (IntComparer_t1_708 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.MonoEnumInfo/IntComparer::Compare(System.Int32,System.Int32)
-extern "C" int32_t IntComparer_Compare_m1_4977 (IntComparer_t1_708 * __this, int32_t ___ix, int32_t ___iy, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t IntComparer_Compare_m1_4972 (IntComparer_t1_708 * __this, int32_t ___ix, int32_t ___iy, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -17,7 +17,7 @@ struct LinkU5BU5D_t1_995;
 // System.String[]
 struct StringU5BU5D_t1_198;
 // UnityEngine.GUIStyle[]
-struct GUIStyleU5BU5D_t5_201;
+struct GUIStyleU5BU5D_t5_202;
 // System.Collections.Generic.IEqualityComparer`1<System.String>
 struct IEqualityComparer_1_t1_997;
 // System.Runtime.Serialization.SerializationInfo
@@ -37,7 +37,7 @@ struct  Dictionary_2_t1_886  : public Object_t
 	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
 	StringU5BU5D_t1_198* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
-	GUIStyleU5BU5D_t5_201* ___valueSlots_7;
+	GUIStyleU5BU5D_t5_202* ___valueSlots_7;
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots
 	int32_t ___touchedSlots_8;
 	// System.Int32 System.Collections.Generic.Dictionary`2::emptySlot

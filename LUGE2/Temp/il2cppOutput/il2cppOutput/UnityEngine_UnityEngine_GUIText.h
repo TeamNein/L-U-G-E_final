@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_GUIElement.h"
 
 // UnityEngine.GUIText
-struct  GUIText_t5_169  : public GUIElement_t5_29
+struct  GUIText_t5_170  : public GUIElement_t5_29
 {
 };

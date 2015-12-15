@@ -26,14 +26,14 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Resources.RuntimeResourceSet::.ctor(System.IO.UnmanagedMemoryStream)
-extern "C" void RuntimeResourceSet__ctor_m1_3016 (RuntimeResourceSet_t1_367 * __this, UnmanagedMemoryStream_t1_261 * ___stream, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RuntimeResourceSet__ctor_m1_3011 (RuntimeResourceSet_t1_367 * __this, UnmanagedMemoryStream_t1_261 * ___stream, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Resources.RuntimeResourceSet::.ctor(System.IO.Stream)
-extern "C" void RuntimeResourceSet__ctor_m1_3017 (RuntimeResourceSet_t1_367 * __this, Stream_t1_217 * ___stream, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RuntimeResourceSet__ctor_m1_3012 (RuntimeResourceSet_t1_367 * __this, Stream_t1_217 * ___stream, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Resources.RuntimeResourceSet::.ctor(System.String)
-extern "C" void RuntimeResourceSet__ctor_m1_3018 (RuntimeResourceSet_t1_367 * __this, String_t* ___fileName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RuntimeResourceSet__ctor_m1_3013 (RuntimeResourceSet_t1_367 * __this, String_t* ___fileName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Resources.RuntimeResourceSet::GetObject(System.String)
-extern "C" Object_t * RuntimeResourceSet_GetObject_m1_3019 (RuntimeResourceSet_t1_367 * __this, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * RuntimeResourceSet_GetObject_m1_3014 (RuntimeResourceSet_t1_367 * __this, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Resources.RuntimeResourceSet::GetObject(System.String,System.Boolean)
-extern "C" Object_t * RuntimeResourceSet_GetObject_m1_3020 (RuntimeResourceSet_t1_367 * __this, String_t* ___name, bool ___ignoreCase, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * RuntimeResourceSet_GetObject_m1_3015 (RuntimeResourceSet_t1_367 * __this, String_t* ___name, bool ___ignoreCase, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object System.Resources.RuntimeResourceSet::CloneDisposableObjectIfPossible(System.Object)
-extern "C" Object_t * RuntimeResourceSet_CloneDisposableObjectIfPossible_m1_3021 (RuntimeResourceSet_t1_367 * __this, Object_t * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * RuntimeResourceSet_CloneDisposableObjectIfPossible_m1_3016 (RuntimeResourceSet_t1_367 * __this, Object_t * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;

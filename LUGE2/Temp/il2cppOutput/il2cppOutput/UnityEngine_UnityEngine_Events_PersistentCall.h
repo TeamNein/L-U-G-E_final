@@ -16,14 +16,14 @@ struct Object_t5_5_marshaled;
 // System.String
 struct String_t;
 // UnityEngine.Events.ArgumentCache
-struct ArgumentCache_t5_262;
+struct ArgumentCache_t5_263;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_Events_PersistentListenerMode.h"
 #include "UnityEngine_UnityEngine_Events_UnityEventCallState.h"
 
 // UnityEngine.Events.PersistentCall
-struct  PersistentCall_t5_267  : public Object_t
+struct  PersistentCall_t5_268  : public Object_t
 {
 	// UnityEngine.Object UnityEngine.Events.PersistentCall::m_Target
 	Object_t5_5 * ___m_Target_0;
@@ -32,7 +32,7 @@ struct  PersistentCall_t5_267  : public Object_t
 	// UnityEngine.Events.PersistentListenerMode UnityEngine.Events.PersistentCall::m_Mode
 	int32_t ___m_Mode_2;
 	// UnityEngine.Events.ArgumentCache UnityEngine.Events.PersistentCall::m_Arguments
-	ArgumentCache_t5_262 * ___m_Arguments_3;
+	ArgumentCache_t5_263 * ___m_Arguments_3;
 	// UnityEngine.Events.UnityEventCallState UnityEngine.Events.PersistentCall::m_CallState
 	int32_t ___m_CallState_4;
 };

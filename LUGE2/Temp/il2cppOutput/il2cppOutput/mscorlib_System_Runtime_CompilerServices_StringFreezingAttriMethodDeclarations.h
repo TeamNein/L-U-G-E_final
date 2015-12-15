@@ -18,4 +18,4 @@ struct StringFreezingAttribute_t1_374;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.CompilerServices.StringFreezingAttribute::.ctor()
-extern "C" void StringFreezingAttribute__ctor_m1_3025 (StringFreezingAttribute_t1_374 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void StringFreezingAttribute__ctor_m1_3020 (StringFreezingAttribute_t1_374 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

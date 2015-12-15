@@ -24,6 +24,6 @@ struct CharU5BU5D_t1_16;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Text.Encoding/ForwardingDecoder::.ctor(System.Text.Encoding)
-extern "C" void ForwardingDecoder__ctor_m1_4239 (ForwardingDecoder_t1_646 * __this, Encoding_t1_218 * ___enc, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ForwardingDecoder__ctor_m1_4234 (ForwardingDecoder_t1_646 * __this, Encoding_t1_218 * ___enc, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.Text.Encoding/ForwardingDecoder::GetChars(System.Byte[],System.Int32,System.Int32,System.Char[],System.Int32)
-extern "C" int32_t ForwardingDecoder_GetChars_m1_4240 (ForwardingDecoder_t1_646 * __this, ByteU5BU5D_t1_70* ___bytes, int32_t ___byteIndex, int32_t ___byteCount, CharU5BU5D_t1_16* ___chars, int32_t ___charIndex, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t ForwardingDecoder_GetChars_m1_4235 (ForwardingDecoder_t1_646 * __this, ByteU5BU5D_t1_70* ___bytes, int32_t ___byteIndex, int32_t ___byteCount, CharU5BU5D_t1_16* ___chars, int32_t ___charIndex, const MethodInfo* method) IL2CPP_METHOD_ATTR;

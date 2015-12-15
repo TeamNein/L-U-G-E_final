@@ -13,9 +13,9 @@
 #include <exception>
 
 // UnityEngine.GUISkin
-struct GUISkin_t5_188;
+struct GUISkin_t5_189;
 // UnityEngine.GUI/WindowFunction
-struct WindowFunction_t5_186;
+struct WindowFunction_t5_187;
 // UnityEngine.GUIStyle
 struct GUIStyle_t5_28;
 
@@ -23,16 +23,16 @@ struct GUIStyle_t5_28;
 #include "mscorlib_System_DateTime.h"
 
 // System.Void UnityEngine.GUI::.cctor()
-extern "C" void GUI__cctor_m5_1295 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI__cctor_m5_1298 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.GUI::set_nextScrollStepTime(System.DateTime)
-extern "C" void GUI_set_nextScrollStepTime_m5_1296 (Object_t * __this /* static, unused */, DateTime_t1_126  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI_set_nextScrollStepTime_m5_1299 (Object_t * __this /* static, unused */, DateTime_t1_126  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.GUI::set_skin(UnityEngine.GUISkin)
-extern "C" void GUI_set_skin_m5_1297 (Object_t * __this /* static, unused */, GUISkin_t5_188 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI_set_skin_m5_1300 (Object_t * __this /* static, unused */, GUISkin_t5_189 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GUISkin UnityEngine.GUI::get_skin()
-extern "C" GUISkin_t5_188 * GUI_get_skin_m5_1298 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GUISkin_t5_189 * GUI_get_skin_m5_1301 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.GUI::DoSetSkin(UnityEngine.GUISkin)
-extern "C" void GUI_DoSetSkin_m5_1299 (Object_t * __this /* static, unused */, GUISkin_t5_188 * ___newSkin, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI_DoSetSkin_m5_1302 (Object_t * __this /* static, unused */, GUISkin_t5_189 * ___newSkin, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.GUI::CallWindowDelegate(UnityEngine.GUI/WindowFunction,System.Int32,UnityEngine.GUISkin,System.Int32,System.Single,System.Single,UnityEngine.GUIStyle)
-extern "C" void GUI_CallWindowDelegate_m5_1300 (Object_t * __this /* static, unused */, WindowFunction_t5_186 * ___func, int32_t ___id, GUISkin_t5_188 * ____skin, int32_t ___forceRect, float ___width, float ___height, GUIStyle_t5_28 * ___style, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI_CallWindowDelegate_m5_1303 (Object_t * __this /* static, unused */, WindowFunction_t5_187 * ___func, int32_t ___id, GUISkin_t5_189 * ____skin, int32_t ___forceRect, float ___width, float ___height, GUIStyle_t5_28 * ___style, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.GUI::set_changed(System.Boolean)
-extern "C" void GUI_set_changed_m5_1301 (Object_t * __this /* static, unused */, bool ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GUI_set_changed_m5_1304 (Object_t * __this /* static, unused */, bool ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -22,10 +22,10 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.CultureAwareComparer::.ctor(System.Globalization.CultureInfo,System.Boolean)
-extern "C" void CultureAwareComparer__ctor_m1_5294 (CultureAwareComparer_t1_751 * __this, CultureInfo_t1_161 * ___ci, bool ___ignore_case, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CultureAwareComparer__ctor_m1_5289 (CultureAwareComparer_t1_751 * __this, CultureInfo_t1_161 * ___ci, bool ___ignore_case, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.CultureAwareComparer::Compare(System.String,System.String)
-extern "C" int32_t CultureAwareComparer_Compare_m1_5295 (CultureAwareComparer_t1_751 * __this, String_t* ___x, String_t* ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t CultureAwareComparer_Compare_m1_5290 (CultureAwareComparer_t1_751 * __this, String_t* ___x, String_t* ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.CultureAwareComparer::Equals(System.String,System.String)
-extern "C" bool CultureAwareComparer_Equals_m1_5296 (CultureAwareComparer_t1_751 * __this, String_t* ___x, String_t* ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool CultureAwareComparer_Equals_m1_5291 (CultureAwareComparer_t1_751 * __this, String_t* ___x, String_t* ___y, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.CultureAwareComparer::GetHashCode(System.String)
-extern "C" int32_t CultureAwareComparer_GetHashCode_m1_5297 (CultureAwareComparer_t1_751 * __this, String_t* ___s, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t CultureAwareComparer_GetHashCode_m1_5292 (CultureAwareComparer_t1_751 * __this, String_t* ___s, const MethodInfo* method) IL2CPP_METHOD_ATTR;

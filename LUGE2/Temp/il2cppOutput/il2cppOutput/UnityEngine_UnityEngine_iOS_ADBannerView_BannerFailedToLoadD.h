@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate
-struct  BannerFailedToLoadDelegate_t5_106  : public MulticastDelegate_t1_21
+struct  BannerFailedToLoadDelegate_t5_107  : public MulticastDelegate_t1_21
 {
 };

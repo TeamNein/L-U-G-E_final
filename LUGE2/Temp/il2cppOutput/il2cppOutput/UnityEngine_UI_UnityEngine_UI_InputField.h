@@ -29,19 +29,19 @@ struct OnValidateInput_t6_97;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 // UnityEngine.UIVertex[]
-struct UIVertexU5BU5D_t5_314;
+struct UIVertexU5BU5D_t5_315;
 // UnityEngine.TextGenerator
-struct TextGenerator_t5_165;
+struct TextGenerator_t5_166;
 // UnityEngine.CanvasRenderer
-struct CanvasRenderer_t5_178;
+struct CanvasRenderer_t5_179;
 // UnityEngine.Mesh
 struct Mesh_t5_23;
 // UnityEngine.Coroutine
 struct Coroutine_t5_14;
 struct Coroutine_t5_14_marshaled;
 // UnityEngine.Event
-struct Event_t5_181;
-struct Event_t5_181_marshaled;
+struct Event_t5_182;
+struct Event_t5_182_marshaled;
 // System.Collections.Generic.Dictionary`2<System.String,System.Int32>
 struct Dictionary_2_t1_76;
 
@@ -85,11 +85,11 @@ struct  InputField_t6_99  : public Selectable_t6_56
 	// UnityEngine.UI.InputField/OnValidateInput UnityEngine.UI.InputField::m_OnValidateInput
 	OnValidateInput_t6_97 * ___m_OnValidateInput_33;
 	// UnityEngine.Color UnityEngine.UI.InputField::m_CaretColor
-	Color_t5_164  ___m_CaretColor_34;
+	Color_t5_165  ___m_CaretColor_34;
 	// System.Boolean UnityEngine.UI.InputField::m_CustomCaretColor
 	bool ___m_CustomCaretColor_35;
 	// UnityEngine.Color UnityEngine.UI.InputField::m_SelectionColor
-	Color_t5_164  ___m_SelectionColor_36;
+	Color_t5_165  ___m_SelectionColor_36;
 	// System.String UnityEngine.UI.InputField::m_Text
 	String_t* ___m_Text_37;
 	// System.Single UnityEngine.UI.InputField::m_CaretBlinkRate
@@ -105,11 +105,11 @@ struct  InputField_t6_99  : public Selectable_t6_56
 	// UnityEngine.RectTransform UnityEngine.UI.InputField::caretRectTrans
 	RectTransform_t5_70 * ___caretRectTrans_43;
 	// UnityEngine.UIVertex[] UnityEngine.UI.InputField::m_CursorVerts
-	UIVertexU5BU5D_t5_314* ___m_CursorVerts_44;
+	UIVertexU5BU5D_t5_315* ___m_CursorVerts_44;
 	// UnityEngine.TextGenerator UnityEngine.UI.InputField::m_InputTextCache
-	TextGenerator_t5_165 * ___m_InputTextCache_45;
+	TextGenerator_t5_166 * ___m_InputTextCache_45;
 	// UnityEngine.CanvasRenderer UnityEngine.UI.InputField::m_CachedInputRenderer
-	CanvasRenderer_t5_178 * ___m_CachedInputRenderer_46;
+	CanvasRenderer_t5_179 * ___m_CachedInputRenderer_46;
 	// System.Boolean UnityEngine.UI.InputField::m_PreventFontCallback
 	bool ___m_PreventFontCallback_47;
 	// UnityEngine.Mesh UnityEngine.UI.InputField::m_Mesh
@@ -141,7 +141,7 @@ struct  InputField_t6_99  : public Selectable_t6_56
 	// System.Boolean UnityEngine.UI.InputField::m_HasDoneFocusTransition
 	bool ___m_HasDoneFocusTransition_61;
 	// UnityEngine.Event UnityEngine.UI.InputField::m_ProcessingEvent
-	Event_t5_181 * ___m_ProcessingEvent_62;
+	Event_t5_182 * ___m_ProcessingEvent_62;
 };
 struct InputField_t6_99_StaticFields{
 	// System.Char[] UnityEngine.UI.InputField::kSeparators

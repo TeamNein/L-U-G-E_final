@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.GUILayoutEntry>
 struct List_1_t1_885;
 // UnityEngine.GUILayoutEntry
-struct GUILayoutEntry_t5_195;
+struct GUILayoutEntry_t5_196;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_900
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	GUILayoutEntry_t5_195 * ___current_3;
+	GUILayoutEntry_t5_196 * ___current_3;
 };

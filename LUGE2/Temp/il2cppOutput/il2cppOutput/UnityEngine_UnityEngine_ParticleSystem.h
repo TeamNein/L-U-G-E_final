@@ -11,23 +11,23 @@
 #include <stdint.h>
 
 // UnityEngine.ParticleSystem/IteratorDelegate
-struct IteratorDelegate_t5_121;
+struct IteratorDelegate_t5_122;
 
 #include "UnityEngine_UnityEngine_Component.h"
 
 // UnityEngine.ParticleSystem
-struct  ParticleSystem_t5_122  : public Component_t5_25
+struct  ParticleSystem_t5_123  : public Component_t5_25
 {
 };
-struct ParticleSystem_t5_122_StaticFields{
+struct ParticleSystem_t5_123_StaticFields{
 	// UnityEngine.ParticleSystem/IteratorDelegate UnityEngine.ParticleSystem::<>f__am$cache0
-	IteratorDelegate_t5_121 * ___U3CU3Ef__amU24cache0_2;
+	IteratorDelegate_t5_122 * ___U3CU3Ef__amU24cache0_2;
 	// UnityEngine.ParticleSystem/IteratorDelegate UnityEngine.ParticleSystem::<>f__am$cache1
-	IteratorDelegate_t5_121 * ___U3CU3Ef__amU24cache1_3;
+	IteratorDelegate_t5_122 * ___U3CU3Ef__amU24cache1_3;
 	// UnityEngine.ParticleSystem/IteratorDelegate UnityEngine.ParticleSystem::<>f__am$cache2
-	IteratorDelegate_t5_121 * ___U3CU3Ef__amU24cache2_4;
+	IteratorDelegate_t5_122 * ___U3CU3Ef__amU24cache2_4;
 	// UnityEngine.ParticleSystem/IteratorDelegate UnityEngine.ParticleSystem::<>f__am$cache3
-	IteratorDelegate_t5_121 * ___U3CU3Ef__amU24cache3_5;
+	IteratorDelegate_t5_122 * ___U3CU3Ef__amU24cache3_5;
 	// UnityEngine.ParticleSystem/IteratorDelegate UnityEngine.ParticleSystem::<>f__am$cache4
-	IteratorDelegate_t5_121 * ___U3CU3Ef__amU24cache4_6;
+	IteratorDelegate_t5_122 * ___U3CU3Ef__amU24cache4_6;
 };

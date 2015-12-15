@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_SocialPlatforms_TimeScope.h"
 
 // UnityEngine.SocialPlatforms.TimeScope
-struct  TimeScope_t5_250 
+struct  TimeScope_t5_251 
 {
 	// System.Int32 UnityEngine.SocialPlatforms.TimeScope::value__
 	int32_t ___value___1;

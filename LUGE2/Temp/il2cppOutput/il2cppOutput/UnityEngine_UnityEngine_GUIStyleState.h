@@ -19,7 +19,7 @@ struct Texture2D_t5_34;
 #include "mscorlib_System_IntPtr.h"
 
 // UnityEngine.GUIStyleState
-struct  GUIStyleState_t5_202  : public Object_t
+struct  GUIStyleState_t5_203  : public Object_t
 {
 	// System.IntPtr UnityEngine.GUIStyleState::m_Ptr
 	IntPtr_t ___m_Ptr_0;

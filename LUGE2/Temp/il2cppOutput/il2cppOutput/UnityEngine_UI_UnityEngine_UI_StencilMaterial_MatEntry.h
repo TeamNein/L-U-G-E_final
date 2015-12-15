@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_Rendering_StencilOp.h"
@@ -22,9 +22,9 @@ struct Material_t5_76;
 struct  MatEntry_t6_127  : public Object_t
 {
 	// UnityEngine.Material UnityEngine.UI.StencilMaterial/MatEntry::baseMat
-	Material_t5_76 * ___baseMat_0;
+	Material_t5_77 * ___baseMat_0;
 	// UnityEngine.Material UnityEngine.UI.StencilMaterial/MatEntry::customMat
-	Material_t5_76 * ___customMat_1;
+	Material_t5_77 * ___customMat_1;
 	// System.Int32 UnityEngine.UI.StencilMaterial/MatEntry::count
 	int32_t ___count_2;
 	// System.Int32 UnityEngine.UI.StencilMaterial/MatEntry::stencilId

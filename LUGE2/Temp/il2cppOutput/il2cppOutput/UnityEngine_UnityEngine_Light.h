@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Behaviour.h"
 
 // UnityEngine.Light
-struct  Light_t5_99  : public Behaviour_t5_30
+struct  Light_t5_100  : public Behaviour_t5_30
 {
 };

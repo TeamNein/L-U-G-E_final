@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate
-struct  BannerWasClickedDelegate_t5_104  : public MulticastDelegate_t1_21
+struct  BannerWasClickedDelegate_t5_105  : public MulticastDelegate_t1_21
 {
 };

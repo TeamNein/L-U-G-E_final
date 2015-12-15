@@ -19,7 +19,7 @@
 struct  Shadow_t6_158  : public BaseMeshEffect_t6_156
 {
 	// UnityEngine.Color UnityEngine.UI.Shadow::m_EffectColor
-	Color_t5_164  ___m_EffectColor_4;
+	Color_t5_165  ___m_EffectColor_4;
 	// UnityEngine.Vector2 UnityEngine.UI.Shadow::m_EffectDistance
 	Vector2_t5_44  ___m_EffectDistance_5;
 	// System.Boolean UnityEngine.UI.Shadow::m_UseGraphicAlpha

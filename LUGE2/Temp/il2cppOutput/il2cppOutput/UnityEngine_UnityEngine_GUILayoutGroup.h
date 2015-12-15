@@ -18,7 +18,7 @@ struct RectOffset_t5_27;
 #include "UnityEngine_UnityEngine_GUILayoutEntry.h"
 
 // UnityEngine.GUILayoutGroup
-struct  GUILayoutGroup_t5_193  : public GUILayoutEntry_t5_195
+struct  GUILayoutGroup_t5_194  : public GUILayoutEntry_t5_196
 {
 	// System.Collections.Generic.List`1<UnityEngine.GUILayoutEntry> UnityEngine.GUILayoutGroup::entries
 	List_1_t1_885 * ___entries_10;

@@ -18,4 +18,4 @@ struct AsymmetricKeyExchangeFormatter_t1_539;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.AsymmetricKeyExchangeFormatter::.ctor()
-extern "C" void AsymmetricKeyExchangeFormatter__ctor_m1_3682 (AsymmetricKeyExchangeFormatter_t1_539 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AsymmetricKeyExchangeFormatter__ctor_m1_3677 (AsymmetricKeyExchangeFormatter_t1_539 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

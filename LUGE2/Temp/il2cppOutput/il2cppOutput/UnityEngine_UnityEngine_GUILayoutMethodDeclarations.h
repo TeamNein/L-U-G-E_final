@@ -13,11 +13,11 @@
 #include <exception>
 
 // UnityEngine.GUILayoutOption
-struct GUILayoutOption_t5_198;
+struct GUILayoutOption_t5_199;
 
 #include "codegen/il2cpp-codegen.h"
 
 // UnityEngine.GUILayoutOption UnityEngine.GUILayout::Width(System.Single)
-extern "C" GUILayoutOption_t5_198 * GUILayout_Width_m5_1308 (Object_t * __this /* static, unused */, float ___width, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GUILayoutOption_t5_199 * GUILayout_Width_m5_1311 (Object_t * __this /* static, unused */, float ___width, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GUILayoutOption UnityEngine.GUILayout::Height(System.Single)
-extern "C" GUILayoutOption_t5_198 * GUILayout_Height_m5_1309 (Object_t * __this /* static, unused */, float ___height, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GUILayoutOption_t5_199 * GUILayout_Height_m5_1312 (Object_t * __this /* static, unused */, float ___height, const MethodInfo* method) IL2CPP_METHOD_ATTR;

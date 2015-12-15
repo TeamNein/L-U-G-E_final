@@ -25,14 +25,14 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,System.Object,System.Object>::.ctor(System.Object,System.IntPtr)
-extern "C" void Transform_1__ctor_m1_9131_gshared (Transform_1_t1_1269 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method);
-#define Transform_1__ctor_m1_9131(__this, ___object, ___method, method) (( void (*) (Transform_1_t1_1269 *, Object_t *, IntPtr_t, const MethodInfo*))Transform_1__ctor_m1_9131_gshared)(__this, ___object, ___method, method)
+extern "C" void Transform_1__ctor_m1_9126_gshared (Transform_1_t1_1269 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method);
+#define Transform_1__ctor_m1_9126(__this, ___object, ___method, method) (( void (*) (Transform_1_t1_1269 *, Object_t *, IntPtr_t, const MethodInfo*))Transform_1__ctor_m1_9126_gshared)(__this, ___object, ___method, method)
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,System.Object,System.Object>::Invoke(TKey,TValue)
-extern "C" Object_t * Transform_1_Invoke_m1_9132_gshared (Transform_1_t1_1269 * __this, int32_t ___key, Object_t * ___value, const MethodInfo* method);
-#define Transform_1_Invoke_m1_9132(__this, ___key, ___value, method) (( Object_t * (*) (Transform_1_t1_1269 *, int32_t, Object_t *, const MethodInfo*))Transform_1_Invoke_m1_9132_gshared)(__this, ___key, ___value, method)
+extern "C" Object_t * Transform_1_Invoke_m1_9127_gshared (Transform_1_t1_1269 * __this, int32_t ___key, Object_t * ___value, const MethodInfo* method);
+#define Transform_1_Invoke_m1_9127(__this, ___key, ___value, method) (( Object_t * (*) (Transform_1_t1_1269 *, int32_t, Object_t *, const MethodInfo*))Transform_1_Invoke_m1_9127_gshared)(__this, ___key, ___value, method)
 // System.IAsyncResult System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,System.Object,System.Object>::BeginInvoke(TKey,TValue,System.AsyncCallback,System.Object)
-extern "C" Object_t * Transform_1_BeginInvoke_m1_9133_gshared (Transform_1_t1_1269 * __this, int32_t ___key, Object_t * ___value, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method);
-#define Transform_1_BeginInvoke_m1_9133(__this, ___key, ___value, ___callback, ___object, method) (( Object_t * (*) (Transform_1_t1_1269 *, int32_t, Object_t *, AsyncCallback_t1_28 *, Object_t *, const MethodInfo*))Transform_1_BeginInvoke_m1_9133_gshared)(__this, ___key, ___value, ___callback, ___object, method)
+extern "C" Object_t * Transform_1_BeginInvoke_m1_9128_gshared (Transform_1_t1_1269 * __this, int32_t ___key, Object_t * ___value, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method);
+#define Transform_1_BeginInvoke_m1_9128(__this, ___key, ___value, ___callback, ___object, method) (( Object_t * (*) (Transform_1_t1_1269 *, int32_t, Object_t *, AsyncCallback_t1_28 *, Object_t *, const MethodInfo*))Transform_1_BeginInvoke_m1_9128_gshared)(__this, ___key, ___value, ___callback, ___object, method)
 // TRet System.Collections.Generic.Dictionary`2/Transform`1<System.Int32,System.Object,System.Object>::EndInvoke(System.IAsyncResult)
-extern "C" Object_t * Transform_1_EndInvoke_m1_9134_gshared (Transform_1_t1_1269 * __this, Object_t * ___result, const MethodInfo* method);
-#define Transform_1_EndInvoke_m1_9134(__this, ___result, method) (( Object_t * (*) (Transform_1_t1_1269 *, Object_t *, const MethodInfo*))Transform_1_EndInvoke_m1_9134_gshared)(__this, ___result, method)
+extern "C" Object_t * Transform_1_EndInvoke_m1_9129_gshared (Transform_1_t1_1269 * __this, Object_t * ___result, const MethodInfo* method);
+#define Transform_1_EndInvoke_m1_9129(__this, ___result, method) (( Object_t * (*) (Transform_1_t1_1269 *, Object_t *, const MethodInfo*))Transform_1_EndInvoke_m1_9129_gshared)(__this, ___result, method)

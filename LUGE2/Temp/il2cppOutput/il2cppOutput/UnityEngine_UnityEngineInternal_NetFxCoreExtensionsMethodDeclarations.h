@@ -24,6 +24,6 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Delegate UnityEngineInternal.NetFxCoreExtensions::CreateDelegate(System.Reflection.MethodInfo,System.Type,System.Object)
-extern "C" Delegate_t1_22 * NetFxCoreExtensions_CreateDelegate_m5_1779 (Object_t * __this /* static, unused */, MethodInfo_t * ___self, Type_t * ___delegateType, Object_t * ___target, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Delegate_t1_22 * NetFxCoreExtensions_CreateDelegate_m5_1782 (Object_t * __this /* static, unused */, MethodInfo_t * ___self, Type_t * ___delegateType, Object_t * ___target, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Reflection.MethodInfo UnityEngineInternal.NetFxCoreExtensions::GetMethodInfo(System.Delegate)
-extern "C" MethodInfo_t * NetFxCoreExtensions_GetMethodInfo_m5_1780 (Object_t * __this /* static, unused */, Delegate_t1_22 * ___self, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" MethodInfo_t * NetFxCoreExtensions_GetMethodInfo_m5_1783 (Object_t * __this /* static, unused */, Delegate_t1_22 * ___self, const MethodInfo* method) IL2CPP_METHOD_ATTR;

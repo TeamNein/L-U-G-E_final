@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Object.h"
 
 // UnityEngine.Sprite
-struct  Sprite_t5_78  : public Object_t5_5
+struct  Sprite_t5_79  : public Object_t5_5
 {
 };

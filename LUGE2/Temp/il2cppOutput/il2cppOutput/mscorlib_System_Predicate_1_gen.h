@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Events.BaseInvokableCall
-struct BaseInvokableCall_t5_263;
+struct BaseInvokableCall_t5_264;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

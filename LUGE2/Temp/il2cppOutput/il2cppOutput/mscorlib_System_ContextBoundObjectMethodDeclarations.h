@@ -18,4 +18,4 @@ struct ContextBoundObject_t1_419;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.ContextBoundObject::.ctor()
-extern "C" void ContextBoundObject__ctor_m1_4620 (ContextBoundObject_t1_419 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ContextBoundObject__ctor_m1_4615 (ContextBoundObject_t1_419 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

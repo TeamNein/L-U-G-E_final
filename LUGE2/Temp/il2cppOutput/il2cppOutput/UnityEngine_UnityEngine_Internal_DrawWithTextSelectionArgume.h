@@ -17,7 +17,7 @@
 #include "UnityEngine_UnityEngine_Color.h"
 
 // UnityEngine.Internal_DrawWithTextSelectionArguments
-struct  Internal_DrawWithTextSelectionArguments_t5_212 
+struct  Internal_DrawWithTextSelectionArguments_t5_213 
 {
 	// System.IntPtr UnityEngine.Internal_DrawWithTextSelectionArguments::target
 	IntPtr_t ___target_0;
@@ -28,9 +28,9 @@ struct  Internal_DrawWithTextSelectionArguments_t5_212
 	// System.Int32 UnityEngine.Internal_DrawWithTextSelectionArguments::lastPos
 	int32_t ___lastPos_3;
 	// UnityEngine.Color UnityEngine.Internal_DrawWithTextSelectionArguments::cursorColor
-	Color_t5_164  ___cursorColor_4;
+	Color_t5_165  ___cursorColor_4;
 	// UnityEngine.Color UnityEngine.Internal_DrawWithTextSelectionArguments::selectionColor
-	Color_t5_164  ___selectionColor_5;
+	Color_t5_165  ___selectionColor_5;
 	// System.Int32 UnityEngine.Internal_DrawWithTextSelectionArguments::isHover
 	int32_t ___isHover_6;
 	// System.Int32 UnityEngine.Internal_DrawWithTextSelectionArguments::isActive

@@ -14,6 +14,6 @@
 #include "mscorlib_System_Collections_Stack.h"
 
 // UnityEngineInternal.GenericStack
-struct  GenericStack_t5_189  : public Stack_t1_141
+struct  GenericStack_t5_190  : public Stack_t1_141
 {
 };

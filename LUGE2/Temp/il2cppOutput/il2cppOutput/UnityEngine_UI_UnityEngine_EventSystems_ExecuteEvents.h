@@ -49,7 +49,7 @@ struct ObjectPool_1_t6_28;
 // System.Collections.Generic.List`1<UnityEngine.Transform>
 struct List_1_t1_909;
 // UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.EventSystems.IEventSystemHandler>>
-struct UnityAction_1_t5_309;
+struct UnityAction_1_t5_310;
 
 #include "mscorlib_System_Object.h"
 
@@ -97,5 +97,5 @@ struct ExecuteEvents_t6_10_StaticFields{
 	// System.Collections.Generic.List`1<UnityEngine.Transform> UnityEngine.EventSystems.ExecuteEvents::s_InternalTransformList
 	List_1_t1_909 * ___s_InternalTransformList_18;
 	// UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.EventSystems.IEventSystemHandler>> UnityEngine.EventSystems.ExecuteEvents::<>f__am$cache13
-	UnityAction_1_t5_309 * ___U3CU3Ef__amU24cache13_19;
+	UnityAction_1_t5_310 * ___U3CU3Ef__amU24cache13_19;
 };

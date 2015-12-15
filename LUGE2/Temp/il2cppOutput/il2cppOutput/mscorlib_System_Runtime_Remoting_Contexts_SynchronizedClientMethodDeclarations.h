@@ -22,4 +22,4 @@ struct SynchronizationAttribute_t1_420;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Contexts.SynchronizedClientContextSink::.ctor(System.Runtime.Remoting.Messaging.IMessageSink,System.Runtime.Remoting.Contexts.SynchronizationAttribute)
-extern "C" void SynchronizedClientContextSink__ctor_m1_3165 (SynchronizedClientContextSink_t1_423 * __this, Object_t * ___next, SynchronizationAttribute_t1_420 * ___att, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SynchronizedClientContextSink__ctor_m1_3160 (SynchronizedClientContextSink_t1_423 * __this, Object_t * ___next, SynchronizationAttribute_t1_420 * ___att, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_Experimental_Director_PlayState.h"
 
 // UnityEngine.Experimental.Director.PlayState
-struct  PlayState_t5_116 
+struct  PlayState_t5_117 
 {
 	// System.Int32 UnityEngine.Experimental.Director.PlayState::value__
 	int32_t ___value___1;

@@ -20,4 +20,4 @@ struct IMessageSink_t1_415;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Lifetime.LeaseSink::.ctor(System.Runtime.Remoting.Messaging.IMessageSink)
-extern "C" void LeaseSink__ctor_m1_3169 (LeaseSink_t1_427 * __this, Object_t * ___nextSink, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LeaseSink__ctor_m1_3164 (LeaseSink_t1_427 * __this, Object_t * ___nextSink, const MethodInfo* method) IL2CPP_METHOD_ATTR;

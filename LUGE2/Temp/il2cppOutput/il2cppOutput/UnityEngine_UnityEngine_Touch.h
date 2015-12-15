@@ -17,7 +17,7 @@
 #include "UnityEngine_UnityEngine_TouchType.h"
 
 // UnityEngine.Touch
-struct  Touch_t5_96 
+struct  Touch_t5_97 
 {
 	// System.Int32 UnityEngine.Touch::m_FingerId
 	int32_t ___m_FingerId_0;
@@ -49,7 +49,7 @@ struct  Touch_t5_96
 	float ___m_AzimuthAngle_13;
 };
 // Native definition for marshalling of: UnityEngine.Touch
-struct Touch_t5_96_marshaled
+struct Touch_t5_97_marshaled
 {
 	int32_t ___m_FingerId_0;
 	Vector2_t5_44  ___m_Position_1;

@@ -17,7 +17,7 @@ struct MaskableGraphic_t6_89;
 // UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 struct CullStateChangedEvent_t6_102;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 
@@ -35,7 +35,7 @@ extern "C" bool MaskableGraphic_get_maskable_m6_786 (MaskableGraphic_t6_89 * __t
 // System.Void UnityEngine.UI.MaskableGraphic::set_maskable(System.Boolean)
 extern "C" void MaskableGraphic_set_maskable_m6_787 (MaskableGraphic_t6_89 * __this, bool ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.UI.MaskableGraphic::GetModifiedMaterial(UnityEngine.Material)
-extern "C" Material_t5_76 * MaskableGraphic_GetModifiedMaterial_m6_788 (MaskableGraphic_t6_89 * __this, Material_t5_76 * ___baseMaterial, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * MaskableGraphic_GetModifiedMaterial_m6_788 (MaskableGraphic_t6_89 * __this, Material_t5_77 * ___baseMaterial, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.MaskableGraphic::Cull(UnityEngine.Rect,System.Boolean)
 extern "C" void MaskableGraphic_Cull_m6_789 (MaskableGraphic_t6_89 * __this, Rect_t5_48  ___clipRect, bool ___validRect, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.MaskableGraphic::SetClipRect(UnityEngine.Rect,System.Boolean)

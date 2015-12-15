@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // PlayerCollision
-struct  PlayerCollision_t7_7  : public MonoBehaviour_t5_92
+struct  PlayerCollision_t7_8  : public MonoBehaviour_t5_93
 {
 };

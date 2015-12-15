@@ -17,7 +17,7 @@ struct EventSystem_t6_2;
 // UnityEngine.EventSystems.BaseInputModule
 struct BaseInputModule_t6_4;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.EventSystems.BaseEventData
 struct BaseEventData_t6_5;
 // UnityEngine.EventSystems.PointerEventData
@@ -49,23 +49,23 @@ extern "C" void EventSystem_set_pixelDragThreshold_m6_7 (EventSystem_t6_2 * __th
 // UnityEngine.EventSystems.BaseInputModule UnityEngine.EventSystems.EventSystem::get_currentInputModule()
 extern "C" BaseInputModule_t6_4 * EventSystem_get_currentInputModule_m6_8 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.EventSystem::get_firstSelectedGameObject()
-extern "C" GameObject_t5_100 * EventSystem_get_firstSelectedGameObject_m6_9 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * EventSystem_get_firstSelectedGameObject_m6_9 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.EventSystem::set_firstSelectedGameObject(UnityEngine.GameObject)
-extern "C" void EventSystem_set_firstSelectedGameObject_m6_10 (EventSystem_t6_2 * __this, GameObject_t5_100 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EventSystem_set_firstSelectedGameObject_m6_10 (EventSystem_t6_2 * __this, GameObject_t5_101 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.EventSystem::get_currentSelectedGameObject()
-extern "C" GameObject_t5_100 * EventSystem_get_currentSelectedGameObject_m6_11 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * EventSystem_get_currentSelectedGameObject_m6_11 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.EventSystem::get_lastSelectedGameObject()
-extern "C" GameObject_t5_100 * EventSystem_get_lastSelectedGameObject_m6_12 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * EventSystem_get_lastSelectedGameObject_m6_12 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.EventSystem::UpdateModules()
 extern "C" void EventSystem_UpdateModules_m6_13 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.EventSystems.EventSystem::get_alreadySelecting()
 extern "C" bool EventSystem_get_alreadySelecting_m6_14 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.EventSystem::SetSelectedGameObject(UnityEngine.GameObject,UnityEngine.EventSystems.BaseEventData)
-extern "C" void EventSystem_SetSelectedGameObject_m6_15 (EventSystem_t6_2 * __this, GameObject_t5_100 * ___selected, BaseEventData_t6_5 * ___pointer, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EventSystem_SetSelectedGameObject_m6_15 (EventSystem_t6_2 * __this, GameObject_t5_101 * ___selected, BaseEventData_t6_5 * ___pointer, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.EventSystems.BaseEventData UnityEngine.EventSystems.EventSystem::get_baseEventDataCache()
 extern "C" BaseEventData_t6_5 * EventSystem_get_baseEventDataCache_m6_16 (EventSystem_t6_2 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.EventSystem::SetSelectedGameObject(UnityEngine.GameObject)
-extern "C" void EventSystem_SetSelectedGameObject_m6_17 (EventSystem_t6_2 * __this, GameObject_t5_100 * ___selected, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EventSystem_SetSelectedGameObject_m6_17 (EventSystem_t6_2 * __this, GameObject_t5_101 * ___selected, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.EventSystems.EventSystem::RaycastComparer(UnityEngine.EventSystems.RaycastResult,UnityEngine.EventSystems.RaycastResult)
 extern "C" int32_t EventSystem_RaycastComparer_m6_18 (Object_t * __this /* static, unused */, RaycastResult_t6_31  ___lhs, RaycastResult_t6_31  ___rhs, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.EventSystem::RaycastAll(UnityEngine.EventSystems.PointerEventData,System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>)

@@ -21,8 +21,8 @@ struct Type_t;
 #include "mscorlib_System_Reflection_MemberTypes.h"
 
 // System.Void System.Reflection.EventInfo::.ctor()
-extern "C" void EventInfo__ctor_m1_2763 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void EventInfo__ctor_m1_2758 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Type System.Reflection.EventInfo::get_EventHandlerType()
-extern "C" Type_t * EventInfo_get_EventHandlerType_m1_2764 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Type_t * EventInfo_get_EventHandlerType_m1_2759 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Reflection.MemberTypes System.Reflection.EventInfo::get_MemberType()
-extern "C" int32_t EventInfo_get_MemberType_m1_2765 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t EventInfo_get_MemberType_m1_2760 (EventInfo_t * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

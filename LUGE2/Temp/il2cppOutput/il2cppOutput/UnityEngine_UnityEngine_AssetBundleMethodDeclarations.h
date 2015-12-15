@@ -22,7 +22,7 @@ struct String_t;
 // System.Type
 struct Type_t;
 // UnityEngine.Object[]
-struct ObjectU5BU5D_t5_282;
+struct ObjectU5BU5D_t5_283;
 
 #include "codegen/il2cpp-codegen.h"
 
@@ -31,4 +31,4 @@ extern "C" Object_t5_5 * AssetBundle_LoadAsset_m5_6 (AssetBundle_t5_4 * __this, 
 // UnityEngine.Object UnityEngine.AssetBundle::LoadAsset_Internal(System.String,System.Type)
 extern "C" Object_t5_5 * AssetBundle_LoadAsset_Internal_m5_7 (AssetBundle_t5_4 * __this, String_t* ___name, Type_t * ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Object[] UnityEngine.AssetBundle::LoadAssetWithSubAssets_Internal(System.String,System.Type)
-extern "C" ObjectU5BU5D_t5_282* AssetBundle_LoadAssetWithSubAssets_Internal_m5_8 (AssetBundle_t5_4 * __this, String_t* ___name, Type_t * ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" ObjectU5BU5D_t5_283* AssetBundle_LoadAssetWithSubAssets_Internal_m5_8 (AssetBundle_t5_4 * __this, String_t* ___name, Type_t * ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;

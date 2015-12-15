@@ -16,7 +16,7 @@ struct String_t;
 #include "UnityEngine_UnityEngine_PropertyAttribute.h"
 
 // UnityEngine.TooltipAttribute
-struct  TooltipAttribute_t5_252  : public PropertyAttribute_t5_251
+struct  TooltipAttribute_t5_253  : public PropertyAttribute_t5_252
 {
 	// System.String UnityEngine.TooltipAttribute::tooltip
 	String_t* ___tooltip_0;

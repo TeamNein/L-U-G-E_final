@@ -25,10 +25,10 @@ struct Exception_t1_33;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Runtime.Remoting.RemotingException::.ctor()
-extern "C" void RemotingException__ctor_m1_3443 (RemotingException_t1_486 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingException__ctor_m1_3438 (RemotingException_t1_486 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.RemotingException::.ctor(System.String)
-extern "C" void RemotingException__ctor_m1_3444 (RemotingException_t1_486 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingException__ctor_m1_3439 (RemotingException_t1_486 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.RemotingException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void RemotingException__ctor_m1_3445 (RemotingException_t1_486 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingException__ctor_m1_3440 (RemotingException_t1_486 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.RemotingException::.ctor(System.String,System.Exception)
-extern "C" void RemotingException__ctor_m1_3446 (RemotingException_t1_486 * __this, String_t* ___message, Exception_t1_33 * ___InnerException, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RemotingException__ctor_m1_3441 (RemotingException_t1_486 * __this, String_t* ___message, Exception_t1_33 * ___InnerException, const MethodInfo* method) IL2CPP_METHOD_ATTR;

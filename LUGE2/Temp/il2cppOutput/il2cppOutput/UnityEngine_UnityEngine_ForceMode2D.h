@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_ForceMode2D.h"
 
 // UnityEngine.ForceMode2D
-struct  ForceMode2D_t5_137 
+struct  ForceMode2D_t5_138 
 {
 	// System.Int32 UnityEngine.ForceMode2D::value__
 	int32_t ___value___1;

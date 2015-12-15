@@ -14,7 +14,7 @@
 #include "mscorlib_System_ValueType.h"
 
 // UnityEngine.Experimental.Director.FrameData
-struct  FrameData_t5_272 
+struct  FrameData_t5_273 
 {
 	// System.Int32 UnityEngine.Experimental.Director.FrameData::m_UpdateId
 	int32_t ___m_UpdateId_0;

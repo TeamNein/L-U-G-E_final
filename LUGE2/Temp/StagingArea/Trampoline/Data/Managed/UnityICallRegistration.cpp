@@ -1,4 +1,4 @@
-//Generated on : 12/14/2015 7:15:16 PM
+//Generated on : 12/15/2015 1:21:46 AM
 void RegisterAllStrippedInternalCalls()
 {
 	//Start Registrations for type : UnityEngine.AnimationCurve
@@ -2196,6 +2196,14 @@ void RegisterAllStrippedInternalCalls()
 		Register_UnityEngine_Sprites_DataUtility_Internal_GetMinSize();
 
 	//End Registrations for type : UnityEngine.Sprites.DataUtility
+
+	//Start Registrations for type : UnityEngine.TextAsset
+
+		//System.String UnityEngine.TextAsset::get_text()
+		void Register_UnityEngine_TextAsset_get_text();
+		Register_UnityEngine_TextAsset_get_text();
+
+	//End Registrations for type : UnityEngine.TextAsset
 
 	//Start Registrations for type : UnityEngine.TextGenerator
 

@@ -19,8 +19,8 @@ struct GenericComparer_1_t1_867;
 #include "mscorlib_System_TimeSpan.h"
 
 // System.Void System.Collections.Generic.GenericComparer`1<System.TimeSpan>::.ctor()
-extern "C" void GenericComparer_1__ctor_m1_5487_gshared (GenericComparer_1_t1_867 * __this, const MethodInfo* method);
-#define GenericComparer_1__ctor_m1_5487(__this, method) (( void (*) (GenericComparer_1_t1_867 *, const MethodInfo*))GenericComparer_1__ctor_m1_5487_gshared)(__this, method)
+extern "C" void GenericComparer_1__ctor_m1_5482_gshared (GenericComparer_1_t1_867 * __this, const MethodInfo* method);
+#define GenericComparer_1__ctor_m1_5482(__this, method) (( void (*) (GenericComparer_1_t1_867 *, const MethodInfo*))GenericComparer_1__ctor_m1_5482_gshared)(__this, method)
 // System.Int32 System.Collections.Generic.GenericComparer`1<System.TimeSpan>::Compare(T,T)
-extern "C" int32_t GenericComparer_1_Compare_m1_7036_gshared (GenericComparer_1_t1_867 * __this, TimeSpan_t1_209  ___x, TimeSpan_t1_209  ___y, const MethodInfo* method);
-#define GenericComparer_1_Compare_m1_7036(__this, ___x, ___y, method) (( int32_t (*) (GenericComparer_1_t1_867 *, TimeSpan_t1_209 , TimeSpan_t1_209 , const MethodInfo*))GenericComparer_1_Compare_m1_7036_gshared)(__this, ___x, ___y, method)
+extern "C" int32_t GenericComparer_1_Compare_m1_7031_gshared (GenericComparer_1_t1_867 * __this, TimeSpan_t1_209  ___x, TimeSpan_t1_209  ___y, const MethodInfo* method);
+#define GenericComparer_1_Compare_m1_7031(__this, ___x, ___y, method) (( int32_t (*) (GenericComparer_1_t1_867 *, TimeSpan_t1_209 , TimeSpan_t1_209 , const MethodInfo*))GenericComparer_1_Compare_m1_7031_gshared)(__this, ___x, ___y, method)

@@ -27,9 +27,9 @@ struct DefaultControls_t6_62_StaticFields{
 	// UnityEngine.Vector2 UnityEngine.UI.DefaultControls::s_ImageElementSize
 	Vector2_t5_44  ___s_ImageElementSize_5;
 	// UnityEngine.Color UnityEngine.UI.DefaultControls::s_DefaultSelectableColor
-	Color_t5_164  ___s_DefaultSelectableColor_6;
+	Color_t5_165  ___s_DefaultSelectableColor_6;
 	// UnityEngine.Color UnityEngine.UI.DefaultControls::s_PanelColor
-	Color_t5_164  ___s_PanelColor_7;
+	Color_t5_165  ___s_PanelColor_7;
 	// UnityEngine.Color UnityEngine.UI.DefaultControls::s_TextColor
-	Color_t5_164  ___s_TextColor_8;
+	Color_t5_165  ___s_TextColor_8;
 };

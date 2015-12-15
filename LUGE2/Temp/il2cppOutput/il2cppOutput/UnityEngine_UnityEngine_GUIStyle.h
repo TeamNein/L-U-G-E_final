@@ -11,11 +11,11 @@
 #include <stdint.h>
 
 // UnityEngine.GUIStyleState
-struct GUIStyleState_t5_202;
+struct GUIStyleState_t5_203;
 // UnityEngine.RectOffset
 struct RectOffset_t5_27;
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 // UnityEngine.GUIStyle
 struct GUIStyle_t5_28;
 
@@ -28,21 +28,21 @@ struct  GUIStyle_t5_28  : public Object_t
 	// System.IntPtr UnityEngine.GUIStyle::m_Ptr
 	IntPtr_t ___m_Ptr_0;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Normal
-	GUIStyleState_t5_202 * ___m_Normal_1;
+	GUIStyleState_t5_203 * ___m_Normal_1;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Hover
-	GUIStyleState_t5_202 * ___m_Hover_2;
+	GUIStyleState_t5_203 * ___m_Hover_2;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Active
-	GUIStyleState_t5_202 * ___m_Active_3;
+	GUIStyleState_t5_203 * ___m_Active_3;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_Focused
-	GUIStyleState_t5_202 * ___m_Focused_4;
+	GUIStyleState_t5_203 * ___m_Focused_4;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnNormal
-	GUIStyleState_t5_202 * ___m_OnNormal_5;
+	GUIStyleState_t5_203 * ___m_OnNormal_5;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnHover
-	GUIStyleState_t5_202 * ___m_OnHover_6;
+	GUIStyleState_t5_203 * ___m_OnHover_6;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnActive
-	GUIStyleState_t5_202 * ___m_OnActive_7;
+	GUIStyleState_t5_203 * ___m_OnActive_7;
 	// UnityEngine.GUIStyleState UnityEngine.GUIStyle::m_OnFocused
-	GUIStyleState_t5_202 * ___m_OnFocused_8;
+	GUIStyleState_t5_203 * ___m_OnFocused_8;
 	// UnityEngine.RectOffset UnityEngine.GUIStyle::m_Border
 	RectOffset_t5_27 * ___m_Border_9;
 	// UnityEngine.RectOffset UnityEngine.GUIStyle::m_Padding
@@ -52,7 +52,7 @@ struct  GUIStyle_t5_28  : public Object_t
 	// UnityEngine.RectOffset UnityEngine.GUIStyle::m_Overflow
 	RectOffset_t5_27 * ___m_Overflow_12;
 	// UnityEngine.Font UnityEngine.GUIStyle::m_FontInternal
-	Font_t5_163 * ___m_FontInternal_13;
+	Font_t5_164 * ___m_FontInternal_13;
 };
 struct GUIStyle_t5_28_StaticFields{
 	// System.Boolean UnityEngine.GUIStyle::showKeyboardFocus

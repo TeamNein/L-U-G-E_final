@@ -13,11 +13,11 @@
 #include <exception>
 
 // ShowSliderValue
-struct ShowSliderValue_t7_46;
+struct ShowSliderValue_t7_47;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void ShowSliderValue::.ctor()
-extern "C" void ShowSliderValue__ctor_m7_187 (ShowSliderValue_t7_46 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ShowSliderValue__ctor_m7_191 (ShowSliderValue_t7_47 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void ShowSliderValue::UpdateLabel(System.Single)
-extern "C" void ShowSliderValue_UpdateLabel_m7_188 (ShowSliderValue_t7_46 * __this, float ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ShowSliderValue_UpdateLabel_m7_192 (ShowSliderValue_t7_47 * __this, float ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;

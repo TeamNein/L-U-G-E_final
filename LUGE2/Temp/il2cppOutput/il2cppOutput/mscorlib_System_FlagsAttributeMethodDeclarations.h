@@ -18,4 +18,4 @@ struct FlagsAttribute_t1_717;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.FlagsAttribute::.ctor()
-extern "C" void FlagsAttribute__ctor_m1_5007 (FlagsAttribute_t1_717 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FlagsAttribute__ctor_m1_5002 (FlagsAttribute_t1_717 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

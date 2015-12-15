@@ -17,7 +17,7 @@ struct String_t;
 #include "mscorlib_System_DateTime.h"
 
 // UnityEngine.SocialPlatforms.Impl.Achievement
-struct  Achievement_t5_238  : public Object_t
+struct  Achievement_t5_239  : public Object_t
 {
 	// System.Boolean UnityEngine.SocialPlatforms.Impl.Achievement::m_Completed
 	bool ___m_Completed_0;

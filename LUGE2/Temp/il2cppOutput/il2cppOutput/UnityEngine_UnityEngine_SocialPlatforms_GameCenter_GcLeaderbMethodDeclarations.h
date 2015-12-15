@@ -17,7 +17,7 @@ struct GcLeaderboard_t5_21;
 // UnityEngine.SocialPlatforms.Impl.Leaderboard
 struct Leaderboard_t5_22;
 // UnityEngine.SocialPlatforms.GameCenter.GcScoreData[]
-struct GcScoreDataU5BU5D_t5_284;
+struct GcScoreDataU5BU5D_t5_285;
 // System.String
 struct String_t;
 // System.String[]
@@ -33,9 +33,9 @@ extern "C" void GcLeaderboard_Finalize_m5_86 (GcLeaderboard_t5_21 * __this, cons
 // System.Boolean UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::Contains(UnityEngine.SocialPlatforms.Impl.Leaderboard)
 extern "C" bool GcLeaderboard_Contains_m5_87 (GcLeaderboard_t5_21 * __this, Leaderboard_t5_22 * ___board, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetScores(UnityEngine.SocialPlatforms.GameCenter.GcScoreData[])
-extern "C" void GcLeaderboard_SetScores_m5_88 (GcLeaderboard_t5_21 * __this, GcScoreDataU5BU5D_t5_284* ___scoreDatas, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GcLeaderboard_SetScores_m5_88 (GcLeaderboard_t5_21 * __this, GcScoreDataU5BU5D_t5_285* ___scoreDatas, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetLocalScore(UnityEngine.SocialPlatforms.GameCenter.GcScoreData)
-extern "C" void GcLeaderboard_SetLocalScore_m5_89 (GcLeaderboard_t5_21 * __this, GcScoreData_t5_230  ___scoreData, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GcLeaderboard_SetLocalScore_m5_89 (GcLeaderboard_t5_21 * __this, GcScoreData_t5_231  ___scoreData, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetMaxRange(System.UInt32)
 extern "C" void GcLeaderboard_SetMaxRange_m5_90 (GcLeaderboard_t5_21 * __this, uint32_t ___maxRange, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetTitle(System.String)

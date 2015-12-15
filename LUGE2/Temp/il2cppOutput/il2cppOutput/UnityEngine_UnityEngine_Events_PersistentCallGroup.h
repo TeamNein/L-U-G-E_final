@@ -16,7 +16,7 @@ struct List_1_t1_887;
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.Events.PersistentCallGroup
-struct  PersistentCallGroup_t5_268  : public Object_t
+struct  PersistentCallGroup_t5_269  : public Object_t
 {
 	// System.Collections.Generic.List`1<UnityEngine.Events.PersistentCall> UnityEngine.Events.PersistentCallGroup::m_Calls
 	List_1_t1_887 * ___m_Calls_0;

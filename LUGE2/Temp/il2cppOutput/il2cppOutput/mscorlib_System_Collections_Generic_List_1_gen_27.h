@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Sprite[]
-struct SpriteU5BU5D_t5_361;
+struct SpriteU5BU5D_t5_362;
 
 #include "mscorlib_System_Object.h"
 
@@ -19,7 +19,7 @@ struct SpriteU5BU5D_t5_361;
 struct  List_1_t1_934  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1::_items
-	SpriteU5BU5D_t5_361* ____items_1;
+	SpriteU5BU5D_t5_362* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
@@ -27,5 +27,5 @@ struct  List_1_t1_934  : public Object_t
 };
 struct List_1_t1_934_StaticFields{
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	SpriteU5BU5D_t5_361* ___EmptyArray_4;
+	SpriteU5BU5D_t5_362* ___EmptyArray_4;
 };

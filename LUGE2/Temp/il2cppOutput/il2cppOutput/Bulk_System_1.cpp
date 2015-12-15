@@ -599,7 +599,7 @@ extern "C" void IntStack_set_Count_m3_612 (IntStack_t3_112 * __this, int32_t ___
 	}
 	{
 		SystemException_t1_147 * L_2 = (SystemException_t1_147 *)il2cpp_codegen_object_new (SystemException_t1_147_il2cpp_TypeInfo_var);
-		SystemException__ctor_m1_5303(L_2, _stringLiteral2293, /*hidden argument*/NULL);
+		SystemException__ctor_m1_5298(L_2, _stringLiteral2293, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -5668,7 +5668,7 @@ extern "C" Object_t * Enumerator_get_Current_m3_658 (Enumerator_t3_119 * __this,
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5039(L_3, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5034(L_3, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -5706,7 +5706,7 @@ extern "C" bool Enumerator_MoveNext_m3_659 (Enumerator_t3_119 * __this, const Me
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5039(L_3, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5034(L_3, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -6787,7 +6787,7 @@ IL_005b:
 	}
 	{
 		SystemException_t1_147 * L_23 = (SystemException_t1_147 *)il2cpp_codegen_object_new (SystemException_t1_147_il2cpp_TypeInfo_var);
-		SystemException__ctor_m1_5303(L_23, _stringLiteral2295, /*hidden argument*/NULL);
+		SystemException__ctor_m1_5298(L_23, _stringLiteral2295, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_23);
 	}
 
@@ -10268,7 +10268,7 @@ extern "C" int32_t Parser_ParseEscape_m3_692 (Parser_t3_122 * __this, const Meth
 		String_t* L_5 = String_Format_m1_412(NULL /*static, unused*/, _stringLiteral2314, L_4, /*hidden argument*/NULL);
 		String_t* L_6 = (__this->___pattern_0);
 		ArgumentException_t1_636 * L_7 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4569(L_7, L_5, L_6, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4564(L_7, L_5, L_6, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_7);
 	}
 
@@ -11976,7 +11976,7 @@ extern "C" ArgumentException_t1_636 * Parser_NewParseException_m3_706 (Parser_t3
 		String_t* L_3 = ___msg;
 		String_t* L_4 = (__this->___pattern_0);
 		ArgumentException_t1_636 * L_5 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4569(L_5, L_3, L_4, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4564(L_5, L_3, L_4, /*hidden argument*/NULL);
 		return L_5;
 	}
 }
@@ -12824,14 +12824,14 @@ extern "C" String_t* ReplacementEvaluator_Evaluate_m3_715 (ReplacementEvaluator_
 IL_0012:
 	{
 		StringBuilder_t1_144 * L_2 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_2, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_2, /*hidden argument*/NULL);
 		V_0 = L_2;
 		Match_t3_82 * L_3 = ___match;
 		StringBuilder_t1_144 * L_4 = V_0;
 		ReplacementEvaluator_EvaluateAppend_m3_716(__this, L_3, L_4, /*hidden argument*/NULL);
 		StringBuilder_t1_144 * L_5 = V_0;
 		NullCheck(L_5);
-		String_t* L_6 = StringBuilder_ToString_m1_4308(L_5, /*hidden argument*/NULL);
+		String_t* L_6 = StringBuilder_ToString_m1_4303(L_5, /*hidden argument*/NULL);
 		return L_6;
 	}
 }
@@ -12854,7 +12854,7 @@ extern "C" void ReplacementEvaluator_EvaluateAppend_m3_716 (ReplacementEvaluator
 		StringBuilder_t1_144 * L_1 = ___sb;
 		String_t* L_2 = (__this->___replacement_3);
 		NullCheck(L_1);
-		StringBuilder_Append_m1_4313(L_1, L_2, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 
@@ -12894,7 +12894,7 @@ IL_0020:
 		int32_t L_14 = V_1;
 		int32_t L_15 = V_2;
 		NullCheck(L_12);
-		StringBuilder_Append_m1_4320(L_12, L_13, L_14, L_15, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4315(L_12, L_13, L_14, L_15, /*hidden argument*/NULL);
 		goto IL_00f1;
 	}
 
@@ -12925,7 +12925,7 @@ IL_0055:
 		NullCheck(L_26);
 		int32_t L_27 = Capture_get_Length_m3_455(L_26, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		StringBuilder_Append_m1_4320(L_21, L_23, L_25, L_27, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4315(L_21, L_23, L_25, L_27, /*hidden argument*/NULL);
 		goto IL_00f1;
 	}
 
@@ -12943,7 +12943,7 @@ IL_008b:
 		NullCheck(L_30);
 		String_t* L_31 = Capture_get_Text_m3_458(L_30, /*hidden argument*/NULL);
 		NullCheck(L_29);
-		StringBuilder_Append_m1_4313(L_29, L_31, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_29, L_31, /*hidden argument*/NULL);
 		goto IL_00f1;
 	}
 
@@ -12964,7 +12964,7 @@ IL_00a4:
 		NullCheck(L_36);
 		int32_t L_37 = Capture_get_Index_m3_454(L_36, /*hidden argument*/NULL);
 		NullCheck(L_33);
-		StringBuilder_Append_m1_4320(L_33, L_35, 0, L_37, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4315(L_33, L_35, 0, L_37, /*hidden argument*/NULL);
 		goto IL_00f1;
 	}
 
@@ -12989,7 +12989,7 @@ IL_00c5:
 		int32_t L_48 = String_get_Length_m1_430(L_47, /*hidden argument*/NULL);
 		int32_t L_49 = V_4;
 		NullCheck(L_42);
-		StringBuilder_Append_m1_4320(L_42, L_44, L_45, ((int32_t)((int32_t)L_48-(int32_t)L_49)), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4315(L_42, L_44, L_45, ((int32_t)((int32_t)L_48-(int32_t)L_49)), /*hidden argument*/NULL);
 	}
 
 IL_00f1:
@@ -14626,7 +14626,7 @@ IL_01c8:
 IL_01d5:
 	{
 		StringBuilder_t1_144 * L_83 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_83, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_83, /*hidden argument*/NULL);
 		V_15 = L_83;
 		V_16 = 0;
 		goto IL_0227;
@@ -14666,7 +14666,7 @@ IL_0212:
 		NullCheck(L_93);
 		String_t* L_94 = AnchorInfo_get_Substring_m3_827(L_93, /*hidden argument*/NULL);
 		NullCheck(L_92);
-		StringBuilder_Append_m1_4313(L_92, L_94, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_92, L_94, /*hidden argument*/NULL);
 		int32_t L_95 = V_16;
 		V_16 = ((int32_t)((int32_t)L_95+(int32_t)1));
 	}
@@ -14683,7 +14683,7 @@ IL_0227:
 	{
 		StringBuilder_t1_144 * L_98 = V_15;
 		NullCheck(L_98);
-		int32_t L_99 = StringBuilder_get_Length_m1_4304(L_98, /*hidden argument*/NULL);
+		int32_t L_99 = StringBuilder_get_Length_m1_4299(L_98, /*hidden argument*/NULL);
 		int32_t L_100 = Interval_get_Size_m3_649((&V_8), /*hidden argument*/NULL);
 		if ((!(((uint32_t)L_99) == ((uint32_t)L_100))))
 		{
@@ -14695,7 +14695,7 @@ IL_0227:
 		int32_t L_102 = V_1;
 		StringBuilder_t1_144 * L_103 = V_15;
 		NullCheck(L_103);
-		String_t* L_104 = StringBuilder_ToString_m1_4308(L_103, /*hidden argument*/NULL);
+		String_t* L_104 = StringBuilder_ToString_m1_4303(L_103, /*hidden argument*/NULL);
 		bool L_105 = V_11;
 		AnchorInfo_t3_142 * L_106 = (AnchorInfo_t3_142 *)il2cpp_codegen_object_new (AnchorInfo_t3_142_il2cpp_TypeInfo_var);
 		AnchorInfo__ctor_m3_820(L_106, __this, L_101, L_102, L_104, L_105, /*hidden argument*/NULL);
@@ -14706,7 +14706,7 @@ IL_025b:
 	{
 		StringBuilder_t1_144 * L_107 = V_15;
 		NullCheck(L_107);
-		int32_t L_108 = StringBuilder_get_Length_m1_4304(L_107, /*hidden argument*/NULL);
+		int32_t L_108 = StringBuilder_get_Length_m1_4299(L_107, /*hidden argument*/NULL);
 		int32_t L_109 = Interval_get_Size_m3_649((&V_8), /*hidden argument*/NULL);
 		if ((((int32_t)L_108) <= ((int32_t)L_109)))
 		{
@@ -14715,7 +14715,7 @@ IL_025b:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Console_t1_692_il2cpp_TypeInfo_var);
-		TextWriter_t1_252 * L_110 = Console_get_Error_m1_4615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		TextWriter_t1_252 * L_110 = Console_get_Error_m1_4610(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_110);
 		VirtActionInvoker1< String_t* >::Invoke(13 /* System.Void System.IO.TextWriter::WriteLine(System.String) */, L_110, _stringLiteral2322);
 		int32_t L_111 = V_1;
@@ -14727,7 +14727,7 @@ IL_025b:
 IL_0285:
 	{
 		SystemException_t1_147 * L_113 = (SystemException_t1_147 *)il2cpp_codegen_object_new (SystemException_t1_147_il2cpp_TypeInfo_var);
-		SystemException__ctor_m1_5303(L_113, _stringLiteral2323, /*hidden argument*/NULL);
+		SystemException__ctor_m1_5298(L_113, _stringLiteral2323, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_113);
 	}
 }
@@ -15364,7 +15364,7 @@ IL_0046:
 		V_2 = L_20;
 		String_t* L_21 = V_2;
 		StringBuilder_t1_144 * L_22 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4298(L_22, L_21, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4293(L_22, L_21, /*hidden argument*/NULL);
 		V_3 = L_22;
 		V_4 = 1;
 		goto IL_0080;
@@ -15375,7 +15375,7 @@ IL_0072:
 		StringBuilder_t1_144 * L_23 = V_3;
 		String_t* L_24 = V_2;
 		NullCheck(L_23);
-		StringBuilder_Append_m1_4313(L_23, L_24, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_23, L_24, /*hidden argument*/NULL);
 		int32_t L_25 = V_4;
 		V_4 = ((int32_t)((int32_t)L_25+(int32_t)1));
 	}
@@ -15393,7 +15393,7 @@ IL_0080:
 		int32_t L_28 = V_0;
 		StringBuilder_t1_144 * L_29 = V_3;
 		NullCheck(L_29);
-		String_t* L_30 = StringBuilder_ToString_m1_4308(L_29, /*hidden argument*/NULL);
+		String_t* L_30 = StringBuilder_ToString_m1_4303(L_29, /*hidden argument*/NULL);
 		AnchorInfo_t3_142 * L_31 = V_1;
 		NullCheck(L_31);
 		bool L_32 = AnchorInfo_get_IgnoreCase_m3_828(L_31, /*hidden argument*/NULL);
@@ -17689,7 +17689,7 @@ extern "C" void Uri__ctor_m3_837 (Uri_t3_22 * __this, SerializationInfo_t1_176 *
 	{
 		SerializationInfo_t1_176 * L_0 = ___serializationInfo;
 		NullCheck(L_0);
-		String_t* L_1 = SerializationInfo_GetString_m1_3639(L_0, _stringLiteral2324, /*hidden argument*/NULL);
+		String_t* L_1 = SerializationInfo_GetString_m1_3634(L_0, _stringLiteral2324, /*hidden argument*/NULL);
 		Uri__ctor_m3_838(__this, L_1, 1, /*hidden argument*/NULL);
 		return;
 	}
@@ -17881,7 +17881,7 @@ extern "C" void Uri_System_Runtime_Serialization_ISerializable_GetObjectData_m3_
 		SerializationInfo_t1_176 * L_0 = ___info;
 		String_t* L_1 = Uri_get_AbsoluteUri_m3_841(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		SerializationInfo_AddValue_m1_3634(L_0, _stringLiteral2324, L_1, /*hidden argument*/NULL);
+		SerializationInfo_AddValue_m1_3629(L_0, _stringLiteral2324, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -18936,7 +18936,7 @@ extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* Uri_t3_22_il2cpp_TypeInfo_var;
 extern TypeInfo* StringBuilder_t1_144_il2cpp_TypeInfo_var;
 extern TypeInfo* Dictionary_2_t1_76_il2cpp_TypeInfo_var;
-extern const MethodInfo* Dictionary_2__ctor_m1_5467_MethodInfo_var;
+extern const MethodInfo* Dictionary_2__ctor_m1_5462_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2328;
 extern Il2CppCodeGenString* _stringLiteral2329;
 extern "C" String_t* Uri_GetLeftPart_m3_857 (Uri_t3_22 * __this, int32_t ___part, const MethodInfo* method)
@@ -18948,7 +18948,7 @@ extern "C" String_t* Uri_GetLeftPart_m3_857 (Uri_t3_22 * __this, int32_t ___part
 		Uri_t3_22_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(627);
 		StringBuilder_t1_144_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(36);
 		Dictionary_2_t1_76_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(115);
-		Dictionary_2__ctor_m1_5467_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
+		Dictionary_2__ctor_m1_5462_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
 		_stringLiteral2328 = il2cpp_codegen_string_literal_from_index(2328);
 		_stringLiteral2329 = il2cpp_codegen_string_literal_from_index(2329);
 		s_Il2CppMethodIntialized = true;
@@ -19025,16 +19025,16 @@ IL_005b:
 IL_0061:
 	{
 		StringBuilder_t1_144 * L_12 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_12, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_12, /*hidden argument*/NULL);
 		V_1 = L_12;
 		StringBuilder_t1_144 * L_13 = V_1;
 		String_t* L_14 = (__this->___scheme_2);
 		NullCheck(L_13);
-		StringBuilder_Append_m1_4313(L_13, L_14, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_13, L_14, /*hidden argument*/NULL);
 		StringBuilder_t1_144 * L_15 = V_1;
 		String_t* L_16 = Uri_GetOpaqueWiseSchemeDelimiter_m3_879(__this, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		StringBuilder_Append_m1_4313(L_15, L_16, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_15, L_16, /*hidden argument*/NULL);
 		String_t* L_17 = (__this->___path_5);
 		NullCheck(L_17);
 		int32_t L_18 = String_get_Length_m1_430(L_17, /*hidden argument*/NULL);
@@ -19066,7 +19066,7 @@ IL_0061:
 	{
 		StringBuilder_t1_144 * L_24 = V_1;
 		NullCheck(L_24);
-		StringBuilder_Append_m1_4317(L_24, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_24, ((int32_t)47), /*hidden argument*/NULL);
 	}
 
 IL_00c3:
@@ -19083,9 +19083,9 @@ IL_00c3:
 		StringBuilder_t1_144 * L_27 = V_1;
 		String_t* L_28 = (__this->___userinfo_8);
 		NullCheck(L_27);
-		StringBuilder_t1_144 * L_29 = StringBuilder_Append_m1_4313(L_27, L_28, /*hidden argument*/NULL);
+		StringBuilder_t1_144 * L_29 = StringBuilder_Append_m1_4308(L_27, L_28, /*hidden argument*/NULL);
 		NullCheck(L_29);
-		StringBuilder_Append_m1_4317(L_29, ((int32_t)64), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_29, ((int32_t)64), /*hidden argument*/NULL);
 	}
 
 IL_00e8:
@@ -19093,7 +19093,7 @@ IL_00e8:
 		StringBuilder_t1_144 * L_30 = V_1;
 		String_t* L_31 = (__this->___host_3);
 		NullCheck(L_30);
-		StringBuilder_Append_m1_4313(L_30, L_31, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_30, L_31, /*hidden argument*/NULL);
 		String_t* L_32 = (__this->___scheme_2);
 		IL2CPP_RUNTIME_CLASS_INIT(Uri_t3_22_il2cpp_TypeInfo_var);
 		int32_t L_33 = Uri_GetDefaultPort_m3_878(NULL /*static, unused*/, L_32, /*hidden argument*/NULL);
@@ -19115,33 +19115,33 @@ IL_00e8:
 	{
 		StringBuilder_t1_144 * L_37 = V_1;
 		NullCheck(L_37);
-		StringBuilder_t1_144 * L_38 = StringBuilder_Append_m1_4317(L_37, ((int32_t)58), /*hidden argument*/NULL);
+		StringBuilder_t1_144 * L_38 = StringBuilder_Append_m1_4312(L_37, ((int32_t)58), /*hidden argument*/NULL);
 		int32_t L_39 = (__this->___port_4);
 		NullCheck(L_38);
-		StringBuilder_Append_m1_4314(L_38, L_39, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4309(L_38, L_39, /*hidden argument*/NULL);
 	}
 
 IL_012d:
 	{
 		StringBuilder_t1_144 * L_40 = V_1;
 		NullCheck(L_40);
-		String_t* L_41 = StringBuilder_ToString_m1_4308(L_40, /*hidden argument*/NULL);
+		String_t* L_41 = StringBuilder_ToString_m1_4303(L_40, /*hidden argument*/NULL);
 		return L_41;
 	}
 
 IL_0134:
 	{
 		StringBuilder_t1_144 * L_42 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_42, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_42, /*hidden argument*/NULL);
 		V_2 = L_42;
 		StringBuilder_t1_144 * L_43 = V_2;
 		String_t* L_44 = (__this->___scheme_2);
 		NullCheck(L_43);
-		StringBuilder_Append_m1_4313(L_43, L_44, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_43, L_44, /*hidden argument*/NULL);
 		StringBuilder_t1_144 * L_45 = V_2;
 		String_t* L_46 = Uri_GetOpaqueWiseSchemeDelimiter_m3_879(__this, /*hidden argument*/NULL);
 		NullCheck(L_45);
-		StringBuilder_Append_m1_4313(L_45, L_46, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_45, L_46, /*hidden argument*/NULL);
 		String_t* L_47 = (__this->___path_5);
 		NullCheck(L_47);
 		int32_t L_48 = String_get_Length_m1_430(L_47, /*hidden argument*/NULL);
@@ -19173,7 +19173,7 @@ IL_0134:
 	{
 		StringBuilder_t1_144 * L_54 = V_2;
 		NullCheck(L_54);
-		StringBuilder_Append_m1_4317(L_54, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_54, ((int32_t)47), /*hidden argument*/NULL);
 	}
 
 IL_0196:
@@ -19190,9 +19190,9 @@ IL_0196:
 		StringBuilder_t1_144 * L_57 = V_2;
 		String_t* L_58 = (__this->___userinfo_8);
 		NullCheck(L_57);
-		StringBuilder_t1_144 * L_59 = StringBuilder_Append_m1_4313(L_57, L_58, /*hidden argument*/NULL);
+		StringBuilder_t1_144 * L_59 = StringBuilder_Append_m1_4308(L_57, L_58, /*hidden argument*/NULL);
 		NullCheck(L_59);
-		StringBuilder_Append_m1_4317(L_59, ((int32_t)64), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_59, ((int32_t)64), /*hidden argument*/NULL);
 	}
 
 IL_01bb:
@@ -19200,7 +19200,7 @@ IL_01bb:
 		StringBuilder_t1_144 * L_60 = V_2;
 		String_t* L_61 = (__this->___host_3);
 		NullCheck(L_60);
-		StringBuilder_Append_m1_4313(L_60, L_61, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_60, L_61, /*hidden argument*/NULL);
 		String_t* L_62 = (__this->___scheme_2);
 		IL2CPP_RUNTIME_CLASS_INIT(Uri_t3_22_il2cpp_TypeInfo_var);
 		int32_t L_63 = Uri_GetDefaultPort_m3_878(NULL /*static, unused*/, L_62, /*hidden argument*/NULL);
@@ -19222,10 +19222,10 @@ IL_01bb:
 	{
 		StringBuilder_t1_144 * L_67 = V_2;
 		NullCheck(L_67);
-		StringBuilder_t1_144 * L_68 = StringBuilder_Append_m1_4317(L_67, ((int32_t)58), /*hidden argument*/NULL);
+		StringBuilder_t1_144 * L_68 = StringBuilder_Append_m1_4312(L_67, ((int32_t)58), /*hidden argument*/NULL);
 		int32_t L_69 = (__this->___port_4);
 		NullCheck(L_68);
-		StringBuilder_Append_m1_4314(L_68, L_69, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4309(L_68, L_69, /*hidden argument*/NULL);
 	}
 
 IL_0200:
@@ -19257,7 +19257,7 @@ IL_0200:
 	}
 	{
 		Dictionary_2_t1_76 * L_75 = (Dictionary_2_t1_76 *)il2cpp_codegen_object_new (Dictionary_2_t1_76_il2cpp_TypeInfo_var);
-		Dictionary_2__ctor_m1_5467(L_75, 2, /*hidden argument*/Dictionary_2__ctor_m1_5467_MethodInfo_var);
+		Dictionary_2__ctor_m1_5462(L_75, 2, /*hidden argument*/Dictionary_2__ctor_m1_5462_MethodInfo_var);
 		V_5 = L_75;
 		Dictionary_2_t1_76 * L_76 = V_5;
 		NullCheck(L_76);
@@ -19298,7 +19298,7 @@ IL_0272:
 		StringBuilder_t1_144 * L_83 = V_2;
 		String_t* L_84 = (__this->___path_5);
 		NullCheck(L_83);
-		StringBuilder_Append_m1_4313(L_83, L_84, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_83, L_84, /*hidden argument*/NULL);
 		goto IL_02a6;
 	}
 
@@ -19311,7 +19311,7 @@ IL_0284:
 		bool L_88 = Uri_CompactEscaped_m3_874(NULL /*static, unused*/, L_87, /*hidden argument*/NULL);
 		String_t* L_89 = Uri_Reduce_m3_875(NULL /*static, unused*/, L_86, L_88, /*hidden argument*/NULL);
 		NullCheck(L_85);
-		StringBuilder_Append_m1_4313(L_85, L_89, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_85, L_89, /*hidden argument*/NULL);
 		goto IL_02a6;
 	}
 
@@ -19319,7 +19319,7 @@ IL_02a6:
 	{
 		StringBuilder_t1_144 * L_90 = V_2;
 		NullCheck(L_90);
-		String_t* L_91 = StringBuilder_ToString_m1_4308(L_90, /*hidden argument*/NULL);
+		String_t* L_91 = StringBuilder_ToString_m1_4303(L_90, /*hidden argument*/NULL);
 		return L_91;
 	}
 
@@ -19402,7 +19402,7 @@ IL_002d:
 IL_0045:
 	{
 		ArgumentException_t1_636 * L_9 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_9, _stringLiteral2333, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_9, _stringLiteral2333, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_9);
 	}
 }
@@ -19435,7 +19435,7 @@ extern "C" String_t* Uri_HexEscape_m3_859 (Object_t * __this /* static, unused *
 	}
 	{
 		ArgumentOutOfRangeException_t1_684 * L_1 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_1, _stringLiteral2334, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_1, _stringLiteral2334, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -19809,7 +19809,7 @@ extern "C" String_t* Uri_EscapeString_m3_865 (Object_t * __this /* static, unuse
 IL_000c:
 	{
 		StringBuilder_t1_144 * L_2 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_2, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_2, /*hidden argument*/NULL);
 		V_0 = L_2;
 		String_t* L_3 = ___str;
 		NullCheck(L_3);
@@ -19837,7 +19837,7 @@ IL_0020:
 		NullCheck(L_9);
 		String_t* L_11 = String_Substring_m1_355(L_9, L_10, 3, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		StringBuilder_Append_m1_4313(L_8, L_11, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_8, L_11, /*hidden argument*/NULL);
 		int32_t L_12 = V_2;
 		V_2 = ((int32_t)((int32_t)L_12+(int32_t)2));
 		goto IL_0101;
@@ -19846,7 +19846,7 @@ IL_0020:
 IL_0044:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Encoding_t1_218_il2cpp_TypeInfo_var);
-		Encoding_t1_218 * L_13 = Encoding_get_UTF8_m1_4273(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Encoding_t1_218 * L_13 = Encoding_get_UTF8_m1_4268(NULL /*static, unused*/, /*hidden argument*/NULL);
 		CharU5BU5D_t1_16* L_14 = ((CharU5BU5D_t1_16*)SZArrayNew(CharU5BU5D_t1_16_il2cpp_TypeInfo_var, 1));
 		String_t* L_15 = ___str;
 		int32_t L_16 = V_2;
@@ -19958,7 +19958,7 @@ IL_00d6:
 		IL2CPP_RUNTIME_CLASS_INIT(Uri_t3_22_il2cpp_TypeInfo_var);
 		String_t* L_37 = Uri_HexEscape_m3_859(NULL /*static, unused*/, L_36, /*hidden argument*/NULL);
 		NullCheck(L_35);
-		StringBuilder_Append_m1_4313(L_35, L_37, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_35, L_37, /*hidden argument*/NULL);
 		goto IL_00f2;
 	}
 
@@ -19967,7 +19967,7 @@ IL_00e9:
 		StringBuilder_t1_144 * L_38 = V_0;
 		uint16_t L_39 = V_6;
 		NullCheck(L_38);
-		StringBuilder_Append_m1_4317(L_38, L_39, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_38, L_39, /*hidden argument*/NULL);
 	}
 
 IL_00f2:
@@ -20004,7 +20004,7 @@ IL_0105:
 	{
 		StringBuilder_t1_144 * L_46 = V_0;
 		NullCheck(L_46);
-		String_t* L_47 = StringBuilder_ToString_m1_4308(L_46, /*hidden argument*/NULL);
+		String_t* L_47 = StringBuilder_ToString_m1_4303(L_46, /*hidden argument*/NULL);
 		return L_47;
 	}
 }
@@ -20159,7 +20159,7 @@ extern "C" String_t* Uri_Unescape_m3_868 (Object_t * __this /* static, unused */
 IL_000c:
 	{
 		StringBuilder_t1_144 * L_2 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_2, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_2, /*hidden argument*/NULL);
 		V_0 = L_2;
 		String_t* L_3 = ___str;
 		NullCheck(L_3);
@@ -20203,7 +20203,7 @@ IL_0020:
 	{
 		StringBuilder_t1_144 * L_13 = V_0;
 		NullCheck(L_13);
-		StringBuilder_Append_m1_4313(L_13, _stringLiteral2337, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_13, _stringLiteral2337, /*hidden argument*/NULL);
 		goto IL_00b5;
 	}
 
@@ -20225,7 +20225,7 @@ IL_005c:
 	{
 		StringBuilder_t1_144 * L_16 = V_0;
 		NullCheck(L_16);
-		StringBuilder_Append_m1_4313(L_16, _stringLiteral2338, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_16, _stringLiteral2338, /*hidden argument*/NULL);
 		goto IL_00b5;
 	}
 
@@ -20247,7 +20247,7 @@ IL_007c:
 	{
 		StringBuilder_t1_144 * L_19 = V_0;
 		NullCheck(L_19);
-		StringBuilder_Append_m1_4313(L_19, _stringLiteral2339, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4308(L_19, _stringLiteral2339, /*hidden argument*/NULL);
 		goto IL_00b5;
 	}
 
@@ -20256,7 +20256,7 @@ IL_009c:
 		StringBuilder_t1_144 * L_20 = V_0;
 		uint16_t L_21 = V_5;
 		NullCheck(L_20);
-		StringBuilder_Append_m1_4317(L_20, L_21, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_20, L_21, /*hidden argument*/NULL);
 		uint16_t L_22 = V_4;
 		if (!L_22)
 		{
@@ -20267,7 +20267,7 @@ IL_009c:
 		StringBuilder_t1_144 * L_23 = V_0;
 		uint16_t L_24 = V_4;
 		NullCheck(L_23);
-		StringBuilder_Append_m1_4317(L_23, L_24, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_23, L_24, /*hidden argument*/NULL);
 	}
 
 IL_00b5:
@@ -20282,7 +20282,7 @@ IL_00be:
 		StringBuilder_t1_144 * L_26 = V_0;
 		uint16_t L_27 = V_3;
 		NullCheck(L_26);
-		StringBuilder_Append_m1_4317(L_26, L_27, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_26, L_27, /*hidden argument*/NULL);
 	}
 
 IL_00c6:
@@ -20303,7 +20303,7 @@ IL_00ca:
 	{
 		StringBuilder_t1_144 * L_31 = V_0;
 		NullCheck(L_31);
-		String_t* L_32 = StringBuilder_ToString_m1_4308(L_31, /*hidden argument*/NULL);
+		String_t* L_32 = StringBuilder_ToString_m1_4303(L_31, /*hidden argument*/NULL);
 		return L_32;
 	}
 }
@@ -20571,7 +20571,7 @@ extern "C" void Uri_Parse_m3_872 (Uri_t3_22 * __this, int32_t ___kind, String_t*
 	}
 	{
 		ArgumentNullException_t1_683 * L_1 = (ArgumentNullException_t1_683 *)il2cpp_codegen_object_new (ArgumentNullException_t1_683_il2cpp_TypeInfo_var);
-		ArgumentNullException__ctor_m1_4576(L_1, _stringLiteral2342, /*hidden argument*/NULL);
+		ArgumentNullException__ctor_m1_4571(L_1, _stringLiteral2342, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -22049,7 +22049,7 @@ IL_0884:
 // System.Boolean System.Uri::CompactEscaped(System.String)
 extern TypeInfo* Uri_t3_22_il2cpp_TypeInfo_var;
 extern TypeInfo* Dictionary_2_t1_76_il2cpp_TypeInfo_var;
-extern const MethodInfo* Dictionary_2__ctor_m1_5467_MethodInfo_var;
+extern const MethodInfo* Dictionary_2__ctor_m1_5462_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2172;
 extern Il2CppCodeGenString* _stringLiteral2115;
 extern Il2CppCodeGenString* _stringLiteral2114;
@@ -22062,7 +22062,7 @@ extern "C" bool Uri_CompactEscaped_m3_874 (Object_t * __this /* static, unused *
 	{
 		Uri_t3_22_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(627);
 		Dictionary_2_t1_76_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(115);
-		Dictionary_2__ctor_m1_5467_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
+		Dictionary_2__ctor_m1_5462_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
 		_stringLiteral2172 = il2cpp_codegen_string_literal_from_index(2172);
 		_stringLiteral2115 = il2cpp_codegen_string_literal_from_index(2115);
 		_stringLiteral2114 = il2cpp_codegen_string_literal_from_index(2114);
@@ -22092,7 +22092,7 @@ extern "C" bool Uri_CompactEscaped_m3_874 (Object_t * __this /* static, unused *
 	}
 	{
 		Dictionary_2_t1_76 * L_3 = (Dictionary_2_t1_76 *)il2cpp_codegen_object_new (Dictionary_2_t1_76_il2cpp_TypeInfo_var);
-		Dictionary_2__ctor_m1_5467(L_3, 5, /*hidden argument*/Dictionary_2__ctor_m1_5467_MethodInfo_var);
+		Dictionary_2__ctor_m1_5462(L_3, 5, /*hidden argument*/Dictionary_2__ctor_m1_5462_MethodInfo_var);
 		V_1 = L_3;
 		Dictionary_2_t1_76 * L_4 = V_1;
 		NullCheck(L_4);
@@ -22211,7 +22211,7 @@ extern "C" String_t* Uri_Reduce_m3_875 (Object_t * __this /* static, unused */, 
 IL_0012:
 	{
 		StringBuilder_t1_144 * L_3 = (StringBuilder_t1_144 *)il2cpp_codegen_object_new (StringBuilder_t1_144_il2cpp_TypeInfo_var);
-		StringBuilder__ctor_m1_4296(L_3, /*hidden argument*/NULL);
+		StringBuilder__ctor_m1_4291(L_3, /*hidden argument*/NULL);
 		V_0 = L_3;
 		bool L_4 = ___compact_escaped;
 		if (!L_4)
@@ -22254,7 +22254,7 @@ IL_0047:
 	{
 		StringBuilder_t1_144 * L_11 = V_0;
 		NullCheck(L_11);
-		StringBuilder_Append_m1_4317(L_11, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_11, ((int32_t)47), /*hidden argument*/NULL);
 		goto IL_00d8;
 	}
 
@@ -22316,7 +22316,7 @@ IL_009f:
 	{
 		StringBuilder_t1_144 * L_26 = V_0;
 		NullCheck(L_26);
-		StringBuilder_Append_m1_4317(L_26, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_26, ((int32_t)47), /*hidden argument*/NULL);
 		int32_t L_27 = V_1;
 		V_1 = ((int32_t)((int32_t)L_27+(int32_t)2));
 		goto IL_00b9;
@@ -22327,7 +22327,7 @@ IL_00b1:
 		StringBuilder_t1_144 * L_28 = V_0;
 		uint16_t L_29 = V_2;
 		NullCheck(L_28);
-		StringBuilder_Append_m1_4317(L_28, L_29, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_28, L_29, /*hidden argument*/NULL);
 	}
 
 IL_00b9:
@@ -22340,7 +22340,7 @@ IL_00be:
 		StringBuilder_t1_144 * L_30 = V_0;
 		uint16_t L_31 = V_2;
 		NullCheck(L_30);
-		StringBuilder_Append_m1_4317(L_30, L_31, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_30, L_31, /*hidden argument*/NULL);
 	}
 
 IL_00c6:
@@ -22353,7 +22353,7 @@ IL_00cb:
 		StringBuilder_t1_144 * L_32 = V_0;
 		uint16_t L_33 = V_2;
 		NullCheck(L_32);
-		StringBuilder_Append_m1_4317(L_32, L_33, /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_32, L_33, /*hidden argument*/NULL);
 		goto IL_00d8;
 	}
 
@@ -22377,7 +22377,7 @@ IL_00dc:
 	{
 		StringBuilder_t1_144 * L_38 = V_0;
 		NullCheck(L_38);
-		String_t* L_39 = StringBuilder_ToString_m1_4308(L_38, /*hidden argument*/NULL);
+		String_t* L_39 = StringBuilder_ToString_m1_4303(L_38, /*hidden argument*/NULL);
 		___path = L_39;
 		goto IL_0101;
 	}
@@ -22523,7 +22523,7 @@ IL_01c2:
 	{
 		StringBuilder_t1_144 * L_73 = V_0;
 		NullCheck(L_73);
-		StringBuilder_set_Length_m1_4305(L_73, 0, /*hidden argument*/NULL);
+		StringBuilder_set_Length_m1_4300(L_73, 0, /*hidden argument*/NULL);
 		String_t* L_74 = ___path;
 		NullCheck(L_74);
 		uint16_t L_75 = String_get_Chars_m1_344(L_74, 0, /*hidden argument*/NULL);
@@ -22535,7 +22535,7 @@ IL_01c2:
 	{
 		StringBuilder_t1_144 * L_76 = V_0;
 		NullCheck(L_76);
-		StringBuilder_Append_m1_4317(L_76, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_76, ((int32_t)47), /*hidden argument*/NULL);
 	}
 
 IL_01e0:
@@ -22577,7 +22577,7 @@ IL_020e:
 		{
 			StringBuilder_t1_144 * L_82 = V_0;
 			NullCheck(L_82);
-			StringBuilder_Append_m1_4317(L_82, ((int32_t)47), /*hidden argument*/NULL);
+			StringBuilder_Append_m1_4312(L_82, ((int32_t)47), /*hidden argument*/NULL);
 		}
 
 IL_0217:
@@ -22585,7 +22585,7 @@ IL_0217:
 			StringBuilder_t1_144 * L_83 = V_0;
 			String_t* L_84 = V_11;
 			NullCheck(L_83);
-			StringBuilder_Append_m1_4313(L_83, L_84, /*hidden argument*/NULL);
+			StringBuilder_Append_m1_4308(L_83, L_84, /*hidden argument*/NULL);
 		}
 
 IL_0220:
@@ -22654,14 +22654,14 @@ IL_0247:
 	{
 		StringBuilder_t1_144 * L_92 = V_0;
 		NullCheck(L_92);
-		StringBuilder_Append_m1_4317(L_92, ((int32_t)47), /*hidden argument*/NULL);
+		StringBuilder_Append_m1_4312(L_92, ((int32_t)47), /*hidden argument*/NULL);
 	}
 
 IL_0260:
 	{
 		StringBuilder_t1_144 * L_93 = V_0;
 		NullCheck(L_93);
-		String_t* L_94 = StringBuilder_ToString_m1_4308(L_93, /*hidden argument*/NULL);
+		String_t* L_94 = StringBuilder_ToString_m1_4303(L_93, /*hidden argument*/NULL);
 		return L_94;
 	}
 }
@@ -22710,7 +22710,7 @@ extern "C" uint16_t Uri_HexUnescapeMultiByte_m3_876 (Object_t * __this /* static
 	}
 	{
 		ArgumentException_t1_636 * L_2 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_2, _stringLiteral730, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_2, _stringLiteral730, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -22736,7 +22736,7 @@ IL_0014:
 IL_0029:
 	{
 		ArgumentOutOfRangeException_t1_684 * L_7 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_7, _stringLiteral144, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_7, _stringLiteral144, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_7);
 	}
 
@@ -23144,7 +23144,7 @@ IL_0011:
 // System.Boolean System.Uri::IsPredefinedScheme(System.String)
 extern TypeInfo* Uri_t3_22_il2cpp_TypeInfo_var;
 extern TypeInfo* Dictionary_2_t1_76_il2cpp_TypeInfo_var;
-extern const MethodInfo* Dictionary_2__ctor_m1_5467_MethodInfo_var;
+extern const MethodInfo* Dictionary_2__ctor_m1_5462_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2115;
 extern Il2CppCodeGenString* _stringLiteral2114;
 extern Il2CppCodeGenString* _stringLiteral2172;
@@ -23162,7 +23162,7 @@ extern "C" bool Uri_IsPredefinedScheme_m3_880 (Object_t * __this /* static, unus
 	{
 		Uri_t3_22_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(627);
 		Dictionary_2_t1_76_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(115);
-		Dictionary_2__ctor_m1_5467_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
+		Dictionary_2__ctor_m1_5462_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483658);
 		_stringLiteral2115 = il2cpp_codegen_string_literal_from_index(2115);
 		_stringLiteral2114 = il2cpp_codegen_string_literal_from_index(2114);
 		_stringLiteral2172 = il2cpp_codegen_string_literal_from_index(2172);
@@ -23197,7 +23197,7 @@ extern "C" bool Uri_IsPredefinedScheme_m3_880 (Object_t * __this /* static, unus
 	}
 	{
 		Dictionary_2_t1_76 * L_3 = (Dictionary_2_t1_76 *)il2cpp_codegen_object_new (Dictionary_2_t1_76_il2cpp_TypeInfo_var);
-		Dictionary_2__ctor_m1_5467(L_3, ((int32_t)10), /*hidden argument*/Dictionary_2__ctor_m1_5467_MethodInfo_var);
+		Dictionary_2__ctor_m1_5462(L_3, ((int32_t)10), /*hidden argument*/Dictionary_2__ctor_m1_5462_MethodInfo_var);
 		V_1 = L_3;
 		Dictionary_2_t1_76 * L_4 = V_1;
 		NullCheck(L_4);
@@ -23332,7 +23332,7 @@ extern "C" void Uri_EnsureAbsoluteUri_m3_882 (Uri_t3_22 * __this, const MethodIn
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, _stringLiteral2353, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, _stringLiteral2353, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -23363,7 +23363,7 @@ extern "C" void UriFormatException__ctor_m3_884 (UriFormatException_t3_148 * __t
 	}
 	{
 		String_t* L_0 = Locale_GetText_m3_0(NULL /*static, unused*/, _stringLiteral2354, /*hidden argument*/NULL);
-		FormatException__ctor_m1_5009(__this, L_0, /*hidden argument*/NULL);
+		FormatException__ctor_m1_5004(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -23372,7 +23372,7 @@ extern "C" void UriFormatException__ctor_m3_885 (UriFormatException_t3_148 * __t
 {
 	{
 		String_t* L_0 = ___message;
-		FormatException__ctor_m1_5009(__this, L_0, /*hidden argument*/NULL);
+		FormatException__ctor_m1_5004(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -23382,7 +23382,7 @@ extern "C" void UriFormatException__ctor_m3_886 (UriFormatException_t3_148 * __t
 	{
 		SerializationInfo_t1_176 * L_0 = ___info;
 		StreamingContext_t1_504  L_1 = ___context;
-		FormatException__ctor_m1_5010(__this, L_0, L_1, /*hidden argument*/NULL);
+		FormatException__ctor_m1_5005(__this, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -23626,7 +23626,7 @@ IL_000b:
 		Object_t * L_34 = ((UriParser_t3_144_StaticFields*)UriParser_t3_144_il2cpp_TypeInfo_var->static_fields)->___lock_object_0;
 		V_1 = L_34;
 		Object_t * L_35 = V_1;
-		Monitor_Enter_m1_4449(NULL /*static, unused*/, L_35, /*hidden argument*/NULL);
+		Monitor_Enter_m1_4444(NULL /*static, unused*/, L_35, /*hidden argument*/NULL);
 	}
 
 IL_00e6:
@@ -23668,7 +23668,7 @@ IL_00fd:
 FINALLY_0102:
 	{ // begin finally (depth: 1)
 		Object_t * L_38 = V_1;
-		Monitor_Exit_m1_4450(NULL /*static, unused*/, L_38, /*hidden argument*/NULL);
+		Monitor_Exit_m1_4445(NULL /*static, unused*/, L_38, /*hidden argument*/NULL);
 		IL2CPP_END_FINALLY(258)
 	} // end finally (depth: 1)
 	IL2CPP_CLEANUP(258)

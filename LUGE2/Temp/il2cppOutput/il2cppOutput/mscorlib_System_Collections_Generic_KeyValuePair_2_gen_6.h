@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GUILayoutUtility/LayoutCache
-struct LayoutCache_t5_192;
+struct LayoutCache_t5_193;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -21,5 +21,5 @@ struct  KeyValuePair_2_t1_1272
 	// TKey System.Collections.Generic.KeyValuePair`2::key
 	int32_t ___key_0;
 	// TValue System.Collections.Generic.KeyValuePair`2::value
-	LayoutCache_t5_192 * ___value_1;
+	LayoutCache_t5_193 * ___value_1;
 };

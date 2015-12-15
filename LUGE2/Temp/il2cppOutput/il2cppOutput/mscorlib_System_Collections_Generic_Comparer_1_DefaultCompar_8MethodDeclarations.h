@@ -19,8 +19,8 @@ struct DefaultComparer_t1_1178;
 #include "UnityEngine_UnityEngine_Vector4.h"
 
 // System.Void System.Collections.Generic.Comparer`1/DefaultComparer<UnityEngine.Vector4>::.ctor()
-extern "C" void DefaultComparer__ctor_m1_7791_gshared (DefaultComparer_t1_1178 * __this, const MethodInfo* method);
-#define DefaultComparer__ctor_m1_7791(__this, method) (( void (*) (DefaultComparer_t1_1178 *, const MethodInfo*))DefaultComparer__ctor_m1_7791_gshared)(__this, method)
+extern "C" void DefaultComparer__ctor_m1_7786_gshared (DefaultComparer_t1_1178 * __this, const MethodInfo* method);
+#define DefaultComparer__ctor_m1_7786(__this, method) (( void (*) (DefaultComparer_t1_1178 *, const MethodInfo*))DefaultComparer__ctor_m1_7786_gshared)(__this, method)
 // System.Int32 System.Collections.Generic.Comparer`1/DefaultComparer<UnityEngine.Vector4>::Compare(T,T)
-extern "C" int32_t DefaultComparer_Compare_m1_7792_gshared (DefaultComparer_t1_1178 * __this, Vector4_t5_51  ___x, Vector4_t5_51  ___y, const MethodInfo* method);
-#define DefaultComparer_Compare_m1_7792(__this, ___x, ___y, method) (( int32_t (*) (DefaultComparer_t1_1178 *, Vector4_t5_51 , Vector4_t5_51 , const MethodInfo*))DefaultComparer_Compare_m1_7792_gshared)(__this, ___x, ___y, method)
+extern "C" int32_t DefaultComparer_Compare_m1_7787_gshared (DefaultComparer_t1_1178 * __this, Vector4_t5_51  ___x, Vector4_t5_51  ___y, const MethodInfo* method);
+#define DefaultComparer_Compare_m1_7787(__this, ___x, ___y, method) (( int32_t (*) (DefaultComparer_t1_1178 *, Vector4_t5_51 , Vector4_t5_51 , const MethodInfo*))DefaultComparer_Compare_m1_7787_gshared)(__this, ___x, ___y, method)

@@ -18,4 +18,4 @@ struct Object_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.GC::SuppressFinalize(System.Object)
-extern "C" void GC_SuppressFinalize_m1_5011 (Object_t * __this /* static, unused */, Object_t * ___obj, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GC_SuppressFinalize_m1_5006 (Object_t * __this /* static, unused */, Object_t * ___obj, const MethodInfo* method) IL2CPP_METHOD_ATTR;

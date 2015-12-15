@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.UILineInfo[]
-struct UILineInfoU5BU5D_t5_333;
+struct UILineInfoU5BU5D_t5_334;
 
 #include "mscorlib_System_Object.h"
 
@@ -19,7 +19,7 @@ struct UILineInfoU5BU5D_t5_333;
 struct  List_1_t1_882  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1::_items
-	UILineInfoU5BU5D_t5_333* ____items_1;
+	UILineInfoU5BU5D_t5_334* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
@@ -27,5 +27,5 @@ struct  List_1_t1_882  : public Object_t
 };
 struct List_1_t1_882_StaticFields{
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	UILineInfoU5BU5D_t5_333* ___EmptyArray_4;
+	UILineInfoU5BU5D_t5_334* ___EmptyArray_4;
 };

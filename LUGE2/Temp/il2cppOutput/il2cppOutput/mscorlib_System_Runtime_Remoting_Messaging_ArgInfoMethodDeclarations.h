@@ -23,6 +23,6 @@ struct ObjectU5BU5D_t1_156;
 #include "mscorlib_System_Runtime_Remoting_Messaging_ArgInfoType.h"
 
 // System.Void System.Runtime.Remoting.Messaging.ArgInfo::.ctor(System.Reflection.MethodBase,System.Runtime.Remoting.Messaging.ArgInfoType)
-extern "C" void ArgInfo__ctor_m1_3175 (ArgInfo_t1_430 * __this, MethodBase_t1_194 * ___method, uint8_t ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ArgInfo__ctor_m1_3170 (ArgInfo_t1_430 * __this, MethodBase_t1_194 * ___method, uint8_t ___type, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Object[] System.Runtime.Remoting.Messaging.ArgInfo::GetInOutArgs(System.Object[])
-extern "C" ObjectU5BU5D_t1_156* ArgInfo_GetInOutArgs_m1_3176 (ArgInfo_t1_430 * __this, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" ObjectU5BU5D_t1_156* ArgInfo_GetInOutArgs_m1_3171 (ArgInfo_t1_430 * __this, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method) IL2CPP_METHOD_ATTR;

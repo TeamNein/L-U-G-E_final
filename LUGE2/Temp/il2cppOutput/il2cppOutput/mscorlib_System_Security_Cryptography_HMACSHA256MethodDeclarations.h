@@ -20,6 +20,6 @@ struct ByteU5BU5D_t1_70;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.HMACSHA256::.ctor()
-extern "C" void HMACSHA256__ctor_m1_3777 (HMACSHA256_t1_562 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void HMACSHA256__ctor_m1_3772 (HMACSHA256_t1_562 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Security.Cryptography.HMACSHA256::.ctor(System.Byte[])
-extern "C" void HMACSHA256__ctor_m1_3778 (HMACSHA256_t1_562 * __this, ByteU5BU5D_t1_70* ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void HMACSHA256__ctor_m1_3773 (HMACSHA256_t1_562 * __this, ByteU5BU5D_t1_70* ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;
