@@ -6,7 +6,7 @@ public class ChunkInstancer : MonoBehaviour {
 	const float DIST_FROM_PLAYER_INST = 9f;
 	const float CHUNK_OFFSET = 9.9f;
 	const float PLAYER_OFFSET = 2.5f;
-	public Transform chunkPrefab;
+	public Transform[] chunkPrefabs;
 	public Transform previousChunk;
 	private int previousPos = -3;
 	public Transform[] letterPrefabs;
@@ -32,7 +32,8 @@ public class ChunkInstancer : MonoBehaviour {
 		previousPos = roundedPosition;
 		Vector3 newPosition = previousChunk.position;
 		newPosition.y += CHUNK_OFFSET;
-		
+
+		Transform chunkPrefab = chunkPrefabs [(int)Random.Range (0, chunkPrefabs.Length)];
 		Transform newChunk = Instantiate(chunkPrefab, newPosition, Quaternion.identity) as Transform;
 		newChunk.name = "Chunk " + chunkCounter++;
 
