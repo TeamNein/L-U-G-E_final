@@ -20,6 +20,6 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Serialization.FormerlySerializedAsAttribute::.ctor(System.String)
-extern "C" void FormerlySerializedAsAttribute__ctor_m5_1776 (FormerlySerializedAsAttribute_t5_279 * __this, String_t* ___oldName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void FormerlySerializedAsAttribute__ctor_m5_1774 (FormerlySerializedAsAttribute_t5_279 * __this, String_t* ___oldName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String UnityEngine.Serialization.FormerlySerializedAsAttribute::get_oldName()
-extern "C" String_t* FormerlySerializedAsAttribute_get_oldName_m5_1777 (FormerlySerializedAsAttribute_t5_279 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* FormerlySerializedAsAttribute_get_oldName_m5_1775 (FormerlySerializedAsAttribute_t5_279 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

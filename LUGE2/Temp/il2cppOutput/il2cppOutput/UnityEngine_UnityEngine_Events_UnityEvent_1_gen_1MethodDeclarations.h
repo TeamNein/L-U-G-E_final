@@ -28,23 +28,23 @@ struct BaseInvokableCall_t5_264;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Events.UnityEvent`1<System.Single>::.ctor()
-extern "C" void UnityEvent_1__ctor_m5_1806_gshared (UnityEvent_1_t5_312 * __this, const MethodInfo* method);
-#define UnityEvent_1__ctor_m5_1806(__this, method) (( void (*) (UnityEvent_1_t5_312 *, const MethodInfo*))UnityEvent_1__ctor_m5_1806_gshared)(__this, method)
+extern "C" void UnityEvent_1__ctor_m5_1804_gshared (UnityEvent_1_t5_312 * __this, const MethodInfo* method);
+#define UnityEvent_1__ctor_m5_1804(__this, method) (( void (*) (UnityEvent_1_t5_312 *, const MethodInfo*))UnityEvent_1__ctor_m5_1804_gshared)(__this, method)
 // System.Void UnityEngine.Events.UnityEvent`1<System.Single>::AddListener(UnityEngine.Events.UnityAction`1<T0>)
-extern "C" void UnityEvent_1_AddListener_m5_1808_gshared (UnityEvent_1_t5_312 * __this, UnityAction_1_t5_321 * ___call, const MethodInfo* method);
-#define UnityEvent_1_AddListener_m5_1808(__this, ___call, method) (( void (*) (UnityEvent_1_t5_312 *, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_AddListener_m5_1808_gshared)(__this, ___call, method)
+extern "C" void UnityEvent_1_AddListener_m5_1806_gshared (UnityEvent_1_t5_312 * __this, UnityAction_1_t5_321 * ___call, const MethodInfo* method);
+#define UnityEvent_1_AddListener_m5_1806(__this, ___call, method) (( void (*) (UnityEvent_1_t5_312 *, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_AddListener_m5_1806_gshared)(__this, ___call, method)
 // System.Void UnityEngine.Events.UnityEvent`1<System.Single>::RemoveListener(UnityEngine.Events.UnityAction`1<T0>)
-extern "C" void UnityEvent_1_RemoveListener_m5_1854_gshared (UnityEvent_1_t5_312 * __this, UnityAction_1_t5_321 * ___call, const MethodInfo* method);
-#define UnityEvent_1_RemoveListener_m5_1854(__this, ___call, method) (( void (*) (UnityEvent_1_t5_312 *, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_RemoveListener_m5_1854_gshared)(__this, ___call, method)
+extern "C" void UnityEvent_1_RemoveListener_m5_1852_gshared (UnityEvent_1_t5_312 * __this, UnityAction_1_t5_321 * ___call, const MethodInfo* method);
+#define UnityEvent_1_RemoveListener_m5_1852(__this, ___call, method) (( void (*) (UnityEvent_1_t5_312 *, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_RemoveListener_m5_1852_gshared)(__this, ___call, method)
 // System.Reflection.MethodInfo UnityEngine.Events.UnityEvent`1<System.Single>::FindMethod_Impl(System.String,System.Object)
-extern "C" MethodInfo_t * UnityEvent_1_FindMethod_Impl_m5_2019_gshared (UnityEvent_1_t5_312 * __this, String_t* ___name, Object_t * ___targetObj, const MethodInfo* method);
-#define UnityEvent_1_FindMethod_Impl_m5_2019(__this, ___name, ___targetObj, method) (( MethodInfo_t * (*) (UnityEvent_1_t5_312 *, String_t*, Object_t *, const MethodInfo*))UnityEvent_1_FindMethod_Impl_m5_2019_gshared)(__this, ___name, ___targetObj, method)
+extern "C" MethodInfo_t * UnityEvent_1_FindMethod_Impl_m5_2017_gshared (UnityEvent_1_t5_312 * __this, String_t* ___name, Object_t * ___targetObj, const MethodInfo* method);
+#define UnityEvent_1_FindMethod_Impl_m5_2017(__this, ___name, ___targetObj, method) (( MethodInfo_t * (*) (UnityEvent_1_t5_312 *, String_t*, Object_t *, const MethodInfo*))UnityEvent_1_FindMethod_Impl_m5_2017_gshared)(__this, ___name, ___targetObj, method)
 // UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEvent`1<System.Single>::GetDelegate(System.Object,System.Reflection.MethodInfo)
-extern "C" BaseInvokableCall_t5_264 * UnityEvent_1_GetDelegate_m5_2020_gshared (UnityEvent_1_t5_312 * __this, Object_t * ___target, MethodInfo_t * ___theFunction, const MethodInfo* method);
-#define UnityEvent_1_GetDelegate_m5_2020(__this, ___target, ___theFunction, method) (( BaseInvokableCall_t5_264 * (*) (UnityEvent_1_t5_312 *, Object_t *, MethodInfo_t *, const MethodInfo*))UnityEvent_1_GetDelegate_m5_2020_gshared)(__this, ___target, ___theFunction, method)
+extern "C" BaseInvokableCall_t5_264 * UnityEvent_1_GetDelegate_m5_2018_gshared (UnityEvent_1_t5_312 * __this, Object_t * ___target, MethodInfo_t * ___theFunction, const MethodInfo* method);
+#define UnityEvent_1_GetDelegate_m5_2018(__this, ___target, ___theFunction, method) (( BaseInvokableCall_t5_264 * (*) (UnityEvent_1_t5_312 *, Object_t *, MethodInfo_t *, const MethodInfo*))UnityEvent_1_GetDelegate_m5_2018_gshared)(__this, ___target, ___theFunction, method)
 // UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEvent`1<System.Single>::GetDelegate(UnityEngine.Events.UnityAction`1<T0>)
-extern "C" BaseInvokableCall_t5_264 * UnityEvent_1_GetDelegate_m5_2021_gshared (Object_t * __this /* static, unused */, UnityAction_1_t5_321 * ___action, const MethodInfo* method);
-#define UnityEvent_1_GetDelegate_m5_2021(__this /* static, unused */, ___action, method) (( BaseInvokableCall_t5_264 * (*) (Object_t * /* static, unused */, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_GetDelegate_m5_2021_gshared)(__this /* static, unused */, ___action, method)
+extern "C" BaseInvokableCall_t5_264 * UnityEvent_1_GetDelegate_m5_2019_gshared (Object_t * __this /* static, unused */, UnityAction_1_t5_321 * ___action, const MethodInfo* method);
+#define UnityEvent_1_GetDelegate_m5_2019(__this /* static, unused */, ___action, method) (( BaseInvokableCall_t5_264 * (*) (Object_t * /* static, unused */, UnityAction_1_t5_321 *, const MethodInfo*))UnityEvent_1_GetDelegate_m5_2019_gshared)(__this /* static, unused */, ___action, method)
 // System.Void UnityEngine.Events.UnityEvent`1<System.Single>::Invoke(T0)
-extern "C" void UnityEvent_1_Invoke_m5_1807_gshared (UnityEvent_1_t5_312 * __this, float ___arg0, const MethodInfo* method);
-#define UnityEvent_1_Invoke_m5_1807(__this, ___arg0, method) (( void (*) (UnityEvent_1_t5_312 *, float, const MethodInfo*))UnityEvent_1_Invoke_m5_1807_gshared)(__this, ___arg0, method)
+extern "C" void UnityEvent_1_Invoke_m5_1805_gshared (UnityEvent_1_t5_312 * __this, float ___arg0, const MethodInfo* method);
+#define UnityEvent_1_Invoke_m5_1805(__this, ___arg0, method) (( void (*) (UnityEvent_1_t5_312 *, float, const MethodInfo*))UnityEvent_1_Invoke_m5_1805_gshared)(__this, ___arg0, method)

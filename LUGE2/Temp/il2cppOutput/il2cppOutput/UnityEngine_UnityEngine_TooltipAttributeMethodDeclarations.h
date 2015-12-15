@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.TooltipAttribute::.ctor(System.String)
-extern "C" void TooltipAttribute__ctor_m5_1669 (TooltipAttribute_t5_253 * __this, String_t* ___tooltip, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TooltipAttribute__ctor_m5_1667 (TooltipAttribute_t5_253 * __this, String_t* ___tooltip, const MethodInfo* method) IL2CPP_METHOD_ATTR;

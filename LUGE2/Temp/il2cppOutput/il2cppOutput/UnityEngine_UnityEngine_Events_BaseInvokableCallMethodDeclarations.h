@@ -24,8 +24,8 @@ struct Delegate_t1_22;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Events.BaseInvokableCall::.ctor()
-extern "C" void BaseInvokableCall__ctor_m5_1715 (BaseInvokableCall_t5_264 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BaseInvokableCall__ctor_m5_1713 (BaseInvokableCall_t5_264 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Events.BaseInvokableCall::.ctor(System.Object,System.Reflection.MethodInfo)
-extern "C" void BaseInvokableCall__ctor_m5_1716 (BaseInvokableCall_t5_264 * __this, Object_t * ___target, MethodInfo_t * ___function, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BaseInvokableCall__ctor_m5_1714 (BaseInvokableCall_t5_264 * __this, Object_t * ___target, MethodInfo_t * ___function, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Events.BaseInvokableCall::AllowInvoke(System.Delegate)
-extern "C" bool BaseInvokableCall_AllowInvoke_m5_1717 (Object_t * __this /* static, unused */, Delegate_t1_22 * ___delegate, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool BaseInvokableCall_AllowInvoke_m5_1715 (Object_t * __this /* static, unused */, Delegate_t1_22 * ___delegate, const MethodInfo* method) IL2CPP_METHOD_ATTR;

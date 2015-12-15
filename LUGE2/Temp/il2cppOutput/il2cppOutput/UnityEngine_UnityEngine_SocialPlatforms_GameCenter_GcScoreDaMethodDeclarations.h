@@ -19,7 +19,7 @@ struct Score_t5_241;
 #include "UnityEngine_UnityEngine_SocialPlatforms_GameCenter_GcScoreDa.h"
 
 // UnityEngine.SocialPlatforms.Impl.Score UnityEngine.SocialPlatforms.GameCenter.GcScoreData::ToScore()
-extern "C" Score_t5_241 * GcScoreData_ToScore_m5_1601 (GcScoreData_t5_231 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Score_t5_241 * GcScoreData_ToScore_m5_1599 (GcScoreData_t5_231 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 extern "C" void GcScoreData_t5_231_marshal(const GcScoreData_t5_231& unmarshaled, GcScoreData_t5_231_marshaled& marshaled);
 extern "C" void GcScoreData_t5_231_marshal_back(const GcScoreData_t5_231_marshaled& marshaled, GcScoreData_t5_231& unmarshaled);
 extern "C" void GcScoreData_t5_231_marshal_cleanup(GcScoreData_t5_231_marshaled& marshaled);

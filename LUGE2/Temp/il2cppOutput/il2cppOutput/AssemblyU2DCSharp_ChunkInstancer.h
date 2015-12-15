@@ -10,10 +10,10 @@
 
 #include <stdint.h>
 
-// UnityEngine.Transform
-struct Transform_t5_71;
 // UnityEngine.Transform[]
 struct TransformU5BU5D_t5_324;
+// UnityEngine.Transform
+struct Transform_t5_71;
 // UnityEngine.Material[]
 struct MaterialU5BU5D_t5_325;
 
@@ -22,8 +22,8 @@ struct MaterialU5BU5D_t5_325;
 // ChunkInstancer
 struct  ChunkInstancer_t7_2  : public MonoBehaviour_t5_93
 {
-	// UnityEngine.Transform ChunkInstancer::chunkPrefab
-	Transform_t5_71 * ___chunkPrefab_5;
+	// UnityEngine.Transform[] ChunkInstancer::chunkPrefabs
+	TransformU5BU5D_t5_324* ___chunkPrefabs_5;
 	// UnityEngine.Transform ChunkInstancer::previousChunk
 	Transform_t5_71 * ___previousChunk_6;
 	// System.Int32 ChunkInstancer::previousPos

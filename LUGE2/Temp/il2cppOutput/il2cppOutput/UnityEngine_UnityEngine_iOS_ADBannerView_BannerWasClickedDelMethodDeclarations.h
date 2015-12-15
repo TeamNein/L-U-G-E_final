@@ -25,11 +25,11 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void BannerWasClickedDelegate__ctor_m5_845 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BannerWasClickedDelegate__ctor_m5_843 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::Invoke()
-extern "C" void BannerWasClickedDelegate_Invoke_m5_846 (BannerWasClickedDelegate_t5_105 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BannerWasClickedDelegate_Invoke_m5_844 (BannerWasClickedDelegate_t5_105 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 extern "C" void pinvoke_delegate_wrapper_BannerWasClickedDelegate_t5_105(Il2CppObject* delegate);
 // System.IAsyncResult UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * BannerWasClickedDelegate_BeginInvoke_m5_847 (BannerWasClickedDelegate_t5_105 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * BannerWasClickedDelegate_BeginInvoke_m5_845 (BannerWasClickedDelegate_t5_105 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void BannerWasClickedDelegate_EndInvoke_m5_848 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BannerWasClickedDelegate_EndInvoke_m5_846 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;

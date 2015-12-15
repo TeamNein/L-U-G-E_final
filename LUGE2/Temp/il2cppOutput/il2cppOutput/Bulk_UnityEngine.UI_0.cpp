@@ -834,10 +834,10 @@ struct SliderEvent_t6_124;
 #include "UnityEngine_UI_UnityEngine_UI_Slider_AxisMethodDeclarations.h"
 
 // System.Void UnityEngine.Component::GetComponents<System.Object>(System.Collections.Generic.List`1<!!0>)
-extern "C" void Component_GetComponents_TisObject_t_m5_1858_gshared (Component_t5_25 * __this, List_1_t1_948 * p0, const MethodInfo* method);
-#define Component_GetComponents_TisObject_t_m5_1858(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_948 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1858_gshared)(__this, p0, method)
+extern "C" void Component_GetComponents_TisObject_t_m5_1856_gshared (Component_t5_25 * __this, List_1_t1_948 * p0, const MethodInfo* method);
+#define Component_GetComponents_TisObject_t_m5_1856(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_948 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1856_gshared)(__this, p0, method)
 // System.Void UnityEngine.Component::GetComponents<UnityEngine.EventSystems.BaseInputModule>(System.Collections.Generic.List`1<!!0>)
-#define Component_GetComponents_TisBaseInputModule_t6_4_m5_1796(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_906 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1858_gshared)(__this, p0, method)
+#define Component_GetComponents_TisBaseInputModule_t6_4_m5_1794(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_906 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1856_gshared)(__this, p0, method)
 // System.Boolean UnityEngine.EventSystems.ExecuteEvents::Execute<System.Object>(UnityEngine.GameObject,UnityEngine.EventSystems.BaseEventData,UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<!!0>)
 extern "C" bool ExecuteEvents_Execute_TisObject_t_m6_1508_gshared (Object_t * __this /* static, unused */, GameObject_t5_101 * p0, BaseEventData_t6_5 * p1, EventFunction_1_t6_188 * p2, const MethodInfo* method);
 #define ExecuteEvents_Execute_TisObject_t_m6_1508(__this /* static, unused */, p0, p1, p2, method) (( bool (*) (Object_t * /* static, unused */, GameObject_t5_101 *, BaseEventData_t6_5 *, EventFunction_1_t6_188 *, const MethodInfo*))ExecuteEvents_Execute_TisObject_t_m6_1508_gshared)(__this /* static, unused */, p0, p1, p2, method)
@@ -853,12 +853,12 @@ extern "C" Object_t * ExecuteEvents_ValidateEventData_TisObject_t_m6_1509_gshare
 // !!0 UnityEngine.EventSystems.ExecuteEvents::ValidateEventData<UnityEngine.EventSystems.AxisEventData>(UnityEngine.EventSystems.BaseEventData)
 #define ExecuteEvents_ValidateEventData_TisAxisEventData_t6_33_m6_1445(__this /* static, unused */, p0, method) (( AxisEventData_t6_33 * (*) (Object_t * /* static, unused */, BaseEventData_t6_5 *, const MethodInfo*))ExecuteEvents_ValidateEventData_TisObject_t_m6_1509_gshared)(__this /* static, unused */, p0, method)
 // !!0 UnityEngine.Component::GetComponent<System.Object>()
-extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1795_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponent_TisObject_t_m5_1795(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1793_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponent_TisObject_t_m5_1793(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Camera>()
-#define Component_GetComponent_TisCamera_t5_86_m5_1800(__this, method) (( Camera_t5_86 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisCamera_t5_86_m5_1798(__this, method) (( Camera_t5_86 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.EventSystems.EventSystem>()
-#define Component_GetComponent_TisEventSystem_t6_2_m5_1801(__this, method) (( EventSystem_t6_2 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisEventSystem_t6_2_m5_1799(__this, method) (( EventSystem_t6_2 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Boolean UnityEngine.EventSystems.ExecuteEvents::Execute<UnityEngine.EventSystems.IPointerExitHandler>(UnityEngine.GameObject,UnityEngine.EventSystems.BaseEventData,UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<!!0>)
 #define ExecuteEvents_Execute_TisIPointerExitHandler_t6_161_m6_1446(__this /* static, unused */, p0, p1, p2, method) (( bool (*) (Object_t * /* static, unused */, GameObject_t5_101 *, BaseEventData_t6_5 *, EventFunction_1_t6_12 *, const MethodInfo*))ExecuteEvents_Execute_TisObject_t_m6_1508_gshared)(__this /* static, unused */, p0, p1, p2, method)
 // System.Boolean UnityEngine.EventSystems.ExecuteEvents::Execute<UnityEngine.EventSystems.IPointerEnterHandler>(UnityEngine.GameObject,UnityEngine.EventSystems.BaseEventData,UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<!!0>)
@@ -906,56 +906,56 @@ extern "C" GameObject_t5_101 * ExecuteEvents_ExecuteHierarchy_TisObject_t_m6_151
 // System.Boolean UnityEngine.EventSystems.ExecuteEvents::Execute<UnityEngine.EventSystems.IUpdateSelectedHandler>(UnityEngine.GameObject,UnityEngine.EventSystems.BaseEventData,UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<!!0>)
 #define ExecuteEvents_Execute_TisIUpdateSelectedHandler_t6_171_m6_1465(__this /* static, unused */, p0, p1, p2, method) (( bool (*) (Object_t * /* static, unused */, GameObject_t5_101 *, BaseEventData_t6_5 *, EventFunction_1_t6_22 *, const MethodInfo*))ExecuteEvents_Execute_TisObject_t_m6_1508_gshared)(__this /* static, unused */, p0, p1, p2, method)
 // !!0 UnityEngine.GameObject::GetComponent<System.Object>()
-extern "C" Object_t * GameObject_GetComponent_TisObject_t_m5_1789_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
-#define GameObject_GetComponent_TisObject_t_m5_1789(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+extern "C" Object_t * GameObject_GetComponent_TisObject_t_m5_1787_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
+#define GameObject_GetComponent_TisObject_t_m5_1787(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.SpriteRenderer>()
-#define GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802(__this, method) (( SpriteRenderer_t5_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800(__this, method) (( SpriteRenderer_t5_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // System.Void System.Array::Sort<UnityEngine.RaycastHit>(!!0[],System.Comparison`1<!!0>)
 extern "C" void Array_Sort_TisRaycastHit_t5_134_m1_5540_gshared (Object_t * __this /* static, unused */, RaycastHitU5BU5D_t5_296* p0, Comparison_1_t1_915 * p1, const MethodInfo* method);
 #define Array_Sort_TisRaycastHit_t5_134_m1_5540(__this /* static, unused */, p0, p1, method) (( void (*) (Object_t * /* static, unused */, RaycastHitU5BU5D_t5_296*, Comparison_1_t1_915 *, const MethodInfo*))Array_Sort_TisRaycastHit_t5_134_m1_5540_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.GameObject::AddComponent<System.Object>()
-extern "C" Object_t * GameObject_AddComponent_TisObject_t_m5_1859_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
-#define GameObject_AddComponent_TisObject_t_m5_1859(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+extern "C" Object_t * GameObject_AddComponent_TisObject_t_m5_1857_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
+#define GameObject_AddComponent_TisObject_t_m5_1857(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.RectTransform>()
-#define GameObject_AddComponent_TisRectTransform_t5_70_m5_1809(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisRectTransform_t5_70_m5_1807(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.RectTransform>()
-#define GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Image>()
-#define GameObject_AddComponent_TisImage_t6_65_m5_1811(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisImage_t6_65_m5_1809(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Button>()
-#define GameObject_AddComponent_TisButton_t6_55_m5_1812(__this, method) (( Button_t6_55 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisButton_t6_55_m5_1810(__this, method) (( Button_t6_55 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Text>()
-#define GameObject_AddComponent_TisText_t6_64_m5_1813(__this, method) (( Text_t6_64 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisText_t6_64_m5_1811(__this, method) (( Text_t6_64 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.RawImage>()
-#define GameObject_AddComponent_TisRawImage_t6_108_m5_1814(__this, method) (( RawImage_t6_108 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisRawImage_t6_108_m5_1812(__this, method) (( RawImage_t6_108 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Slider>()
-#define GameObject_AddComponent_TisSlider_t6_126_m5_1815(__this, method) (( Slider_t6_126 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisSlider_t6_126_m5_1813(__this, method) (( Slider_t6_126 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Scrollbar>()
-#define GameObject_AddComponent_TisScrollbar_t6_114_m5_1816(__this, method) (( Scrollbar_t6_114 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisScrollbar_t6_114_m5_1814(__this, method) (( Scrollbar_t6_114 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Toggle>()
-#define GameObject_AddComponent_TisToggle_t6_66_m5_1817(__this, method) (( Toggle_t6_66 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisToggle_t6_66_m5_1815(__this, method) (( Toggle_t6_66 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.InputField>()
-#define GameObject_AddComponent_TisInputField_t6_99_m5_1818(__this, method) (( InputField_t6_99 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisInputField_t6_99_m5_1816(__this, method) (( InputField_t6_99 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Scrollbar>()
-#define GameObject_GetComponent_TisScrollbar_t6_114_m5_1819(__this, method) (( Scrollbar_t6_114 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisScrollbar_t6_114_m5_1817(__this, method) (( Scrollbar_t6_114 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.ScrollRect>()
-#define GameObject_AddComponent_TisScrollRect_t6_118_m5_1820(__this, method) (( ScrollRect_t6_118 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisScrollRect_t6_118_m5_1818(__this, method) (( ScrollRect_t6_118 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Mask>()
-#define GameObject_AddComponent_TisMask_t6_101_m5_1821(__this, method) (( Mask_t6_101 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisMask_t6_101_m5_1819(__this, method) (( Mask_t6_101 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Dropdown>()
-#define GameObject_AddComponent_TisDropdown_t6_71_m5_1822(__this, method) (( Dropdown_t6_71 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisDropdown_t6_71_m5_1820(__this, method) (( Dropdown_t6_71 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInParent<System.Object>()
-extern "C" Object_t * Component_GetComponentInParent_TisObject_t_m5_1860_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponentInParent_TisObject_t_m5_1860(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInParent_TisObject_t_m5_1860_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponentInParent_TisObject_t_m5_1858_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponentInParent_TisObject_t_m5_1858(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInParent_TisObject_t_m5_1858_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInParent<UnityEngine.UI.Dropdown>()
-#define Component_GetComponentInParent_TisDropdown_t6_71_m5_1823(__this, method) (( Dropdown_t6_71 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInParent_TisObject_t_m5_1860_gshared)(__this, method)
+#define Component_GetComponentInParent_TisDropdown_t6_71_m5_1821(__this, method) (( Dropdown_t6_71 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInParent_TisObject_t_m5_1858_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<System.Object>()
-extern "C" Object_t * Component_GetComponentInChildren_TisObject_t_m5_1861_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponentInChildren_TisObject_t_m5_1861(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponentInChildren_TisObject_t_m5_1859_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponentInChildren_TisObject_t_m5_1859(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<UnityEngine.UI.Toggle>()
-#define Component_GetComponentInChildren_TisToggle_t6_66_m5_1826(__this, method) (( Toggle_t6_66 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+#define Component_GetComponentInChildren_TisToggle_t6_66_m5_1824(__this, method) (( Toggle_t6_66 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Dropdown/DropdownItem>()
-#define GameObject_AddComponent_TisDropdownItem_t6_63_m5_1827(__this, method) (( DropdownItem_t6_63 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisDropdownItem_t6_63_m5_1825(__this, method) (( DropdownItem_t6_63 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.UI.Dropdown::GetOrAddComponent<System.Object>(UnityEngine.GameObject)
 extern "C" Object_t * Dropdown_GetOrAddComponent_TisObject_t_m6_1512_gshared (Object_t * __this /* static, unused */, GameObject_t5_101 * p0, const MethodInfo* method);
 #define Dropdown_GetOrAddComponent_TisObject_t_m6_1512(__this /* static, unused */, p0, method) (( Object_t * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))Dropdown_GetOrAddComponent_TisObject_t_m6_1512_gshared)(__this /* static, unused */, p0, method)
@@ -966,38 +966,38 @@ extern "C" Object_t * Dropdown_GetOrAddComponent_TisObject_t_m6_1512_gshared (Ob
 // !!0 UnityEngine.UI.Dropdown::GetOrAddComponent<UnityEngine.CanvasGroup>(UnityEngine.GameObject)
 #define Dropdown_GetOrAddComponent_TisCanvasGroup_t5_178_m6_1473(__this /* static, unused */, p0, method) (( CanvasGroup_t5_178 * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))Dropdown_GetOrAddComponent_TisObject_t_m6_1512_gshared)(__this /* static, unused */, p0, method)
 // System.Void UnityEngine.GameObject::GetComponentsInParent<System.Object>(System.Boolean,System.Collections.Generic.List`1<!!0>)
-extern "C" void GameObject_GetComponentsInParent_TisObject_t_m5_1862_gshared (GameObject_t5_101 * __this, bool p0, List_1_t1_948 * p1, const MethodInfo* method);
-#define GameObject_GetComponentsInParent_TisObject_t_m5_1862(__this, p0, p1, method) (( void (*) (GameObject_t5_101 *, bool, List_1_t1_948 *, const MethodInfo*))GameObject_GetComponentsInParent_TisObject_t_m5_1862_gshared)(__this, p0, p1, method)
+extern "C" void GameObject_GetComponentsInParent_TisObject_t_m5_1860_gshared (GameObject_t5_101 * __this, bool p0, List_1_t1_948 * p1, const MethodInfo* method);
+#define GameObject_GetComponentsInParent_TisObject_t_m5_1860(__this, p0, p1, method) (( void (*) (GameObject_t5_101 *, bool, List_1_t1_948 *, const MethodInfo*))GameObject_GetComponentsInParent_TisObject_t_m5_1860_gshared)(__this, p0, p1, method)
 // System.Void UnityEngine.GameObject::GetComponentsInParent<UnityEngine.Canvas>(System.Boolean,System.Collections.Generic.List`1<!!0>)
-#define GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828(__this, p0, p1, method) (( void (*) (GameObject_t5_101 *, bool, List_1_t1_942 *, const MethodInfo*))GameObject_GetComponentsInParent_TisObject_t_m5_1862_gshared)(__this, p0, p1, method)
+#define GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826(__this, p0, p1, method) (( void (*) (GameObject_t5_101 *, bool, List_1_t1_942 *, const MethodInfo*))GameObject_GetComponentsInParent_TisObject_t_m5_1860_gshared)(__this, p0, p1, method)
 // !!0 UnityEngine.GameObject::GetComponentInChildren<System.Object>()
-extern "C" Object_t * GameObject_GetComponentInChildren_TisObject_t_m5_1863_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
-#define GameObject_GetComponentInChildren_TisObject_t_m5_1863(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponentInChildren_TisObject_t_m5_1863_gshared)(__this, method)
+extern "C" Object_t * GameObject_GetComponentInChildren_TisObject_t_m5_1861_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
+#define GameObject_GetComponentInChildren_TisObject_t_m5_1861(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponentInChildren<UnityEngine.UI.Dropdown/DropdownItem>()
-#define GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1829(__this, method) (( DropdownItem_t6_63 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponentInChildren_TisObject_t_m5_1863_gshared)(__this, method)
+#define GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1827(__this, method) (( DropdownItem_t6_63 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.Canvas>()
-#define GameObject_AddComponent_TisCanvas_t5_177_m5_1832(__this, method) (( Canvas_t5_177 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisCanvas_t5_177_m5_1830(__this, method) (( Canvas_t5_177 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.Canvas>()
-#define GameObject_GetComponent_TisCanvas_t5_177_m5_1833(__this, method) (( Canvas_t5_177 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisCanvas_t5_177_m5_1831(__this, method) (( Canvas_t5_177 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.GraphicRaycaster>()
-#define GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1834(__this, method) (( GraphicRaycaster_t6_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1832(__this, method) (( GraphicRaycaster_t6_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.Object::Instantiate<System.Object>(!!0)
-extern "C" Object_t * Object_Instantiate_TisObject_t_m5_1864_gshared (Object_t * __this /* static, unused */, Object_t * p0, const MethodInfo* method);
-#define Object_Instantiate_TisObject_t_m5_1864(__this /* static, unused */, p0, method) (( Object_t * (*) (Object_t * /* static, unused */, Object_t *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1864_gshared)(__this /* static, unused */, p0, method)
+extern "C" Object_t * Object_Instantiate_TisObject_t_m5_1862_gshared (Object_t * __this /* static, unused */, Object_t * p0, const MethodInfo* method);
+#define Object_Instantiate_TisObject_t_m5_1862(__this /* static, unused */, p0, method) (( Object_t * (*) (Object_t * /* static, unused */, Object_t *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1862_gshared)(__this /* static, unused */, p0, method)
 // !!0 UnityEngine.Object::Instantiate<UnityEngine.GameObject>(!!0)
-#define Object_Instantiate_TisGameObject_t5_101_m5_1835(__this /* static, unused */, p0, method) (( GameObject_t5_101 * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1864_gshared)(__this /* static, unused */, p0, method)
+#define Object_Instantiate_TisGameObject_t5_101_m5_1833(__this /* static, unused */, p0, method) (( GameObject_t5_101 * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1862_gshared)(__this /* static, unused */, p0, method)
 // !!0 UnityEngine.Object::Instantiate<UnityEngine.UI.Dropdown/DropdownItem>(!!0)
-#define Object_Instantiate_TisDropdownItem_t6_63_m5_1836(__this /* static, unused */, p0, method) (( DropdownItem_t6_63 * (*) (Object_t * /* static, unused */, DropdownItem_t6_63 *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1864_gshared)(__this /* static, unused */, p0, method)
+#define Object_Instantiate_TisDropdownItem_t6_63_m5_1834(__this /* static, unused */, p0, method) (( DropdownItem_t6_63 * (*) (Object_t * /* static, unused */, DropdownItem_t6_63 *, const MethodInfo*))Object_Instantiate_TisObject_t_m5_1862_gshared)(__this /* static, unused */, p0, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.CanvasGroup>()
-#define GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837(__this, method) (( CanvasGroup_t5_178 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835(__this, method) (( CanvasGroup_t5_178 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.RectTransform>()
-#define Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.CanvasRenderer>()
-#define Component_GetComponent_TisCanvasRenderer_t5_179_m5_1840(__this, method) (( CanvasRenderer_t5_179 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisCanvasRenderer_t5_179_m5_1838(__this, method) (( CanvasRenderer_t5_179 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Void UnityEngine.Component::GetComponents<UnityEngine.Component>(System.Collections.Generic.List`1<!!0>)
-#define Component_GetComponents_TisComponent_t5_25_m5_1841(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_894 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1858_gshared)(__this, p0, method)
+#define Component_GetComponents_TisComponent_t5_25_m5_1839(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_894 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1856_gshared)(__this, p0, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Canvas>()
-#define Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetClass<System.Object>(!!0&,!!0)
 extern "C" bool SetPropertyUtility_SetClass_TisObject_t_m6_1513_gshared (Object_t * __this /* static, unused */, Object_t ** p0, Object_t * p1, const MethodInfo* method);
 #define SetPropertyUtility_SetClass_TisObject_t_m6_1513(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, Object_t **, Object_t *, const MethodInfo*))SetPropertyUtility_SetClass_TisObject_t_m6_1513_gshared)(__this /* static, unused */, p0, p1, method)
@@ -1047,18 +1047,18 @@ extern "C" bool SetPropertyUtility_SetStruct_TisCharacterValidation_t6_92_m6_149
 extern "C" bool SetPropertyUtility_SetStruct_TisChar_t1_15_m6_1500_gshared (Object_t * __this /* static, unused */, uint16_t* p0, uint16_t p1, const MethodInfo* method);
 #define SetPropertyUtility_SetStruct_TisChar_t1_15_m6_1500(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, uint16_t*, uint16_t, const MethodInfo*))SetPropertyUtility_SetStruct_TisChar_t1_15_m6_1500_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.CanvasRenderer>()
-#define GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1846(__this, method) (( CanvasRenderer_t5_179 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1844(__this, method) (( CanvasRenderer_t5_179 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.LayoutElement>()
-#define GameObject_AddComponent_TisLayoutElement_t6_150_m5_1847(__this, method) (( LayoutElement_t6_150 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisLayoutElement_t6_150_m5_1845(__this, method) (( LayoutElement_t6_150 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Graphic>()
-#define Component_GetComponent_TisGraphic_t6_76_m5_1848(__this, method) (( Graphic_t6_76 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisGraphic_t6_76_m5_1846(__this, method) (( Graphic_t6_76 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Mask>()
-#define Component_GetComponent_TisMask_t6_101_m5_1850(__this, method) (( Mask_t6_101 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisMask_t6_101_m5_1848(__this, method) (( Mask_t6_101 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Void UnityEngine.Component::GetComponentsInChildren<System.Object>(System.Collections.Generic.List`1<!!0>)
-extern "C" void Component_GetComponentsInChildren_TisObject_t_m5_1865_gshared (Component_t5_25 * __this, List_1_t1_948 * p0, const MethodInfo* method);
-#define Component_GetComponentsInChildren_TisObject_t_m5_1865(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_948 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1865_gshared)(__this, p0, method)
+extern "C" void Component_GetComponentsInChildren_TisObject_t_m5_1863_gshared (Component_t5_25 * __this, List_1_t1_948 * p0, const MethodInfo* method);
+#define Component_GetComponentsInChildren_TisObject_t_m5_1863(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_948 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1863_gshared)(__this, p0, method)
 // System.Void UnityEngine.Component::GetComponentsInChildren<UnityEngine.Component>(System.Collections.Generic.List`1<!!0>)
-#define Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_894 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1865_gshared)(__this, p0, method)
+#define Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_894 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1863_gshared)(__this, p0, method)
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetClass<UnityEngine.RectTransform>(!!0&,!!0)
 #define SetPropertyUtility_SetClass_TisRectTransform_t5_70_m6_1501(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, RectTransform_t5_70 **, RectTransform_t5_70 *, const MethodInfo*))SetPropertyUtility_SetClass_TisObject_t_m6_1513_gshared)(__this /* static, unused */, p0, p1, method)
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetStruct<UnityEngine.UI.Scrollbar/Direction>(!!0&,!!0)
@@ -1079,9 +1079,9 @@ extern "C" bool SetPropertyUtility_SetStruct_TisSpriteState_t6_121_m6_1506_gshar
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetClass<UnityEngine.UI.AnimationTriggers>(!!0&,!!0)
 #define SetPropertyUtility_SetClass_TisAnimationTriggers_t6_52_m6_1507(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, AnimationTriggers_t6_52 **, AnimationTriggers_t6_52 *, const MethodInfo*))SetPropertyUtility_SetClass_TisObject_t_m6_1513_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Animator>()
-#define Component_GetComponent_TisAnimator_t5_156_m5_1856(__this, method) (( Animator_t5_156 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisAnimator_t5_156_m5_1854(__this, method) (( Animator_t5_156 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Void UnityEngine.Component::GetComponents<UnityEngine.CanvasGroup>(System.Collections.Generic.List`1<!!0>)
-#define Component_GetComponents_TisCanvasGroup_t5_178_m5_1857(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_925 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1858_gshared)(__this, p0, method)
+#define Component_GetComponents_TisCanvasGroup_t5_178_m5_1855(__this, p0, method) (( void (*) (Component_t5_25 *, List_1_t1_925 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1856_gshared)(__this, p0, method)
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -1241,19 +1241,19 @@ extern "C" GameObject_t5_101 * EventSystem_get_lastSelectedGameObject_m6_12 (Eve
 	}
 }
 // System.Void UnityEngine.EventSystems.EventSystem::UpdateModules()
-extern const MethodInfo* Component_GetComponents_TisBaseInputModule_t6_4_m5_1796_MethodInfo_var;
+extern const MethodInfo* Component_GetComponents_TisBaseInputModule_t6_4_m5_1794_MethodInfo_var;
 extern "C" void EventSystem_UpdateModules_m6_13 (EventSystem_t6_2 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponents_TisBaseInputModule_t6_4_m5_1796_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483749);
+		Component_GetComponents_TisBaseInputModule_t6_4_m5_1794_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483749);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
 	{
 		List_1_t1_906 * L_0 = (__this->___m_SystemInputModules_2);
-		Component_GetComponents_TisBaseInputModule_t6_4_m5_1796(__this, L_0, /*hidden argument*/Component_GetComponents_TisBaseInputModule_t6_4_m5_1796_MethodInfo_var);
+		Component_GetComponents_TisBaseInputModule_t6_4_m5_1794(__this, L_0, /*hidden argument*/Component_GetComponents_TisBaseInputModule_t6_4_m5_1794_MethodInfo_var);
 		List_1_t1_906 * L_1 = (__this->___m_SystemInputModules_2);
 		NullCheck(L_1);
 		int32_t L_2 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseInputModule>::get_Count() */, L_1);
@@ -1267,7 +1267,7 @@ IL_001f:
 		int32_t L_4 = V_0;
 		NullCheck(L_3);
 		BaseInputModule_t6_4 * L_5 = (BaseInputModule_t6_4 *)VirtFuncInvoker1< BaseInputModule_t6_4 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseInputModule>::get_Item(System.Int32) */, L_3, L_4);
-		bool L_6 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0050;
@@ -1366,7 +1366,7 @@ IL_0021:
 		__this->___m_SelectionGuard_8 = 1;
 		GameObject_t5_101 * L_3 = ___selected;
 		GameObject_t5_101 * L_4 = (__this->___m_CurrentSelected_7);
-		bool L_5 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0041;
@@ -1443,7 +1443,7 @@ extern "C" int32_t EventSystem_RaycastComparer_m6_18 (Object_t * __this /* stati
 	{
 		BaseRaycaster_t6_32 * L_0 = ((&___lhs)->___module_1);
 		BaseRaycaster_t6_32 * L_1 = ((&___rhs)->___module_1);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_013d;
@@ -1453,7 +1453,7 @@ extern "C" int32_t EventSystem_RaycastComparer_m6_18 (Object_t * __this /* stati
 		BaseRaycaster_t6_32 * L_3 = ((&___lhs)->___module_1);
 		NullCheck(L_3);
 		Camera_t5_86 * L_4 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.BaseRaycaster::get_eventCamera() */, L_3);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_00c1;
@@ -1463,7 +1463,7 @@ extern "C" int32_t EventSystem_RaycastComparer_m6_18 (Object_t * __this /* stati
 		BaseRaycaster_t6_32 * L_6 = ((&___rhs)->___module_1);
 		NullCheck(L_6);
 		Camera_t5_86 * L_7 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.BaseRaycaster::get_eventCamera() */, L_6);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_00c1;
@@ -1694,7 +1694,7 @@ IL_0013:
 		BaseRaycaster_t6_32 * L_4 = (BaseRaycaster_t6_32 *)VirtFuncInvoker1< BaseRaycaster_t6_32 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseRaycaster>::get_Item(System.Int32) */, L_2, L_3);
 		V_2 = L_4;
 		BaseRaycaster_t6_32 * L_5 = V_2;
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_0032;
@@ -1763,7 +1763,7 @@ extern "C" bool EventSystem_IsPointerOverGameObject_m6_21 (EventSystem_t6_2 * __
 {
 	{
 		BaseInputModule_t6_4 * L_0 = (__this->___m_CurrentInputModule_3);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0013;
@@ -1796,7 +1796,7 @@ extern "C" void EventSystem_OnEnable_m6_22 (EventSystem_t6_2 * __this, const Met
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_0 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -1824,7 +1824,7 @@ extern "C" void EventSystem_OnDisable_m6_23 (EventSystem_t6_2 * __this, const Me
 	}
 	{
 		BaseInputModule_t6_4 * L_0 = (__this->___m_CurrentInputModule_3);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0023;
@@ -1841,7 +1841,7 @@ IL_0023:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_3 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, __this, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, __this, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0039;
@@ -1873,7 +1873,7 @@ IL_0007:
 		int32_t L_1 = V_0;
 		NullCheck(L_0);
 		BaseInputModule_t6_4 * L_2 = (BaseInputModule_t6_4 *)VirtFuncInvoker1< BaseInputModule_t6_4 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseInputModule>::get_Item(System.Int32) */, L_0, L_1);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_002f;
@@ -1927,7 +1927,7 @@ extern "C" void EventSystem_Update_m6_25 (EventSystem_t6_2 * __this, const Metho
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_0 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, __this, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, __this, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0011;
@@ -1972,7 +1972,7 @@ IL_0020:
 	{
 		BaseInputModule_t6_4 * L_9 = (__this->___m_CurrentInputModule_3);
 		BaseInputModule_t6_4 * L_10 = V_2;
-		bool L_11 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_005d;
@@ -2010,7 +2010,7 @@ IL_0066:
 IL_0077:
 	{
 		BaseInputModule_t6_4 * L_17 = (__this->___m_CurrentInputModule_3);
-		bool L_18 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_18 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_18)
 		{
 			goto IL_00cd;
@@ -2071,7 +2071,7 @@ IL_00cd:
 	}
 	{
 		BaseInputModule_t6_4 * L_30 = (__this->___m_CurrentInputModule_3);
-		bool L_31 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_30, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_31 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_30, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_31)
 		{
 			goto IL_00ef;
@@ -2094,7 +2094,7 @@ extern "C" void EventSystem_ChangeEventModule_m6_26 (EventSystem_t6_2 * __this, 
 	{
 		BaseInputModule_t6_4 * L_0 = (__this->___m_CurrentInputModule_3);
 		BaseInputModule_t6_4 * L_1 = ___module;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -2107,7 +2107,7 @@ extern "C" void EventSystem_ChangeEventModule_m6_26 (EventSystem_t6_2 * __this, 
 IL_0012:
 	{
 		BaseInputModule_t6_4 * L_3 = (__this->___m_CurrentInputModule_3);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_002e;
@@ -2122,7 +2122,7 @@ IL_0012:
 IL_002e:
 	{
 		BaseInputModule_t6_4 * L_6 = ___module;
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0040;
@@ -2180,7 +2180,7 @@ extern "C" String_t* EventSystem_ToString_m6_27 (EventSystem_t6_2 * __this, cons
 		StringBuilder_AppendLine_m1_4316(L_5, /*hidden argument*/NULL);
 		StringBuilder_t1_144 * L_6 = V_0;
 		BaseInputModule_t6_4 * L_7 = (__this->___m_CurrentInputModule_3);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B1_0 = L_6;
 		if (!L_8)
 		{
@@ -2214,17 +2214,17 @@ IL_0052:
 	}
 }
 // System.Void UnityEngine.EventSystems.EventTrigger/TriggerEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1797_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1795_MethodInfo_var;
 extern "C" void TriggerEvent__ctor_m6_28 (TriggerEvent_t6_6 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1797_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483753);
+		UnityEvent_1__ctor_m5_1795_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483753);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1797(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1797_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1795(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1795_MethodInfo_var);
 		return;
 	}
 }
@@ -2296,13 +2296,13 @@ extern "C" void EventTrigger_set_triggers_m6_32 (EventTrigger_t6_8 * __this, Lis
 	}
 }
 // System.Void UnityEngine.EventSystems.EventTrigger::Execute(UnityEngine.EventSystems.EventTriggerType,UnityEngine.EventSystems.BaseEventData)
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1798_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1796_MethodInfo_var;
 extern "C" void EventTrigger_Execute_m6_33 (EventTrigger_t6_8 * __this, int32_t ___id, BaseEventData_t6_5 * ___eventData, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1798_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483755);
+		UnityEvent_1_Invoke_m5_1796_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483755);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -2348,7 +2348,7 @@ IL_0013:
 		TriggerEvent_t6_6 * L_11 = (L_10->___callback_1);
 		BaseEventData_t6_5 * L_12 = ___eventData;
 		NullCheck(L_11);
-		UnityEvent_1_Invoke_m5_1798(L_11, L_12, /*hidden argument*/UnityEvent_1_Invoke_m5_1798_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1796(L_11, L_12, /*hidden argument*/UnityEvent_1_Invoke_m5_1796_MethodInfo_var);
 	}
 
 IL_0043:
@@ -2580,7 +2580,7 @@ extern const MethodInfo* EventFunction_1__ctor_m6_1441_MethodInfo_var;
 extern const MethodInfo* ExecuteEvents_Execute_m6_68_MethodInfo_var;
 extern const MethodInfo* EventFunction_1__ctor_m6_1442_MethodInfo_var;
 extern const MethodInfo* ExecuteEvents_U3Cs_HandlerListPoolU3Em__0_m6_87_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1799_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1797_MethodInfo_var;
 extern const MethodInfo* ObjectPool_1__ctor_m6_1443_MethodInfo_var;
 extern const MethodInfo* List_1__ctor_m1_5523_MethodInfo_var;
 extern "C" void ExecuteEvents__cctor_m6_51 (Object_t * __this /* static, unused */, const MethodInfo* method)
@@ -2644,7 +2644,7 @@ extern "C" void ExecuteEvents__cctor_m6_51 (Object_t * __this /* static, unused 
 		ExecuteEvents_Execute_m6_68_MethodInfo_var = il2cpp_codegen_method_info_from_index(140);
 		EventFunction_1__ctor_m6_1442_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483789);
 		ExecuteEvents_U3Cs_HandlerListPoolU3Em__0_m6_87_MethodInfo_var = il2cpp_codegen_method_info_from_index(142);
-		UnityAction_1__ctor_m5_1799_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483791);
+		UnityAction_1__ctor_m5_1797_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483791);
 		ObjectPool_1__ctor_m6_1443_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483792);
 		List_1__ctor_m1_5523_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483793);
 		s_Il2CppMethodIntialized = true;
@@ -2731,7 +2731,7 @@ extern "C" void ExecuteEvents__cctor_m6_51 (Object_t * __this /* static, unused 
 	{
 		IntPtr_t L_35 = { (void*)ExecuteEvents_U3Cs_HandlerListPoolU3Em__0_m6_87_MethodInfo_var };
 		UnityAction_1_t5_310 * L_36 = (UnityAction_1_t5_310 *)il2cpp_codegen_object_new (UnityAction_1_t5_310_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1799(L_36, NULL, L_35, /*hidden argument*/UnityAction_1__ctor_m5_1799_MethodInfo_var);
+		UnityAction_1__ctor_m5_1797(L_36, NULL, L_35, /*hidden argument*/UnityAction_1__ctor_m5_1797_MethodInfo_var);
 		((ExecuteEvents_t6_10_StaticFields*)ExecuteEvents_t6_10_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache13_19 = L_36;
 		G_B2_0 = G_B1_0;
 	}
@@ -3414,7 +3414,7 @@ extern "C" void ExecuteEvents_GetEventChain_m6_86 (Object_t * __this /* static, 
 		NullCheck(L_0);
 		InterfaceActionInvoker0::Invoke(3 /* System.Void System.Collections.Generic.ICollection`1<UnityEngine.Transform>::Clear() */, ICollection_1_t1_937_il2cpp_TypeInfo_var, L_0);
 		GameObject_t5_101 * L_1 = ___root;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0013;
@@ -3428,7 +3428,7 @@ IL_0013:
 	{
 		GameObject_t5_101 * L_3 = ___root;
 		NullCheck(L_3);
-		Transform_t5_71 * L_4 = GameObject_get_transform_m5_766(L_3, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = GameObject_get_transform_m5_764(L_3, /*hidden argument*/NULL);
 		V_0 = L_4;
 		goto IL_002d;
 	}
@@ -3441,14 +3441,14 @@ IL_001f:
 		InterfaceActionInvoker1< Transform_t5_71 * >::Invoke(2 /* System.Void System.Collections.Generic.ICollection`1<UnityEngine.Transform>::Add(!0) */, ICollection_1_t1_937_il2cpp_TypeInfo_var, L_5, L_6);
 		Transform_t5_71 * L_7 = V_0;
 		NullCheck(L_7);
-		Transform_t5_71 * L_8 = Transform_get_parent_m5_806(L_7, /*hidden argument*/NULL);
+		Transform_t5_71 * L_8 = Transform_get_parent_m5_804(L_7, /*hidden argument*/NULL);
 		V_0 = L_8;
 	}
 
 IL_002d:
 	{
 		Transform_t5_71 * L_9 = V_0;
-		bool L_10 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_10)
 		{
 			goto IL_001f;
@@ -3598,7 +3598,7 @@ extern "C" bool RaycastResult_get_isValid_m6_94 (RaycastResult_t6_31 * __this, c
 	int32_t G_B3_0 = 0;
 	{
 		BaseRaycaster_t6_32 * L_0 = (__this->___module_1);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001f;
@@ -3606,7 +3606,7 @@ extern "C" bool RaycastResult_get_isValid_m6_94 (RaycastResult_t6_31 * __this, c
 	}
 	{
 		GameObject_t5_101 * L_2 = RaycastResult_get_gameObject_m6_92(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B3_0 = ((int32_t)(L_3));
 		goto IL_0020;
 	}
@@ -3648,7 +3648,7 @@ extern TypeInfo* Single_t1_17_il2cpp_TypeInfo_var;
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* Vector3_t5_45_il2cpp_TypeInfo_var;
 extern TypeInfo* Vector2_t5_44_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2658;
 extern Il2CppCodeGenString* _stringLiteral2659;
 extern Il2CppCodeGenString* _stringLiteral2660;
@@ -3673,7 +3673,7 @@ extern "C" String_t* RaycastResult_ToString_m6_96 (RaycastResult_t6_31 * __this,
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		Vector3_t5_45_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(858);
 		Vector2_t5_44_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(857);
-		Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483797);
+		Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483797);
 		_stringLiteral2658 = il2cpp_codegen_string_literal_from_index(2658);
 		_stringLiteral2659 = il2cpp_codegen_string_literal_from_index(2659);
 		_stringLiteral2660 = il2cpp_codegen_string_literal_from_index(2660);
@@ -3734,7 +3734,7 @@ IL_0011:
 		ObjectU5BU5D_t1_156* L_9 = L_8;
 		BaseRaycaster_t6_32 * L_10 = (__this->___module_1);
 		NullCheck(L_10);
-		Camera_t5_86 * L_11 = Component_GetComponent_TisCamera_t5_86_m5_1800(L_10, /*hidden argument*/Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var);
+		Camera_t5_86 * L_11 = Component_GetComponent_TisCamera_t5_86_m5_1798(L_10, /*hidden argument*/Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var);
 		NullCheck(L_9);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_9, 5);
 		ArrayElementTypeCheck (L_9, L_11);
@@ -3975,7 +3975,7 @@ extern "C" void UIBehaviour_OnCanvasHierarchyChanged_m6_109 (UIBehaviour_t6_3 * 
 extern "C" bool UIBehaviour_IsDestroyed_m6_110 (UIBehaviour_t6_3 * __this, const MethodInfo* method)
 {
 	{
-		bool L_0 = Object_op_Equality_m5_720(NULL /*static, unused*/, __this, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_0 = Object_op_Equality_m5_718(NULL /*static, unused*/, __this, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -4489,7 +4489,7 @@ extern "C" Camera_t5_86 * PointerEventData_get_enterEventCamera_m6_165 (PointerE
 		RaycastResult_t6_31  L_0 = PointerEventData_get_pointerCurrentRaycast_m6_133(__this, /*hidden argument*/NULL);
 		V_0 = L_0;
 		BaseRaycaster_t6_32 * L_1 = ((&V_0)->___module_1);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_001f;
@@ -4525,7 +4525,7 @@ extern "C" Camera_t5_86 * PointerEventData_get_pressEventCamera_m6_166 (PointerE
 		RaycastResult_t6_31  L_0 = PointerEventData_get_pointerPressRaycast_m6_135(__this, /*hidden argument*/NULL);
 		V_0 = L_0;
 		BaseRaycaster_t6_32 * L_1 = ((&V_0)->___module_1);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_001f;
@@ -4565,7 +4565,7 @@ extern "C" void PointerEventData_set_pointerPress_m6_168 (PointerEventData_t6_37
 	{
 		GameObject_t5_101 * L_0 = (__this->___m_PointerPress_2);
 		GameObject_t5_101 * L_1 = ___value;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -4729,18 +4729,18 @@ extern "C" EventSystem_t6_2 * BaseInputModule_get_eventSystem_m6_171 (BaseInputM
 	}
 }
 // System.Void UnityEngine.EventSystems.BaseInputModule::OnEnable()
-extern const MethodInfo* Component_GetComponent_TisEventSystem_t6_2_m5_1801_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisEventSystem_t6_2_m5_1799_MethodInfo_var;
 extern "C" void BaseInputModule_OnEnable_m6_172 (BaseInputModule_t6_4 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisEventSystem_t6_2_m5_1801_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483800);
+		Component_GetComponent_TisEventSystem_t6_2_m5_1799_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483800);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
-		EventSystem_t6_2 * L_0 = Component_GetComponent_TisEventSystem_t6_2_m5_1801(__this, /*hidden argument*/Component_GetComponent_TisEventSystem_t6_2_m5_1801_MethodInfo_var);
+		EventSystem_t6_2 * L_0 = Component_GetComponent_TisEventSystem_t6_2_m5_1799(__this, /*hidden argument*/Component_GetComponent_TisEventSystem_t6_2_m5_1799_MethodInfo_var);
 		__this->___m_EventSystem_4 = L_0;
 		EventSystem_t6_2 * L_1 = (__this->___m_EventSystem_4);
 		NullCheck(L_1);
@@ -4785,7 +4785,7 @@ IL_0007:
 		RaycastResult_t6_31  L_2 = (RaycastResult_t6_31 )VirtFuncInvoker1< RaycastResult_t6_31 , int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>::get_Item(System.Int32) */, L_0, L_1);
 		V_1 = L_2;
 		GameObject_t5_101 * L_3 = RaycastResult_get_gameObject_m6_92((&V_1), /*hidden argument*/NULL);
-		bool L_4 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0026;
@@ -4916,7 +4916,7 @@ extern "C" GameObject_t5_101 * BaseInputModule_FindCommonRoot_m6_177 (Object_t *
 	Transform_t5_71 * V_1 = {0};
 	{
 		GameObject_t5_101 * L_0 = ___g1;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0018;
@@ -4924,7 +4924,7 @@ extern "C" GameObject_t5_101 * BaseInputModule_FindCommonRoot_m6_177 (Object_t *
 	}
 	{
 		GameObject_t5_101 * L_2 = ___g2;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001a;
@@ -4940,7 +4940,7 @@ IL_001a:
 	{
 		GameObject_t5_101 * L_4 = ___g1;
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = GameObject_get_transform_m5_766(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = GameObject_get_transform_m5_764(L_4, /*hidden argument*/NULL);
 		V_0 = L_5;
 		goto IL_005f;
 	}
@@ -4949,7 +4949,7 @@ IL_0026:
 	{
 		GameObject_t5_101 * L_6 = ___g2;
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = GameObject_get_transform_m5_766(L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = GameObject_get_transform_m5_764(L_6, /*hidden argument*/NULL);
 		V_1 = L_7;
 		goto IL_004c;
 	}
@@ -4958,7 +4958,7 @@ IL_0032:
 	{
 		Transform_t5_71 * L_8 = V_0;
 		Transform_t5_71 * L_9 = V_1;
-		bool L_10 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_8, L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0045;
@@ -4967,7 +4967,7 @@ IL_0032:
 	{
 		Transform_t5_71 * L_11 = V_0;
 		NullCheck(L_11);
-		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_724(L_11, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_722(L_11, /*hidden argument*/NULL);
 		return L_12;
 	}
 
@@ -4975,14 +4975,14 @@ IL_0045:
 	{
 		Transform_t5_71 * L_13 = V_1;
 		NullCheck(L_13);
-		Transform_t5_71 * L_14 = Transform_get_parent_m5_806(L_13, /*hidden argument*/NULL);
+		Transform_t5_71 * L_14 = Transform_get_parent_m5_804(L_13, /*hidden argument*/NULL);
 		V_1 = L_14;
 	}
 
 IL_004c:
 	{
 		Transform_t5_71 * L_15 = V_1;
-		bool L_16 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_15, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_16 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_15, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_16)
 		{
 			goto IL_0032;
@@ -4991,14 +4991,14 @@ IL_004c:
 	{
 		Transform_t5_71 * L_17 = V_0;
 		NullCheck(L_17);
-		Transform_t5_71 * L_18 = Transform_get_parent_m5_806(L_17, /*hidden argument*/NULL);
+		Transform_t5_71 * L_18 = Transform_get_parent_m5_804(L_17, /*hidden argument*/NULL);
 		V_0 = L_18;
 	}
 
 IL_005f:
 	{
 		Transform_t5_71 * L_19 = V_0;
-		bool L_20 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_19, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_20 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_19, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_20)
 		{
 			goto IL_0026;
@@ -5028,7 +5028,7 @@ extern "C" void BaseInputModule_HandlePointerExitAndEnter_m6_178 (BaseInputModul
 	Transform_t5_71 * V_3 = {0};
 	{
 		GameObject_t5_101 * L_0 = ___newEnterTarget;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_001d;
@@ -5038,7 +5038,7 @@ extern "C" void BaseInputModule_HandlePointerExitAndEnter_m6_178 (BaseInputModul
 		PointerEventData_t6_37 * L_2 = ___currentPointerData;
 		NullCheck(L_2);
 		GameObject_t5_101 * L_3 = PointerEventData_get_pointerEnter_m6_125(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0070;
@@ -5087,7 +5087,7 @@ IL_0040:
 		NullCheck(L_17);
 		VirtActionInvoker0::Invoke(23 /* System.Void System.Collections.Generic.List`1<UnityEngine.GameObject>::Clear() */, L_17);
 		GameObject_t5_101 * L_18 = ___newEnterTarget;
-		bool L_19 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_19 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_19)
 		{
 			goto IL_0070;
@@ -5107,7 +5107,7 @@ IL_0070:
 		NullCheck(L_22);
 		GameObject_t5_101 * L_23 = PointerEventData_get_pointerEnter_m6_125(L_22, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_24 = ___newEnterTarget;
-		bool L_25 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_23, L_24, /*hidden argument*/NULL);
+		bool L_25 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_23, L_24, /*hidden argument*/NULL);
 		if (!L_25)
 		{
 			goto IL_008d;
@@ -5115,7 +5115,7 @@ IL_0070:
 	}
 	{
 		GameObject_t5_101 * L_26 = ___newEnterTarget;
-		bool L_27 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_26, /*hidden argument*/NULL);
+		bool L_27 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_26, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_008d;
@@ -5136,7 +5136,7 @@ IL_008d:
 		PointerEventData_t6_37 * L_32 = ___currentPointerData;
 		NullCheck(L_32);
 		GameObject_t5_101 * L_33 = PointerEventData_get_pointerEnter_m6_125(L_32, /*hidden argument*/NULL);
-		bool L_34 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_33, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_34 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_33, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_34)
 		{
 			goto IL_0115;
@@ -5147,7 +5147,7 @@ IL_008d:
 		NullCheck(L_35);
 		GameObject_t5_101 * L_36 = PointerEventData_get_pointerEnter_m6_125(L_35, /*hidden argument*/NULL);
 		NullCheck(L_36);
-		Transform_t5_71 * L_37 = GameObject_get_transform_m5_766(L_36, /*hidden argument*/NULL);
+		Transform_t5_71 * L_37 = GameObject_get_transform_m5_764(L_36, /*hidden argument*/NULL);
 		V_2 = L_37;
 		goto IL_0109;
 	}
@@ -5155,7 +5155,7 @@ IL_008d:
 IL_00bc:
 	{
 		GameObject_t5_101 * L_38 = V_1;
-		bool L_39 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_38, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_39 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_38, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_39)
 		{
 			goto IL_00de;
@@ -5164,9 +5164,9 @@ IL_00bc:
 	{
 		GameObject_t5_101 * L_40 = V_1;
 		NullCheck(L_40);
-		Transform_t5_71 * L_41 = GameObject_get_transform_m5_766(L_40, /*hidden argument*/NULL);
+		Transform_t5_71 * L_41 = GameObject_get_transform_m5_764(L_40, /*hidden argument*/NULL);
 		Transform_t5_71 * L_42 = V_2;
-		bool L_43 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_41, L_42, /*hidden argument*/NULL);
+		bool L_43 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_41, L_42, /*hidden argument*/NULL);
 		if (!L_43)
 		{
 			goto IL_00de;
@@ -5180,7 +5180,7 @@ IL_00de:
 	{
 		Transform_t5_71 * L_44 = V_2;
 		NullCheck(L_44);
-		GameObject_t5_101 * L_45 = Component_get_gameObject_m5_724(L_44, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_45 = Component_get_gameObject_m5_722(L_44, /*hidden argument*/NULL);
 		PointerEventData_t6_37 * L_46 = ___currentPointerData;
 		IL2CPP_RUNTIME_CLASS_INIT(ExecuteEvents_t6_10_il2cpp_TypeInfo_var);
 		EventFunction_1_t6_12 * L_47 = ExecuteEvents_get_pointerExitHandler_m6_70(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -5190,19 +5190,19 @@ IL_00de:
 		List_1_t1_911 * L_49 = (L_48->___hovered_3);
 		Transform_t5_71 * L_50 = V_2;
 		NullCheck(L_50);
-		GameObject_t5_101 * L_51 = Component_get_gameObject_m5_724(L_50, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_51 = Component_get_gameObject_m5_722(L_50, /*hidden argument*/NULL);
 		NullCheck(L_49);
 		VirtFuncInvoker1< bool, GameObject_t5_101 * >::Invoke(26 /* System.Boolean System.Collections.Generic.List`1<UnityEngine.GameObject>::Remove(!0) */, L_49, L_51);
 		Transform_t5_71 * L_52 = V_2;
 		NullCheck(L_52);
-		Transform_t5_71 * L_53 = Transform_get_parent_m5_806(L_52, /*hidden argument*/NULL);
+		Transform_t5_71 * L_53 = Transform_get_parent_m5_804(L_52, /*hidden argument*/NULL);
 		V_2 = L_53;
 	}
 
 IL_0109:
 	{
 		Transform_t5_71 * L_54 = V_2;
-		bool L_55 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_55 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_55)
 		{
 			goto IL_00bc;
@@ -5216,7 +5216,7 @@ IL_0115:
 		NullCheck(L_56);
 		PointerEventData_set_pointerEnter_m6_126(L_56, L_57, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_58 = ___newEnterTarget;
-		bool L_59 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_58, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_59 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_58, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_59)
 		{
 			goto IL_017b;
@@ -5225,7 +5225,7 @@ IL_0115:
 	{
 		GameObject_t5_101 * L_60 = ___newEnterTarget;
 		NullCheck(L_60);
-		Transform_t5_71 * L_61 = GameObject_get_transform_m5_766(L_60, /*hidden argument*/NULL);
+		Transform_t5_71 * L_61 = GameObject_get_transform_m5_764(L_60, /*hidden argument*/NULL);
 		V_3 = L_61;
 		goto IL_015e;
 	}
@@ -5234,7 +5234,7 @@ IL_0134:
 	{
 		Transform_t5_71 * L_62 = V_3;
 		NullCheck(L_62);
-		GameObject_t5_101 * L_63 = Component_get_gameObject_m5_724(L_62, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_63 = Component_get_gameObject_m5_722(L_62, /*hidden argument*/NULL);
 		PointerEventData_t6_37 * L_64 = ___currentPointerData;
 		IL2CPP_RUNTIME_CLASS_INIT(ExecuteEvents_t6_10_il2cpp_TypeInfo_var);
 		EventFunction_1_t6_11 * L_65 = ExecuteEvents_get_pointerEnterHandler_m6_69(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -5244,19 +5244,19 @@ IL_0134:
 		List_1_t1_911 * L_67 = (L_66->___hovered_3);
 		Transform_t5_71 * L_68 = V_3;
 		NullCheck(L_68);
-		GameObject_t5_101 * L_69 = Component_get_gameObject_m5_724(L_68, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_69 = Component_get_gameObject_m5_722(L_68, /*hidden argument*/NULL);
 		NullCheck(L_67);
 		VirtActionInvoker1< GameObject_t5_101 * >::Invoke(22 /* System.Void System.Collections.Generic.List`1<UnityEngine.GameObject>::Add(!0) */, L_67, L_69);
 		Transform_t5_71 * L_70 = V_3;
 		NullCheck(L_70);
-		Transform_t5_71 * L_71 = Transform_get_parent_m5_806(L_70, /*hidden argument*/NULL);
+		Transform_t5_71 * L_71 = Transform_get_parent_m5_804(L_70, /*hidden argument*/NULL);
 		V_3 = L_71;
 	}
 
 IL_015e:
 	{
 		Transform_t5_71 * L_72 = V_3;
-		bool L_73 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_72, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_73 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_72, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_73)
 		{
 			goto IL_017b;
@@ -5265,9 +5265,9 @@ IL_015e:
 	{
 		Transform_t5_71 * L_74 = V_3;
 		NullCheck(L_74);
-		GameObject_t5_101 * L_75 = Component_get_gameObject_m5_724(L_74, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_75 = Component_get_gameObject_m5_722(L_74, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_76 = V_1;
-		bool L_77 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_75, L_76, /*hidden argument*/NULL);
+		bool L_77 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_75, L_76, /*hidden argument*/NULL);
 		if (L_77)
 		{
 			goto IL_0134;
@@ -5378,9 +5378,9 @@ extern "C" bool BaseInputModule_ShouldActivateModule_m6_182 (BaseInputModule_t6_
 		}
 	}
 	{
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		bool L_2 = GameObject_get_activeInHierarchy_m5_771(L_1, /*hidden argument*/NULL);
+		bool L_2 = GameObject_get_activeInHierarchy_m5_769(L_1, /*hidden argument*/NULL);
 		G_B3_0 = ((int32_t)(L_2));
 		goto IL_0019;
 	}
@@ -6306,7 +6306,7 @@ extern "C" void PointerInputModule_ProcessDrag_m6_211 (PointerInputModule_t6_41 
 		PointerEventData_t6_37 * L_3 = ___pointerEvent;
 		NullCheck(L_3);
 		GameObject_t5_101 * L_4 = PointerEventData_get_pointerDrag_m6_131(L_3, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_006a;
@@ -6374,7 +6374,7 @@ IL_006a:
 		PointerEventData_t6_37 * L_25 = ___pointerEvent;
 		NullCheck(L_25);
 		GameObject_t5_101 * L_26 = PointerEventData_get_pointerDrag_m6_131(L_25, /*hidden argument*/NULL);
-		bool L_27 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_27 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_00db;
@@ -6387,7 +6387,7 @@ IL_006a:
 		PointerEventData_t6_37 * L_30 = ___pointerEvent;
 		NullCheck(L_30);
 		GameObject_t5_101 * L_31 = PointerEventData_get_pointerDrag_m6_131(L_30, /*hidden argument*/NULL);
-		bool L_32 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_29, L_31, /*hidden argument*/NULL);
+		bool L_32 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_29, L_31, /*hidden argument*/NULL);
 		if (!L_32)
 		{
 			goto IL_00c9;
@@ -6446,7 +6446,7 @@ extern "C" bool PointerInputModule_IsPointerOverGameObject_m6_212 (PointerInputM
 		PointerEventData_t6_37 * L_3 = V_0;
 		NullCheck(L_3);
 		GameObject_t5_101 * L_4 = PointerEventData_get_pointerEnter_m6_125(L_3, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return L_5;
 	}
 
@@ -6720,7 +6720,7 @@ extern "C" void PointerInputModule_DeselectIfSelectionChanged_m6_215 (PointerInp
 		EventSystem_t6_2 * L_3 = BaseInputModule_get_eventSystem_m6_171(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
 		GameObject_t5_101 * L_4 = EventSystem_get_currentSelectedGameObject_m6_11(L_3, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, L_4, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_002a;
@@ -6956,7 +6956,7 @@ extern "C" bool StandaloneInputModule_IsModuleSupported_m6_235 (StandaloneInputM
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_2 = Input_get_touchSupported_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
+		bool L_2 = Input_get_touchSupported_m5_682(NULL /*static, unused*/, /*hidden argument*/NULL);
 		G_B4_0 = ((int32_t)(L_2));
 		goto IL_001d;
 	}
@@ -7043,7 +7043,7 @@ IL_0097:
 	{
 		int32_t L_21 = V_1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Touch_t5_97  L_22 = Input_GetTouch_m5_682(NULL /*static, unused*/, L_21, /*hidden argument*/NULL);
+		Touch_t5_97  L_22 = Input_GetTouch_m5_680(NULL /*static, unused*/, L_21, /*hidden argument*/NULL);
 		V_2 = L_22;
 		bool L_23 = V_0;
 		int32_t L_24 = Touch_get_phase_m5_665((&V_2), /*hidden argument*/NULL);
@@ -7087,7 +7087,7 @@ IL_00cb:
 	{
 		int32_t L_28 = V_1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_29 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_29 = Input_get_touchCount_m5_681(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if ((((int32_t)L_28) < ((int32_t)L_29)))
 		{
 			goto IL_0097;
@@ -7123,7 +7123,7 @@ extern "C" void StandaloneInputModule_ActivateModule_m6_237 (StandaloneInputModu
 		GameObject_t5_101 * L_5 = EventSystem_get_currentSelectedGameObject_m6_11(L_4, /*hidden argument*/NULL);
 		V_0 = L_5;
 		GameObject_t5_101 * L_6 = V_0;
-		bool L_7 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_004a;
@@ -7236,7 +7236,7 @@ IL_0007:
 	{
 		int32_t L_0 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Touch_t5_97  L_1 = Input_GetTouch_m5_682(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Touch_t5_97  L_1 = Input_GetTouch_m5_680(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		V_1 = L_1;
 		Touch_t5_97  L_2 = V_1;
 		PointerEventData_t6_37 * L_3 = PointerInputModule_GetTouchPointerEventData_m6_203(__this, L_2, (&V_3), (&V_2), /*hidden argument*/NULL);
@@ -7275,7 +7275,7 @@ IL_004c:
 	{
 		int32_t L_12 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_13 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_13 = Input_get_touchCount_m5_681(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if ((((int32_t)L_12) < ((int32_t)L_13)))
 		{
 			goto IL_0007;
@@ -7283,7 +7283,7 @@ IL_004c:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_14 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_14 = Input_get_touchCount_m5_681(NULL /*static, unused*/, /*hidden argument*/NULL);
 		return ((((int32_t)L_14) > ((int32_t)0))? 1 : 0);
 	}
 }
@@ -7367,7 +7367,7 @@ extern "C" void StandaloneInputModule_ProcessTouchPress_m6_241 (StandaloneInputM
 		NullCheck(L_17);
 		GameObject_t5_101 * L_18 = PointerEventData_get_pointerEnter_m6_125(L_17, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_19 = V_0;
-		bool L_20 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_18, L_19, /*hidden argument*/NULL);
+		bool L_20 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_18, L_19, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_0076;
@@ -7392,7 +7392,7 @@ IL_0076:
 		GameObject_t5_101 * L_28 = ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452(NULL /*static, unused*/, L_25, L_26, L_27, /*hidden argument*/ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452_MethodInfo_var);
 		V_1 = L_28;
 		GameObject_t5_101 * L_29 = V_1;
-		bool L_30 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_30)
 		{
 			goto IL_0096;
@@ -7407,13 +7407,13 @@ IL_0076:
 
 IL_0096:
 	{
-		float L_33 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_33 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_2 = L_33;
 		GameObject_t5_101 * L_34 = V_1;
 		PointerEventData_t6_37 * L_35 = ___pointerEvent;
 		NullCheck(L_35);
 		GameObject_t5_101 * L_36 = PointerEventData_get_lastPress_m6_127(L_35, /*hidden argument*/NULL);
-		bool L_37 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_34, L_36, /*hidden argument*/NULL);
+		bool L_37 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_34, L_36, /*hidden argument*/NULL);
 		if (!L_37)
 		{
 			goto IL_00e7;
@@ -7487,7 +7487,7 @@ IL_00ee:
 		PointerEventData_t6_37 * L_58 = ___pointerEvent;
 		NullCheck(L_58);
 		GameObject_t5_101 * L_59 = PointerEventData_get_pointerDrag_m6_131(L_58, /*hidden argument*/NULL);
-		bool L_60 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_59, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_60 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_59, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_60)
 		{
 			goto IL_0132;
@@ -7526,7 +7526,7 @@ IL_0132:
 		NullCheck(L_72);
 		GameObject_t5_101 * L_73 = PointerEventData_get_pointerPress_m6_167(L_72, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_74 = V_4;
-		bool L_75 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_73, L_74, /*hidden argument*/NULL);
+		bool L_75 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_73, L_74, /*hidden argument*/NULL);
 		if (!L_75)
 		{
 			goto IL_0186;
@@ -7557,7 +7557,7 @@ IL_0186:
 		PointerEventData_t6_37 * L_82 = ___pointerEvent;
 		NullCheck(L_82);
 		GameObject_t5_101 * L_83 = PointerEventData_get_pointerDrag_m6_131(L_82, /*hidden argument*/NULL);
-		bool L_84 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_83, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_84 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_83, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_84)
 		{
 			goto IL_01af;
@@ -7594,7 +7594,7 @@ IL_01af:
 		PointerEventData_t6_37 * L_93 = ___pointerEvent;
 		NullCheck(L_93);
 		GameObject_t5_101 * L_94 = PointerEventData_get_pointerDrag_m6_131(L_93, /*hidden argument*/NULL);
-		bool L_95 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_94, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_95 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_94, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_95)
 		{
 			goto IL_01f2;
@@ -7630,7 +7630,7 @@ IL_01f2:
 		PointerEventData_t6_37 * L_104 = ___pointerEvent;
 		NullCheck(L_104);
 		GameObject_t5_101 * L_105 = PointerEventData_get_pointerDrag_m6_131(L_104, /*hidden argument*/NULL);
-		bool L_106 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_105, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_106 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_105, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_106)
 		{
 			goto IL_0223;
@@ -7689,7 +7689,7 @@ extern "C" bool StandaloneInputModule_SendSubmitEventToSelectedObject_m6_242 (St
 		EventSystem_t6_2 * L_0 = BaseInputModule_get_eventSystem_m6_171(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		GameObject_t5_101 * L_1 = EventSystem_get_currentSelectedGameObject_m6_11(L_0, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0018;
@@ -7862,7 +7862,7 @@ extern "C" bool StandaloneInputModule_SendMoveEventToSelectedObject_m6_244 (Stan
 	AxisEventData_t6_33 * V_4 = {0};
 	int32_t G_B6_0 = 0;
 	{
-		float L_0 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_0 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
 		Vector2_t5_44  L_1 = StandaloneInputModule_GetRawMoveVector_m6_243(__this, /*hidden argument*/NULL);
 		V_1 = L_1;
@@ -8135,7 +8135,7 @@ extern "C" bool StandaloneInputModule_SendUpdateEventToSelectedObject_m6_247 (St
 		EventSystem_t6_2 * L_0 = BaseInputModule_get_eventSystem_m6_171(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		GameObject_t5_101 * L_1 = EventSystem_get_currentSelectedGameObject_m6_11(L_0, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0018;
@@ -8250,7 +8250,7 @@ extern "C" void StandaloneInputModule_ProcessMousePress_m6_248 (StandaloneInputM
 		GameObject_t5_101 * L_23 = ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452(NULL /*static, unused*/, L_20, L_21, L_22, /*hidden argument*/ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452_MethodInfo_var);
 		V_2 = L_23;
 		GameObject_t5_101 * L_24 = V_2;
-		bool L_25 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_24, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_25 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_24, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_25)
 		{
 			goto IL_0082;
@@ -8265,13 +8265,13 @@ extern "C" void StandaloneInputModule_ProcessMousePress_m6_248 (StandaloneInputM
 
 IL_0082:
 	{
-		float L_28 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_28 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_3 = L_28;
 		GameObject_t5_101 * L_29 = V_2;
 		PointerEventData_t6_37 * L_30 = V_0;
 		NullCheck(L_30);
 		GameObject_t5_101 * L_31 = PointerEventData_get_lastPress_m6_127(L_30, /*hidden argument*/NULL);
-		bool L_32 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_29, L_31, /*hidden argument*/NULL);
+		bool L_32 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_29, L_31, /*hidden argument*/NULL);
 		if (!L_32)
 		{
 			goto IL_00d5;
@@ -8345,7 +8345,7 @@ IL_00dc:
 		PointerEventData_t6_37 * L_53 = V_0;
 		NullCheck(L_53);
 		GameObject_t5_101 * L_54 = PointerEventData_get_pointerDrag_m6_131(L_53, /*hidden argument*/NULL);
-		bool L_55 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_55 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_55)
 		{
 			goto IL_0120;
@@ -8386,7 +8386,7 @@ IL_0120:
 		NullCheck(L_68);
 		GameObject_t5_101 * L_69 = PointerEventData_get_pointerPress_m6_167(L_68, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_70 = V_5;
-		bool L_71 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_69, L_70, /*hidden argument*/NULL);
+		bool L_71 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_69, L_70, /*hidden argument*/NULL);
 		if (!L_71)
 		{
 			goto IL_0179;
@@ -8417,7 +8417,7 @@ IL_0179:
 		PointerEventData_t6_37 * L_78 = V_0;
 		NullCheck(L_78);
 		GameObject_t5_101 * L_79 = PointerEventData_get_pointerDrag_m6_131(L_78, /*hidden argument*/NULL);
-		bool L_80 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_79, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_80 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_79, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_80)
 		{
 			goto IL_01a2;
@@ -8454,7 +8454,7 @@ IL_01a2:
 		PointerEventData_t6_37 * L_89 = V_0;
 		NullCheck(L_89);
 		GameObject_t5_101 * L_90 = PointerEventData_get_pointerDrag_m6_131(L_89, /*hidden argument*/NULL);
-		bool L_91 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_90, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_91 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_90, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_91)
 		{
 			goto IL_01e5;
@@ -8491,7 +8491,7 @@ IL_01e5:
 		PointerEventData_t6_37 * L_101 = V_0;
 		NullCheck(L_101);
 		GameObject_t5_101 * L_102 = PointerEventData_get_pointerEnter_m6_125(L_101, /*hidden argument*/NULL);
-		bool L_103 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_100, L_102, /*hidden argument*/NULL);
+		bool L_103 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_100, L_102, /*hidden argument*/NULL);
 		if (!L_103)
 		{
 			goto IL_0214;
@@ -8592,7 +8592,7 @@ extern "C" bool TouchInputModule_IsModuleSupported_m6_255 (TouchInputModule_t6_4
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_1 = Input_get_touchSupported_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
+		bool L_1 = Input_get_touchSupported_m5_682(NULL /*static, unused*/, /*hidden argument*/NULL);
 		G_B3_0 = ((int32_t)(L_1));
 		goto IL_0013;
 	}
@@ -8677,7 +8677,7 @@ IL_0058:
 	{
 		int32_t L_10 = V_1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Touch_t5_97  L_11 = Input_GetTouch_m5_682(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
+		Touch_t5_97  L_11 = Input_GetTouch_m5_680(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
 		V_2 = L_11;
 		int32_t L_12 = Touch_get_phase_m5_665((&V_2), /*hidden argument*/NULL);
 		if (!L_12)
@@ -8715,7 +8715,7 @@ IL_008b:
 	{
 		int32_t L_16 = V_1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_17 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_17 = Input_get_touchCount_m5_681(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if ((((int32_t)L_16) < ((int32_t)L_17)))
 		{
 			goto IL_0058;
@@ -8737,7 +8737,7 @@ extern "C" bool TouchInputModule_UseFakeInput_m6_257 (TouchInputModule_t6_44 * _
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_0 = Input_get_touchSupported_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
+		bool L_0 = Input_get_touchSupported_m5_682(NULL /*static, unused*/, /*hidden argument*/NULL);
 		return ((((int32_t)L_0) == ((int32_t)0))? 1 : 0);
 	}
 }
@@ -8863,7 +8863,7 @@ IL_0007:
 	{
 		int32_t L_0 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Touch_t5_97  L_1 = Input_GetTouch_m5_682(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Touch_t5_97  L_1 = Input_GetTouch_m5_680(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		V_1 = L_1;
 		Touch_t5_97  L_2 = V_1;
 		PointerEventData_t6_37 * L_3 = PointerInputModule_GetTouchPointerEventData_m6_203(__this, L_2, (&V_3), (&V_2), /*hidden argument*/NULL);
@@ -8902,7 +8902,7 @@ IL_004c:
 	{
 		int32_t L_12 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_13 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_13 = Input_get_touchCount_m5_681(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if ((((int32_t)L_12) < ((int32_t)L_13)))
 		{
 			goto IL_0007;
@@ -8992,7 +8992,7 @@ extern "C" void TouchInputModule_ProcessTouchPress_m6_261 (TouchInputModule_t6_4
 		NullCheck(L_17);
 		GameObject_t5_101 * L_18 = PointerEventData_get_pointerEnter_m6_125(L_17, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_19 = V_0;
-		bool L_20 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_18, L_19, /*hidden argument*/NULL);
+		bool L_20 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_18, L_19, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_0076;
@@ -9017,7 +9017,7 @@ IL_0076:
 		GameObject_t5_101 * L_28 = ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452(NULL /*static, unused*/, L_25, L_26, L_27, /*hidden argument*/ExecuteEvents_ExecuteHierarchy_TisIPointerDownHandler_t6_162_m6_1452_MethodInfo_var);
 		V_1 = L_28;
 		GameObject_t5_101 * L_29 = V_1;
-		bool L_30 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_30)
 		{
 			goto IL_0096;
@@ -9032,13 +9032,13 @@ IL_0076:
 
 IL_0096:
 	{
-		float L_33 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_33 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_2 = L_33;
 		GameObject_t5_101 * L_34 = V_1;
 		PointerEventData_t6_37 * L_35 = ___pointerEvent;
 		NullCheck(L_35);
 		GameObject_t5_101 * L_36 = PointerEventData_get_lastPress_m6_127(L_35, /*hidden argument*/NULL);
-		bool L_37 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_34, L_36, /*hidden argument*/NULL);
+		bool L_37 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_34, L_36, /*hidden argument*/NULL);
 		if (!L_37)
 		{
 			goto IL_00e7;
@@ -9112,7 +9112,7 @@ IL_00ee:
 		PointerEventData_t6_37 * L_58 = ___pointerEvent;
 		NullCheck(L_58);
 		GameObject_t5_101 * L_59 = PointerEventData_get_pointerDrag_m6_131(L_58, /*hidden argument*/NULL);
-		bool L_60 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_59, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_60 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_59, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_60)
 		{
 			goto IL_0132;
@@ -9151,7 +9151,7 @@ IL_0132:
 		NullCheck(L_72);
 		GameObject_t5_101 * L_73 = PointerEventData_get_pointerPress_m6_167(L_72, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_74 = V_4;
-		bool L_75 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_73, L_74, /*hidden argument*/NULL);
+		bool L_75 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_73, L_74, /*hidden argument*/NULL);
 		if (!L_75)
 		{
 			goto IL_0186;
@@ -9182,7 +9182,7 @@ IL_0186:
 		PointerEventData_t6_37 * L_82 = ___pointerEvent;
 		NullCheck(L_82);
 		GameObject_t5_101 * L_83 = PointerEventData_get_pointerDrag_m6_131(L_82, /*hidden argument*/NULL);
-		bool L_84 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_83, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_84 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_83, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_84)
 		{
 			goto IL_01af;
@@ -9219,7 +9219,7 @@ IL_01af:
 		PointerEventData_t6_37 * L_93 = ___pointerEvent;
 		NullCheck(L_93);
 		GameObject_t5_101 * L_94 = PointerEventData_get_pointerDrag_m6_131(L_93, /*hidden argument*/NULL);
-		bool L_95 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_94, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_95 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_94, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_95)
 		{
 			goto IL_01f2;
@@ -9255,7 +9255,7 @@ IL_01f2:
 		PointerEventData_t6_37 * L_104 = ___pointerEvent;
 		NullCheck(L_104);
 		GameObject_t5_101 * L_105 = PointerEventData_get_pointerDrag_m6_131(L_104, /*hidden argument*/NULL);
-		bool L_106 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_105, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_106 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_105, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_106)
 		{
 			goto IL_0223;
@@ -9526,7 +9526,7 @@ extern "C" String_t* BaseRaycaster_ToString_m6_268 (BaseRaycaster_t6_32 * __this
 		ArrayElementTypeCheck (L_0, _stringLiteral2658);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_0, 0, sizeof(Object_t *))) = (Object_t *)_stringLiteral2658;
 		ObjectU5BU5D_t1_156* L_1 = L_0;
-		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_1, 1);
 		ArrayElementTypeCheck (L_1, L_2);
@@ -9618,7 +9618,7 @@ extern "C" void Physics2DRaycaster__ctor_m6_271 (Physics2DRaycaster_t6_45 * __th
 // System.Void UnityEngine.EventSystems.Physics2DRaycaster::Raycast(UnityEngine.EventSystems.PointerEventData,System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>)
 extern TypeInfo* Physics2D_t5_135_il2cpp_TypeInfo_var;
 extern TypeInfo* RaycastResult_t6_31_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var;
 extern "C" void Physics2DRaycaster_Raycast_m6_272 (Physics2DRaycaster_t6_45 * __this, PointerEventData_t6_37 * ___eventData, List_1_t1_912 * ___resultAppendList, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -9626,7 +9626,7 @@ extern "C" void Physics2DRaycaster_Raycast_m6_272 (Physics2DRaycaster_t6_45 * __
 	{
 		Physics2D_t5_135_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(893);
 		RaycastResult_t6_31_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(979);
-		GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483833);
+		GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483833);
 		s_Il2CppMethodIntialized = true;
 	}
 	Ray_t5_52  V_0 = {0};
@@ -9647,7 +9647,7 @@ extern "C" void Physics2DRaycaster_Raycast_m6_272 (Physics2DRaycaster_t6_45 * __
 	RaycastResult_t6_31 * G_B10_1 = {0};
 	{
 		Camera_t5_86 * L_0 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera() */, __this);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -9681,7 +9681,7 @@ IL_0012:
 		float L_15 = V_1;
 		int32_t L_16 = PhysicsRaycaster_get_finalEventMask_m6_276(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t5_135_il2cpp_TypeInfo_var);
-		RaycastHit2DU5BU5D_t5_297* L_17 = Physics2D_RaycastAll_m5_1029(NULL /*static, unused*/, L_12, L_14, L_15, L_16, /*hidden argument*/NULL);
+		RaycastHit2DU5BU5D_t5_297* L_17 = Physics2D_RaycastAll_m5_1027(NULL /*static, unused*/, L_12, L_14, L_15, L_16, /*hidden argument*/NULL);
 		V_2 = L_17;
 		RaycastHit2DU5BU5D_t5_297* L_18 = V_2;
 		NullCheck(L_18);
@@ -9704,11 +9704,11 @@ IL_007a:
 		int32_t L_21 = V_3;
 		NullCheck(L_20);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_20, L_21);
-		Collider2D_t5_137 * L_22 = RaycastHit2D_get_collider_m5_1038(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_20, L_21, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
+		Collider2D_t5_137 * L_22 = RaycastHit2D_get_collider_m5_1036(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_20, L_21, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
 		NullCheck(L_22);
-		GameObject_t5_101 * L_23 = Component_get_gameObject_m5_724(L_22, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_23 = Component_get_gameObject_m5_722(L_22, /*hidden argument*/NULL);
 		NullCheck(L_23);
-		SpriteRenderer_t5_80 * L_24 = GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802(L_23, /*hidden argument*/GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var);
+		SpriteRenderer_t5_80 * L_24 = GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800(L_23, /*hidden argument*/GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var);
 		V_5 = L_24;
 		Initobj (RaycastResult_t6_31_il2cpp_TypeInfo_var, (&V_6));
 		RaycastResult_t6_31  L_25 = V_6;
@@ -9717,37 +9717,37 @@ IL_007a:
 		int32_t L_27 = V_3;
 		NullCheck(L_26);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_26, L_27);
-		Collider2D_t5_137 * L_28 = RaycastHit2D_get_collider_m5_1038(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_26, L_27, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
+		Collider2D_t5_137 * L_28 = RaycastHit2D_get_collider_m5_1036(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_26, L_27, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
 		NullCheck(L_28);
-		GameObject_t5_101 * L_29 = Component_get_gameObject_m5_724(L_28, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_29 = Component_get_gameObject_m5_722(L_28, /*hidden argument*/NULL);
 		RaycastResult_set_gameObject_m6_93((&V_7), L_29, /*hidden argument*/NULL);
 		(&V_7)->___module_1 = __this;
 		Camera_t5_86 * L_30 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera() */, __this);
 		NullCheck(L_30);
-		Transform_t5_71 * L_31 = Component_get_transform_m5_723(L_30, /*hidden argument*/NULL);
+		Transform_t5_71 * L_31 = Component_get_transform_m5_721(L_30, /*hidden argument*/NULL);
 		NullCheck(L_31);
-		Vector3_t5_45  L_32 = Transform_get_position_m5_785(L_31, /*hidden argument*/NULL);
+		Vector3_t5_45  L_32 = Transform_get_position_m5_783(L_31, /*hidden argument*/NULL);
 		RaycastHit2DU5BU5D_t5_297* L_33 = V_2;
 		int32_t L_34 = V_3;
 		NullCheck(L_33);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_33, L_34);
-		Transform_t5_71 * L_35 = RaycastHit2D_get_transform_m5_1040(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_33, L_34, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
+		Transform_t5_71 * L_35 = RaycastHit2D_get_transform_m5_1038(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_33, L_34, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
 		NullCheck(L_35);
-		Vector3_t5_45  L_36 = Transform_get_position_m5_785(L_35, /*hidden argument*/NULL);
+		Vector3_t5_45  L_36 = Transform_get_position_m5_783(L_35, /*hidden argument*/NULL);
 		float L_37 = Vector3_Distance_m5_227(NULL /*static, unused*/, L_32, L_36, /*hidden argument*/NULL);
 		(&V_7)->___distance_2 = L_37;
 		RaycastHit2DU5BU5D_t5_297* L_38 = V_2;
 		int32_t L_39 = V_3;
 		NullCheck(L_38);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_38, L_39);
-		Vector2_t5_44  L_40 = RaycastHit2D_get_point_m5_1035(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_38, L_39, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
+		Vector2_t5_44  L_40 = RaycastHit2D_get_point_m5_1033(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_38, L_39, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
 		Vector3_t5_45  L_41 = Vector2_op_Implicit_m5_215(NULL /*static, unused*/, L_40, /*hidden argument*/NULL);
 		(&V_7)->___worldPosition_7 = L_41;
 		RaycastHit2DU5BU5D_t5_297* L_42 = V_2;
 		int32_t L_43 = V_3;
 		NullCheck(L_42);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_42, L_43);
-		Vector2_t5_44  L_44 = RaycastHit2D_get_normal_m5_1036(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_42, L_43, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
+		Vector2_t5_44  L_44 = RaycastHit2D_get_normal_m5_1034(((RaycastHit2D_t5_136 *)(RaycastHit2D_t5_136 *)SZArrayLdElema(L_42, L_43, sizeof(RaycastHit2D_t5_136 ))), /*hidden argument*/NULL);
 		Vector3_t5_45  L_45 = Vector2_op_Implicit_m5_215(NULL /*static, unused*/, L_44, /*hidden argument*/NULL);
 		(&V_7)->___worldNormal_8 = L_45;
 		PointerEventData_t6_37 * L_46 = ___eventData;
@@ -9759,7 +9759,7 @@ IL_007a:
 		int32_t L_49 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>::get_Count() */, L_48);
 		(&V_7)->___index_3 = (((float)((float)L_49)));
 		SpriteRenderer_t5_80 * L_50 = V_5;
-		bool L_51 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_50, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_51 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_50, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B5_0 = (&V_7);
 		if (!L_51)
 		{
@@ -9786,7 +9786,7 @@ IL_0152:
 	{
 		G_B7_1->___sortingLayer_5 = G_B7_0;
 		SpriteRenderer_t5_80 * L_54 = V_5;
-		bool L_55 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_55 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_54, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B8_0 = (&V_7);
 		if (!L_55)
 		{
@@ -9848,27 +9848,27 @@ extern "C" void PhysicsRaycaster__ctor_m6_273 (PhysicsRaycaster_t6_46 * __this, 
 	}
 }
 // UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera()
-extern const MethodInfo* Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var;
 extern "C" Camera_t5_86 * PhysicsRaycaster_get_eventCamera_m6_274 (PhysicsRaycaster_t6_46 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483797);
+		Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483797);
 		s_Il2CppMethodIntialized = true;
 	}
 	Camera_t5_86 * G_B4_0 = {0};
 	Camera_t5_86 * G_B3_0 = {0};
 	{
 		Camera_t5_86 * L_0 = (__this->___m_EventCamera_3);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		Camera_t5_86 * L_2 = Component_GetComponent_TisCamera_t5_86_m5_1800(__this, /*hidden argument*/Component_GetComponent_TisCamera_t5_86_m5_1800_MethodInfo_var);
+		Camera_t5_86 * L_2 = Component_GetComponent_TisCamera_t5_86_m5_1798(__this, /*hidden argument*/Component_GetComponent_TisCamera_t5_86_m5_1798_MethodInfo_var);
 		__this->___m_EventCamera_3 = L_2;
 	}
 
@@ -9899,7 +9899,7 @@ extern "C" int32_t PhysicsRaycaster_get_depth_m6_275 (PhysicsRaycaster_t6_46 * _
 	int32_t G_B3_0 = 0;
 	{
 		Camera_t5_86 * L_0 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera() */, __this);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0022;
@@ -9929,7 +9929,7 @@ extern "C" int32_t PhysicsRaycaster_get_finalEventMask_m6_276 (PhysicsRaycaster_
 	int32_t G_B3_0 = 0;
 	{
 		Camera_t5_86 * L_0 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera() */, __this);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_002d;
@@ -10003,7 +10003,7 @@ extern "C" void PhysicsRaycaster_Raycast_m6_279 (PhysicsRaycaster_t6_46 * __this
 	RaycastHitU5BU5D_t5_296* G_B4_0 = {0};
 	{
 		Camera_t5_86 * L_0 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.EventSystems.PhysicsRaycaster::get_eventCamera() */, __this);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -10033,7 +10033,7 @@ IL_0012:
 		Ray_t5_52  L_11 = V_0;
 		float L_12 = V_1;
 		int32_t L_13 = PhysicsRaycaster_get_finalEventMask_m6_276(__this, /*hidden argument*/NULL);
-		RaycastHitU5BU5D_t5_296* L_14 = Physics_RaycastAll_m5_1009(NULL /*static, unused*/, L_11, L_12, L_13, /*hidden argument*/NULL);
+		RaycastHitU5BU5D_t5_296* L_14 = Physics_RaycastAll_m5_1007(NULL /*static, unused*/, L_11, L_12, L_13, /*hidden argument*/NULL);
 		V_2 = L_14;
 		RaycastHitU5BU5D_t5_296* L_15 = V_2;
 		NullCheck(L_15);
@@ -10092,28 +10092,28 @@ IL_008f:
 		int32_t L_25 = V_3;
 		NullCheck(L_24);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_24, L_25);
-		Collider_t5_127 * L_26 = RaycastHit_get_collider_m5_1019(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_24, L_25, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
+		Collider_t5_127 * L_26 = RaycastHit_get_collider_m5_1017(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_24, L_25, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
 		NullCheck(L_26);
-		GameObject_t5_101 * L_27 = Component_get_gameObject_m5_724(L_26, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_27 = Component_get_gameObject_m5_722(L_26, /*hidden argument*/NULL);
 		RaycastResult_set_gameObject_m6_93((&V_6), L_27, /*hidden argument*/NULL);
 		(&V_6)->___module_1 = __this;
 		RaycastHitU5BU5D_t5_296* L_28 = V_2;
 		int32_t L_29 = V_3;
 		NullCheck(L_28);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_28, L_29);
-		float L_30 = RaycastHit_get_distance_m5_1018(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_28, L_29, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
+		float L_30 = RaycastHit_get_distance_m5_1016(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_28, L_29, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
 		(&V_6)->___distance_2 = L_30;
 		RaycastHitU5BU5D_t5_296* L_31 = V_2;
 		int32_t L_32 = V_3;
 		NullCheck(L_31);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_31, L_32);
-		Vector3_t5_45  L_33 = RaycastHit_get_point_m5_1016(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_31, L_32, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_33 = RaycastHit_get_point_m5_1014(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_31, L_32, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
 		(&V_6)->___worldPosition_7 = L_33;
 		RaycastHitU5BU5D_t5_296* L_34 = V_2;
 		int32_t L_35 = V_3;
 		NullCheck(L_34);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_34, L_35);
-		Vector3_t5_45  L_36 = RaycastHit_get_normal_m5_1017(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_34, L_35, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_36 = RaycastHit_get_normal_m5_1015(((RaycastHit_t5_134 *)(RaycastHit_t5_134 *)SZArrayLdElema(L_34, L_35, sizeof(RaycastHit_t5_134 ))), /*hidden argument*/NULL);
 		(&V_6)->___worldNormal_8 = L_36;
 		PointerEventData_t6_37 * L_37 = ___eventData;
 		NullCheck(L_37);
@@ -10155,25 +10155,25 @@ extern "C" int32_t PhysicsRaycaster_U3CRaycastU3Em__1_m6_280 (Object_t * __this 
 {
 	float V_0 = 0.0f;
 	{
-		float L_0 = RaycastHit_get_distance_m5_1018((&___r1), /*hidden argument*/NULL);
+		float L_0 = RaycastHit_get_distance_m5_1016((&___r1), /*hidden argument*/NULL);
 		V_0 = L_0;
-		float L_1 = RaycastHit_get_distance_m5_1018((&___r2), /*hidden argument*/NULL);
+		float L_1 = RaycastHit_get_distance_m5_1016((&___r2), /*hidden argument*/NULL);
 		int32_t L_2 = Single_CompareTo_m1_475((&V_0), L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Void UnityEngine.UI.CoroutineTween.ColorTween/ColorTweenCallback::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1803_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1801_MethodInfo_var;
 extern "C" void ColorTweenCallback__ctor_m6_281 (ColorTweenCallback_t6_48 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1803_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483837);
+		UnityEvent_1__ctor_m5_1801_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483837);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1803(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1803_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1801(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1801_MethodInfo_var);
 		return;
 	}
 }
@@ -10263,13 +10263,13 @@ extern "C" void ColorTween_set_ignoreTimeScale_m6_291 (ColorTween_t6_49 * __this
 	}
 }
 // System.Void UnityEngine.UI.CoroutineTween.ColorTween::TweenValue(System.Single)
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1804_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1802_MethodInfo_var;
 extern "C" void ColorTween_TweenValue_m6_292 (ColorTween_t6_49 * __this, float ___floatPercentage, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1804_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483838);
+		UnityEvent_1_Invoke_m5_1802_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483838);
 		s_Il2CppMethodIntialized = true;
 	}
 	Color_t5_165  V_0 = {0};
@@ -10289,7 +10289,7 @@ IL_000c:
 		Color_t5_165  L_1 = (__this->___m_StartColor_1);
 		Color_t5_165  L_2 = (__this->___m_TargetColor_2);
 		float L_3 = ___floatPercentage;
-		Color_t5_165  L_4 = Color_Lerp_m5_1584(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
+		Color_t5_165  L_4 = Color_Lerp_m5_1582(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
 		V_0 = L_4;
 		int32_t L_5 = (__this->___m_TweenMode_3);
 		if ((!(((uint32_t)L_5) == ((uint32_t)2))))
@@ -10329,20 +10329,20 @@ IL_0084:
 		ColorTweenCallback_t6_48 * L_15 = (__this->___m_Target_0);
 		Color_t5_165  L_16 = V_0;
 		NullCheck(L_15);
-		UnityEvent_1_Invoke_m5_1804(L_15, L_16, /*hidden argument*/UnityEvent_1_Invoke_m5_1804_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1802(L_15, L_16, /*hidden argument*/UnityEvent_1_Invoke_m5_1802_MethodInfo_var);
 		return;
 	}
 }
 // System.Void UnityEngine.UI.CoroutineTween.ColorTween::AddOnChangedCallback(UnityEngine.Events.UnityAction`1<UnityEngine.Color>)
 extern TypeInfo* ColorTweenCallback_t6_48_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1805_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1803_MethodInfo_var;
 extern "C" void ColorTween_AddOnChangedCallback_m6_293 (ColorTween_t6_49 * __this, UnityAction_1_t5_320 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		ColorTweenCallback_t6_48_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1045);
-		UnityEvent_1_AddListener_m5_1805_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483839);
+		UnityEvent_1_AddListener_m5_1803_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483839);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -10363,7 +10363,7 @@ IL_0016:
 		ColorTweenCallback_t6_48 * L_2 = (__this->___m_Target_0);
 		UnityAction_1_t5_320 * L_3 = ___callback;
 		NullCheck(L_2);
-		UnityEvent_1_AddListener_m5_1805(L_2, L_3, /*hidden argument*/UnityEvent_1_AddListener_m5_1805_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1803(L_2, L_3, /*hidden argument*/UnityEvent_1_AddListener_m5_1803_MethodInfo_var);
 		return;
 	}
 }
@@ -10392,17 +10392,17 @@ extern "C" bool ColorTween_ValidTarget_m6_296 (ColorTween_t6_49 * __this, const 
 	}
 }
 // System.Void UnityEngine.UI.CoroutineTween.FloatTween/FloatTweenCallback::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1806_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1804_MethodInfo_var;
 extern "C" void FloatTweenCallback__ctor_m6_297 (FloatTweenCallback_t6_50 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
+		UnityEvent_1__ctor_m5_1804_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1806(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1806_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1804(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1804_MethodInfo_var);
 		return;
 	}
 }
@@ -10476,14 +10476,14 @@ extern "C" void FloatTween_set_ignoreTimeScale_m6_305 (FloatTween_t6_51 * __this
 }
 // System.Void UnityEngine.UI.CoroutineTween.FloatTween::TweenValue(System.Single)
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1807_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1805_MethodInfo_var;
 extern "C" void FloatTween_TweenValue_m6_306 (FloatTween_t6_51 * __this, float ___floatPercentage, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		UnityEvent_1_Invoke_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
+		UnityEvent_1_Invoke_m5_1805_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -10509,20 +10509,20 @@ IL_000c:
 		FloatTweenCallback_t6_50 * L_5 = (__this->___m_Target_0);
 		float L_6 = V_0;
 		NullCheck(L_5);
-		UnityEvent_1_Invoke_m5_1807(L_5, L_6, /*hidden argument*/UnityEvent_1_Invoke_m5_1807_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1805(L_5, L_6, /*hidden argument*/UnityEvent_1_Invoke_m5_1805_MethodInfo_var);
 		return;
 	}
 }
 // System.Void UnityEngine.UI.CoroutineTween.FloatTween::AddOnChangedCallback(UnityEngine.Events.UnityAction`1<System.Single>)
 extern TypeInfo* FloatTweenCallback_t6_50_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1808_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1806_MethodInfo_var;
 extern "C" void FloatTween_AddOnChangedCallback_m6_307 (FloatTween_t6_51 * __this, UnityAction_1_t5_321 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		FloatTweenCallback_t6_50_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1046);
-		UnityEvent_1_AddListener_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
+		UnityEvent_1_AddListener_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -10543,7 +10543,7 @@ IL_0016:
 		FloatTweenCallback_t6_50 * L_2 = (__this->___m_Target_0);
 		UnityAction_1_t5_321 * L_3 = ___callback;
 		NullCheck(L_2);
-		UnityEvent_1_AddListener_m5_1808(L_2, L_3, /*hidden argument*/UnityEvent_1_AddListener_m5_1808_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1806(L_2, L_3, /*hidden argument*/UnityEvent_1_AddListener_m5_1806_MethodInfo_var);
 		return;
 	}
 }
@@ -10668,7 +10668,7 @@ extern "C" void AnimationTriggers_set_disabledTrigger_m6_319 (AnimationTriggers_
 extern "C" void ButtonClickedEvent__ctor_m6_320 (ButtonClickedEvent_t6_53 * __this, const MethodInfo* method)
 {
 	{
-		UnityEvent__ctor_m5_1750(__this, /*hidden argument*/NULL);
+		UnityEvent__ctor_m5_1748(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -10735,7 +10735,7 @@ IL_0021:
 IL_004a:
 	{
 		float L_5 = (__this->___U3CelapsedTimeU3E__1_1);
-		float L_6 = Time_get_unscaledDeltaTime_m5_835(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_6 = Time_get_unscaledDeltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___U3CelapsedTimeU3E__1_1 = ((float)((float)L_5+(float)L_6));
 		__this->___U24current_3 = NULL;
 		__this->___U24PC_2 = 1;
@@ -10861,7 +10861,7 @@ IL_0017:
 	{
 		ButtonClickedEvent_t6_53 * L_2 = (__this->___m_OnClick_16);
 		NullCheck(L_2);
-		UnityEvent_Invoke_m5_1755(L_2, /*hidden argument*/NULL);
+		UnityEvent_Invoke_m5_1753(L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -10967,8 +10967,8 @@ extern "C" void CanvasUpdateRegistry__ctor_m6_334 (CanvasUpdateRegistry_t6_58 * 
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
 		IntPtr_t L_2 = { (void*)CanvasUpdateRegistry_PerformUpdate_m6_339_MethodInfo_var };
 		WillRenderCanvases_t5_176 * L_3 = (WillRenderCanvases_t5_176 *)il2cpp_codegen_object_new (WillRenderCanvases_t5_176_il2cpp_TypeInfo_var);
-		WillRenderCanvases__ctor_m5_1197(L_3, __this, L_2, /*hidden argument*/NULL);
-		Canvas_add_willRenderCanvases_m5_1201(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		WillRenderCanvases__ctor_m5_1195(L_3, __this, L_2, /*hidden argument*/NULL);
+		Canvas_add_willRenderCanvases_m5_1199(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -11053,7 +11053,7 @@ extern "C" bool CanvasUpdateRegistry_ObjectValidForUpdate_m6_337 (CanvasUpdateRe
 	}
 	{
 		Object_t * L_3 = ___element;
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, ((Object_t5_5 *)IsInstClass(L_3, Object_t5_5_il2cpp_TypeInfo_var)), (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, ((Object_t5_5 *)IsInstClass(L_3, Object_t5_5_il2cpp_TypeInfo_var)), (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		V_0 = L_4;
 	}
 
@@ -11534,7 +11534,7 @@ extern "C" int32_t CanvasUpdateRegistry_ParentCount_m6_340 (Object_t * __this /*
 	int32_t V_1 = 0;
 	{
 		Transform_t5_71 * L_0 = ___child;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000e;
@@ -11548,7 +11548,7 @@ IL_000e:
 	{
 		Transform_t5_71 * L_2 = ___child;
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Transform_get_parent_m5_806(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Transform_get_parent_m5_804(L_2, /*hidden argument*/NULL);
 		V_0 = L_3;
 		V_1 = 0;
 		goto IL_0027;
@@ -11560,14 +11560,14 @@ IL_001c:
 		V_1 = ((int32_t)((int32_t)L_4+(int32_t)1));
 		Transform_t5_71 * L_5 = V_0;
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = Transform_get_parent_m5_806(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Transform_get_parent_m5_804(L_5, /*hidden argument*/NULL);
 		V_0 = L_6;
 	}
 
 IL_0027:
 	{
 		Transform_t5_71 * L_7 = V_0;
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_8)
 		{
 			goto IL_001c;
@@ -12102,27 +12102,27 @@ extern "C" void DefaultControls__cctor_m6_366 (Object_t * __this /* static, unus
 		Vector2__ctor_m5_193(&L_2, (100.0f), (100.0f), /*hidden argument*/NULL);
 		((DefaultControls_t6_62_StaticFields*)DefaultControls_t6_62_il2cpp_TypeInfo_var->static_fields)->___s_ImageElementSize_5 = L_2;
 		Color_t5_165  L_3 = {0};
-		Color__ctor_m5_1579(&L_3, (1.0f), (1.0f), (1.0f), (1.0f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_3, (1.0f), (1.0f), (1.0f), (1.0f), /*hidden argument*/NULL);
 		((DefaultControls_t6_62_StaticFields*)DefaultControls_t6_62_il2cpp_TypeInfo_var->static_fields)->___s_DefaultSelectableColor_6 = L_3;
 		Color_t5_165  L_4 = {0};
-		Color__ctor_m5_1579(&L_4, (1.0f), (1.0f), (1.0f), (0.392f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_4, (1.0f), (1.0f), (1.0f), (0.392f), /*hidden argument*/NULL);
 		((DefaultControls_t6_62_StaticFields*)DefaultControls_t6_62_il2cpp_TypeInfo_var->static_fields)->___s_PanelColor_7 = L_4;
 		Color_t5_165  L_5 = {0};
-		Color__ctor_m5_1579(&L_5, (0.196078435f), (0.196078435f), (0.196078435f), (1.0f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_5, (0.196078435f), (0.196078435f), (0.196078435f), (1.0f), /*hidden argument*/NULL);
 		((DefaultControls_t6_62_StaticFields*)DefaultControls_t6_62_il2cpp_TypeInfo_var->static_fields)->___s_TextColor_8 = L_5;
 		return;
 	}
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateUIElementRoot(System.String,UnityEngine.Vector2)
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var;
 extern "C" GameObject_t5_101 * DefaultControls_CreateUIElementRoot_m6_367 (Object_t * __this /* static, unused */, String_t* ___name, Vector2_t5_44  ___size, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
-		GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
+		GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
 		s_Il2CppMethodIntialized = true;
 	}
 	GameObject_t5_101 * V_0 = {0};
@@ -12130,11 +12130,11 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateUIElementRoot_m6_367 (Objec
 	{
 		String_t* L_0 = ___name;
 		GameObject_t5_101 * L_1 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_1, L_0, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_1, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		RectTransform_t5_70 * L_3 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1809(L_2, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var);
+		RectTransform_t5_70 * L_3 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1807(L_2, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var);
 		V_1 = L_3;
 		RectTransform_t5_70 * L_4 = V_1;
 		Vector2_t5_44  L_5 = ___size;
@@ -12147,7 +12147,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateUIElementRoot_m6_367 (Objec
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateUIObject(System.String,UnityEngine.GameObject)
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var;
 extern "C" GameObject_t5_101 * DefaultControls_CreateUIObject_m6_368 (Object_t * __this /* static, unused */, String_t* ___name, GameObject_t5_101 * ___parent, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -12155,18 +12155,18 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateUIObject_m6_368 (Object_t *
 	{
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
+		GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
 		s_Il2CppMethodIntialized = true;
 	}
 	GameObject_t5_101 * V_0 = {0};
 	{
 		String_t* L_0 = ___name;
 		GameObject_t5_101 * L_1 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_1, L_0, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_1, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		GameObject_AddComponent_TisRectTransform_t5_70_m5_1809(L_2, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var);
+		GameObject_AddComponent_TisRectTransform_t5_70_m5_1807(L_2, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var);
 		GameObject_t5_101 * L_3 = V_0;
 		GameObject_t5_101 * L_4 = ___parent;
 		IL2CPP_RUNTIME_CLASS_INIT(DefaultControls_t6_62_il2cpp_TypeInfo_var);
@@ -12204,13 +12204,13 @@ extern "C" void DefaultControls_SetDefaultColorTransitionValues_m6_370 (Object_t
 		ColorBlock_t6_60  L_1 = Selectable_get_colors_m6_985(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Color_t5_165  L_2 = {0};
-		Color__ctor_m5_1580(&L_2, (0.882f), (0.882f), (0.882f), /*hidden argument*/NULL);
+		Color__ctor_m5_1578(&L_2, (0.882f), (0.882f), (0.882f), /*hidden argument*/NULL);
 		ColorBlock_set_highlightedColor_m6_356((&V_0), L_2, /*hidden argument*/NULL);
 		Color_t5_165  L_3 = {0};
-		Color__ctor_m5_1580(&L_3, (0.698f), (0.698f), (0.698f), /*hidden argument*/NULL);
+		Color__ctor_m5_1578(&L_3, (0.698f), (0.698f), (0.698f), /*hidden argument*/NULL);
 		ColorBlock_set_pressedColor_m6_358((&V_0), L_3, /*hidden argument*/NULL);
 		Color_t5_165  L_4 = {0};
-		Color__ctor_m5_1580(&L_4, (0.521f), (0.521f), (0.521f), /*hidden argument*/NULL);
+		Color__ctor_m5_1578(&L_4, (0.521f), (0.521f), (0.521f), /*hidden argument*/NULL);
 		ColorBlock_set_disabledColor_m6_360((&V_0), L_4, /*hidden argument*/NULL);
 		return;
 	}
@@ -12227,7 +12227,7 @@ extern "C" void DefaultControls_SetParentAndAlign_m6_371 (Object_t * __this /* s
 	}
 	{
 		GameObject_t5_101 * L_0 = ___parent;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -12241,16 +12241,16 @@ IL_000d:
 	{
 		GameObject_t5_101 * L_2 = ___child;
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = GameObject_get_transform_m5_766(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = GameObject_get_transform_m5_764(L_2, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_4 = ___parent;
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = GameObject_get_transform_m5_766(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = GameObject_get_transform_m5_764(L_4, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Transform_SetParent_m5_811(L_3, L_5, 0, /*hidden argument*/NULL);
+		Transform_SetParent_m5_809(L_3, L_5, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_6 = ___child;
 		GameObject_t5_101 * L_7 = ___parent;
 		NullCheck(L_7);
-		int32_t L_8 = GameObject_get_layer_m5_767(L_7, /*hidden argument*/NULL);
+		int32_t L_8 = GameObject_get_layer_m5_765(L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(DefaultControls_t6_62_il2cpp_TypeInfo_var);
 		DefaultControls_SetLayerRecursively_m6_372(NULL /*static, unused*/, L_6, L_8, /*hidden argument*/NULL);
 		return;
@@ -12272,10 +12272,10 @@ extern "C" void DefaultControls_SetLayerRecursively_m6_372 (Object_t * __this /*
 		GameObject_t5_101 * L_0 = ___go;
 		int32_t L_1 = ___layer;
 		NullCheck(L_0);
-		GameObject_set_layer_m5_768(L_0, L_1, /*hidden argument*/NULL);
+		GameObject_set_layer_m5_766(L_0, L_1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_2 = ___go;
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = GameObject_get_transform_m5_766(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = GameObject_get_transform_m5_764(L_2, /*hidden argument*/NULL);
 		V_0 = L_3;
 		V_1 = 0;
 		goto IL_002b;
@@ -12286,9 +12286,9 @@ IL_0015:
 		Transform_t5_71 * L_4 = V_0;
 		int32_t L_5 = V_1;
 		NullCheck(L_4);
-		Transform_t5_71 * L_6 = Transform_GetChild_m5_831(L_4, L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Transform_GetChild_m5_829(L_4, L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		GameObject_t5_101 * L_7 = Component_get_gameObject_m5_724(L_6, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_7 = Component_get_gameObject_m5_722(L_6, /*hidden argument*/NULL);
 		int32_t L_8 = ___layer;
 		IL2CPP_RUNTIME_CLASS_INIT(DefaultControls_t6_62_il2cpp_TypeInfo_var);
 		DefaultControls_SetLayerRecursively_m6_372(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
@@ -12301,7 +12301,7 @@ IL_002b:
 		int32_t L_10 = V_1;
 		Transform_t5_71 * L_11 = V_0;
 		NullCheck(L_11);
-		int32_t L_12 = Transform_get_childCount_m5_825(L_11, /*hidden argument*/NULL);
+		int32_t L_12 = Transform_get_childCount_m5_823(L_11, /*hidden argument*/NULL);
 		if ((((int32_t)L_10) < ((int32_t)L_12)))
 		{
 			goto IL_0015;
@@ -12313,8 +12313,8 @@ IL_002b:
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreatePanel(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2700;
 extern "C" GameObject_t5_101 * DefaultControls_CreatePanel_m6_373 (Object_t * __this /* static, unused */, Resources_t6_61  ___resources, const MethodInfo* method)
 {
@@ -12322,8 +12322,8 @@ extern "C" GameObject_t5_101 * DefaultControls_CreatePanel_m6_373 (Object_t * __
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
 		_stringLiteral2700 = il2cpp_codegen_string_literal_from_index(2700);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -12337,7 +12337,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreatePanel_m6_373 (Object_t * __
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		RectTransform_t5_70 * L_3 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_2, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_3 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_2, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_1 = L_3;
 		RectTransform_t5_70 * L_4 = V_1;
 		Vector2_t5_44  L_5 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -12357,7 +12357,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreatePanel_m6_373 (Object_t * __
 		RectTransform_set_sizeDelta_m5_494(L_10, L_11, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_12 = V_0;
 		NullCheck(L_12);
-		Image_t6_65 * L_13 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_12, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_13 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_12, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_2 = L_13;
 		Image_t6_65 * L_14 = V_2;
 		Sprite_t5_79 * L_15 = ((&___resources)->___background_1);
@@ -12377,10 +12377,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreatePanel_m6_373 (Object_t * __
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateButton(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2701;
 extern Il2CppCodeGenString* _stringLiteral2702;
 extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * __this /* static, unused */, Resources_t6_61  ___resources, const MethodInfo* method)
@@ -12390,10 +12390,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * _
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483852);
-		GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483852);
+		GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
 		_stringLiteral2701 = il2cpp_codegen_string_literal_from_index(2701);
 		_stringLiteral2702 = il2cpp_codegen_string_literal_from_index(2702);
 		s_Il2CppMethodIntialized = true;
@@ -12410,14 +12410,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * _
 		GameObject_t5_101 * L_1 = DefaultControls_CreateUIElementRoot_m6_367(NULL /*static, unused*/, _stringLiteral2701, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_2, _stringLiteral2702, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_2, _stringLiteral2702, /*hidden argument*/NULL);
 		V_1 = L_2;
 		GameObject_t5_101 * L_3 = V_1;
 		GameObject_t5_101 * L_4 = V_0;
 		DefaultControls_SetParentAndAlign_m6_371(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_5 = V_0;
 		NullCheck(L_5);
-		Image_t6_65 * L_6 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_5, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_6 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_5, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_2 = L_6;
 		Image_t6_65 * L_7 = V_2;
 		Sprite_t5_79 * L_8 = ((&___resources)->___standard_0);
@@ -12432,13 +12432,13 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * _
 		Graphic_set_color_m6_493(L_10, L_11, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_12 = V_0;
 		NullCheck(L_12);
-		Button_t6_55 * L_13 = GameObject_AddComponent_TisButton_t6_55_m5_1812(L_12, /*hidden argument*/GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var);
+		Button_t6_55 * L_13 = GameObject_AddComponent_TisButton_t6_55_m5_1810(L_12, /*hidden argument*/GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var);
 		V_3 = L_13;
 		Button_t6_55 * L_14 = V_3;
 		DefaultControls_SetDefaultColorTransitionValues_m6_370(NULL /*static, unused*/, L_14, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_15 = V_1;
 		NullCheck(L_15);
-		Text_t6_64 * L_16 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_15, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_16 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_15, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_4 = L_16;
 		Text_t6_64 * L_17 = V_4;
 		NullCheck(L_17);
@@ -12450,7 +12450,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * _
 		DefaultControls_SetDefaultTextValues_m6_369(NULL /*static, unused*/, L_19, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_20 = V_1;
 		NullCheck(L_20);
-		RectTransform_t5_70 * L_21 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_20, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_21 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_20, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_5 = L_21;
 		RectTransform_t5_70 * L_22 = V_5;
 		Vector2_t5_44  L_23 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -12470,7 +12470,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateButton_m6_374 (Object_t * _
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateText(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2702;
 extern Il2CppCodeGenString* _stringLiteral2703;
 extern "C" GameObject_t5_101 * DefaultControls_CreateText_m6_375 (Object_t * __this /* static, unused */, Resources_t6_61  ___resources, const MethodInfo* method)
@@ -12479,7 +12479,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateText_m6_375 (Object_t * __t
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
+		GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
 		_stringLiteral2702 = il2cpp_codegen_string_literal_from_index(2702);
 		_stringLiteral2703 = il2cpp_codegen_string_literal_from_index(2703);
 		s_Il2CppMethodIntialized = true;
@@ -12493,7 +12493,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateText_m6_375 (Object_t * __t
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		Text_t6_64 * L_3 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_2, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_3 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_2, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_1 = L_3;
 		Text_t6_64 * L_4 = V_1;
 		NullCheck(L_4);
@@ -12506,7 +12506,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateText_m6_375 (Object_t * __t
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateImage(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2704;
 extern "C" GameObject_t5_101 * DefaultControls_CreateImage_m6_376 (Object_t * __this /* static, unused */, Resources_t6_61  ___resources, const MethodInfo* method)
 {
@@ -12514,7 +12514,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateImage_m6_376 (Object_t * __
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
 		_stringLiteral2704 = il2cpp_codegen_string_literal_from_index(2704);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -12526,14 +12526,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateImage_m6_376 (Object_t * __
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811(L_2, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809(L_2, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		GameObject_t5_101 * L_3 = V_0;
 		return L_3;
 	}
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateRawImage(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRawImage_t6_108_m5_1814_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRawImage_t6_108_m5_1812_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2705;
 extern "C" GameObject_t5_101 * DefaultControls_CreateRawImage_m6_377 (Object_t * __this /* static, unused */, Resources_t6_61  ___resources, const MethodInfo* method)
 {
@@ -12541,7 +12541,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateRawImage_m6_377 (Object_t *
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisRawImage_t6_108_m5_1814_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483854);
+		GameObject_AddComponent_TisRawImage_t6_108_m5_1812_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483854);
 		_stringLiteral2705 = il2cpp_codegen_string_literal_from_index(2705);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -12553,16 +12553,16 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateRawImage_m6_377 (Object_t *
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
 		NullCheck(L_2);
-		GameObject_AddComponent_TisRawImage_t6_108_m5_1814(L_2, /*hidden argument*/GameObject_AddComponent_TisRawImage_t6_108_m5_1814_MethodInfo_var);
+		GameObject_AddComponent_TisRawImage_t6_108_m5_1812(L_2, /*hidden argument*/GameObject_AddComponent_TisRawImage_t6_108_m5_1812_MethodInfo_var);
 		GameObject_t5_101 * L_3 = V_0;
 		return L_3;
 	}
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateSlider(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisSlider_t6_126_m5_1815_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisSlider_t6_126_m5_1813_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2550;
 extern Il2CppCodeGenString* _stringLiteral2706;
 extern Il2CppCodeGenString* _stringLiteral2707;
@@ -12575,9 +12575,9 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
-		GameObject_AddComponent_TisSlider_t6_126_m5_1815_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483855);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisSlider_t6_126_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483855);
 		_stringLiteral2550 = il2cpp_codegen_string_literal_from_index(2550);
 		_stringLiteral2706 = il2cpp_codegen_string_literal_from_index(2706);
 		_stringLiteral2707 = il2cpp_codegen_string_literal_from_index(2707);
@@ -12623,7 +12623,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		V_5 = L_11;
 		GameObject_t5_101 * L_12 = V_1;
 		NullCheck(L_12);
-		Image_t6_65 * L_13 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_12, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_13 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_12, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_6 = L_13;
 		Image_t6_65 * L_14 = V_6;
 		Sprite_t5_79 * L_15 = ((&___resources)->___background_1);
@@ -12638,7 +12638,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		Graphic_set_color_m6_493(L_17, L_18, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_19 = V_1;
 		NullCheck(L_19);
-		RectTransform_t5_70 * L_20 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_19, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_20 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_19, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_7 = L_20;
 		RectTransform_t5_70 * L_21 = V_7;
 		Vector2_t5_44  L_22 = {0};
@@ -12657,7 +12657,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_25, L_26, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_27 = V_2;
 		NullCheck(L_27);
-		RectTransform_t5_70 * L_28 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_27, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_28 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_27, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_8 = L_28;
 		RectTransform_t5_70 * L_29 = V_8;
 		Vector2_t5_44  L_30 = {0};
@@ -12681,7 +12681,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_35, L_36, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_37 = V_3;
 		NullCheck(L_37);
-		Image_t6_65 * L_38 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_37, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_38 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_37, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_9 = L_38;
 		Image_t6_65 * L_39 = V_9;
 		Sprite_t5_79 * L_40 = ((&___resources)->___standard_0);
@@ -12696,7 +12696,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		Graphic_set_color_m6_493(L_42, L_43, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_44 = V_3;
 		NullCheck(L_44);
-		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_10 = L_45;
 		RectTransform_t5_70 * L_46 = V_10;
 		Vector2_t5_44  L_47 = {0};
@@ -12705,7 +12705,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_46, L_47, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_48 = V_4;
 		NullCheck(L_48);
-		RectTransform_t5_70 * L_49 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_48, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_49 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_48, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_11 = L_49;
 		RectTransform_t5_70 * L_50 = V_11;
 		Vector2_t5_44  L_51 = {0};
@@ -12724,7 +12724,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		RectTransform_set_anchorMax_m5_486(L_54, L_55, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_56 = V_5;
 		NullCheck(L_56);
-		Image_t6_65 * L_57 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_56, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_57 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_56, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_12 = L_57;
 		Image_t6_65 * L_58 = V_12;
 		Sprite_t5_79 * L_59 = ((&___resources)->___knob_3);
@@ -12736,7 +12736,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		Graphic_set_color_m6_493(L_60, L_61, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_62 = V_5;
 		NullCheck(L_62);
-		RectTransform_t5_70 * L_63 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_62, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_63 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_62, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_13 = L_63;
 		RectTransform_t5_70 * L_64 = V_13;
 		Vector2_t5_44  L_65 = {0};
@@ -12745,18 +12745,18 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_64, L_65, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_66 = V_0;
 		NullCheck(L_66);
-		Slider_t6_126 * L_67 = GameObject_AddComponent_TisSlider_t6_126_m5_1815(L_66, /*hidden argument*/GameObject_AddComponent_TisSlider_t6_126_m5_1815_MethodInfo_var);
+		Slider_t6_126 * L_67 = GameObject_AddComponent_TisSlider_t6_126_m5_1813(L_66, /*hidden argument*/GameObject_AddComponent_TisSlider_t6_126_m5_1813_MethodInfo_var);
 		V_14 = L_67;
 		Slider_t6_126 * L_68 = V_14;
 		GameObject_t5_101 * L_69 = V_3;
 		NullCheck(L_69);
-		RectTransform_t5_70 * L_70 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_69, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_70 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_69, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		NullCheck(L_68);
 		Slider_set_fillRect_m6_1042(L_68, L_70, /*hidden argument*/NULL);
 		Slider_t6_126 * L_71 = V_14;
 		GameObject_t5_101 * L_72 = V_5;
 		NullCheck(L_72);
-		RectTransform_t5_70 * L_73 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_72, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_73 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_72, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		NullCheck(L_71);
 		Slider_set_handleRect_m6_1044(L_71, L_73, /*hidden argument*/NULL);
 		Slider_t6_126 * L_74 = V_14;
@@ -12774,9 +12774,9 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateSlider_m6_378 (Object_t * _
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateScrollbar(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisScrollbar_t6_114_m5_1816_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisScrollbar_t6_114_m5_1814_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2711;
 extern Il2CppCodeGenString* _stringLiteral2712;
 extern Il2CppCodeGenString* _stringLiteral2710;
@@ -12786,9 +12786,9 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
-		GameObject_AddComponent_TisScrollbar_t6_114_m5_1816_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483856);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisScrollbar_t6_114_m5_1814_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483856);
 		_stringLiteral2711 = il2cpp_codegen_string_literal_from_index(2711);
 		_stringLiteral2712 = il2cpp_codegen_string_literal_from_index(2712);
 		_stringLiteral2710 = il2cpp_codegen_string_literal_from_index(2710);
@@ -12815,7 +12815,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 		V_2 = L_5;
 		GameObject_t5_101 * L_6 = V_0;
 		NullCheck(L_6);
-		Image_t6_65 * L_7 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_6, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_7 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_6, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_3 = L_7;
 		Image_t6_65 * L_8 = V_3;
 		Sprite_t5_79 * L_9 = ((&___resources)->___background_1);
@@ -12830,7 +12830,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 		Graphic_set_color_m6_493(L_11, L_12, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_13 = V_2;
 		NullCheck(L_13);
-		Image_t6_65 * L_14 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_13, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_14 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_13, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_4 = L_14;
 		Image_t6_65 * L_15 = V_4;
 		Sprite_t5_79 * L_16 = ((&___resources)->___standard_0);
@@ -12845,7 +12845,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 		Graphic_set_color_m6_493(L_18, L_19, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_20 = V_1;
 		NullCheck(L_20);
-		RectTransform_t5_70 * L_21 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_20, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_21 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_20, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_5 = L_21;
 		RectTransform_t5_70 * L_22 = V_5;
 		Vector2_t5_44  L_23 = {0};
@@ -12862,7 +12862,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 		RectTransform_set_anchorMax_m5_486(L_26, L_27, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_28 = V_2;
 		NullCheck(L_28);
-		RectTransform_t5_70 * L_29 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_28, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_29 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_28, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_6 = L_29;
 		RectTransform_t5_70 * L_30 = V_6;
 		Vector2_t5_44  L_31 = {0};
@@ -12871,7 +12871,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 		RectTransform_set_sizeDelta_m5_494(L_30, L_31, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_32 = V_0;
 		NullCheck(L_32);
-		Scrollbar_t6_114 * L_33 = GameObject_AddComponent_TisScrollbar_t6_114_m5_1816(L_32, /*hidden argument*/GameObject_AddComponent_TisScrollbar_t6_114_m5_1816_MethodInfo_var);
+		Scrollbar_t6_114 * L_33 = GameObject_AddComponent_TisScrollbar_t6_114_m5_1814(L_32, /*hidden argument*/GameObject_AddComponent_TisScrollbar_t6_114_m5_1814_MethodInfo_var);
 		V_7 = L_33;
 		Scrollbar_t6_114 * L_34 = V_7;
 		RectTransform_t5_70 * L_35 = V_6;
@@ -12889,10 +12889,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollbar_m6_379 (Object_t 
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateToggle(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2548;
 extern Il2CppCodeGenString* _stringLiteral2706;
 extern Il2CppCodeGenString* _stringLiteral2713;
@@ -12903,10 +12903,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483857);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483857);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
 		_stringLiteral2548 = il2cpp_codegen_string_literal_from_index(2548);
 		_stringLiteral2706 = il2cpp_codegen_string_literal_from_index(2706);
 		_stringLiteral2713 = il2cpp_codegen_string_literal_from_index(2713);
@@ -12940,14 +12940,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		V_3 = L_7;
 		GameObject_t5_101 * L_8 = V_0;
 		NullCheck(L_8);
-		Toggle_t6_66 * L_9 = GameObject_AddComponent_TisToggle_t6_66_m5_1817(L_8, /*hidden argument*/GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var);
+		Toggle_t6_66 * L_9 = GameObject_AddComponent_TisToggle_t6_66_m5_1815(L_8, /*hidden argument*/GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var);
 		V_4 = L_9;
 		Toggle_t6_66 * L_10 = V_4;
 		NullCheck(L_10);
 		Toggle_set_isOn_m6_1160(L_10, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_11 = V_1;
 		NullCheck(L_11);
-		Image_t6_65 * L_12 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_11, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_12 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_11, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_5 = L_12;
 		Image_t6_65 * L_13 = V_5;
 		Sprite_t5_79 * L_14 = ((&___resources)->___standard_0);
@@ -12962,7 +12962,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		Graphic_set_color_m6_493(L_16, L_17, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_18 = V_2;
 		NullCheck(L_18);
-		Image_t6_65 * L_19 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_18, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_19 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_18, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_6 = L_19;
 		Image_t6_65 * L_20 = V_6;
 		Sprite_t5_79 * L_21 = ((&___resources)->___checkmark_4);
@@ -12970,7 +12970,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		Image_set_sprite_m6_568(L_20, L_21, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_22 = V_3;
 		NullCheck(L_22);
-		Text_t6_64 * L_23 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_22, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_23 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_22, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_7 = L_23;
 		Text_t6_64 * L_24 = V_7;
 		NullCheck(L_24);
@@ -12989,7 +12989,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		DefaultControls_SetDefaultColorTransitionValues_m6_370(NULL /*static, unused*/, L_30, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_31 = V_1;
 		NullCheck(L_31);
-		RectTransform_t5_70 * L_32 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_31, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_32 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_31, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_8 = L_32;
 		RectTransform_t5_70 * L_33 = V_8;
 		Vector2_t5_44  L_34 = {0};
@@ -13013,7 +13013,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_39, L_40, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_41 = V_2;
 		NullCheck(L_41);
-		RectTransform_t5_70 * L_42 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_41, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_42 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_41, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_9 = L_42;
 		RectTransform_t5_70 * L_43 = V_9;
 		Vector2_t5_44  L_44 = {0};
@@ -13036,7 +13036,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 		RectTransform_set_sizeDelta_m5_494(L_49, L_50, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_51 = V_3;
 		NullCheck(L_51);
-		RectTransform_t5_70 * L_52 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_51, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_52 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_51, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_10 = L_52;
 		RectTransform_t5_70 * L_53 = V_10;
 		Vector2_t5_44  L_54 = {0};
@@ -13065,10 +13065,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateToggle_m6_380 (Object_t * _
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateInputField(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisInputField_t6_99_m5_1818_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisInputField_t6_99_m5_1816_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2715;
 extern Il2CppCodeGenString* _stringLiteral2716;
 extern Il2CppCodeGenString* _stringLiteral2702;
@@ -13080,10 +13080,10 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisInputField_t6_99_m5_1818_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483858);
-		GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisInputField_t6_99_m5_1816_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483858);
+		GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
 		_stringLiteral2715 = il2cpp_codegen_string_literal_from_index(2715);
 		_stringLiteral2716 = il2cpp_codegen_string_literal_from_index(2716);
 		_stringLiteral2702 = il2cpp_codegen_string_literal_from_index(2702);
@@ -13113,7 +13113,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 		V_2 = L_5;
 		GameObject_t5_101 * L_6 = V_0;
 		NullCheck(L_6);
-		Image_t6_65 * L_7 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_6, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_7 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_6, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_3 = L_7;
 		Image_t6_65 * L_8 = V_3;
 		Sprite_t5_79 * L_9 = ((&___resources)->___inputField_2);
@@ -13128,13 +13128,13 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 		Graphic_set_color_m6_493(L_11, L_12, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_13 = V_0;
 		NullCheck(L_13);
-		InputField_t6_99 * L_14 = GameObject_AddComponent_TisInputField_t6_99_m5_1818(L_13, /*hidden argument*/GameObject_AddComponent_TisInputField_t6_99_m5_1818_MethodInfo_var);
+		InputField_t6_99 * L_14 = GameObject_AddComponent_TisInputField_t6_99_m5_1816(L_13, /*hidden argument*/GameObject_AddComponent_TisInputField_t6_99_m5_1816_MethodInfo_var);
 		V_4 = L_14;
 		InputField_t6_99 * L_15 = V_4;
 		DefaultControls_SetDefaultColorTransitionValues_m6_370(NULL /*static, unused*/, L_15, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_16 = V_2;
 		NullCheck(L_16);
-		Text_t6_64 * L_17 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_16, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_17 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_16, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_5 = L_17;
 		Text_t6_64 * L_18 = V_5;
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
@@ -13148,7 +13148,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 		DefaultControls_SetDefaultTextValues_m6_369(NULL /*static, unused*/, L_21, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_22 = V_1;
 		NullCheck(L_22);
-		Text_t6_64 * L_23 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_22, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_23 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_22, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_6 = L_23;
 		Text_t6_64 * L_24 = V_6;
 		NullCheck(L_24);
@@ -13169,7 +13169,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 		Graphic_set_color_m6_493(L_30, L_31, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_32 = V_2;
 		NullCheck(L_32);
-		RectTransform_t5_70 * L_33 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_32, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_33 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_32, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_8 = L_33;
 		RectTransform_t5_70 * L_34 = V_8;
 		Vector2_t5_44  L_35 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13195,7 +13195,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 		RectTransform_set_offsetMax_m5_505(L_42, L_43, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_44 = V_1;
 		NullCheck(L_44);
-		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_9 = L_45;
 		RectTransform_t5_70 * L_46 = V_9;
 		Vector2_t5_44  L_47 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13235,14 +13235,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateInputField_m6_381 (Object_t
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern TypeInfo* OptionData_t6_67_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisDropdown_t6_71_m5_1822_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisDropdown_t6_71_m5_1820_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2718;
 extern Il2CppCodeGenString* _stringLiteral2714;
 extern Il2CppCodeGenString* _stringLiteral2719;
@@ -13265,14 +13265,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		OptionData_t6_67_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1067);
-		GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483859);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
-		GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483857);
-		GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483860);
-		GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483861);
-		GameObject_AddComponent_TisDropdown_t6_71_m5_1822_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483862);
+		GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483859);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483853);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483857);
+		GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483860);
+		GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483861);
+		GameObject_AddComponent_TisDropdown_t6_71_m5_1820_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483862);
 		_stringLiteral2718 = il2cpp_codegen_string_literal_from_index(2718);
 		_stringLiteral2714 = il2cpp_codegen_string_literal_from_index(2714);
 		_stringLiteral2719 = il2cpp_codegen_string_literal_from_index(2719);
@@ -13362,20 +13362,20 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		V_10 = L_21;
 		GameObject_t5_101 * L_22 = V_10;
 		NullCheck(L_22);
-		Object_set_name_m5_699(L_22, _stringLiteral2711, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_22, _stringLiteral2711, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_23 = V_10;
 		GameObject_t5_101 * L_24 = V_3;
 		DefaultControls_SetParentAndAlign_m6_371(NULL /*static, unused*/, L_23, L_24, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_25 = V_10;
 		NullCheck(L_25);
-		Scrollbar_t6_114 * L_26 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1819(L_25, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var);
+		Scrollbar_t6_114 * L_26 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1817(L_25, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var);
 		V_11 = L_26;
 		Scrollbar_t6_114 * L_27 = V_11;
 		NullCheck(L_27);
 		Scrollbar_SetDirection_m6_886(L_27, 2, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_28 = V_10;
 		NullCheck(L_28);
-		RectTransform_t5_70 * L_29 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_28, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_29 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_28, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_12 = L_29;
 		RectTransform_t5_70 * L_30 = V_12;
 		Vector2_t5_44  L_31 = Vector2_get_right_m5_207(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13401,7 +13401,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_sizeDelta_m5_494(L_36, L_40, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_41 = V_9;
 		NullCheck(L_41);
-		Text_t6_64 * L_42 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_41, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_42 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_41, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_13 = L_42;
 		Text_t6_64 * L_43 = V_13;
 		DefaultControls_SetDefaultTextValues_m6_369(NULL /*static, unused*/, L_43, /*hidden argument*/NULL);
@@ -13410,7 +13410,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Text_set_alignment_m6_1119(L_44, 3, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_45 = V_7;
 		NullCheck(L_45);
-		Image_t6_65 * L_46 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_45, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_46 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_45, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_14 = L_46;
 		Image_t6_65 * L_47 = V_14;
 		Color32_t5_46  L_48 = {0};
@@ -13420,7 +13420,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Graphic_set_color_m6_493(L_47, L_49, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_50 = V_8;
 		NullCheck(L_50);
-		Image_t6_65 * L_51 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_50, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_51 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_50, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_15 = L_51;
 		Image_t6_65 * L_52 = V_15;
 		Sprite_t5_79 * L_53 = ((&___resources)->___checkmark_4);
@@ -13428,7 +13428,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Image_set_sprite_m6_568(L_52, L_53, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_54 = V_6;
 		NullCheck(L_54);
-		Toggle_t6_66 * L_55 = GameObject_AddComponent_TisToggle_t6_66_m5_1817(L_54, /*hidden argument*/GameObject_AddComponent_TisToggle_t6_66_m5_1817_MethodInfo_var);
+		Toggle_t6_66 * L_55 = GameObject_AddComponent_TisToggle_t6_66_m5_1815(L_54, /*hidden argument*/GameObject_AddComponent_TisToggle_t6_66_m5_1815_MethodInfo_var);
 		V_16 = L_55;
 		Toggle_t6_66 * L_56 = V_16;
 		Image_t6_65 * L_57 = V_14;
@@ -13443,7 +13443,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Toggle_set_isOn_m6_1160(L_60, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_61 = V_3;
 		NullCheck(L_61);
-		Image_t6_65 * L_62 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_61, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_62 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_61, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_17 = L_62;
 		Image_t6_65 * L_63 = V_17;
 		Sprite_t5_79 * L_64 = ((&___resources)->___standard_0);
@@ -13454,18 +13454,18 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Image_set_type_m6_572(L_65, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_66 = V_3;
 		NullCheck(L_66);
-		ScrollRect_t6_118 * L_67 = GameObject_AddComponent_TisScrollRect_t6_118_m5_1820(L_66, /*hidden argument*/GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var);
+		ScrollRect_t6_118 * L_67 = GameObject_AddComponent_TisScrollRect_t6_118_m5_1818(L_66, /*hidden argument*/GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var);
 		V_18 = L_67;
 		ScrollRect_t6_118 * L_68 = V_18;
 		GameObject_t5_101 * L_69 = V_5;
 		NullCheck(L_69);
-		Transform_t5_71 * L_70 = GameObject_get_transform_m5_766(L_69, /*hidden argument*/NULL);
+		Transform_t5_71 * L_70 = GameObject_get_transform_m5_764(L_69, /*hidden argument*/NULL);
 		NullCheck(L_68);
 		ScrollRect_set_content_m6_892(L_68, ((RectTransform_t5_70 *)CastclassSealed(L_70, RectTransform_t5_70_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		ScrollRect_t6_118 * L_71 = V_18;
 		GameObject_t5_101 * L_72 = V_4;
 		NullCheck(L_72);
-		Transform_t5_71 * L_73 = GameObject_get_transform_m5_766(L_72, /*hidden argument*/NULL);
+		Transform_t5_71 * L_73 = GameObject_get_transform_m5_764(L_72, /*hidden argument*/NULL);
 		NullCheck(L_71);
 		ScrollRect_set_viewport_m6_908(L_71, ((RectTransform_t5_70 *)CastclassSealed(L_73, RectTransform_t5_70_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		ScrollRect_t6_118 * L_74 = V_18;
@@ -13486,14 +13486,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		ScrollRect_set_verticalScrollbarSpacing_m6_920(L_79, (-3.0f), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_80 = V_4;
 		NullCheck(L_80);
-		Mask_t6_101 * L_81 = GameObject_AddComponent_TisMask_t6_101_m5_1821(L_80, /*hidden argument*/GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var);
+		Mask_t6_101 * L_81 = GameObject_AddComponent_TisMask_t6_101_m5_1819(L_80, /*hidden argument*/GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var);
 		V_19 = L_81;
 		Mask_t6_101 * L_82 = V_19;
 		NullCheck(L_82);
 		Mask_set_showMaskGraphic_m6_774(L_82, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_83 = V_4;
 		NullCheck(L_83);
-		Image_t6_65 * L_84 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_83, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_84 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_83, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_20 = L_84;
 		Image_t6_65 * L_85 = V_20;
 		Sprite_t5_79 * L_86 = ((&___resources)->___mask_6);
@@ -13504,7 +13504,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Image_set_type_m6_572(L_87, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_88 = V_1;
 		NullCheck(L_88);
-		Text_t6_64 * L_89 = GameObject_AddComponent_TisText_t6_64_m5_1813(L_88, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1813_MethodInfo_var);
+		Text_t6_64 * L_89 = GameObject_AddComponent_TisText_t6_64_m5_1811(L_88, /*hidden argument*/GameObject_AddComponent_TisText_t6_64_m5_1811_MethodInfo_var);
 		V_21 = L_89;
 		Text_t6_64 * L_90 = V_21;
 		DefaultControls_SetDefaultTextValues_m6_369(NULL /*static, unused*/, L_90, /*hidden argument*/NULL);
@@ -13513,7 +13513,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Text_set_alignment_m6_1119(L_91, 3, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_92 = V_2;
 		NullCheck(L_92);
-		Image_t6_65 * L_93 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_92, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_93 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_92, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_22 = L_93;
 		Image_t6_65 * L_94 = V_22;
 		Sprite_t5_79 * L_95 = ((&___resources)->___dropdown_5);
@@ -13521,7 +13521,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Image_set_sprite_m6_568(L_94, L_95, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_96 = V_0;
 		NullCheck(L_96);
-		Image_t6_65 * L_97 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_96, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_97 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_96, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_23 = L_97;
 		Image_t6_65 * L_98 = V_23;
 		Sprite_t5_79 * L_99 = ((&___resources)->___standard_0);
@@ -13536,7 +13536,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Image_set_type_m6_572(L_102, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_103 = V_0;
 		NullCheck(L_103);
-		Dropdown_t6_71 * L_104 = GameObject_AddComponent_TisDropdown_t6_71_m5_1822(L_103, /*hidden argument*/GameObject_AddComponent_TisDropdown_t6_71_m5_1822_MethodInfo_var);
+		Dropdown_t6_71 * L_104 = GameObject_AddComponent_TisDropdown_t6_71_m5_1820(L_103, /*hidden argument*/GameObject_AddComponent_TisDropdown_t6_71_m5_1820_MethodInfo_var);
 		V_24 = L_104;
 		Dropdown_t6_71 * L_105 = V_24;
 		Image_t6_65 * L_106 = V_23;
@@ -13547,7 +13547,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Dropdown_t6_71 * L_108 = V_24;
 		GameObject_t5_101 * L_109 = V_3;
 		NullCheck(L_109);
-		RectTransform_t5_70 * L_110 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_109, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_110 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_109, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		NullCheck(L_108);
 		Dropdown_set_template_m6_418(L_108, L_110, /*hidden argument*/NULL);
 		Dropdown_t6_71 * L_111 = V_24;
@@ -13602,7 +13602,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		Dropdown_RefreshShownValue_m6_434(L_131, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_132 = V_1;
 		NullCheck(L_132);
-		RectTransform_t5_70 * L_133 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_132, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_133 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_132, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_25 = L_133;
 		RectTransform_t5_70 * L_134 = V_25;
 		Vector2_t5_44  L_135 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13624,7 +13624,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_offsetMax_m5_505(L_140, L_141, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_142 = V_2;
 		NullCheck(L_142);
-		RectTransform_t5_70 * L_143 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_142, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_143 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_142, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_26 = L_143;
 		RectTransform_t5_70 * L_144 = V_26;
 		Vector2_t5_44  L_145 = {0};
@@ -13648,7 +13648,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_anchoredPosition_m5_490(L_150, L_151, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_152 = V_3;
 		NullCheck(L_152);
-		RectTransform_t5_70 * L_153 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_152, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_153 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_152, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_27 = L_153;
 		RectTransform_t5_70 * L_154 = V_27;
 		Vector2_t5_44  L_155 = {0};
@@ -13677,7 +13677,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_sizeDelta_m5_494(L_162, L_163, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_164 = V_4;
 		NullCheck(L_164);
-		RectTransform_t5_70 * L_165 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_164, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_165 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_164, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_28 = L_165;
 		RectTransform_t5_70 * L_166 = V_28;
 		Vector2_t5_44  L_167 = {0};
@@ -13701,7 +13701,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_pivot_m5_498(L_172, L_173, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_174 = V_5;
 		NullCheck(L_174);
-		RectTransform_t5_70 * L_175 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_174, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_175 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_174, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_29 = L_175;
 		RectTransform_t5_70 * L_176 = V_29;
 		Vector2_t5_44  L_177 = {0};
@@ -13730,7 +13730,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_sizeDelta_m5_494(L_184, L_185, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_186 = V_6;
 		NullCheck(L_186);
-		RectTransform_t5_70 * L_187 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_186, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_187 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_186, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_30 = L_187;
 		RectTransform_t5_70 * L_188 = V_30;
 		Vector2_t5_44  L_189 = {0};
@@ -13749,7 +13749,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_sizeDelta_m5_494(L_192, L_193, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_194 = V_7;
 		NullCheck(L_194);
-		RectTransform_t5_70 * L_195 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_194, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_195 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_194, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_31 = L_195;
 		RectTransform_t5_70 * L_196 = V_31;
 		Vector2_t5_44  L_197 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13765,7 +13765,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_sizeDelta_m5_494(L_200, L_201, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_202 = V_8;
 		NullCheck(L_202);
-		RectTransform_t5_70 * L_203 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_202, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_203 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_202, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_32 = L_203;
 		RectTransform_t5_70 * L_204 = V_32;
 		Vector2_t5_44  L_205 = {0};
@@ -13789,7 +13789,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_anchoredPosition_m5_490(L_210, L_211, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_212 = V_9;
 		NullCheck(L_212);
-		RectTransform_t5_70 * L_213 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_212, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_213 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_212, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_33 = L_213;
 		RectTransform_t5_70 * L_214 = V_33;
 		Vector2_t5_44  L_215 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13811,18 +13811,18 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateDropdown_m6_382 (Object_t *
 		RectTransform_set_offsetMax_m5_505(L_220, L_221, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_222 = V_3;
 		NullCheck(L_222);
-		GameObject_SetActive_m5_769(L_222, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_222, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_223 = V_0;
 		return L_223;
 	}
 }
 // UnityEngine.GameObject UnityEngine.UI.DefaultControls::CreateScrollView(UnityEngine.UI.DefaultControls/Resources)
 extern TypeInfo* DefaultControls_t6_62_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2730;
 extern Il2CppCodeGenString* _stringLiteral2721;
 extern Il2CppCodeGenString* _stringLiteral2722;
@@ -13834,11 +13834,11 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 	if (!s_Il2CppMethodIntialized)
 	{
 		DefaultControls_t6_62_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1055);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
-		GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483859);
-		GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483860);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483861);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483859);
+		GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483860);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483861);
 		_stringLiteral2730 = il2cpp_codegen_string_literal_from_index(2730);
 		_stringLiteral2721 = il2cpp_codegen_string_literal_from_index(2721);
 		_stringLiteral2722 = il2cpp_codegen_string_literal_from_index(2722);
@@ -13878,13 +13878,13 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		V_3 = L_7;
 		GameObject_t5_101 * L_8 = V_3;
 		NullCheck(L_8);
-		Object_set_name_m5_699(L_8, _stringLiteral2731, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_8, _stringLiteral2731, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_9 = V_3;
 		GameObject_t5_101 * L_10 = V_0;
 		DefaultControls_SetParentAndAlign_m6_371(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_11 = V_3;
 		NullCheck(L_11);
-		RectTransform_t5_70 * L_12 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_11, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_12 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_11, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_4 = L_12;
 		RectTransform_t5_70 * L_13 = V_4;
 		Vector2_t5_44  L_14 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13913,18 +13913,18 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		V_5 = L_25;
 		GameObject_t5_101 * L_26 = V_5;
 		NullCheck(L_26);
-		Object_set_name_m5_699(L_26, _stringLiteral2732, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_26, _stringLiteral2732, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_27 = V_5;
 		GameObject_t5_101 * L_28 = V_0;
 		DefaultControls_SetParentAndAlign_m6_371(NULL /*static, unused*/, L_27, L_28, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_29 = V_5;
 		NullCheck(L_29);
-		Scrollbar_t6_114 * L_30 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1819(L_29, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var);
+		Scrollbar_t6_114 * L_30 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1817(L_29, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var);
 		NullCheck(L_30);
 		Scrollbar_SetDirection_m6_886(L_30, 2, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_31 = V_5;
 		NullCheck(L_31);
-		RectTransform_t5_70 * L_32 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_31, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_32 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_31, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_6 = L_32;
 		RectTransform_t5_70 * L_33 = V_6;
 		Vector2_t5_44  L_34 = Vector2_get_right_m5_207(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13950,7 +13950,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		RectTransform_set_sizeDelta_m5_494(L_39, L_43, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_44 = V_1;
 		NullCheck(L_44);
-		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_45 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_44, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_7 = L_45;
 		RectTransform_t5_70 * L_46 = V_7;
 		Vector2_t5_44  L_47 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13970,7 +13970,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		RectTransform_set_pivot_m5_498(L_52, L_53, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_54 = V_2;
 		NullCheck(L_54);
-		RectTransform_t5_70 * L_55 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_54, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_55 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_54, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_8 = L_55;
 		RectTransform_t5_70 * L_56 = V_8;
 		Vector2_t5_44  L_57 = Vector2_get_up_m5_206(NULL /*static, unused*/, /*hidden argument*/NULL);
@@ -13991,7 +13991,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		RectTransform_set_pivot_m5_498(L_62, L_63, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_64 = V_0;
 		NullCheck(L_64);
-		ScrollRect_t6_118 * L_65 = GameObject_AddComponent_TisScrollRect_t6_118_m5_1820(L_64, /*hidden argument*/GameObject_AddComponent_TisScrollRect_t6_118_m5_1820_MethodInfo_var);
+		ScrollRect_t6_118 * L_65 = GameObject_AddComponent_TisScrollRect_t6_118_m5_1818(L_64, /*hidden argument*/GameObject_AddComponent_TisScrollRect_t6_118_m5_1818_MethodInfo_var);
 		V_9 = L_65;
 		ScrollRect_t6_118 * L_66 = V_9;
 		RectTransform_t5_70 * L_67 = V_8;
@@ -14004,13 +14004,13 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		ScrollRect_t6_118 * L_70 = V_9;
 		GameObject_t5_101 * L_71 = V_3;
 		NullCheck(L_71);
-		Scrollbar_t6_114 * L_72 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1819(L_71, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var);
+		Scrollbar_t6_114 * L_72 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1817(L_71, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var);
 		NullCheck(L_70);
 		ScrollRect_set_horizontalScrollbar_m6_910(L_70, L_72, /*hidden argument*/NULL);
 		ScrollRect_t6_118 * L_73 = V_9;
 		GameObject_t5_101 * L_74 = V_5;
 		NullCheck(L_74);
-		Scrollbar_t6_114 * L_75 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1819(L_74, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1819_MethodInfo_var);
+		Scrollbar_t6_114 * L_75 = GameObject_GetComponent_TisScrollbar_t6_114_m5_1817(L_74, /*hidden argument*/GameObject_GetComponent_TisScrollbar_t6_114_m5_1817_MethodInfo_var);
 		NullCheck(L_73);
 		ScrollRect_set_verticalScrollbar_m6_912(L_73, L_75, /*hidden argument*/NULL);
 		ScrollRect_t6_118 * L_76 = V_9;
@@ -14027,7 +14027,7 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		ScrollRect_set_verticalScrollbarSpacing_m6_920(L_79, (-3.0f), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_80 = V_0;
 		NullCheck(L_80);
-		Image_t6_65 * L_81 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_80, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_81 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_80, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_10 = L_81;
 		Image_t6_65 * L_82 = V_10;
 		Sprite_t5_79 * L_83 = ((&___resources)->___background_1);
@@ -14042,14 +14042,14 @@ extern "C" GameObject_t5_101 * DefaultControls_CreateScrollView_m6_383 (Object_t
 		Graphic_set_color_m6_493(L_85, L_86, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_87 = V_1;
 		NullCheck(L_87);
-		Mask_t6_101 * L_88 = GameObject_AddComponent_TisMask_t6_101_m5_1821(L_87, /*hidden argument*/GameObject_AddComponent_TisMask_t6_101_m5_1821_MethodInfo_var);
+		Mask_t6_101 * L_88 = GameObject_AddComponent_TisMask_t6_101_m5_1819(L_87, /*hidden argument*/GameObject_AddComponent_TisMask_t6_101_m5_1819_MethodInfo_var);
 		V_11 = L_88;
 		Mask_t6_101 * L_89 = V_11;
 		NullCheck(L_89);
 		Mask_set_showMaskGraphic_m6_774(L_89, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_90 = V_1;
 		NullCheck(L_90);
-		Image_t6_65 * L_91 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_90, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_91 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_90, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_12 = L_91;
 		Image_t6_65 * L_92 = V_12;
 		Sprite_t5_79 * L_93 = ((&___resources)->___mask_6);
@@ -14151,28 +14151,28 @@ extern "C" void DropdownItem_OnPointerEnter_m6_393 (DropdownItem_t6_63 * __this,
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_0 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		EventSystem_SetSelectedGameObject_m6_17(L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.UI.Dropdown/DropdownItem::OnCancel(UnityEngine.EventSystems.BaseEventData)
-extern const MethodInfo* Component_GetComponentInParent_TisDropdown_t6_71_m5_1823_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentInParent_TisDropdown_t6_71_m5_1821_MethodInfo_var;
 extern "C" void DropdownItem_OnCancel_m6_394 (DropdownItem_t6_63 * __this, BaseEventData_t6_5 * ___eventData, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponentInParent_TisDropdown_t6_71_m5_1823_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483863);
+		Component_GetComponentInParent_TisDropdown_t6_71_m5_1821_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483863);
 		s_Il2CppMethodIntialized = true;
 	}
 	Dropdown_t6_71 * V_0 = {0};
 	{
-		Dropdown_t6_71 * L_0 = Component_GetComponentInParent_TisDropdown_t6_71_m5_1823(__this, /*hidden argument*/Component_GetComponentInParent_TisDropdown_t6_71_m5_1823_MethodInfo_var);
+		Dropdown_t6_71 * L_0 = Component_GetComponentInParent_TisDropdown_t6_71_m5_1821(__this, /*hidden argument*/Component_GetComponentInParent_TisDropdown_t6_71_m5_1821_MethodInfo_var);
 		V_0 = L_0;
 		Dropdown_t6_71 * L_1 = V_0;
-		bool L_2 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0018;
@@ -14301,17 +14301,17 @@ extern "C" void OptionDataList_set_options_m6_405 (OptionDataList_t6_68 * __this
 	}
 }
 // System.Void UnityEngine.UI.Dropdown/DropdownEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1824_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1822_MethodInfo_var;
 extern "C" void DropdownEvent__ctor_m6_406 (DropdownEvent_t6_69 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1824_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483865);
+		UnityEvent_1__ctor_m5_1822_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483865);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1824(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1824_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1822(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1822_MethodInfo_var);
 		return;
 	}
 }
@@ -14393,7 +14393,7 @@ IL_004a:
 		int32_t L_6 = (__this->___U3CiU3E__0_1);
 		NullCheck(L_5);
 		DropdownItem_t6_63 * L_7 = (DropdownItem_t6_63 *)VirtFuncInvoker1< DropdownItem_t6_63 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.UI.Dropdown/DropdownItem>::get_Item(System.Int32) */, L_5, L_6);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_008c;
@@ -14439,7 +14439,7 @@ IL_00aa:
 		Dropdown_t6_71 * L_21 = (__this->___U3CU3Ef__this_5);
 		NullCheck(L_21);
 		GameObject_t5_101 * L_22 = (L_21->___m_Dropdown_24);
-		bool L_23 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_22, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_23 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_22, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_23)
 		{
 			goto IL_00f1;
@@ -14709,14 +14709,14 @@ extern "C" int32_t Dropdown_get_value_m6_431 (Dropdown_t6_71 * __this, const Met
 }
 // System.Void UnityEngine.UI.Dropdown::set_value(System.Int32)
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1825_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1823_MethodInfo_var;
 extern "C" void Dropdown_set_value_m6_432 (Dropdown_t6_71 * __this, int32_t ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		UnityEvent_1_Invoke_m5_1825_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483867);
+		UnityEvent_1_Invoke_m5_1823_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483867);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -14762,7 +14762,7 @@ IL_0027:
 		DropdownEvent_t6_69 * L_9 = (__this->___m_OnValueChanged_23);
 		int32_t L_10 = (__this->___m_Value_21);
 		NullCheck(L_9);
-		UnityEvent_1_Invoke_m5_1825(L_9, L_10, /*hidden argument*/UnityEvent_1_Invoke_m5_1825_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1823(L_9, L_10, /*hidden argument*/UnityEvent_1_Invoke_m5_1823_MethodInfo_var);
 		return;
 	}
 }
@@ -14788,7 +14788,7 @@ extern "C" void Dropdown_Awake_m6_433 (Dropdown_t6_71 * __this, const MethodInfo
 		NullCheck(L_1);
 		TweenRunner_1_Init_m6_1470(L_1, __this, /*hidden argument*/TweenRunner_1_Init_m6_1470_MethodInfo_var);
 		Image_t6_65 * L_2 = (__this->___m_CaptionImage_18);
-		bool L_3 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0043;
@@ -14799,7 +14799,7 @@ extern "C" void Dropdown_Awake_m6_433 (Dropdown_t6_71 * __this, const MethodInfo
 		Image_t6_65 * L_5 = (__this->___m_CaptionImage_18);
 		NullCheck(L_5);
 		Sprite_t5_79 * L_6 = Image_get_sprite_m6_567(L_5, /*hidden argument*/NULL);
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		Behaviour_set_enabled_m5_583(L_4, L_7, /*hidden argument*/NULL);
 	}
@@ -14807,7 +14807,7 @@ extern "C" void Dropdown_Awake_m6_433 (Dropdown_t6_71 * __this, const MethodInfo
 IL_0043:
 	{
 		RectTransform_t5_70 * L_8 = (__this->___m_Template_16);
-		bool L_9 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0064;
@@ -14816,9 +14816,9 @@ IL_0043:
 	{
 		RectTransform_t5_70 * L_10 = (__this->___m_Template_16);
 		NullCheck(L_10);
-		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_724(L_10, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_722(L_10, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		GameObject_SetActive_m5_769(L_11, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_11, 0, /*hidden argument*/NULL);
 	}
 
 IL_0064:
@@ -14869,7 +14869,7 @@ extern "C" void Dropdown_RefreshShownValue_m6_434 (Dropdown_t6_71 * __this, cons
 IL_003c:
 	{
 		Text_t6_64 * L_9 = (__this->___m_CaptionText_17);
-		bool L_10 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_9, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0083;
@@ -14913,7 +14913,7 @@ IL_0073:
 IL_0083:
 	{
 		Image_t6_65 * L_19 = (__this->___m_CaptionImage_18);
-		bool L_20 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_19, /*hidden argument*/NULL);
+		bool L_20 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_19, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_00d7;
@@ -14949,7 +14949,7 @@ IL_00bb:
 		Image_t6_65 * L_27 = (__this->___m_CaptionImage_18);
 		NullCheck(L_27);
 		Sprite_t5_79 * L_28 = Image_get_sprite_m6_567(L_27, /*hidden argument*/NULL);
-		bool L_29 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_28, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_29 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_28, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		NullCheck(L_26);
 		Behaviour_set_enabled_m5_583(L_26, L_29, /*hidden argument*/NULL);
 	}
@@ -15087,8 +15087,8 @@ extern "C" void Dropdown_ClearOptions_m6_438 (Dropdown_t6_71 * __this, const Met
 extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern TypeInfo* Dropdown_t6_71_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponentInChildren_TisToggle_t6_66_m5_1826_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisDropdownItem_t6_63_m5_1827_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentInChildren_TisToggle_t6_66_m5_1824_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisDropdownItem_t6_63_m5_1825_MethodInfo_var;
 extern const MethodInfo* Dropdown_GetOrAddComponent_TisCanvas_t5_177_m6_1471_MethodInfo_var;
 extern const MethodInfo* Dropdown_GetOrAddComponent_TisGraphicRaycaster_t6_80_m6_1472_MethodInfo_var;
 extern const MethodInfo* Dropdown_GetOrAddComponent_TisCanvasGroup_t5_178_m6_1473_MethodInfo_var;
@@ -15105,8 +15105,8 @@ extern "C" void Dropdown_SetupTemplate_m6_439 (Dropdown_t6_71 * __this, const Me
 		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		Dropdown_t6_71_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1066);
-		Component_GetComponentInChildren_TisToggle_t6_66_m5_1826_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483871);
-		GameObject_AddComponent_TisDropdownItem_t6_63_m5_1827_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483872);
+		Component_GetComponentInChildren_TisToggle_t6_66_m5_1824_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483871);
+		GameObject_AddComponent_TisDropdownItem_t6_63_m5_1825_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483872);
 		Dropdown_GetOrAddComponent_TisCanvas_t5_177_m6_1471_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483873);
 		Dropdown_GetOrAddComponent_TisGraphicRaycaster_t6_80_m6_1472_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483874);
 		Dropdown_GetOrAddComponent_TisCanvasGroup_t5_178_m6_1473_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483875);
@@ -15124,7 +15124,7 @@ extern "C" void Dropdown_SetupTemplate_m6_439 (Dropdown_t6_71 * __this, const Me
 	{
 		__this->___validTemplate_28 = 0;
 		RectTransform_t5_70 * L_0 = (__this->___m_Template_16);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0023;
@@ -15140,18 +15140,18 @@ IL_0023:
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_Template_16);
 		NullCheck(L_2);
-		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_724(L_2, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(L_2, /*hidden argument*/NULL);
 		V_0 = L_3;
 		GameObject_t5_101 * L_4 = V_0;
 		NullCheck(L_4);
-		GameObject_SetActive_m5_769(L_4, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_4, 1, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_5 = (__this->___m_Template_16);
 		NullCheck(L_5);
-		Toggle_t6_66 * L_6 = Component_GetComponentInChildren_TisToggle_t6_66_m5_1826(L_5, /*hidden argument*/Component_GetComponentInChildren_TisToggle_t6_66_m5_1826_MethodInfo_var);
+		Toggle_t6_66 * L_6 = Component_GetComponentInChildren_TisToggle_t6_66_m5_1824(L_5, /*hidden argument*/Component_GetComponentInChildren_TisToggle_t6_66_m5_1824_MethodInfo_var);
 		V_1 = L_6;
 		__this->___validTemplate_28 = 1;
 		Toggle_t6_66 * L_7 = V_1;
-		bool L_8 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_006a;
@@ -15160,9 +15160,9 @@ IL_0023:
 	{
 		Toggle_t6_66 * L_9 = V_1;
 		NullCheck(L_9);
-		Transform_t5_71 * L_10 = Component_get_transform_m5_723(L_9, /*hidden argument*/NULL);
+		Transform_t5_71 * L_10 = Component_get_transform_m5_721(L_9, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_11 = Dropdown_get_template_m6_417(__this, /*hidden argument*/NULL);
-		bool L_12 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
+		bool L_12 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
 		if (!L_12)
 		{
 			goto IL_0086;
@@ -15182,9 +15182,9 @@ IL_0086:
 	{
 		Toggle_t6_66 * L_14 = V_1;
 		NullCheck(L_14);
-		Transform_t5_71 * L_15 = Component_get_transform_m5_723(L_14, /*hidden argument*/NULL);
+		Transform_t5_71 * L_15 = Component_get_transform_m5_721(L_14, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		Transform_t5_71 * L_16 = Transform_get_parent_m5_806(L_15, /*hidden argument*/NULL);
+		Transform_t5_71 * L_16 = Transform_get_parent_m5_804(L_15, /*hidden argument*/NULL);
 		if (((RectTransform_t5_70 *)IsInstSealed(L_16, RectTransform_t5_70_il2cpp_TypeInfo_var)))
 		{
 			goto IL_00b7;
@@ -15201,7 +15201,7 @@ IL_0086:
 IL_00b7:
 	{
 		Text_t6_64 * L_18 = Dropdown_get_itemText_m6_423(__this, /*hidden argument*/NULL);
-		bool L_19 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_19 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_19)
 		{
 			goto IL_00ff;
@@ -15210,12 +15210,12 @@ IL_00b7:
 	{
 		Text_t6_64 * L_20 = Dropdown_get_itemText_m6_423(__this, /*hidden argument*/NULL);
 		NullCheck(L_20);
-		Transform_t5_71 * L_21 = Component_get_transform_m5_723(L_20, /*hidden argument*/NULL);
+		Transform_t5_71 * L_21 = Component_get_transform_m5_721(L_20, /*hidden argument*/NULL);
 		Toggle_t6_66 * L_22 = V_1;
 		NullCheck(L_22);
-		Transform_t5_71 * L_23 = Component_get_transform_m5_723(L_22, /*hidden argument*/NULL);
+		Transform_t5_71 * L_23 = Component_get_transform_m5_721(L_22, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		bool L_24 = Transform_IsChildOf_m5_829(L_21, L_23, /*hidden argument*/NULL);
+		bool L_24 = Transform_IsChildOf_m5_827(L_21, L_23, /*hidden argument*/NULL);
 		if (L_24)
 		{
 			goto IL_00ff;
@@ -15232,7 +15232,7 @@ IL_00b7:
 IL_00ff:
 	{
 		Image_t6_65 * L_26 = Dropdown_get_itemImage_m6_425(__this, /*hidden argument*/NULL);
-		bool L_27 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_27 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_0142;
@@ -15241,12 +15241,12 @@ IL_00ff:
 	{
 		Image_t6_65 * L_28 = Dropdown_get_itemImage_m6_425(__this, /*hidden argument*/NULL);
 		NullCheck(L_28);
-		Transform_t5_71 * L_29 = Component_get_transform_m5_723(L_28, /*hidden argument*/NULL);
+		Transform_t5_71 * L_29 = Component_get_transform_m5_721(L_28, /*hidden argument*/NULL);
 		Toggle_t6_66 * L_30 = V_1;
 		NullCheck(L_30);
-		Transform_t5_71 * L_31 = Component_get_transform_m5_723(L_30, /*hidden argument*/NULL);
+		Transform_t5_71 * L_31 = Component_get_transform_m5_721(L_30, /*hidden argument*/NULL);
 		NullCheck(L_29);
-		bool L_32 = Transform_IsChildOf_m5_829(L_29, L_31, /*hidden argument*/NULL);
+		bool L_32 = Transform_IsChildOf_m5_827(L_29, L_31, /*hidden argument*/NULL);
 		if (L_32)
 		{
 			goto IL_0142;
@@ -15270,7 +15270,7 @@ IL_0142:
 	{
 		GameObject_t5_101 * L_35 = V_0;
 		NullCheck(L_35);
-		GameObject_SetActive_m5_769(L_35, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_35, 0, /*hidden argument*/NULL);
 		return;
 	}
 
@@ -15278,9 +15278,9 @@ IL_0155:
 	{
 		Toggle_t6_66 * L_36 = V_1;
 		NullCheck(L_36);
-		GameObject_t5_101 * L_37 = Component_get_gameObject_m5_724(L_36, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_37 = Component_get_gameObject_m5_722(L_36, /*hidden argument*/NULL);
 		NullCheck(L_37);
-		DropdownItem_t6_63 * L_38 = GameObject_AddComponent_TisDropdownItem_t6_63_m5_1827(L_37, /*hidden argument*/GameObject_AddComponent_TisDropdownItem_t6_63_m5_1827_MethodInfo_var);
+		DropdownItem_t6_63 * L_38 = GameObject_AddComponent_TisDropdownItem_t6_63_m5_1825(L_37, /*hidden argument*/GameObject_AddComponent_TisDropdownItem_t6_63_m5_1825_MethodInfo_var);
 		V_2 = L_38;
 		DropdownItem_t6_63 * L_39 = V_2;
 		Text_t6_64 * L_40 = (__this->___m_ItemText_19);
@@ -15297,7 +15297,7 @@ IL_0155:
 		DropdownItem_t6_63 * L_45 = V_2;
 		Toggle_t6_66 * L_46 = V_1;
 		NullCheck(L_46);
-		Transform_t5_71 * L_47 = Component_get_transform_m5_723(L_46, /*hidden argument*/NULL);
+		Transform_t5_71 * L_47 = Component_get_transform_m5_721(L_46, /*hidden argument*/NULL);
 		NullCheck(L_45);
 		DropdownItem_set_rectTransform_m6_390(L_45, ((RectTransform_t5_70 *)CastclassSealed(L_47, RectTransform_t5_70_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_48 = V_0;
@@ -15306,17 +15306,17 @@ IL_0155:
 		V_3 = L_49;
 		Canvas_t5_177 * L_50 = V_3;
 		NullCheck(L_50);
-		Canvas_set_overrideSorting_m5_1213(L_50, 1, /*hidden argument*/NULL);
+		Canvas_set_overrideSorting_m5_1211(L_50, 1, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_51 = V_3;
 		NullCheck(L_51);
-		Canvas_set_sortingOrder_m5_1215(L_51, ((int32_t)30000), /*hidden argument*/NULL);
+		Canvas_set_sortingOrder_m5_1213(L_51, ((int32_t)30000), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_52 = V_0;
 		Dropdown_GetOrAddComponent_TisGraphicRaycaster_t6_80_m6_1472(NULL /*static, unused*/, L_52, /*hidden argument*/Dropdown_GetOrAddComponent_TisGraphicRaycaster_t6_80_m6_1472_MethodInfo_var);
 		GameObject_t5_101 * L_53 = V_0;
 		Dropdown_GetOrAddComponent_TisCanvasGroup_t5_178_m6_1473(NULL /*static, unused*/, L_53, /*hidden argument*/Dropdown_GetOrAddComponent_TisCanvasGroup_t5_178_m6_1473_MethodInfo_var);
 		GameObject_t5_101 * L_54 = V_0;
 		NullCheck(L_54);
-		GameObject_SetActive_m5_769(L_54, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_54, 0, /*hidden argument*/NULL);
 		__this->___validTemplate_28 = 1;
 		return;
 	}
@@ -15353,12 +15353,12 @@ extern TypeInfo* UnityAction_1_t5_322_il2cpp_TypeInfo_var;
 extern TypeInfo* Vector3U5BU5D_t5_181_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransformUtility_t5_180_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1474_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1475_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1829_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1827_MethodInfo_var;
 extern const MethodInfo* U3CShowU3Ec__AnonStorey6_U3CU3Em__2_m6_414_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1830_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1831_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1828_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1829_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2738;
 extern "C" void Dropdown_Show_m6_443 (Dropdown_t6_71 * __this, const MethodInfo* method)
 {
@@ -15372,12 +15372,12 @@ extern "C" void Dropdown_Show_m6_443 (Dropdown_t6_71 * __this, const MethodInfo*
 		Vector3U5BU5D_t5_181_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(907);
 		RectTransformUtility_t5_180_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(908);
 		ListPool_1_Get_m6_1474_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483876);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
 		ListPool_1_Release_m6_1475_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483878);
-		GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1829_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483879);
+		GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1827_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483879);
 		U3CShowU3Ec__AnonStorey6_U3CU3Em__2_m6_414_MethodInfo_var = il2cpp_codegen_method_info_from_index(232);
-		UnityAction_1__ctor_m5_1830_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483881);
-		UnityEvent_1_AddListener_m5_1831_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483882);
+		UnityAction_1__ctor_m5_1828_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483881);
+		UnityEvent_1_AddListener_m5_1829_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483882);
 		_stringLiteral2738 = il2cpp_codegen_string_literal_from_index(2738);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -15436,7 +15436,7 @@ extern "C" void Dropdown_Show_m6_443 (Dropdown_t6_71 * __this, const MethodInfo*
 	}
 	{
 		GameObject_t5_101 * L_2 = (__this->___m_Dropdown_24);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0028;
@@ -15473,10 +15473,10 @@ IL_0045:
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_182_il2cpp_TypeInfo_var);
 		List_1_t1_942 * L_6 = ListPool_1_Get_m6_1474(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1474_MethodInfo_var);
 		V_0 = L_6;
-		GameObject_t5_101 * L_7 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_7 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		List_1_t1_942 * L_8 = V_0;
 		NullCheck(L_7);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828(L_7, 0, L_8, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826(L_7, 0, L_8, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var);
 		List_1_t1_942 * L_9 = V_0;
 		NullCheck(L_9);
 		int32_t L_10 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.Canvas>::get_Count() */, L_9);
@@ -15500,55 +15500,55 @@ IL_0064:
 		ListPool_1_Release_m6_1475(NULL /*static, unused*/, L_13, /*hidden argument*/ListPool_1_Release_m6_1475_MethodInfo_var);
 		RectTransform_t5_70 * L_14 = (__this->___m_Template_16);
 		NullCheck(L_14);
-		GameObject_t5_101 * L_15 = Component_get_gameObject_m5_724(L_14, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_15 = Component_get_gameObject_m5_722(L_14, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		GameObject_SetActive_m5_769(L_15, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_15, 1, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_16 = (__this->___m_Template_16);
 		NullCheck(L_16);
-		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_724(L_16, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_722(L_16, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_18 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, GameObject_t5_101 * >::Invoke(46 /* UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateDropdownList(UnityEngine.GameObject) */, __this, L_17);
 		__this->___m_Dropdown_24 = L_18;
 		GameObject_t5_101 * L_19 = (__this->___m_Dropdown_24);
 		NullCheck(L_19);
-		Object_set_name_m5_699(L_19, _stringLiteral2738, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_19, _stringLiteral2738, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_20 = (__this->___m_Dropdown_24);
 		NullCheck(L_20);
-		GameObject_SetActive_m5_769(L_20, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_20, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_21 = (__this->___m_Dropdown_24);
 		NullCheck(L_21);
-		Transform_t5_71 * L_22 = GameObject_get_transform_m5_766(L_21, /*hidden argument*/NULL);
+		Transform_t5_71 * L_22 = GameObject_get_transform_m5_764(L_21, /*hidden argument*/NULL);
 		V_2 = ((RectTransform_t5_70 *)IsInstSealed(L_22, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_23 = V_2;
 		RectTransform_t5_70 * L_24 = (__this->___m_Template_16);
 		NullCheck(L_24);
-		Transform_t5_71 * L_25 = Component_get_transform_m5_723(L_24, /*hidden argument*/NULL);
+		Transform_t5_71 * L_25 = Component_get_transform_m5_721(L_24, /*hidden argument*/NULL);
 		NullCheck(L_25);
-		Transform_t5_71 * L_26 = Transform_get_parent_m5_806(L_25, /*hidden argument*/NULL);
+		Transform_t5_71 * L_26 = Transform_get_parent_m5_804(L_25, /*hidden argument*/NULL);
 		NullCheck(L_23);
-		Transform_SetParent_m5_811(L_23, L_26, 0, /*hidden argument*/NULL);
+		Transform_SetParent_m5_809(L_23, L_26, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_27 = (__this->___m_Dropdown_24);
 		NullCheck(L_27);
-		DropdownItem_t6_63 * L_28 = GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1829(L_27, /*hidden argument*/GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1829_MethodInfo_var);
+		DropdownItem_t6_63 * L_28 = GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1827(L_27, /*hidden argument*/GameObject_GetComponentInChildren_TisDropdownItem_t6_63_m5_1827_MethodInfo_var);
 		V_3 = L_28;
 		DropdownItem_t6_63 * L_29 = V_3;
 		NullCheck(L_29);
 		RectTransform_t5_70 * L_30 = DropdownItem_get_rectTransform_m6_389(L_29, /*hidden argument*/NULL);
 		NullCheck(L_30);
-		Transform_t5_71 * L_31 = Transform_get_parent_m5_806(L_30, /*hidden argument*/NULL);
+		Transform_t5_71 * L_31 = Transform_get_parent_m5_804(L_30, /*hidden argument*/NULL);
 		NullCheck(L_31);
-		GameObject_t5_101 * L_32 = Component_get_gameObject_m5_724(L_31, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_32 = Component_get_gameObject_m5_722(L_31, /*hidden argument*/NULL);
 		V_4 = L_32;
 		GameObject_t5_101 * L_33 = V_4;
 		NullCheck(L_33);
-		Transform_t5_71 * L_34 = GameObject_get_transform_m5_766(L_33, /*hidden argument*/NULL);
+		Transform_t5_71 * L_34 = GameObject_get_transform_m5_764(L_33, /*hidden argument*/NULL);
 		V_5 = ((RectTransform_t5_70 *)IsInstSealed(L_34, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		DropdownItem_t6_63 * L_35 = V_3;
 		NullCheck(L_35);
 		RectTransform_t5_70 * L_36 = DropdownItem_get_rectTransform_m6_389(L_35, /*hidden argument*/NULL);
 		NullCheck(L_36);
-		GameObject_t5_101 * L_37 = Component_get_gameObject_m5_724(L_36, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_37 = Component_get_gameObject_m5_722(L_36, /*hidden argument*/NULL);
 		NullCheck(L_37);
-		GameObject_SetActive_m5_769(L_37, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_37, 1, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_38 = V_5;
 		NullCheck(L_38);
 		Rect_t5_48  L_39 = RectTransform_get_rect_m5_479(L_38, /*hidden argument*/NULL);
@@ -15566,7 +15566,7 @@ IL_0064:
 		NullCheck(L_46);
 		RectTransform_t5_70 * L_47 = DropdownItem_get_rectTransform_m6_389(L_46, /*hidden argument*/NULL);
 		NullCheck(L_47);
-		Vector3_t5_45  L_48 = Transform_get_localPosition_m5_789(L_47, /*hidden argument*/NULL);
+		Vector3_t5_45  L_48 = Transform_get_localPosition_m5_787(L_47, /*hidden argument*/NULL);
 		Vector2_t5_44  L_49 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_48, /*hidden argument*/NULL);
 		Vector2_t5_44  L_50 = Vector2_op_Addition_m5_208(NULL /*static, unused*/, L_45, L_49, /*hidden argument*/NULL);
 		V_8 = L_50;
@@ -15577,7 +15577,7 @@ IL_0064:
 		NullCheck(L_54);
 		RectTransform_t5_70 * L_55 = DropdownItem_get_rectTransform_m6_389(L_54, /*hidden argument*/NULL);
 		NullCheck(L_55);
-		Vector3_t5_45  L_56 = Transform_get_localPosition_m5_789(L_55, /*hidden argument*/NULL);
+		Vector3_t5_45  L_56 = Transform_get_localPosition_m5_787(L_55, /*hidden argument*/NULL);
 		Vector2_t5_44  L_57 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_56, /*hidden argument*/NULL);
 		Vector2_t5_44  L_58 = Vector2_op_Addition_m5_208(NULL /*static, unused*/, L_53, L_57, /*hidden argument*/NULL);
 		V_9 = L_58;
@@ -15616,7 +15616,7 @@ IL_01a4:
 		U3CShowU3Ec__AnonStorey6_t6_72 * L_73 = V_27;
 		NullCheck(L_73);
 		DropdownItem_t6_63 * L_74 = (L_73->___item_0);
-		bool L_75 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_74, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_75 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_74, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_75)
 		{
 			goto IL_01f9;
@@ -15647,9 +15647,9 @@ IL_01f9:
 		U3CShowU3Ec__AnonStorey6_t6_72 * L_85 = V_27;
 		IntPtr_t L_86 = { (void*)U3CShowU3Ec__AnonStorey6_U3CU3Em__2_m6_414_MethodInfo_var };
 		UnityAction_1_t5_322 * L_87 = (UnityAction_1_t5_322 *)il2cpp_codegen_object_new (UnityAction_1_t5_322_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1830(L_87, L_85, L_86, /*hidden argument*/UnityAction_1__ctor_m5_1830_MethodInfo_var);
+		UnityAction_1__ctor_m5_1828(L_87, L_85, L_86, /*hidden argument*/UnityAction_1__ctor_m5_1828_MethodInfo_var);
 		NullCheck(L_84);
-		UnityEvent_1_AddListener_m5_1831(L_84, L_87, /*hidden argument*/UnityEvent_1_AddListener_m5_1831_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1829(L_84, L_87, /*hidden argument*/UnityEvent_1_AddListener_m5_1829_MethodInfo_var);
 		U3CShowU3Ec__AnonStorey6_t6_72 * L_88 = V_27;
 		NullCheck(L_88);
 		DropdownItem_t6_63 * L_89 = (L_88->___item_0);
@@ -15675,7 +15675,7 @@ IL_01f9:
 IL_025e:
 	{
 		Toggle_t6_66 * L_95 = V_11;
-		bool L_96 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_95, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_96 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_95, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_96)
 		{
 			goto IL_02eb;
@@ -15814,7 +15814,7 @@ IL_03a8:
 		RectTransform_GetWorldCorners_m5_503(L_149, L_150, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_151 = V_1;
 		NullCheck(L_151);
-		Transform_t5_71 * L_152 = Component_get_transform_m5_723(L_151, /*hidden argument*/NULL);
+		Transform_t5_71 * L_152 = Component_get_transform_m5_721(L_151, /*hidden argument*/NULL);
 		V_19 = ((RectTransform_t5_70 *)IsInstSealed(L_152, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_153 = V_19;
 		NullCheck(L_153);
@@ -15839,7 +15839,7 @@ IL_03e1:
 		NullCheck(L_156);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_156, L_157);
 		NullCheck(L_155);
-		Vector3_t5_45  L_158 = Transform_InverseTransformPoint_m5_822(L_155, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_156, L_157, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_158 = Transform_InverseTransformPoint_m5_820(L_155, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_156, L_157, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
 		V_24 = L_158;
 		int32_t L_159 = V_21;
 		float L_160 = Vector3_get_Item_m5_219((&V_24), L_159, /*hidden argument*/NULL);
@@ -15898,7 +15898,7 @@ IL_044e:
 		RectTransform_t5_70 * L_172 = V_2;
 		int32_t L_173 = V_21;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_FlipLayoutOnAxis_m5_1267(NULL /*static, unused*/, L_172, L_173, 0, 0, /*hidden argument*/NULL);
+		RectTransformUtility_FlipLayoutOnAxis_m5_1265(NULL /*static, unused*/, L_172, L_173, 0, 0, /*hidden argument*/NULL);
 	}
 
 IL_045f:
@@ -16001,14 +16001,14 @@ IL_054a:
 		Dropdown_AlphaFadeList_m6_452(__this, (0.15f), (0.0f), (1.0f), /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_214 = (__this->___m_Template_16);
 		NullCheck(L_214);
-		GameObject_t5_101 * L_215 = Component_get_gameObject_m5_724(L_214, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_215 = Component_get_gameObject_m5_722(L_214, /*hidden argument*/NULL);
 		NullCheck(L_215);
-		GameObject_SetActive_m5_769(L_215, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_215, 0, /*hidden argument*/NULL);
 		DropdownItem_t6_63 * L_216 = V_3;
 		NullCheck(L_216);
-		GameObject_t5_101 * L_217 = Component_get_gameObject_m5_724(L_216, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_217 = Component_get_gameObject_m5_722(L_216, /*hidden argument*/NULL);
 		NullCheck(L_217);
-		GameObject_SetActive_m5_769(L_217, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_217, 0, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_218 = V_1;
 		GameObject_t5_101 * L_219 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, Canvas_t5_177 * >::Invoke(44 /* UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateBlocker(UnityEngine.Canvas) */, __this, L_218);
 		__this->___m_Blocker_25 = L_219;
@@ -16018,12 +16018,12 @@ IL_054a:
 // UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateBlocker(UnityEngine.Canvas)
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
 extern TypeInfo* UnityAction_t5_266_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisCanvas_t5_177_m5_1832_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisCanvas_t5_177_m5_1833_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1834_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisCanvas_t5_177_m5_1830_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisCanvas_t5_177_m5_1831_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1832_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var;
 extern const MethodInfo* Dropdown_Hide_m6_454_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2739;
 extern "C" GameObject_t5_101 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * __this, Canvas_t5_177 * ___rootCanvas, const MethodInfo* method)
@@ -16033,12 +16033,12 @@ extern "C" GameObject_t5_101 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * _
 	{
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
 		UnityAction_t5_266_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(959);
-		GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
-		GameObject_AddComponent_TisCanvas_t5_177_m5_1832_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483883);
-		GameObject_GetComponent_TisCanvas_t5_177_m5_1833_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483884);
-		GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1834_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483885);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483852);
+		GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
+		GameObject_AddComponent_TisCanvas_t5_177_m5_1830_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483883);
+		GameObject_GetComponent_TisCanvas_t5_177_m5_1831_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483884);
+		GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1832_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483885);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483852);
 		Dropdown_Hide_m6_454_MethodInfo_var = il2cpp_codegen_method_info_from_index(238);
 		_stringLiteral2739 = il2cpp_codegen_string_literal_from_index(2739);
 		s_Il2CppMethodIntialized = true;
@@ -16051,18 +16051,18 @@ extern "C" GameObject_t5_101 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * _
 	Button_t6_55 * V_5 = {0};
 	{
 		GameObject_t5_101 * L_0 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_0, _stringLiteral2739, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_0, _stringLiteral2739, /*hidden argument*/NULL);
 		V_0 = L_0;
 		GameObject_t5_101 * L_1 = V_0;
 		NullCheck(L_1);
-		RectTransform_t5_70 * L_2 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1809(L_1, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1807(L_1, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var);
 		V_1 = L_2;
 		RectTransform_t5_70 * L_3 = V_1;
 		Canvas_t5_177 * L_4 = ___rootCanvas;
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(L_4, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Transform_SetParent_m5_811(L_3, L_5, 0, /*hidden argument*/NULL);
+		Transform_SetParent_m5_809(L_3, L_5, 0, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_6 = V_1;
 		Vector3_t5_45  L_7 = Vector3_get_zero_m5_233(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector2_t5_44  L_8 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
@@ -16079,50 +16079,50 @@ extern "C" GameObject_t5_101 * Dropdown_CreateBlocker_m6_444 (Dropdown_t6_71 * _
 		RectTransform_set_sizeDelta_m5_494(L_12, L_13, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_14 = V_0;
 		NullCheck(L_14);
-		Canvas_t5_177 * L_15 = GameObject_AddComponent_TisCanvas_t5_177_m5_1832(L_14, /*hidden argument*/GameObject_AddComponent_TisCanvas_t5_177_m5_1832_MethodInfo_var);
+		Canvas_t5_177 * L_15 = GameObject_AddComponent_TisCanvas_t5_177_m5_1830(L_14, /*hidden argument*/GameObject_AddComponent_TisCanvas_t5_177_m5_1830_MethodInfo_var);
 		V_2 = L_15;
 		Canvas_t5_177 * L_16 = V_2;
 		NullCheck(L_16);
-		Canvas_set_overrideSorting_m5_1213(L_16, 1, /*hidden argument*/NULL);
+		Canvas_set_overrideSorting_m5_1211(L_16, 1, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_17 = (__this->___m_Dropdown_24);
 		NullCheck(L_17);
-		Canvas_t5_177 * L_18 = GameObject_GetComponent_TisCanvas_t5_177_m5_1833(L_17, /*hidden argument*/GameObject_GetComponent_TisCanvas_t5_177_m5_1833_MethodInfo_var);
+		Canvas_t5_177 * L_18 = GameObject_GetComponent_TisCanvas_t5_177_m5_1831(L_17, /*hidden argument*/GameObject_GetComponent_TisCanvas_t5_177_m5_1831_MethodInfo_var);
 		V_3 = L_18;
 		Canvas_t5_177 * L_19 = V_2;
 		Canvas_t5_177 * L_20 = V_3;
 		NullCheck(L_20);
-		int32_t L_21 = Canvas_get_sortingLayerID_m5_1217(L_20, /*hidden argument*/NULL);
+		int32_t L_21 = Canvas_get_sortingLayerID_m5_1215(L_20, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		Canvas_set_sortingLayerID_m5_1218(L_19, L_21, /*hidden argument*/NULL);
+		Canvas_set_sortingLayerID_m5_1216(L_19, L_21, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_22 = V_2;
 		Canvas_t5_177 * L_23 = V_3;
 		NullCheck(L_23);
-		int32_t L_24 = Canvas_get_sortingOrder_m5_1214(L_23, /*hidden argument*/NULL);
+		int32_t L_24 = Canvas_get_sortingOrder_m5_1212(L_23, /*hidden argument*/NULL);
 		NullCheck(L_22);
-		Canvas_set_sortingOrder_m5_1215(L_22, ((int32_t)((int32_t)L_24-(int32_t)1)), /*hidden argument*/NULL);
+		Canvas_set_sortingOrder_m5_1213(L_22, ((int32_t)((int32_t)L_24-(int32_t)1)), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_25 = V_0;
 		NullCheck(L_25);
-		GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1834(L_25, /*hidden argument*/GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1834_MethodInfo_var);
+		GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1832(L_25, /*hidden argument*/GameObject_AddComponent_TisGraphicRaycaster_t6_80_m5_1832_MethodInfo_var);
 		GameObject_t5_101 * L_26 = V_0;
 		NullCheck(L_26);
-		Image_t6_65 * L_27 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_26, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_27 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_26, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_4 = L_27;
 		Image_t6_65 * L_28 = V_4;
-		Color_t5_165  L_29 = Color_get_clear_m5_1590(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_29 = Color_get_clear_m5_1588(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_28);
 		Graphic_set_color_m6_493(L_28, L_29, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_30 = V_0;
 		NullCheck(L_30);
-		Button_t6_55 * L_31 = GameObject_AddComponent_TisButton_t6_55_m5_1812(L_30, /*hidden argument*/GameObject_AddComponent_TisButton_t6_55_m5_1812_MethodInfo_var);
+		Button_t6_55 * L_31 = GameObject_AddComponent_TisButton_t6_55_m5_1810(L_30, /*hidden argument*/GameObject_AddComponent_TisButton_t6_55_m5_1810_MethodInfo_var);
 		V_5 = L_31;
 		Button_t6_55 * L_32 = V_5;
 		NullCheck(L_32);
 		ButtonClickedEvent_t6_53 * L_33 = Button_get_onClick_m6_328(L_32, /*hidden argument*/NULL);
 		IntPtr_t L_34 = { (void*)Dropdown_Hide_m6_454_MethodInfo_var };
 		UnityAction_t5_266 * L_35 = (UnityAction_t5_266 *)il2cpp_codegen_object_new (UnityAction_t5_266_il2cpp_TypeInfo_var);
-		UnityAction__ctor_m5_1784(L_35, __this, L_34, /*hidden argument*/NULL);
+		UnityAction__ctor_m5_1782(L_35, __this, L_34, /*hidden argument*/NULL);
 		NullCheck(L_33);
-		UnityEvent_AddListener_m5_1751(L_33, L_35, /*hidden argument*/NULL);
+		UnityEvent_AddListener_m5_1749(L_33, L_35, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_36 = V_0;
 		return L_36;
 	}
@@ -16132,23 +16132,23 @@ extern "C" void Dropdown_DestroyBlocker_m6_445 (Dropdown_t6_71 * __this, GameObj
 {
 	{
 		GameObject_t5_101 * L_0 = ___blocker;
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.GameObject UnityEngine.UI.Dropdown::CreateDropdownList(UnityEngine.GameObject)
-extern const MethodInfo* Object_Instantiate_TisGameObject_t5_101_m5_1835_MethodInfo_var;
+extern const MethodInfo* Object_Instantiate_TisGameObject_t5_101_m5_1833_MethodInfo_var;
 extern "C" GameObject_t5_101 * Dropdown_CreateDropdownList_m6_446 (Dropdown_t6_71 * __this, GameObject_t5_101 * ___template, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Object_Instantiate_TisGameObject_t5_101_m5_1835_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483887);
+		Object_Instantiate_TisGameObject_t5_101_m5_1833_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483887);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		GameObject_t5_101 * L_0 = ___template;
-		GameObject_t5_101 * L_1 = Object_Instantiate_TisGameObject_t5_101_m5_1835(NULL /*static, unused*/, L_0, /*hidden argument*/Object_Instantiate_TisGameObject_t5_101_m5_1835_MethodInfo_var);
+		GameObject_t5_101 * L_1 = Object_Instantiate_TisGameObject_t5_101_m5_1833(NULL /*static, unused*/, L_0, /*hidden argument*/Object_Instantiate_TisGameObject_t5_101_m5_1833_MethodInfo_var);
 		return L_1;
 	}
 }
@@ -16157,23 +16157,23 @@ extern "C" void Dropdown_DestroyDropdownList_m6_447 (Dropdown_t6_71 * __this, Ga
 {
 	{
 		GameObject_t5_101 * L_0 = ___dropdownList;
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.UI.Dropdown/DropdownItem UnityEngine.UI.Dropdown::CreateItem(UnityEngine.UI.Dropdown/DropdownItem)
-extern const MethodInfo* Object_Instantiate_TisDropdownItem_t6_63_m5_1836_MethodInfo_var;
+extern const MethodInfo* Object_Instantiate_TisDropdownItem_t6_63_m5_1834_MethodInfo_var;
 extern "C" DropdownItem_t6_63 * Dropdown_CreateItem_m6_448 (Dropdown_t6_71 * __this, DropdownItem_t6_63 * ___itemTemplate, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Object_Instantiate_TisDropdownItem_t6_63_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483888);
+		Object_Instantiate_TisDropdownItem_t6_63_m5_1834_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483888);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		DropdownItem_t6_63 * L_0 = ___itemTemplate;
-		DropdownItem_t6_63 * L_1 = Object_Instantiate_TisDropdownItem_t6_63_m5_1836(NULL /*static, unused*/, L_0, /*hidden argument*/Object_Instantiate_TisDropdownItem_t6_63_m5_1836_MethodInfo_var);
+		DropdownItem_t6_63 * L_1 = Object_Instantiate_TisDropdownItem_t6_63_m5_1834(NULL /*static, unused*/, L_0, /*hidden argument*/Object_Instantiate_TisDropdownItem_t6_63_m5_1834_MethodInfo_var);
 		return L_1;
 	}
 }
@@ -16222,17 +16222,17 @@ extern "C" DropdownItem_t6_63 * Dropdown_AddItem_m6_450 (Dropdown_t6_71 * __this
 		NullCheck(L_4);
 		RectTransform_t5_70 * L_5 = DropdownItem_get_rectTransform_m6_389(L_4, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = Transform_get_parent_m5_806(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Transform_get_parent_m5_804(L_5, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Transform_SetParent_m5_811(L_3, L_6, 0, /*hidden argument*/NULL);
+		Transform_SetParent_m5_809(L_3, L_6, 0, /*hidden argument*/NULL);
 		DropdownItem_t6_63 * L_7 = V_0;
 		NullCheck(L_7);
-		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_724(L_7, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_722(L_7, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		GameObject_SetActive_m5_769(L_8, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_8, 1, /*hidden argument*/NULL);
 		DropdownItem_t6_63 * L_9 = V_0;
 		NullCheck(L_9);
-		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_724(L_9, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_722(L_9, /*hidden argument*/NULL);
 		List_1_t1_918 * L_11 = ___items;
 		NullCheck(L_11);
 		int32_t L_12 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.UI.Dropdown/DropdownItem>::get_Count() */, L_11);
@@ -16280,11 +16280,11 @@ IL_0067:
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_21 = String_Concat_m1_419(NULL /*static, unused*/, G_B3_2, G_B3_1, G_B3_0, /*hidden argument*/NULL);
 		NullCheck(G_B3_3);
-		Object_set_name_m5_699(G_B3_3, L_21, /*hidden argument*/NULL);
+		Object_set_name_m5_697(G_B3_3, L_21, /*hidden argument*/NULL);
 		DropdownItem_t6_63 * L_22 = V_0;
 		NullCheck(L_22);
 		Toggle_t6_66 * L_23 = DropdownItem_get_toggle_m6_391(L_22, /*hidden argument*/NULL);
-		bool L_24 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_23, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_24 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_23, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_24)
 		{
 			goto IL_008e;
@@ -16303,7 +16303,7 @@ IL_008e:
 		DropdownItem_t6_63 * L_27 = V_0;
 		NullCheck(L_27);
 		Text_t6_64 * L_28 = DropdownItem_get_text_m6_385(L_27, /*hidden argument*/NULL);
-		bool L_29 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_28, /*hidden argument*/NULL);
+		bool L_29 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_28, /*hidden argument*/NULL);
 		if (!L_29)
 		{
 			goto IL_00af;
@@ -16325,7 +16325,7 @@ IL_00af:
 		DropdownItem_t6_63 * L_34 = V_0;
 		NullCheck(L_34);
 		Image_t6_65 * L_35 = DropdownItem_get_image_m6_387(L_34, /*hidden argument*/NULL);
-		bool L_36 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_35, /*hidden argument*/NULL);
+		bool L_36 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_35, /*hidden argument*/NULL);
 		if (!L_36)
 		{
 			goto IL_00ec;
@@ -16348,7 +16348,7 @@ IL_00af:
 		Image_t6_65 * L_44 = DropdownItem_get_image_m6_387(L_43, /*hidden argument*/NULL);
 		NullCheck(L_44);
 		Sprite_t5_79 * L_45 = Image_get_sprite_m6_567(L_44, /*hidden argument*/NULL);
-		bool L_46 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_45, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_46 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_45, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		NullCheck(L_42);
 		Behaviour_set_enabled_m5_583(L_42, L_46, /*hidden argument*/NULL);
 	}
@@ -16364,25 +16364,25 @@ IL_00ec:
 	}
 }
 // System.Void UnityEngine.UI.Dropdown::AlphaFadeList(System.Single,System.Single)
-extern const MethodInfo* GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var;
 extern "C" void Dropdown_AlphaFadeList_m6_451 (Dropdown_t6_71 * __this, float ___duration, float ___alpha, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483889);
+		GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483889);
 		s_Il2CppMethodIntialized = true;
 	}
 	CanvasGroup_t5_178 * V_0 = {0};
 	{
 		GameObject_t5_101 * L_0 = (__this->___m_Dropdown_24);
 		NullCheck(L_0);
-		CanvasGroup_t5_178 * L_1 = GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837(L_0, /*hidden argument*/GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var);
+		CanvasGroup_t5_178 * L_1 = GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835(L_0, /*hidden argument*/GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var);
 		V_0 = L_1;
 		float L_2 = ___duration;
 		CanvasGroup_t5_178 * L_3 = V_0;
 		NullCheck(L_3);
-		float L_4 = CanvasGroup_get_alpha_m5_1222(L_3, /*hidden argument*/NULL);
+		float L_4 = CanvasGroup_get_alpha_m5_1220(L_3, /*hidden argument*/NULL);
 		float L_5 = ___alpha;
 		Dropdown_AlphaFadeList_m6_452(__this, L_2, L_4, L_5, /*hidden argument*/NULL);
 		return;
@@ -16392,7 +16392,7 @@ extern "C" void Dropdown_AlphaFadeList_m6_451 (Dropdown_t6_71 * __this, float __
 extern TypeInfo* FloatTween_t6_51_il2cpp_TypeInfo_var;
 extern TypeInfo* UnityAction_1_t5_321_il2cpp_TypeInfo_var;
 extern const MethodInfo* Dropdown_SetAlpha_m6_453_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1838_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1836_MethodInfo_var;
 extern const MethodInfo* TweenRunner_1_StartTween_m6_1476_MethodInfo_var;
 extern "C" void Dropdown_AlphaFadeList_m6_452 (Dropdown_t6_71 * __this, float ___duration, float ___start, float ___end, const MethodInfo* method)
 {
@@ -16402,7 +16402,7 @@ extern "C" void Dropdown_AlphaFadeList_m6_452 (Dropdown_t6_71 * __this, float __
 		FloatTween_t6_51_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1074);
 		UnityAction_1_t5_321_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1081);
 		Dropdown_SetAlpha_m6_453_MethodInfo_var = il2cpp_codegen_method_info_from_index(242);
-		UnityAction_1__ctor_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
+		UnityAction_1__ctor_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
 		TweenRunner_1_StartTween_m6_1476_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483892);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -16435,7 +16435,7 @@ IL_000e:
 		V_0 = L_6;
 		IntPtr_t L_7 = { (void*)Dropdown_SetAlpha_m6_453_MethodInfo_var };
 		UnityAction_1_t5_321 * L_8 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_8, __this, L_7, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_8, __this, L_7, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		FloatTween_AddOnChangedCallback_m6_307((&V_0), L_8, /*hidden argument*/NULL);
 		FloatTween_set_ignoreTimeScale_m6_305((&V_0), 1, /*hidden argument*/NULL);
 		TweenRunner_1_t6_73 * L_9 = (__this->___m_AlphaTweenRunner_27);
@@ -16446,19 +16446,19 @@ IL_000e:
 	}
 }
 // System.Void UnityEngine.UI.Dropdown::SetAlpha(System.Single)
-extern const MethodInfo* GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var;
 extern "C" void Dropdown_SetAlpha_m6_453 (Dropdown_t6_71 * __this, float ___alpha, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483889);
+		GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483889);
 		s_Il2CppMethodIntialized = true;
 	}
 	CanvasGroup_t5_178 * V_0 = {0};
 	{
 		GameObject_t5_101 * L_0 = (__this->___m_Dropdown_24);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0011;
@@ -16472,12 +16472,12 @@ IL_0011:
 	{
 		GameObject_t5_101 * L_2 = (__this->___m_Dropdown_24);
 		NullCheck(L_2);
-		CanvasGroup_t5_178 * L_3 = GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837(L_2, /*hidden argument*/GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1837_MethodInfo_var);
+		CanvasGroup_t5_178 * L_3 = GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835(L_2, /*hidden argument*/GameObject_GetComponent_TisCanvasGroup_t5_178_m5_1835_MethodInfo_var);
 		V_0 = L_3;
 		CanvasGroup_t5_178 * L_4 = V_0;
 		float L_5 = ___alpha;
 		NullCheck(L_4);
-		CanvasGroup_set_alpha_m5_1223(L_4, L_5, /*hidden argument*/NULL);
+		CanvasGroup_set_alpha_m5_1221(L_4, L_5, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -16486,7 +16486,7 @@ extern "C" void Dropdown_Hide_m6_454 (Dropdown_t6_71 * __this, const MethodInfo*
 {
 	{
 		GameObject_t5_101 * L_0 = (__this->___m_Dropdown_24);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0033;
@@ -16501,7 +16501,7 @@ extern "C" void Dropdown_Hide_m6_454 (Dropdown_t6_71 * __this, const MethodInfo*
 IL_0033:
 	{
 		GameObject_t5_101 * L_3 = (__this->___m_Blocker_25);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0050;
@@ -16576,11 +16576,11 @@ IL_0012:
 		V_0 = (-1);
 		Toggle_t6_66 * L_3 = ___toggle;
 		NullCheck(L_3);
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(L_3, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		Transform_t5_71 * L_5 = V_1;
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = Transform_get_parent_m5_806(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Transform_get_parent_m5_804(L_5, /*hidden argument*/NULL);
 		V_2 = L_6;
 		V_3 = 0;
 		goto IL_0048;
@@ -16591,9 +16591,9 @@ IL_0029:
 		Transform_t5_71 * L_7 = V_2;
 		int32_t L_8 = V_3;
 		NullCheck(L_7);
-		Transform_t5_71 * L_9 = Transform_GetChild_m5_831(L_7, L_8, /*hidden argument*/NULL);
+		Transform_t5_71 * L_9 = Transform_GetChild_m5_829(L_7, L_8, /*hidden argument*/NULL);
 		Transform_t5_71 * L_10 = V_1;
-		bool L_11 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_0044;
@@ -16616,7 +16616,7 @@ IL_0048:
 		int32_t L_14 = V_3;
 		Transform_t5_71 * L_15 = V_2;
 		NullCheck(L_15);
-		int32_t L_16 = Transform_get_childCount_m5_825(L_15, /*hidden argument*/NULL);
+		int32_t L_16 = Transform_get_childCount_m5_823(L_15, /*hidden argument*/NULL);
 		if ((((int32_t)L_14) < ((int32_t)L_16)))
 		{
 			goto IL_0029;
@@ -16989,7 +16989,7 @@ extern "C" void FontUpdateTracker_TrackText_m6_486 (Object_t * __this /* static,
 		Text_t6_64 * L_0 = ___t;
 		NullCheck(L_0);
 		Font_t5_164 * L_1 = Text_get_font_m6_1106(L_0, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -17028,7 +17028,7 @@ IL_0012:
 		IntPtr_t L_9 = { (void*)FontUpdateTracker_RebuildForFont_m6_487_MethodInfo_var };
 		Action_1_t1_883 * L_10 = (Action_1_t1_883 *)il2cpp_codegen_object_new (Action_1_t1_883_il2cpp_TypeInfo_var);
 		Action_1__ctor_m1_5546(L_10, NULL, L_9, /*hidden argument*/Action_1__ctor_m1_5546_MethodInfo_var);
-		Font_add_textureRebuilt_m5_1189(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
+		Font_add_textureRebuilt_m5_1187(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
 	}
 
 IL_004b:
@@ -17151,7 +17151,7 @@ extern "C" void FontUpdateTracker_UntrackText_m6_488 (Object_t * __this /* stati
 		Text_t6_64 * L_0 = ___t;
 		NullCheck(L_0);
 		Font_t5_164 * L_1 = Text_get_font_m6_1106(L_0, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -17214,7 +17214,7 @@ IL_002c:
 		IntPtr_t L_16 = { (void*)FontUpdateTracker_RebuildForFont_m6_487_MethodInfo_var };
 		Action_1_t1_883 * L_17 = (Action_1_t1_883 *)il2cpp_codegen_object_new (Action_1_t1_883_il2cpp_TypeInfo_var);
 		Action_1__ctor_m1_5546(L_17, NULL, L_16, /*hidden argument*/Action_1__ctor_m1_5546_MethodInfo_var);
-		Font_remove_textureRebuilt_m5_1190(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
+		Font_remove_textureRebuilt_m5_1188(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
 	}
 
 IL_0070:
@@ -17237,7 +17237,7 @@ extern "C" void Graphic__ctor_m6_489 (Graphic_t6_76 * __this, const MethodInfo* 
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Color_t5_165  L_0 = Color_get_white_m5_1587(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = Color_get_white_m5_1585(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___m_Color_5 = L_0;
 		__this->___m_RaycastTarget_6 = 1;
 		UIBehaviour__ctor_m6_97(__this, /*hidden argument*/NULL);
@@ -17296,14 +17296,14 @@ extern "C" Material_t5_77 * Graphic_get_defaultGraphicMaterial_m6_491 (Object_t 
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		Material_t5_77 * L_0 = ((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_DefaultUI_2;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001a;
 		}
 	}
 	{
-		Material_t5_77 * L_2 = Canvas_GetDefaultCanvasMaterial_m5_1219(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Material_t5_77 * L_2 = Canvas_GetDefaultCanvasMaterial_m5_1217(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_DefaultUI_2 = L_2;
 	}
@@ -17423,7 +17423,7 @@ IL_000c:
 	{
 		UnityAction_t5_266 * L_3 = (__this->___m_OnDirtyLayoutCallback_12);
 		NullCheck(L_3);
-		UnityAction_Invoke_m5_1785(L_3, /*hidden argument*/NULL);
+		UnityAction_Invoke_m5_1783(L_3, /*hidden argument*/NULL);
 	}
 
 IL_002d:
@@ -17466,7 +17466,7 @@ IL_000c:
 	{
 		UnityAction_t5_266 * L_2 = (__this->___m_OnDirtyVertsCallback_13);
 		NullCheck(L_2);
-		UnityAction_Invoke_m5_1785(L_2, /*hidden argument*/NULL);
+		UnityAction_Invoke_m5_1783(L_2, /*hidden argument*/NULL);
 	}
 
 IL_002f:
@@ -17509,7 +17509,7 @@ IL_000c:
 	{
 		UnityAction_t5_266 * L_2 = (__this->___m_OnDirtyMaterialCallback_14);
 		NullCheck(L_2);
-		UnityAction_Invoke_m5_1785(L_2, /*hidden argument*/NULL);
+		UnityAction_Invoke_m5_1783(L_2, /*hidden argument*/NULL);
 	}
 
 IL_002f:
@@ -17528,9 +17528,9 @@ extern "C" void Graphic_OnRectTransformDimensionsChange_m6_502 (Graphic_t6_76 * 
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		bool L_1 = GameObject_get_activeInHierarchy_m5_771(L_0, /*hidden argument*/NULL);
+		bool L_1 = GameObject_get_activeInHierarchy_m5_769(L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0031;
@@ -17620,18 +17620,18 @@ extern "C" int32_t Graphic_get_depth_m6_505 (Graphic_t6_76 * __this, const Metho
 	{
 		CanvasRenderer_t5_179 * L_0 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		int32_t L_1 = CanvasRenderer_get_absoluteDepth_m5_1254(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = CanvasRenderer_get_absoluteDepth_m5_1252(L_0, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.Graphic::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * Graphic_get_rectTransform_m6_506 (Graphic_t6_76 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	RectTransform_t5_70 * V_0 = {0};
@@ -17648,7 +17648,7 @@ extern "C" RectTransform_t5_70 * Graphic_get_rectTransform_m6_506 (Graphic_t6_76
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		RectTransform_t5_70 * L_3 = L_2;
 		V_0 = L_3;
 		__this->___m_RectTransform_7 = L_3;
@@ -17666,7 +17666,7 @@ extern "C" Canvas_t5_177 * Graphic_get_canvas_m6_507 (Graphic_t6_76 * __this, co
 {
 	{
 		Canvas_t5_177 * L_0 = (__this->___m_Canvas_9);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0017;
@@ -17685,7 +17685,7 @@ IL_0017:
 // System.Void UnityEngine.UI.Graphic::CacheCanvas()
 extern TypeInfo* ListPool_1_t6_182_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1474_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1475_MethodInfo_var;
 extern "C" void Graphic_CacheCanvas_m6_508 (Graphic_t6_76 * __this, const MethodInfo* method)
 {
@@ -17694,7 +17694,7 @@ extern "C" void Graphic_CacheCanvas_m6_508 (Graphic_t6_76 * __this, const Method
 	{
 		ListPool_1_t6_182_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1078);
 		ListPool_1_Get_m6_1474_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483876);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
 		ListPool_1_Release_m6_1475_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483878);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -17704,10 +17704,10 @@ extern "C" void Graphic_CacheCanvas_m6_508 (Graphic_t6_76 * __this, const Method
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_182_il2cpp_TypeInfo_var);
 		List_1_t1_942 * L_0 = ListPool_1_Get_m6_1474(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1474_MethodInfo_var);
 		V_0 = L_0;
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		List_1_t1_942 * L_2 = V_0;
 		NullCheck(L_1);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828(L_1, 0, L_2, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826(L_1, 0, L_2, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var);
 		List_1_t1_942 * L_3 = V_0;
 		NullCheck(L_3);
 		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.Canvas>::get_Count() */, L_3);
@@ -17780,25 +17780,25 @@ IL_0065:
 	}
 }
 // UnityEngine.CanvasRenderer UnityEngine.UI.Graphic::get_canvasRenderer()
-extern const MethodInfo* Component_GetComponent_TisCanvasRenderer_t5_179_m5_1840_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvasRenderer_t5_179_m5_1838_MethodInfo_var;
 extern "C" CanvasRenderer_t5_179 * Graphic_get_canvasRenderer_m6_509 (Graphic_t6_76 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCanvasRenderer_t5_179_m5_1840_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483900);
+		Component_GetComponent_TisCanvasRenderer_t5_179_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483900);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		CanvasRenderer_t5_179 * L_0 = (__this->___m_CanvasRender_8);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		CanvasRenderer_t5_179 * L_2 = Component_GetComponent_TisCanvasRenderer_t5_179_m5_1840(__this, /*hidden argument*/Component_GetComponent_TisCanvasRenderer_t5_179_m5_1840_MethodInfo_var);
+		CanvasRenderer_t5_179 * L_2 = Component_GetComponent_TisCanvasRenderer_t5_179_m5_1838(__this, /*hidden argument*/Component_GetComponent_TisCanvasRenderer_t5_179_m5_1838_MethodInfo_var);
 		__this->___m_CanvasRender_8 = L_2;
 	}
 
@@ -17830,7 +17830,7 @@ extern "C" Material_t5_77 * Graphic_get_material_m6_511 (Graphic_t6_76 * __this,
 	Material_t5_77 * G_B3_0 = {0};
 	{
 		Material_t5_77 * L_0 = (__this->___m_Material_4);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -17859,7 +17859,7 @@ extern "C" void Graphic_set_material_m6_512 (Graphic_t6_76 * __this, Material_t5
 	{
 		Material_t5_77 * L_0 = (__this->___m_Material_4);
 		Material_t5_77 * L_1 = ___value;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -17907,7 +17907,7 @@ extern "C" Material_t5_77 * Graphic_get_materialForRendering_m6_513 (Graphic_t6_
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
 		Type_t * L_1 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(IMaterialModifier_t6_184_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_2 = V_0;
-		Component_GetComponents_m5_737(__this, L_1, L_2, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(__this, L_1, L_2, /*hidden argument*/NULL);
 		Material_t5_77 * L_3 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, __this);
 		V_1 = L_3;
 		V_2 = 0;
@@ -17983,7 +17983,7 @@ extern "C" void Graphic_OnEnable_m6_515 (Graphic_t6_76 * __this, const MethodInf
 		GraphicRegistry_RegisterGraphicForCanvas_m6_562(NULL /*static, unused*/, L_0, __this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		Texture2D_t5_34 * L_1 = ((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_WhiteTexture_3;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0032;
@@ -18022,7 +18022,7 @@ extern "C" void Graphic_OnDisable_m6_516 (Graphic_t6_76 * __this, const MethodIn
 		IL2CPP_RUNTIME_CLASS_INIT(CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var);
 		CanvasUpdateRegistry_UnRegisterCanvasElementForRebuild_m6_348(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		CanvasRenderer_t5_179 * L_1 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_002e;
@@ -18031,7 +18031,7 @@ extern "C" void Graphic_OnDisable_m6_516 (Graphic_t6_76 * __this, const MethodIn
 	{
 		CanvasRenderer_t5_179 * L_3 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		CanvasRenderer_Clear_m5_1245(L_3, /*hidden argument*/NULL);
+		CanvasRenderer_Clear_m5_1243(L_3, /*hidden argument*/NULL);
 	}
 
 IL_002e:
@@ -18060,7 +18060,7 @@ extern "C" void Graphic_OnCanvasHierarchyChanged_m6_517 (Graphic_t6_76 * __this,
 		Graphic_CacheCanvas_m6_508(__this, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_1 = V_0;
 		Canvas_t5_177 * L_2 = (__this->___m_Canvas_9);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0031;
@@ -18086,7 +18086,7 @@ extern "C" void Graphic_Rebuild_m6_518 (Graphic_t6_76 * __this, int32_t ___updat
 	{
 		CanvasRenderer_t5_179 * L_0 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		bool L_1 = CanvasRenderer_get_cull_m5_1252(L_0, /*hidden argument*/NULL);
+		bool L_1 = CanvasRenderer_get_cull_m5_1250(L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0011;
@@ -18178,15 +18178,15 @@ IL_000c:
 	{
 		CanvasRenderer_t5_179 * L_1 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		CanvasRenderer_set_materialCount_m5_1238(L_1, 1, /*hidden argument*/NULL);
+		CanvasRenderer_set_materialCount_m5_1236(L_1, 1, /*hidden argument*/NULL);
 		CanvasRenderer_t5_179 * L_2 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		Material_t5_77 * L_3 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(28 /* UnityEngine.Material UnityEngine.UI.Graphic::get_materialForRendering() */, __this);
 		NullCheck(L_2);
-		CanvasRenderer_SetMaterial_m5_1239(L_2, L_3, 0, /*hidden argument*/NULL);
+		CanvasRenderer_SetMaterial_m5_1237(L_2, L_3, 0, /*hidden argument*/NULL);
 		CanvasRenderer_t5_179 * L_4 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		Texture_t5_33 * L_5 = (Texture_t5_33 *)VirtFuncInvoker0< Texture_t5_33 * >::Invoke(29 /* UnityEngine.Texture UnityEngine.UI.Graphic::get_mainTexture() */, __this);
 		NullCheck(L_4);
-		CanvasRenderer_SetTexture_m5_1243(L_4, L_5, /*hidden argument*/NULL);
+		CanvasRenderer_SetTexture_m5_1241(L_4, L_5, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -18243,7 +18243,7 @@ extern "C" void Graphic_DoMeshGeneration_m6_523 (Graphic_t6_76 * __this, const M
 	Rect_t5_48  V_3 = {0};
 	{
 		RectTransform_t5_70 * L_0 = Graphic_get_rectTransform_m6_506(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_005b;
@@ -18294,7 +18294,7 @@ IL_0065:
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
 		Type_t * L_11 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(IMeshModifier_t6_185_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_12 = V_0;
-		Component_GetComponents_m5_737(__this, L_11, L_12, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(__this, L_11, L_12, /*hidden argument*/NULL);
 		V_1 = 0;
 		goto IL_009d;
 	}
@@ -18336,7 +18336,7 @@ IL_009d:
 		CanvasRenderer_t5_179 * L_24 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		Mesh_t5_23 * L_25 = Graphic_get_workerMesh_m6_525(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_24);
-		CanvasRenderer_SetMesh_m5_1244(L_24, L_25, /*hidden argument*/NULL);
+		CanvasRenderer_SetMesh_m5_1242(L_24, L_25, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -18368,7 +18368,7 @@ extern "C" void Graphic_DoLegacyMeshGeneration_m6_524 (Graphic_t6_76 * __this, c
 	Rect_t5_48  V_3 = {0};
 	{
 		RectTransform_t5_70 * L_0 = Graphic_get_rectTransform_m6_506(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_005b;
@@ -18419,7 +18419,7 @@ IL_0065:
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
 		Type_t * L_11 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(IMeshModifier_t6_185_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_12 = V_0;
-		Component_GetComponents_m5_737(__this, L_11, L_12, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(__this, L_11, L_12, /*hidden argument*/NULL);
 		V_1 = 0;
 		goto IL_009d;
 	}
@@ -18457,7 +18457,7 @@ IL_009d:
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		Mesh_t5_23 * L_23 = Graphic_get_workerMesh_m6_525(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_22);
-		CanvasRenderer_SetMesh_m5_1244(L_22, L_23, /*hidden argument*/NULL);
+		CanvasRenderer_SetMesh_m5_1242(L_22, L_23, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -18478,7 +18478,7 @@ extern "C" Mesh_t5_23 * Graphic_get_workerMesh_m6_525 (Object_t * __this /* stat
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		Mesh_t5_23 * L_0 = ((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_Mesh_15;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0035;
@@ -18491,10 +18491,10 @@ extern "C" Mesh_t5_23 * Graphic_get_workerMesh_m6_525 (Object_t * __this /* stat
 		((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_Mesh_15 = L_2;
 		Mesh_t5_23 * L_3 = ((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_Mesh_15;
 		NullCheck(L_3);
-		Object_set_name_m5_699(L_3, _stringLiteral2741, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_3, _stringLiteral2741, /*hidden argument*/NULL);
 		Mesh_t5_23 * L_4 = ((Graphic_t6_76_StaticFields*)Graphic_t6_76_il2cpp_TypeInfo_var->static_fields)->___s_Mesh_15;
 		NullCheck(L_4);
-		Object_set_hideFlags_m5_702(L_4, ((int32_t)61), /*hidden argument*/NULL);
+		Object_set_hideFlags_m5_700(L_4, ((int32_t)61), /*hidden argument*/NULL);
 	}
 
 IL_0035:
@@ -18623,7 +18623,7 @@ extern TypeInfo* ListPool_1_t6_183_il2cpp_TypeInfo_var;
 extern TypeInfo* ICanvasRaycastFilter_t5_323_il2cpp_TypeInfo_var;
 extern TypeInfo* CanvasGroup_t5_178_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* Component_GetComponents_TisComponent_t5_25_m5_1841_MethodInfo_var;
+extern const MethodInfo* Component_GetComponents_TisComponent_t5_25_m5_1839_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" bool Graphic_Raycast_m6_531 (Graphic_t6_76 * __this, Vector2_t5_44  ___sp, Camera_t5_86 * ___eventCamera, const MethodInfo* method)
 {
@@ -18634,7 +18634,7 @@ extern "C" bool Graphic_Raycast_m6_531 (Graphic_t6_76 * __this, Vector2_t5_44  _
 		ICanvasRaycastFilter_t5_323_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1098);
 		CanvasGroup_t5_178_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1077);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		Component_GetComponents_TisComponent_t5_25_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483903);
+		Component_GetComponents_TisComponent_t5_25_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483903);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -18658,7 +18658,7 @@ extern "C" bool Graphic_Raycast_m6_531 (Graphic_t6_76 * __this, Vector2_t5_44  _
 
 IL_000d:
 	{
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		V_0 = L_1;
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_183_il2cpp_TypeInfo_var);
 		List_1_t1_894 * L_2 = ListPool_1_Get_m6_1479(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1479_MethodInfo_var);
@@ -18672,7 +18672,7 @@ IL_0021:
 		Transform_t5_71 * L_3 = V_0;
 		List_1_t1_894 * L_4 = V_1;
 		NullCheck(L_3);
-		Component_GetComponents_TisComponent_t5_25_m5_1841(L_3, L_4, /*hidden argument*/Component_GetComponents_TisComponent_t5_25_m5_1841_MethodInfo_var);
+		Component_GetComponents_TisComponent_t5_25_m5_1839(L_3, L_4, /*hidden argument*/Component_GetComponents_TisComponent_t5_25_m5_1839_MethodInfo_var);
 		V_3 = 0;
 		goto IL_00bf;
 	}
@@ -18703,7 +18703,7 @@ IL_0049:
 		Component_t5_25 * L_11 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_9, L_10);
 		V_6 = ((CanvasGroup_t5_178 *)IsInstSealed(L_11, CanvasGroup_t5_178_il2cpp_TypeInfo_var));
 		CanvasGroup_t5_178 * L_12 = V_6;
-		bool L_13 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_00a1;
@@ -18719,7 +18719,7 @@ IL_0049:
 	{
 		CanvasGroup_t5_178 * L_15 = V_6;
 		NullCheck(L_15);
-		bool L_16 = CanvasGroup_get_ignoreParentGroups_m5_1227(L_15, /*hidden argument*/NULL);
+		bool L_16 = CanvasGroup_get_ignoreParentGroups_m5_1225(L_15, /*hidden argument*/NULL);
 		if (!L_16)
 		{
 			goto IL_008b;
@@ -18803,14 +18803,14 @@ IL_00bf:
 	{
 		Transform_t5_71 * L_36 = V_0;
 		NullCheck(L_36);
-		Transform_t5_71 * L_37 = Transform_get_parent_m5_806(L_36, /*hidden argument*/NULL);
+		Transform_t5_71 * L_37 = Transform_get_parent_m5_804(L_36, /*hidden argument*/NULL);
 		V_0 = L_37;
 	}
 
 IL_00d2:
 	{
 		Transform_t5_71 * L_38 = V_0;
-		bool L_39 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_38, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_39 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_38, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_39)
 		{
 			goto IL_0021;
@@ -18835,7 +18835,7 @@ extern "C" Vector2_t5_44  Graphic_PixelAdjustPoint_m6_532 (Graphic_t6_76 * __thi
 	}
 	{
 		Canvas_t5_177 * L_0 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0020;
@@ -18844,7 +18844,7 @@ extern "C" Vector2_t5_44  Graphic_PixelAdjustPoint_m6_532 (Graphic_t6_76 * __thi
 	{
 		Canvas_t5_177 * L_2 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		bool L_3 = Canvas_get_pixelPerfect_m5_1210(L_2, /*hidden argument*/NULL);
+		bool L_3 = Canvas_get_pixelPerfect_m5_1208(L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_0022;
@@ -18860,10 +18860,10 @@ IL_0020:
 IL_0022:
 	{
 		Vector2_t5_44  L_5 = ___point;
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_7 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		Vector2_t5_44  L_8 = RectTransformUtility_PixelAdjustPoint_m5_1259(NULL /*static, unused*/, L_5, L_6, L_7, /*hidden argument*/NULL);
+		Vector2_t5_44  L_8 = RectTransformUtility_PixelAdjustPoint_m5_1257(NULL /*static, unused*/, L_5, L_6, L_7, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -18879,7 +18879,7 @@ extern "C" Rect_t5_48  Graphic_GetPixelAdjustedRect_m6_533 (Graphic_t6_76 * __th
 	}
 	{
 		Canvas_t5_177 * L_0 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0020;
@@ -18888,7 +18888,7 @@ extern "C" Rect_t5_48  Graphic_GetPixelAdjustedRect_m6_533 (Graphic_t6_76 * __th
 	{
 		Canvas_t5_177 * L_2 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		bool L_3 = Canvas_get_pixelPerfect_m5_1210(L_2, /*hidden argument*/NULL);
+		bool L_3 = Canvas_get_pixelPerfect_m5_1208(L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_002c;
@@ -18908,7 +18908,7 @@ IL_002c:
 		RectTransform_t5_70 * L_6 = Graphic_get_rectTransform_m6_506(__this, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_7 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		Rect_t5_48  L_8 = RectTransformUtility_PixelAdjustRect_m5_1262(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
+		Rect_t5_48  L_8 = RectTransformUtility_PixelAdjustRect_m5_1260(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -18928,8 +18928,8 @@ extern "C" void Graphic_CrossFadeColor_m6_534 (Graphic_t6_76 * __this, Color_t5_
 extern TypeInfo* Color_t5_165_il2cpp_TypeInfo_var;
 extern TypeInfo* ColorTween_t6_49_il2cpp_TypeInfo_var;
 extern TypeInfo* UnityAction_1_t5_320_il2cpp_TypeInfo_var;
-extern const MethodInfo* CanvasRenderer_SetColor_m5_1229_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1842_MethodInfo_var;
+extern const MethodInfo* CanvasRenderer_SetColor_m5_1227_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1840_MethodInfo_var;
 extern const MethodInfo* TweenRunner_1_StartTween_m6_1481_MethodInfo_var;
 extern "C" void Graphic_CrossFadeColor_m6_535 (Graphic_t6_76 * __this, Color_t5_165  ___targetColor, float ___duration, bool ___ignoreTimeScale, bool ___useAlpha, bool ___useRGB, const MethodInfo* method)
 {
@@ -18939,8 +18939,8 @@ extern "C" void Graphic_CrossFadeColor_m6_535 (Graphic_t6_76 * __this, Color_t5_
 		Color_t5_165_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(948);
 		ColorTween_t6_49_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1087);
 		UnityAction_1_t5_320_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1099);
-		CanvasRenderer_SetColor_m5_1229_MethodInfo_var = il2cpp_codegen_method_info_from_index(256);
-		UnityAction_1__ctor_m5_1842_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483905);
+		CanvasRenderer_SetColor_m5_1227_MethodInfo_var = il2cpp_codegen_method_info_from_index(256);
+		UnityAction_1__ctor_m5_1840_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483905);
 		TweenRunner_1_StartTween_m6_1481_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483906);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -18951,7 +18951,7 @@ extern "C" void Graphic_CrossFadeColor_m6_535 (Graphic_t6_76 * __this, Color_t5_
 	int32_t G_B12_0 = 0;
 	{
 		CanvasRenderer_t5_179 * L_0 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_001f;
@@ -18981,12 +18981,12 @@ IL_0020:
 	{
 		CanvasRenderer_t5_179 * L_4 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Color_t5_165  L_5 = CanvasRenderer_GetColor_m5_1231(L_4, /*hidden argument*/NULL);
+		Color_t5_165  L_5 = CanvasRenderer_GetColor_m5_1229(L_4, /*hidden argument*/NULL);
 		V_0 = L_5;
 		Color_t5_165  L_6 = ___targetColor;
 		Color_t5_165  L_7 = L_6;
 		Object_t * L_8 = Box(Color_t5_165_il2cpp_TypeInfo_var, &L_7);
-		bool L_9 = Color_Equals_m5_1583((&V_0), L_8, /*hidden argument*/NULL);
+		bool L_9 = Color_Equals_m5_1581((&V_0), L_8, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_003f;
@@ -19044,16 +19044,16 @@ IL_0061:
 		ColorTween_set_duration_m6_289((&V_3), L_14, /*hidden argument*/NULL);
 		CanvasRenderer_t5_179 * L_15 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		Color_t5_165  L_16 = CanvasRenderer_GetColor_m5_1231(L_15, /*hidden argument*/NULL);
+		Color_t5_165  L_16 = CanvasRenderer_GetColor_m5_1229(L_15, /*hidden argument*/NULL);
 		ColorTween_set_startColor_m6_283((&V_3), L_16, /*hidden argument*/NULL);
 		Color_t5_165  L_17 = ___targetColor;
 		ColorTween_set_targetColor_m6_285((&V_3), L_17, /*hidden argument*/NULL);
 		ColorTween_t6_49  L_18 = V_3;
 		V_2 = L_18;
 		CanvasRenderer_t5_179 * L_19 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
-		IntPtr_t L_20 = { (void*)CanvasRenderer_SetColor_m5_1229_MethodInfo_var };
+		IntPtr_t L_20 = { (void*)CanvasRenderer_SetColor_m5_1227_MethodInfo_var };
 		UnityAction_1_t5_320 * L_21 = (UnityAction_1_t5_320 *)il2cpp_codegen_object_new (UnityAction_1_t5_320_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1842(L_21, L_19, L_20, /*hidden argument*/UnityAction_1__ctor_m5_1842_MethodInfo_var);
+		UnityAction_1__ctor_m5_1840(L_21, L_19, L_20, /*hidden argument*/UnityAction_1__ctor_m5_1840_MethodInfo_var);
 		ColorTween_AddOnChangedCallback_m6_293((&V_2), L_21, /*hidden argument*/NULL);
 		bool L_22 = ___ignoreTimeScale;
 		ColorTween_set_ignoreTimeScale_m6_291((&V_2), L_22, /*hidden argument*/NULL);
@@ -19071,7 +19071,7 @@ extern "C" Color_t5_165  Graphic_CreateColorFromAlpha_m6_536 (Object_t * __this 
 {
 	Color_t5_165  V_0 = {0};
 	{
-		Color_t5_165  L_0 = Color_get_black_m5_1588(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = Color_get_black_m5_1586(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
 		float L_1 = ___alpha;
 		(&V_0)->___a_3 = L_1;
@@ -19219,7 +19219,7 @@ extern "C" bool Graphic_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_544 (Graphi
 extern "C" Transform_t5_71 * Graphic_UnityEngine_UI_ICanvasElement_get_transform_m6_545 (Graphic_t6_76 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -19273,7 +19273,7 @@ extern "C" int32_t GraphicRaycaster_get_sortOrderPriority_m6_548 (GraphicRaycast
 	{
 		Canvas_t5_177 * L_0 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		int32_t L_1 = Canvas_get_renderMode_m5_1203(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Canvas_get_renderMode_m5_1201(L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_001c;
@@ -19282,7 +19282,7 @@ extern "C" int32_t GraphicRaycaster_get_sortOrderPriority_m6_548 (GraphicRaycast
 	{
 		Canvas_t5_177 * L_2 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		int32_t L_3 = Canvas_get_sortingOrder_m5_1214(L_2, /*hidden argument*/NULL);
+		int32_t L_3 = Canvas_get_sortingOrder_m5_1212(L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 
@@ -19298,7 +19298,7 @@ extern "C" int32_t GraphicRaycaster_get_renderOrderPriority_m6_549 (GraphicRayca
 	{
 		Canvas_t5_177 * L_0 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		int32_t L_1 = Canvas_get_renderMode_m5_1203(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Canvas_get_renderMode_m5_1201(L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_001c;
@@ -19307,7 +19307,7 @@ extern "C" int32_t GraphicRaycaster_get_renderOrderPriority_m6_549 (GraphicRayca
 	{
 		Canvas_t5_177 * L_2 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		int32_t L_3 = Canvas_get_renderOrder_m5_1211(L_2, /*hidden argument*/NULL);
+		int32_t L_3 = Canvas_get_renderOrder_m5_1209(L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 
@@ -19352,18 +19352,18 @@ extern "C" void GraphicRaycaster_set_blockingObjects_m6_553 (GraphicRaycaster_t6
 	}
 }
 // UnityEngine.Canvas UnityEngine.UI.GraphicRaycaster::get_canvas()
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern "C" Canvas_t5_177 * GraphicRaycaster_get_canvas_m6_554 (GraphicRaycaster_t6_80 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Canvas_t5_177 * L_0 = (__this->___m_Canvas_6);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0018;
@@ -19376,7 +19376,7 @@ extern "C" Canvas_t5_177 * GraphicRaycaster_get_canvas_m6_554 (GraphicRaycaster_
 
 IL_0018:
 	{
-		Canvas_t5_177 * L_3 = Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_3 = Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		__this->___m_Canvas_6 = L_3;
 		Canvas_t5_177 * L_4 = (__this->___m_Canvas_6);
 		return L_4;
@@ -19424,7 +19424,7 @@ extern "C" void GraphicRaycaster_Raycast_m6_555 (GraphicRaycaster_t6_80 * __this
 	RaycastResult_t6_31  V_21 = {0};
 	{
 		Canvas_t5_177 * L_0 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -19437,7 +19437,7 @@ extern "C" void GraphicRaycaster_Raycast_m6_555 (GraphicRaycaster_t6_80 * __this
 IL_0012:
 	{
 		Camera_t5_86 * L_2 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_009e;
@@ -19446,7 +19446,7 @@ IL_0012:
 	{
 		Canvas_t5_177 * L_4 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		int32_t L_5 = Canvas_get_targetDisplay_m5_1216(L_4, /*hidden argument*/NULL);
+		int32_t L_5 = Canvas_get_targetDisplay_m5_1214(L_4, /*hidden argument*/NULL);
 		V_1 = L_5;
 		int32_t L_6 = Screen_get_width_m5_127(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_2 = (((float)((float)L_6)));
@@ -19559,7 +19559,7 @@ IL_00ff:
 		V_4 = (std::numeric_limits<float>::max());
 		Initobj (Ray_t5_52_il2cpp_TypeInfo_var, (&V_5));
 		Camera_t5_86 * L_37 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
-		bool L_38 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_37, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_38 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_37, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_38)
 		{
 			goto IL_0137;
@@ -19580,7 +19580,7 @@ IL_0137:
 	{
 		Canvas_t5_177 * L_44 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_44);
-		int32_t L_45 = Canvas_get_renderMode_m5_1203(L_44, /*hidden argument*/NULL);
+		int32_t L_45 = Canvas_get_renderMode_m5_1201(L_44, /*hidden argument*/NULL);
 		if (!L_45)
 		{
 			goto IL_0221;
@@ -19596,7 +19596,7 @@ IL_0137:
 	{
 		V_6 = (100.0f);
 		Camera_t5_86 * L_47 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
-		bool L_48 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_47, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_48 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_47, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_48)
 		{
 			goto IL_0183;
@@ -19634,14 +19634,14 @@ IL_019b:
 		float L_56 = V_6;
 		LayerMask_t5_43  L_57 = (__this->___m_BlockingMask_5);
 		int32_t L_58 = LayerMask_op_Implicit_m5_191(NULL /*static, unused*/, L_57, /*hidden argument*/NULL);
-		bool L_59 = Physics_Raycast_m5_1007(NULL /*static, unused*/, L_55, (&V_7), L_56, L_58, /*hidden argument*/NULL);
+		bool L_59 = Physics_Raycast_m5_1005(NULL /*static, unused*/, L_55, (&V_7), L_56, L_58, /*hidden argument*/NULL);
 		if (!L_59)
 		{
 			goto IL_01bf;
 		}
 	}
 	{
-		float L_60 = RaycastHit_get_distance_m5_1018((&V_7), /*hidden argument*/NULL);
+		float L_60 = RaycastHit_get_distance_m5_1016((&V_7), /*hidden argument*/NULL);
 		V_4 = L_60;
 	}
 
@@ -19671,17 +19671,17 @@ IL_01d7:
 		LayerMask_t5_43  L_68 = (__this->___m_BlockingMask_5);
 		int32_t L_69 = LayerMask_op_Implicit_m5_191(NULL /*static, unused*/, L_68, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t5_135_il2cpp_TypeInfo_var);
-		RaycastHit2D_t5_136  L_70 = Physics2D_Raycast_m5_1027(NULL /*static, unused*/, L_64, L_66, L_67, L_69, /*hidden argument*/NULL);
+		RaycastHit2D_t5_136  L_70 = Physics2D_Raycast_m5_1025(NULL /*static, unused*/, L_64, L_66, L_67, L_69, /*hidden argument*/NULL);
 		V_8 = L_70;
-		Collider2D_t5_137 * L_71 = RaycastHit2D_get_collider_m5_1038((&V_8), /*hidden argument*/NULL);
-		bool L_72 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_71, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Collider2D_t5_137 * L_71 = RaycastHit2D_get_collider_m5_1036((&V_8), /*hidden argument*/NULL);
+		bool L_72 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_71, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_72)
 		{
 			goto IL_0221;
 		}
 	}
 	{
-		float L_73 = RaycastHit2D_get_fraction_m5_1037((&V_8), /*hidden argument*/NULL);
+		float L_73 = RaycastHit2D_get_fraction_m5_1035((&V_8), /*hidden argument*/NULL);
 		float L_74 = V_6;
 		V_4 = ((float)((float)L_73*(float)L_74));
 	}
@@ -19710,7 +19710,7 @@ IL_0251:
 		NullCheck(L_81);
 		Graphic_t6_76 * L_83 = (Graphic_t6_76 *)VirtFuncInvoker1< Graphic_t6_76 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.UI.Graphic>::get_Item(System.Int32) */, L_81, L_82);
 		NullCheck(L_83);
-		GameObject_t5_101 * L_84 = Component_get_gameObject_m5_724(L_83, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_84 = Component_get_gameObject_m5_722(L_83, /*hidden argument*/NULL);
 		V_10 = L_84;
 		V_11 = 1;
 		bool L_85 = GraphicRaycaster_get_ignoreReversedGraphics_m6_550(__this, /*hidden argument*/NULL);
@@ -19721,7 +19721,7 @@ IL_0251:
 	}
 	{
 		Camera_t5_86 * L_86 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
-		bool L_87 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_86, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_87 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_86, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_87)
 		{
 			goto IL_02b6;
@@ -19730,9 +19730,9 @@ IL_0251:
 	{
 		GameObject_t5_101 * L_88 = V_10;
 		NullCheck(L_88);
-		Transform_t5_71 * L_89 = GameObject_get_transform_m5_766(L_88, /*hidden argument*/NULL);
+		Transform_t5_71 * L_89 = GameObject_get_transform_m5_764(L_88, /*hidden argument*/NULL);
 		NullCheck(L_89);
-		Quaternion_t5_47  L_90 = Transform_get_rotation_m5_794(L_89, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_90 = Transform_get_rotation_m5_792(L_89, /*hidden argument*/NULL);
 		Vector3_t5_45  L_91 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_92 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_90, L_91, /*hidden argument*/NULL);
 		V_12 = L_92;
@@ -19747,17 +19747,17 @@ IL_02b6:
 	{
 		Camera_t5_86 * L_96 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
 		NullCheck(L_96);
-		Transform_t5_71 * L_97 = Component_get_transform_m5_723(L_96, /*hidden argument*/NULL);
+		Transform_t5_71 * L_97 = Component_get_transform_m5_721(L_96, /*hidden argument*/NULL);
 		NullCheck(L_97);
-		Quaternion_t5_47  L_98 = Transform_get_rotation_m5_794(L_97, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_98 = Transform_get_rotation_m5_792(L_97, /*hidden argument*/NULL);
 		Vector3_t5_45  L_99 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_100 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_98, L_99, /*hidden argument*/NULL);
 		V_13 = L_100;
 		GameObject_t5_101 * L_101 = V_10;
 		NullCheck(L_101);
-		Transform_t5_71 * L_102 = GameObject_get_transform_m5_766(L_101, /*hidden argument*/NULL);
+		Transform_t5_71 * L_102 = GameObject_get_transform_m5_764(L_101, /*hidden argument*/NULL);
 		NullCheck(L_102);
-		Quaternion_t5_47  L_103 = Transform_get_rotation_m5_794(L_102, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_103 = Transform_get_rotation_m5_792(L_102, /*hidden argument*/NULL);
 		Vector3_t5_45  L_104 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_105 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_103, L_104, /*hidden argument*/NULL);
 		V_14 = L_105;
@@ -19778,7 +19778,7 @@ IL_02fc:
 	{
 		V_15 = (0.0f);
 		Camera_t5_86 * L_110 = (Camera_t5_86 *)VirtFuncInvoker0< Camera_t5_86 * >::Invoke(17 /* UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera() */, __this);
-		bool L_111 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_110, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_111 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_110, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_111)
 		{
 			goto IL_032b;
@@ -19787,7 +19787,7 @@ IL_02fc:
 	{
 		Canvas_t5_177 * L_112 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_112);
-		int32_t L_113 = Canvas_get_renderMode_m5_1203(L_112, /*hidden argument*/NULL);
+		int32_t L_113 = Canvas_get_renderMode_m5_1201(L_112, /*hidden argument*/NULL);
 		if (L_113)
 		{
 			goto IL_0337;
@@ -19804,16 +19804,16 @@ IL_0337:
 	{
 		GameObject_t5_101 * L_114 = V_10;
 		NullCheck(L_114);
-		Transform_t5_71 * L_115 = GameObject_get_transform_m5_766(L_114, /*hidden argument*/NULL);
+		Transform_t5_71 * L_115 = GameObject_get_transform_m5_764(L_114, /*hidden argument*/NULL);
 		V_16 = L_115;
 		Transform_t5_71 * L_116 = V_16;
 		NullCheck(L_116);
-		Vector3_t5_45  L_117 = Transform_get_forward_m5_793(L_116, /*hidden argument*/NULL);
+		Vector3_t5_45  L_117 = Transform_get_forward_m5_791(L_116, /*hidden argument*/NULL);
 		V_17 = L_117;
 		Vector3_t5_45  L_118 = V_17;
 		Transform_t5_71 * L_119 = V_16;
 		NullCheck(L_119);
-		Vector3_t5_45  L_120 = Transform_get_position_m5_785(L_119, /*hidden argument*/NULL);
+		Vector3_t5_45  L_120 = Transform_get_position_m5_783(L_119, /*hidden argument*/NULL);
 		Vector3_t5_45  L_121 = Ray_get_origin_m5_326((&V_5), /*hidden argument*/NULL);
 		Vector3_t5_45  L_122 = Vector3_op_Subtraction_m5_242(NULL /*static, unused*/, L_120, L_121, /*hidden argument*/NULL);
 		float L_123 = Vector3_Dot_m5_226(NULL /*static, unused*/, L_118, L_122, /*hidden argument*/NULL);
@@ -19871,11 +19871,11 @@ IL_0393:
 		(&V_21)->___depth_4 = L_140;
 		Canvas_t5_177 * L_141 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_141);
-		int32_t L_142 = Canvas_get_sortingLayerID_m5_1217(L_141, /*hidden argument*/NULL);
+		int32_t L_142 = Canvas_get_sortingLayerID_m5_1215(L_141, /*hidden argument*/NULL);
 		(&V_21)->___sortingLayer_5 = L_142;
 		Canvas_t5_177 * L_143 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_143);
-		int32_t L_144 = Canvas_get_sortingOrder_m5_1214(L_143, /*hidden argument*/NULL);
+		int32_t L_144 = Canvas_get_sortingOrder_m5_1212(L_143, /*hidden argument*/NULL);
 		(&V_21)->___sortingOrder_6 = L_144;
 		RaycastResult_t6_31  L_145 = V_21;
 		V_18 = L_145;
@@ -19913,7 +19913,7 @@ extern "C" Camera_t5_86 * GraphicRaycaster_get_eventCamera_m6_556 (GraphicRaycas
 	{
 		Canvas_t5_177 * L_0 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		int32_t L_1 = Canvas_get_renderMode_m5_1203(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Canvas_get_renderMode_m5_1201(L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0037;
@@ -19922,7 +19922,7 @@ extern "C" Camera_t5_86 * GraphicRaycaster_get_eventCamera_m6_556 (GraphicRaycas
 	{
 		Canvas_t5_177 * L_2 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		int32_t L_3 = Canvas_get_renderMode_m5_1203(L_2, /*hidden argument*/NULL);
+		int32_t L_3 = Canvas_get_renderMode_m5_1201(L_2, /*hidden argument*/NULL);
 		if ((!(((uint32_t)L_3) == ((uint32_t)1))))
 		{
 			goto IL_0039;
@@ -19931,8 +19931,8 @@ extern "C" Camera_t5_86 * GraphicRaycaster_get_eventCamera_m6_556 (GraphicRaycas
 	{
 		Canvas_t5_177 * L_4 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Camera_t5_86 * L_5 = Canvas_get_worldCamera_m5_1205(L_4, /*hidden argument*/NULL);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Camera_t5_86 * L_5 = Canvas_get_worldCamera_m5_1203(L_4, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0039;
@@ -19948,8 +19948,8 @@ IL_0039:
 	{
 		Canvas_t5_177 * L_7 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Camera_t5_86 * L_8 = Canvas_get_worldCamera_m5_1205(L_7, /*hidden argument*/NULL);
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Camera_t5_86 * L_8 = Canvas_get_worldCamera_m5_1203(L_7, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_005f;
@@ -19958,7 +19958,7 @@ IL_0039:
 	{
 		Canvas_t5_177 * L_10 = GraphicRaycaster_get_canvas_m6_554(__this, /*hidden argument*/NULL);
 		NullCheck(L_10);
-		Camera_t5_86 * L_11 = Canvas_get_worldCamera_m5_1205(L_10, /*hidden argument*/NULL);
+		Camera_t5_86 * L_11 = Canvas_get_worldCamera_m5_1203(L_10, /*hidden argument*/NULL);
 		G_B7_0 = L_11;
 		goto IL_0064;
 	}
@@ -20053,7 +20053,7 @@ IL_0032:
 		Vector2_t5_44  L_11 = ___pointerPosition;
 		Camera_t5_86 * L_12 = ___eventCamera;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_13 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_10, L_11, L_12, /*hidden argument*/NULL);
+		bool L_13 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_10, L_11, L_12, /*hidden argument*/NULL);
 		if (L_13)
 		{
 			goto IL_0049;
@@ -20274,7 +20274,7 @@ extern "C" void GraphicRegistry_RegisterGraphicForCanvas_m6_562 (Object_t * __th
 	IndexedSet_1_t6_186 * V_0 = {0};
 	{
 		Canvas_t5_177 * L_0 = ___c;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -20340,7 +20340,7 @@ extern "C" void GraphicRegistry_UnregisterGraphicForCanvas_m6_563 (Object_t * __
 	IndexedSet_1_t6_186 * V_0 = {0};
 	{
 		Canvas_t5_177 * L_0 = ___c;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -20490,7 +20490,7 @@ extern "C" Sprite_t5_79 * Image_get_overrideSprite_m6_569 (Image_t6_65 * __this,
 	Sprite_t5_79 * G_B3_0 = {0};
 	{
 		Sprite_t5_79 * L_0 = (__this->___m_OverrideSprite_29);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -20827,7 +20827,7 @@ extern "C" Texture_t5_33 * Image_get_mainTexture_m6_587 (Image_t6_65 * __this, c
 	}
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004a;
@@ -20835,7 +20835,7 @@ extern "C" Texture_t5_33 * Image_get_mainTexture_m6_587 (Image_t6_65 * __this, c
 	}
 	{
 		Material_t5_77 * L_2 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, __this);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0044;
@@ -20845,7 +20845,7 @@ extern "C" Texture_t5_33 * Image_get_mainTexture_m6_587 (Image_t6_65 * __this, c
 		Material_t5_77 * L_4 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, __this);
 		NullCheck(L_4);
 		Texture_t5_33 * L_5 = Material_get_mainTexture_m5_520(L_4, /*hidden argument*/NULL);
-		bool L_6 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0044;
@@ -20879,7 +20879,7 @@ extern "C" bool Image_get_hasBorder_m6_588 (Image_t6_65 * __this, const MethodIn
 	Vector4_t5_51  V_0 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_002c;
@@ -20907,7 +20907,7 @@ extern "C" float Image_get_pixelsPerUnit_m6_589 (Image_t6_65 * __this, const Met
 	{
 		V_0 = (100.0f);
 		Sprite_t5_79 * L_0 = Image_get_sprite_m6_567(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0022;
@@ -20924,7 +20924,7 @@ IL_0022:
 	{
 		V_1 = (100.0f);
 		Canvas_t5_177 * L_4 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0044;
@@ -20933,7 +20933,7 @@ IL_0022:
 	{
 		Canvas_t5_177 * L_6 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		float L_7 = Canvas_get_referencePixelsPerUnit_m5_1208(L_6, /*hidden argument*/NULL);
+		float L_7 = Canvas_get_referencePixelsPerUnit_m5_1206(L_6, /*hidden argument*/NULL);
 		V_1 = L_7;
 	}
 
@@ -21062,7 +21062,7 @@ extern "C" Vector4_t5_51  Image_GetDrawingDimensions_m6_592 (Image_t6_65 * __thi
 	Vector2_t5_44  G_B6_0 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001b;
@@ -21085,7 +21085,7 @@ IL_0026:
 	{
 		V_0 = G_B3_0;
 		Sprite_t5_79 * L_5 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0042;
@@ -21230,7 +21230,7 @@ extern "C" void Image_SetNativeSize_m6_593 (Image_t6_65 * __this, const MethodIn
 	Rect_t5_48  V_3 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0075;
@@ -21278,7 +21278,7 @@ extern "C" void Image_OnPopulateMesh_m6_594 (Image_t6_65 * __this, VertexHelper_
 	int32_t V_0 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0019;
@@ -21363,7 +21363,7 @@ extern "C" void Image_GenerateSimpleSprite_m6_595 (Image_t6_65 * __this, VertexH
 		Vector4_t5_51  L_1 = Image_GetDrawingDimensions_m6_592(__this, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Sprite_t5_79 * L_2 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0029;
@@ -21487,7 +21487,7 @@ extern "C" void Image_GenerateSlicedSprite_m6_596 (Image_t6_65 * __this, VertexH
 IL_0014:
 	{
 		Sprite_t5_79 * L_2 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_005a;
@@ -21815,7 +21815,7 @@ extern "C" void Image_GenerateTiledSprite_m6_597 (Image_t6_65 * __this, VertexHe
 	Rect_t5_48  V_23 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004f;
@@ -22636,7 +22636,7 @@ IL_0017:
 		Vector4_t5_51  L_3 = Image_GetDrawingDimensions_m6_592(__this, L_2, /*hidden argument*/NULL);
 		V_0 = L_3;
 		Sprite_t5_79 * L_4 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0040;
@@ -23992,7 +23992,7 @@ extern "C" float Image_get_preferredWidth_m6_607 (Image_t6_65 * __this, const Me
 	Vector2_t5_44  V_2 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0017;
@@ -24063,7 +24063,7 @@ extern "C" float Image_get_preferredHeight_m6_610 (Image_t6_65 * __this, const M
 	Vector2_t5_44  V_2 = {0};
 	{
 		Sprite_t5_79 * L_0 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0017;
@@ -24182,7 +24182,7 @@ IL_0012:
 		Sprite_t5_79 * L_1 = Image_get_overrideSprite_m6_569(__this, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Sprite_t5_79 * L_2 = V_0;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0027;
@@ -24198,7 +24198,7 @@ IL_0027:
 		Vector2_t5_44  L_5 = ___screenPoint;
 		Camera_t5_86 * L_6 = ___eventCamera;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_4, L_5, L_6, (&V_1), /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_4, L_5, L_6, (&V_1), /*hidden argument*/NULL);
 		Rect_t5_48  L_7 = Graphic_GetPixelAdjustedRect_m6_533(__this, /*hidden argument*/NULL);
 		V_2 = L_7;
 		Vector2_t5_44 * L_8 = (&V_1);
@@ -24542,32 +24542,32 @@ IL_0207:
 	}
 }
 // System.Void UnityEngine.UI.InputField/SubmitEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1844_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1842_MethodInfo_var;
 extern "C" void SubmitEvent__ctor_m6_615 (SubmitEvent_t6_94 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1844_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483921);
+		UnityEvent_1__ctor_m5_1842_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483921);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1844(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1844_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1842(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1842_MethodInfo_var);
 		return;
 	}
 }
 // System.Void UnityEngine.UI.InputField/OnChangeEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1844_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1842_MethodInfo_var;
 extern "C" void OnChangeEvent__ctor_m6_616 (OnChangeEvent_t6_95 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1844_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483921);
+		UnityEvent_1__ctor_m5_1842_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483921);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1844(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1844_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1842(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1842_MethodInfo_var);
 		return;
 	}
 }
@@ -24725,7 +24725,7 @@ IL_0049:
 		NullCheck(L_3);
 		float L_4 = (L_3->___m_CaretBlinkRate_38);
 		__this->___U3CblinkPeriodU3E__0_0 = ((float)((float)(1.0f)/(float)L_4));
-		float L_5 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_5 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		InputField_t6_99 * L_6 = (__this->___U3CU3Ef__this_4);
 		NullCheck(L_6);
 		float L_7 = (L_6->___m_BlinkStartTime_55);
@@ -24910,7 +24910,7 @@ IL_0026:
 		Camera_t5_86 * L_8 = PointerEventData_get_pressEventCamera_m6_166(L_7, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_9 = &(__this->___U3ClocalMousePosU3E__0_1);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_4, L_6, L_8, L_9, /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_4, L_6, L_8, L_9, /*hidden argument*/NULL);
 		InputField_t6_99 * L_10 = (__this->___U3CU3Ef__this_7);
 		NullCheck(L_10);
 		Text_t6_64 * L_11 = InputField_get_textComponent_m6_646(L_10, /*hidden argument*/NULL);
@@ -25130,10 +25130,10 @@ extern "C" void InputField__ctor_m6_633 (InputField_t6_99 * __this, const Method
 		OnChangeEvent__ctor_m6_616(L_1, /*hidden argument*/NULL);
 		__this->___m_OnValueChanged_32 = L_1;
 		Color_t5_165  L_2 = {0};
-		Color__ctor_m5_1579(&L_2, (0.196078435f), (0.196078435f), (0.196078435f), (1.0f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_2, (0.196078435f), (0.196078435f), (0.196078435f), (1.0f), /*hidden argument*/NULL);
 		__this->___m_CaretColor_34 = L_2;
 		Color_t5_165  L_3 = {0};
-		Color__ctor_m5_1579(&L_3, (0.65882355f), (0.807843149f), (1.0f), (0.7529412f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_3, (0.65882355f), (0.807843149f), (1.0f), (0.7529412f), /*hidden argument*/NULL);
 		__this->___m_SelectionColor_36 = L_3;
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_4 = ((String_t_StaticFields*)String_t_il2cpp_TypeInfo_var->static_fields)->___Empty_2;
@@ -25143,7 +25143,7 @@ extern "C" void InputField__ctor_m6_633 (InputField_t6_99 * __this, const Method
 		String_t* L_5 = ((String_t_StaticFields*)String_t_il2cpp_TypeInfo_var->static_fields)->___Empty_2;
 		__this->___m_OriginalText_59 = L_5;
 		Event_t5_182 * L_6 = (Event_t5_182 *)il2cpp_codegen_object_new (Event_t5_182_il2cpp_TypeInfo_var);
-		Event__ctor_m5_1270(L_6, /*hidden argument*/NULL);
+		Event__ctor_m5_1268(L_6, /*hidden argument*/NULL);
 		__this->___m_ProcessingEvent_62 = L_6;
 		IL2CPP_RUNTIME_CLASS_INIT(Selectable_t6_56_il2cpp_TypeInfo_var);
 		Selectable__ctor_m6_978(__this, /*hidden argument*/NULL);
@@ -25191,7 +25191,7 @@ extern "C" Mesh_t5_23 * InputField_get_mesh_m6_635 (InputField_t6_99 * __this, c
 	}
 	{
 		Mesh_t5_23 * L_0 = (__this->___m_Mesh_48);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -25228,7 +25228,7 @@ extern "C" TextGenerator_t5_166 * InputField_get_cachedInputTextGenerator_m6_636
 	}
 	{
 		TextGenerator_t5_166 * L_1 = (TextGenerator_t5_166 *)il2cpp_codegen_object_new (TextGenerator_t5_166_il2cpp_TypeInfo_var);
-		TextGenerator__ctor_m5_1154(L_1, /*hidden argument*/NULL);
+		TextGenerator__ctor_m5_1152(L_1, /*hidden argument*/NULL);
 		__this->___m_InputTextCache_45 = L_1;
 	}
 
@@ -25349,8 +25349,8 @@ extern "C" String_t* InputField_get_text_m6_639 (InputField_t6_99 * __this, cons
 		EventSystem_t6_2 * L_4 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		GameObject_t5_101 * L_5 = EventSystem_get_currentSelectedGameObject_m6_11(L_4, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		bool L_7 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_004c;
@@ -26142,7 +26142,7 @@ extern "C" int32_t InputField_get_caretPositionInternal_m6_683 (InputField_t6_99
 	{
 		int32_t L_0 = (__this->___m_CaretPosition_41);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_1 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_1 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		int32_t L_2 = String_get_Length_m1_430(L_1, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_0+(int32_t)L_2));
@@ -26172,7 +26172,7 @@ extern "C" int32_t InputField_get_caretSelectPositionInternal_m6_685 (InputField
 	{
 		int32_t L_0 = (__this->___m_CaretSelectPosition_42);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_1 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_1 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		int32_t L_2 = String_get_Length_m1_430(L_1, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_0+(int32_t)L_2));
@@ -26211,7 +26211,7 @@ extern "C" int32_t InputField_get_caretPosition_m6_688 (InputField_t6_99 * __thi
 	{
 		int32_t L_0 = (__this->___m_CaretSelectPosition_42);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_1 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_1 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		int32_t L_2 = String_get_Length_m1_430(L_1, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_0+(int32_t)L_2));
@@ -26241,7 +26241,7 @@ extern "C" int32_t InputField_get_selectionAnchorPosition_m6_690 (InputField_t6_
 	{
 		int32_t L_0 = (__this->___m_CaretPosition_41);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_1 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_1 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		int32_t L_2 = String_get_Length_m1_430(L_1, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_0+(int32_t)L_2));
@@ -26259,7 +26259,7 @@ extern "C" void InputField_set_selectionAnchorPosition_m6_691 (InputField_t6_99 
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_0 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_0 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		int32_t L_1 = String_get_Length_m1_430(L_0, /*hidden argument*/NULL);
 		if (!L_1)
@@ -26293,7 +26293,7 @@ extern "C" int32_t InputField_get_selectionFocusPosition_m6_692 (InputField_t6_9
 	{
 		int32_t L_0 = (__this->___m_CaretSelectPosition_42);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_1 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_1 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		int32_t L_2 = String_get_Length_m1_430(L_1, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_0+(int32_t)L_2));
@@ -26311,7 +26311,7 @@ extern "C" void InputField_set_selectionFocusPosition_m6_693 (InputField_t6_99 *
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_0 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_0 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		int32_t L_1 = String_get_Length_m1_430(L_0, /*hidden argument*/NULL);
 		if (!L_1)
@@ -26372,7 +26372,7 @@ IL_001c:
 		int32_t L_3 = String_get_Length_m1_430(L_2, /*hidden argument*/NULL);
 		__this->___m_DrawEnd_57 = L_3;
 		CanvasRenderer_t5_179 * L_4 = (__this->___m_CachedInputRenderer_46);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_005a;
@@ -26384,13 +26384,13 @@ IL_001c:
 		Material_t5_77 * L_7 = Graphic_get_defaultGraphicMaterial_m6_491(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Texture2D_t5_34 * L_8 = Texture2D_get_whiteTexture_m5_156(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		CanvasRenderer_SetMaterial_m5_1240(L_6, L_7, L_8, /*hidden argument*/NULL);
+		CanvasRenderer_SetMaterial_m5_1238(L_6, L_7, L_8, /*hidden argument*/NULL);
 	}
 
 IL_005a:
 	{
 		Text_t6_64 * L_9 = (__this->___m_TextComponent_21);
-		bool L_10 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_009f;
@@ -26400,13 +26400,13 @@ IL_005a:
 		Text_t6_64 * L_11 = (__this->___m_TextComponent_21);
 		IntPtr_t L_12 = { (void*)InputField_MarkGeometryAsDirty_m6_747_MethodInfo_var };
 		UnityAction_t5_266 * L_13 = (UnityAction_t5_266 *)il2cpp_codegen_object_new (UnityAction_t5_266_il2cpp_TypeInfo_var);
-		UnityAction__ctor_m5_1784(L_13, __this, L_12, /*hidden argument*/NULL);
+		UnityAction__ctor_m5_1782(L_13, __this, L_12, /*hidden argument*/NULL);
 		NullCheck(L_11);
 		Graphic_RegisterDirtyVerticesCallback_m6_540(L_11, L_13, /*hidden argument*/NULL);
 		Text_t6_64 * L_14 = (__this->___m_TextComponent_21);
 		IntPtr_t L_15 = { (void*)InputField_UpdateLabel_m6_741_MethodInfo_var };
 		UnityAction_t5_266 * L_16 = (UnityAction_t5_266 *)il2cpp_codegen_object_new (UnityAction_t5_266_il2cpp_TypeInfo_var);
-		UnityAction__ctor_m5_1784(L_16, __this, L_15, /*hidden argument*/NULL);
+		UnityAction__ctor_m5_1782(L_16, __this, L_15, /*hidden argument*/NULL);
 		NullCheck(L_14);
 		Graphic_RegisterDirtyVerticesCallback_m6_540(L_14, L_16, /*hidden argument*/NULL);
 		InputField_UpdateLabel_m6_741(__this, /*hidden argument*/NULL);
@@ -26437,7 +26437,7 @@ extern "C" void InputField_OnDisable_m6_695 (InputField_t6_99 * __this, const Me
 		__this->___m_BlinkCoroutine_54 = (Coroutine_t5_14 *)NULL;
 		InputField_DeactivateInputField_m6_762(__this, /*hidden argument*/NULL);
 		Text_t6_64 * L_0 = (__this->___m_TextComponent_21);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004c;
@@ -26447,13 +26447,13 @@ extern "C" void InputField_OnDisable_m6_695 (InputField_t6_99 * __this, const Me
 		Text_t6_64 * L_2 = (__this->___m_TextComponent_21);
 		IntPtr_t L_3 = { (void*)InputField_MarkGeometryAsDirty_m6_747_MethodInfo_var };
 		UnityAction_t5_266 * L_4 = (UnityAction_t5_266 *)il2cpp_codegen_object_new (UnityAction_t5_266_il2cpp_TypeInfo_var);
-		UnityAction__ctor_m5_1784(L_4, __this, L_3, /*hidden argument*/NULL);
+		UnityAction__ctor_m5_1782(L_4, __this, L_3, /*hidden argument*/NULL);
 		NullCheck(L_2);
 		Graphic_UnregisterDirtyVerticesCallback_m6_541(L_2, L_4, /*hidden argument*/NULL);
 		Text_t6_64 * L_5 = (__this->___m_TextComponent_21);
 		IntPtr_t L_6 = { (void*)InputField_UpdateLabel_m6_741_MethodInfo_var };
 		UnityAction_t5_266 * L_7 = (UnityAction_t5_266 *)il2cpp_codegen_object_new (UnityAction_t5_266_il2cpp_TypeInfo_var);
-		UnityAction__ctor_m5_1784(L_7, __this, L_6, /*hidden argument*/NULL);
+		UnityAction__ctor_m5_1782(L_7, __this, L_6, /*hidden argument*/NULL);
 		NullCheck(L_5);
 		Graphic_UnregisterDirtyVerticesCallback_m6_541(L_5, L_7, /*hidden argument*/NULL);
 	}
@@ -26463,7 +26463,7 @@ IL_004c:
 		IL2CPP_RUNTIME_CLASS_INIT(CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var);
 		CanvasUpdateRegistry_UnRegisterCanvasElementForRebuild_m6_348(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		CanvasRenderer_t5_179 * L_8 = (__this->___m_CachedInputRenderer_46);
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_006e;
@@ -26472,13 +26472,13 @@ IL_004c:
 	{
 		CanvasRenderer_t5_179 * L_10 = (__this->___m_CachedInputRenderer_46);
 		NullCheck(L_10);
-		CanvasRenderer_Clear_m5_1245(L_10, /*hidden argument*/NULL);
+		CanvasRenderer_Clear_m5_1243(L_10, /*hidden argument*/NULL);
 	}
 
 IL_006e:
 	{
 		Mesh_t5_23 * L_11 = (__this->___m_Mesh_48);
-		bool L_12 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_11, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_12 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_11, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_12)
 		{
 			goto IL_008a;
@@ -26486,7 +26486,7 @@ IL_006e:
 	}
 	{
 		Mesh_t5_23 * L_13 = (__this->___m_Mesh_48);
-		Object_DestroyImmediate_m5_696(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
+		Object_DestroyImmediate_m5_694(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
 	}
 
 IL_008a:
@@ -26535,7 +26535,7 @@ extern "C" void InputField_SetCaretVisible_m6_697 (InputField_t6_99 * __this, co
 IL_000c:
 	{
 		__this->___m_CaretVisible_53 = 1;
-		float L_1 = Time_get_unscaledTime_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_1 = Time_get_unscaledTime_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___m_BlinkStartTime_55 = L_1;
 		InputField_SetCaretActive_m6_698(__this, /*hidden argument*/NULL);
 		return;
@@ -26690,7 +26690,7 @@ extern "C" String_t* InputField_get_clipboard_m6_703 (Object_t * __this /* stati
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GUIUtility_t5_208_il2cpp_TypeInfo_var);
-		String_t* L_0 = GUIUtility_get_systemCopyBuffer_m5_1559(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_0 = GUIUtility_get_systemCopyBuffer_m5_1557(NULL /*static, unused*/, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -26707,7 +26707,7 @@ extern "C" void InputField_set_clipboard_m6_704 (Object_t * __this /* static, un
 	{
 		String_t* L_0 = ___value;
 		IL2CPP_RUNTIME_CLASS_INIT(GUIUtility_t5_208_il2cpp_TypeInfo_var);
-		GUIUtility_set_systemCopyBuffer_m5_1560(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		GUIUtility_set_systemCopyBuffer_m5_1558(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -27108,7 +27108,7 @@ extern "C" Vector2_t5_44  InputField_ScreenToLocal_m6_707 (InputField_t6_99 * __
 		Canvas_t5_177 * L_1 = Graphic_get_canvas_m6_507(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Canvas_t5_177 * L_2 = V_0;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001a;
@@ -27125,7 +27125,7 @@ IL_001a:
 		V_1 = L_5;
 		Canvas_t5_177 * L_6 = V_0;
 		NullCheck(L_6);
-		int32_t L_7 = Canvas_get_renderMode_m5_1203(L_6, /*hidden argument*/NULL);
+		int32_t L_7 = Canvas_get_renderMode_m5_1201(L_6, /*hidden argument*/NULL);
 		if (L_7)
 		{
 			goto IL_0047;
@@ -27134,11 +27134,11 @@ IL_001a:
 	{
 		Text_t6_64 * L_8 = (__this->___m_TextComponent_21);
 		NullCheck(L_8);
-		Transform_t5_71 * L_9 = Component_get_transform_m5_723(L_8, /*hidden argument*/NULL);
+		Transform_t5_71 * L_9 = Component_get_transform_m5_721(L_8, /*hidden argument*/NULL);
 		Vector2_t5_44  L_10 = ___screen;
 		Vector3_t5_45  L_11 = Vector2_op_Implicit_m5_215(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Vector3_t5_45  L_12 = Transform_InverseTransformPoint_m5_822(L_9, L_11, /*hidden argument*/NULL);
+		Vector3_t5_45  L_12 = Transform_InverseTransformPoint_m5_820(L_9, L_11, /*hidden argument*/NULL);
 		V_1 = L_12;
 		goto IL_00b5;
 	}
@@ -27147,8 +27147,8 @@ IL_0047:
 	{
 		Canvas_t5_177 * L_13 = V_0;
 		NullCheck(L_13);
-		Camera_t5_86 * L_14 = Canvas_get_worldCamera_m5_1205(L_13, /*hidden argument*/NULL);
-		bool L_15 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_14, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Camera_t5_86 * L_14 = Canvas_get_worldCamera_m5_1203(L_13, /*hidden argument*/NULL);
+		bool L_15 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_14, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_15)
 		{
 			goto IL_00b5;
@@ -27157,7 +27157,7 @@ IL_0047:
 	{
 		Canvas_t5_177 * L_16 = V_0;
 		NullCheck(L_16);
-		Camera_t5_86 * L_17 = Canvas_get_worldCamera_m5_1205(L_16, /*hidden argument*/NULL);
+		Camera_t5_86 * L_17 = Canvas_get_worldCamera_m5_1203(L_16, /*hidden argument*/NULL);
 		Vector2_t5_44  L_18 = ___screen;
 		Vector3_t5_45  L_19 = Vector2_op_Implicit_m5_215(NULL /*static, unused*/, L_18, /*hidden argument*/NULL);
 		NullCheck(L_17);
@@ -27165,24 +27165,24 @@ IL_0047:
 		V_2 = L_20;
 		Text_t6_64 * L_21 = (__this->___m_TextComponent_21);
 		NullCheck(L_21);
-		Transform_t5_71 * L_22 = Component_get_transform_m5_723(L_21, /*hidden argument*/NULL);
+		Transform_t5_71 * L_22 = Component_get_transform_m5_721(L_21, /*hidden argument*/NULL);
 		NullCheck(L_22);
-		Vector3_t5_45  L_23 = Transform_get_forward_m5_793(L_22, /*hidden argument*/NULL);
+		Vector3_t5_45  L_23 = Transform_get_forward_m5_791(L_22, /*hidden argument*/NULL);
 		Text_t6_64 * L_24 = (__this->___m_TextComponent_21);
 		NullCheck(L_24);
-		Transform_t5_71 * L_25 = Component_get_transform_m5_723(L_24, /*hidden argument*/NULL);
+		Transform_t5_71 * L_25 = Component_get_transform_m5_721(L_24, /*hidden argument*/NULL);
 		NullCheck(L_25);
-		Vector3_t5_45  L_26 = Transform_get_position_m5_785(L_25, /*hidden argument*/NULL);
+		Vector3_t5_45  L_26 = Transform_get_position_m5_783(L_25, /*hidden argument*/NULL);
 		Plane__ctor_m5_330((&V_4), L_23, L_26, /*hidden argument*/NULL);
 		Ray_t5_52  L_27 = V_2;
 		Plane_Raycast_m5_333((&V_4), L_27, (&V_3), /*hidden argument*/NULL);
 		Text_t6_64 * L_28 = (__this->___m_TextComponent_21);
 		NullCheck(L_28);
-		Transform_t5_71 * L_29 = Component_get_transform_m5_723(L_28, /*hidden argument*/NULL);
+		Transform_t5_71 * L_29 = Component_get_transform_m5_721(L_28, /*hidden argument*/NULL);
 		float L_30 = V_3;
 		Vector3_t5_45  L_31 = Ray_GetPoint_m5_328((&V_2), L_30, /*hidden argument*/NULL);
 		NullCheck(L_29);
-		Vector3_t5_45  L_32 = Transform_InverseTransformPoint_m5_822(L_29, L_31, /*hidden argument*/NULL);
+		Vector3_t5_45  L_32 = Transform_InverseTransformPoint_m5_820(L_29, L_31, /*hidden argument*/NULL);
 		V_1 = L_32;
 	}
 
@@ -27240,7 +27240,7 @@ IL_002e:
 	{
 		TextGenerator_t5_166 * L_4 = ___generator;
 		NullCheck(L_4);
-		Object_t* L_5 = TextGenerator_get_lines_m5_1169(L_4, /*hidden argument*/NULL);
+		Object_t* L_5 = TextGenerator_get_lines_m5_1167(L_4, /*hidden argument*/NULL);
 		int32_t L_6 = V_2;
 		NullCheck(L_5);
 		UILineInfo_t5_173  L_7 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_5, L_6);
@@ -27250,7 +27250,7 @@ IL_002e:
 		float L_9 = V_3;
 		TextGenerator_t5_166 * L_10 = ___generator;
 		NullCheck(L_10);
-		Object_t* L_11 = TextGenerator_get_lines_m5_1169(L_10, /*hidden argument*/NULL);
+		Object_t* L_11 = TextGenerator_get_lines_m5_1167(L_10, /*hidden argument*/NULL);
 		int32_t L_12 = V_2;
 		NullCheck(L_11);
 		UILineInfo_t5_173  L_13 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_11, L_12);
@@ -27314,7 +27314,7 @@ IL_0091:
 		int32_t L_29 = V_2;
 		TextGenerator_t5_166 * L_30 = ___generator;
 		NullCheck(L_30);
-		int32_t L_31 = TextGenerator_get_lineCount_m5_1181(L_30, /*hidden argument*/NULL);
+		int32_t L_31 = TextGenerator_get_lineCount_m5_1179(L_30, /*hidden argument*/NULL);
 		if ((((int32_t)L_29) < ((int32_t)L_31)))
 		{
 			goto IL_002e;
@@ -27323,7 +27323,7 @@ IL_0091:
 	{
 		TextGenerator_t5_166 * L_32 = ___generator;
 		NullCheck(L_32);
-		int32_t L_33 = TextGenerator_get_lineCount_m5_1181(L_32, /*hidden argument*/NULL);
+		int32_t L_33 = TextGenerator_get_lineCount_m5_1179(L_32, /*hidden argument*/NULL);
 		return L_33;
 	}
 }
@@ -27358,7 +27358,7 @@ extern "C" int32_t InputField_GetCharacterIndexFromPosition_m6_709 (InputField_t
 		V_0 = L_1;
 		TextGenerator_t5_166 * L_2 = V_0;
 		NullCheck(L_2);
-		int32_t L_3 = TextGenerator_get_lineCount_m5_1181(L_2, /*hidden argument*/NULL);
+		int32_t L_3 = TextGenerator_get_lineCount_m5_1179(L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_0019;
@@ -27389,7 +27389,7 @@ IL_002b:
 		int32_t L_8 = V_1;
 		TextGenerator_t5_166 * L_9 = V_0;
 		NullCheck(L_9);
-		int32_t L_10 = TextGenerator_get_lineCount_m5_1181(L_9, /*hidden argument*/NULL);
+		int32_t L_10 = TextGenerator_get_lineCount_m5_1179(L_9, /*hidden argument*/NULL);
 		if ((((int32_t)L_8) < ((int32_t)L_10)))
 		{
 			goto IL_003e;
@@ -27398,7 +27398,7 @@ IL_002b:
 	{
 		TextGenerator_t5_166 * L_11 = V_0;
 		NullCheck(L_11);
-		int32_t L_12 = TextGenerator_get_characterCountVisible_m5_1179(L_11, /*hidden argument*/NULL);
+		int32_t L_12 = TextGenerator_get_characterCountVisible_m5_1177(L_11, /*hidden argument*/NULL);
 		return L_12;
 	}
 
@@ -27406,7 +27406,7 @@ IL_003e:
 	{
 		TextGenerator_t5_166 * L_13 = V_0;
 		NullCheck(L_13);
-		Object_t* L_14 = TextGenerator_get_lines_m5_1169(L_13, /*hidden argument*/NULL);
+		Object_t* L_14 = TextGenerator_get_lines_m5_1167(L_13, /*hidden argument*/NULL);
 		int32_t L_15 = V_1;
 		NullCheck(L_14);
 		UILineInfo_t5_173  L_16 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_14, L_15);
@@ -27428,7 +27428,7 @@ IL_0064:
 		int32_t L_22 = V_4;
 		TextGenerator_t5_166 * L_23 = V_0;
 		NullCheck(L_23);
-		int32_t L_24 = TextGenerator_get_characterCountVisible_m5_1179(L_23, /*hidden argument*/NULL);
+		int32_t L_24 = TextGenerator_get_characterCountVisible_m5_1177(L_23, /*hidden argument*/NULL);
 		if ((((int32_t)L_22) < ((int32_t)L_24)))
 		{
 			goto IL_0076;
@@ -27442,7 +27442,7 @@ IL_0076:
 	{
 		TextGenerator_t5_166 * L_25 = V_0;
 		NullCheck(L_25);
-		Object_t* L_26 = TextGenerator_get_characters_m5_1168(L_25, /*hidden argument*/NULL);
+		Object_t* L_26 = TextGenerator_get_characters_m5_1166(L_25, /*hidden argument*/NULL);
 		int32_t L_27 = V_4;
 		NullCheck(L_26);
 		UICharInfo_t5_172  L_28 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_26, L_27);
@@ -27526,7 +27526,7 @@ extern "C" bool InputField_MayDrag_m6_710 (InputField_t6_99 * __this, PointerEve
 	}
 	{
 		Text_t6_64 * L_4 = (__this->___m_TextComponent_21);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_003d;
@@ -27604,7 +27604,7 @@ IL_000d:
 		NullCheck(L_6);
 		Camera_t5_86 * L_7 = PointerEventData_get_pressEventCamera_m6_166(L_6, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_3, L_5, L_7, (&V_0), /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_3, L_5, L_7, (&V_0), /*hidden argument*/NULL);
 		Vector2_t5_44  L_8 = V_0;
 		int32_t L_9 = InputField_GetCharacterIndexFromPosition_m6_709(__this, L_8, /*hidden argument*/NULL);
 		int32_t L_10 = (__this->___m_DrawStart_56);
@@ -27619,7 +27619,7 @@ IL_000d:
 		PointerEventData_t6_37 * L_15 = ___eventData;
 		NullCheck(L_15);
 		Camera_t5_86 * L_16 = PointerEventData_get_pressEventCamera_m6_166(L_15, /*hidden argument*/NULL);
-		bool L_17 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_12, L_14, L_16, /*hidden argument*/NULL);
+		bool L_17 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_12, L_14, L_16, /*hidden argument*/NULL);
 		__this->___m_DragPositionOutOfBounds_52 = ((((int32_t)L_17) == ((int32_t)0))? 1 : 0);
 		bool L_18 = (__this->___m_DragPositionOutOfBounds_52);
 		if (!L_18)
@@ -27729,7 +27729,7 @@ IL_000d:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_2 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		PointerEventData_t6_37 * L_4 = ___eventData;
 		NullCheck(L_2);
 		EventSystem_SetSelectedGameObject_m6_15(L_2, L_3, L_4, /*hidden argument*/NULL);
@@ -27829,7 +27829,7 @@ extern "C" int32_t InputField_KeyPressed_m6_716 (InputField_t6_99 * __this, Even
 	{
 		Event_t5_182 * L_0 = ___evt;
 		NullCheck(L_0);
-		int32_t L_1 = Event_get_modifiers_m5_1286(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Event_get_modifiers_m5_1284(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		int32_t L_2 = Application_get_platform_m5_575(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_1 = L_2;
@@ -27914,7 +27914,7 @@ IL_006b:
 		V_6 = G_B11_0;
 		Event_t5_182 * L_14 = ___evt;
 		NullCheck(L_14);
-		int32_t L_15 = Event_get_keyCode_m5_1289(L_14, /*hidden argument*/NULL);
+		int32_t L_15 = Event_get_keyCode_m5_1287(L_14, /*hidden argument*/NULL);
 		V_8 = L_15;
 		int32_t L_16 = V_8;
 		if (((int32_t)((int32_t)L_16-(int32_t)((int32_t)271))) == 0)
@@ -28225,7 +28225,7 @@ IL_0205:
 	{
 		Event_t5_182 * L_43 = ___evt;
 		NullCheck(L_43);
-		uint16_t L_44 = Event_get_character_m5_1287(L_43, /*hidden argument*/NULL);
+		uint16_t L_44 = Event_get_character_m5_1285(L_43, /*hidden argument*/NULL);
 		V_7 = L_44;
 		bool L_45 = InputField_get_multiLine_m6_678(__this, /*hidden argument*/NULL);
 		if (L_45)
@@ -28305,7 +28305,7 @@ IL_025f:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_55 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_55 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_55);
 		int32_t L_56 = String_get_Length_m1_430(L_55, /*hidden argument*/NULL);
 		if ((((int32_t)L_56) <= ((int32_t)0)))
@@ -28364,7 +28364,7 @@ IL_001c:
 		Font_t5_164 * L_4 = Text_get_font_m6_1106(L_3, /*hidden argument*/NULL);
 		uint16_t L_5 = ___c;
 		NullCheck(L_4);
-		bool L_6 = Font_HasCharacter_m5_1192(L_4, L_5, /*hidden argument*/NULL);
+		bool L_6 = Font_HasCharacter_m5_1190(L_4, L_5, /*hidden argument*/NULL);
 		return L_6;
 	}
 }
@@ -28420,7 +28420,7 @@ IL_0013:
 	{
 		Event_t5_182 * L_1 = (__this->___m_ProcessingEvent_62);
 		NullCheck(L_1);
-		int32_t L_2 = Event_get_rawType_m5_1283(L_1, /*hidden argument*/NULL);
+		int32_t L_2 = Event_get_rawType_m5_1281(L_1, /*hidden argument*/NULL);
 		if ((!(((uint32_t)L_2) == ((uint32_t)4))))
 		{
 			goto IL_0045;
@@ -28446,7 +28446,7 @@ IL_0045:
 	{
 		Event_t5_182 * L_6 = (__this->___m_ProcessingEvent_62);
 		NullCheck(L_6);
-		int32_t L_7 = Event_get_type_m5_1284(L_6, /*hidden argument*/NULL);
+		int32_t L_7 = Event_get_type_m5_1282(L_6, /*hidden argument*/NULL);
 		V_2 = L_7;
 		int32_t L_8 = V_2;
 		if ((((int32_t)L_8) == ((int32_t)((int32_t)13))))
@@ -28469,7 +28469,7 @@ IL_0066:
 	{
 		Event_t5_182 * L_10 = (__this->___m_ProcessingEvent_62);
 		NullCheck(L_10);
-		String_t* L_11 = Event_get_commandName_m5_1288(L_10, /*hidden argument*/NULL);
+		String_t* L_11 = Event_get_commandName_m5_1286(L_10, /*hidden argument*/NULL);
 		V_3 = L_11;
 		String_t* L_12 = V_3;
 		if (!L_12)
@@ -28535,7 +28535,7 @@ IL_00c9:
 IL_00ce:
 	{
 		Event_t5_182 * L_21 = (__this->___m_ProcessingEvent_62);
-		bool L_22 = Event_PopEvent_m5_1292(NULL /*static, unused*/, L_21, /*hidden argument*/NULL);
+		bool L_22 = Event_PopEvent_m5_1290(NULL /*static, unused*/, L_21, /*hidden argument*/NULL);
 		if (L_22)
 		{
 			goto IL_0013;
@@ -28935,7 +28935,7 @@ IL_0007:
 	{
 		TextGenerator_t5_166 * L_0 = ___generator;
 		NullCheck(L_0);
-		Object_t* L_1 = TextGenerator_get_lines_m5_1169(L_0, /*hidden argument*/NULL);
+		Object_t* L_1 = TextGenerator_get_lines_m5_1167(L_0, /*hidden argument*/NULL);
 		int32_t L_2 = V_0;
 		NullCheck(L_1);
 		UILineInfo_t5_173  L_3 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_1, ((int32_t)((int32_t)L_2+(int32_t)1)));
@@ -28963,7 +28963,7 @@ IL_0029:
 		int32_t L_8 = V_0;
 		TextGenerator_t5_166 * L_9 = ___generator;
 		NullCheck(L_9);
-		int32_t L_10 = TextGenerator_get_lineCount_m5_1181(L_9, /*hidden argument*/NULL);
+		int32_t L_10 = TextGenerator_get_lineCount_m5_1179(L_9, /*hidden argument*/NULL);
 		if ((((int32_t)L_8) < ((int32_t)((int32_t)((int32_t)L_10-(int32_t)1)))))
 		{
 			goto IL_0007;
@@ -28972,7 +28972,7 @@ IL_0029:
 	{
 		TextGenerator_t5_166 * L_11 = ___generator;
 		NullCheck(L_11);
-		int32_t L_12 = TextGenerator_get_lineCount_m5_1181(L_11, /*hidden argument*/NULL);
+		int32_t L_12 = TextGenerator_get_lineCount_m5_1179(L_11, /*hidden argument*/NULL);
 		return ((int32_t)((int32_t)L_12-(int32_t)1));
 	}
 }
@@ -29000,7 +29000,7 @@ extern "C" int32_t InputField_LineUpCharacterPosition_m6_726 (InputField_t6_99 *
 		int32_t L_0 = ___originalPos;
 		TextGenerator_t5_166 * L_1 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		int32_t L_2 = TextGenerator_get_characterCountVisible_m5_1179(L_1, /*hidden argument*/NULL);
+		int32_t L_2 = TextGenerator_get_characterCountVisible_m5_1177(L_1, /*hidden argument*/NULL);
 		if ((((int32_t)L_0) < ((int32_t)L_2)))
 		{
 			goto IL_0013;
@@ -29014,7 +29014,7 @@ IL_0013:
 	{
 		TextGenerator_t5_166 * L_3 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Object_t* L_4 = TextGenerator_get_characters_m5_1168(L_3, /*hidden argument*/NULL);
+		Object_t* L_4 = TextGenerator_get_characters_m5_1166(L_3, /*hidden argument*/NULL);
 		int32_t L_5 = ___originalPos;
 		NullCheck(L_4);
 		UICharInfo_t5_172  L_6 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_4, L_5);
@@ -29056,7 +29056,7 @@ IL_004a:
 	{
 		TextGenerator_t5_166 * L_13 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		Object_t* L_14 = TextGenerator_get_lines_m5_1169(L_13, /*hidden argument*/NULL);
+		Object_t* L_14 = TextGenerator_get_lines_m5_1167(L_13, /*hidden argument*/NULL);
 		int32_t L_15 = V_1;
 		NullCheck(L_14);
 		UILineInfo_t5_173  L_16 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_14, L_15);
@@ -29065,7 +29065,7 @@ IL_004a:
 		V_2 = ((int32_t)((int32_t)L_17-(int32_t)1));
 		TextGenerator_t5_166 * L_18 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		Object_t* L_19 = TextGenerator_get_lines_m5_1169(L_18, /*hidden argument*/NULL);
+		Object_t* L_19 = TextGenerator_get_lines_m5_1167(L_18, /*hidden argument*/NULL);
 		int32_t L_20 = V_1;
 		NullCheck(L_19);
 		UILineInfo_t5_173  L_21 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_19, ((int32_t)((int32_t)L_20-(int32_t)1)));
@@ -29079,7 +29079,7 @@ IL_0089:
 	{
 		TextGenerator_t5_166 * L_23 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_23);
-		Object_t* L_24 = TextGenerator_get_characters_m5_1168(L_23, /*hidden argument*/NULL);
+		Object_t* L_24 = TextGenerator_get_characters_m5_1166(L_23, /*hidden argument*/NULL);
 		int32_t L_25 = V_3;
 		NullCheck(L_24);
 		UICharInfo_t5_172  L_26 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_24, L_25);
@@ -29143,7 +29143,7 @@ extern "C" int32_t InputField_LineDownCharacterPosition_m6_727 (InputField_t6_99
 		int32_t L_0 = ___originalPos;
 		TextGenerator_t5_166 * L_1 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		int32_t L_2 = TextGenerator_get_characterCountVisible_m5_1179(L_1, /*hidden argument*/NULL);
+		int32_t L_2 = TextGenerator_get_characterCountVisible_m5_1177(L_1, /*hidden argument*/NULL);
 		if ((((int32_t)L_0) < ((int32_t)L_2)))
 		{
 			goto IL_001d;
@@ -29160,7 +29160,7 @@ IL_001d:
 	{
 		TextGenerator_t5_166 * L_5 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Object_t* L_6 = TextGenerator_get_characters_m5_1168(L_5, /*hidden argument*/NULL);
+		Object_t* L_6 = TextGenerator_get_characters_m5_1166(L_5, /*hidden argument*/NULL);
 		int32_t L_7 = ___originalPos;
 		NullCheck(L_6);
 		UICharInfo_t5_172  L_8 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_6, L_7);
@@ -29172,7 +29172,7 @@ IL_001d:
 		int32_t L_12 = V_1;
 		TextGenerator_t5_166 * L_13 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		int32_t L_14 = TextGenerator_get_lineCount_m5_1181(L_13, /*hidden argument*/NULL);
+		int32_t L_14 = TextGenerator_get_lineCount_m5_1179(L_13, /*hidden argument*/NULL);
 		if ((((int32_t)((int32_t)((int32_t)L_12+(int32_t)1))) < ((int32_t)L_14)))
 		{
 			goto IL_0068;
@@ -29213,7 +29213,7 @@ IL_0068:
 		V_2 = L_21;
 		TextGenerator_t5_166 * L_22 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_22);
-		Object_t* L_23 = TextGenerator_get_lines_m5_1169(L_22, /*hidden argument*/NULL);
+		Object_t* L_23 = TextGenerator_get_lines_m5_1167(L_22, /*hidden argument*/NULL);
 		int32_t L_24 = V_1;
 		NullCheck(L_23);
 		UILineInfo_t5_173  L_25 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_23, ((int32_t)((int32_t)L_24+(int32_t)1)));
@@ -29227,7 +29227,7 @@ IL_0099:
 	{
 		TextGenerator_t5_166 * L_27 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_27);
-		Object_t* L_28 = TextGenerator_get_characters_m5_1168(L_27, /*hidden argument*/NULL);
+		Object_t* L_28 = TextGenerator_get_characters_m5_1166(L_27, /*hidden argument*/NULL);
 		int32_t L_29 = V_3;
 		NullCheck(L_28);
 		UICharInfo_t5_172  L_30 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_28, L_29);
@@ -29739,13 +29739,13 @@ extern "C" void InputField_SendOnValueChangedAndUpdateLabel_m6_736 (InputField_t
 	}
 }
 // System.Void UnityEngine.UI.InputField::SendOnValueChanged()
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1845_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1843_MethodInfo_var;
 extern "C" void InputField_SendOnValueChanged_m6_737 (InputField_t6_99 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1845_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483935);
+		UnityEvent_1_Invoke_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483935);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -29759,7 +29759,7 @@ extern "C" void InputField_SendOnValueChanged_m6_737 (InputField_t6_99 * __this,
 		OnChangeEvent_t6_95 * L_1 = InputField_get_onValueChanged_m6_660(__this, /*hidden argument*/NULL);
 		String_t* L_2 = InputField_get_text_m6_639(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		UnityEvent_1_Invoke_m5_1845(L_1, L_2, /*hidden argument*/UnityEvent_1_Invoke_m5_1845_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1843(L_1, L_2, /*hidden argument*/UnityEvent_1_Invoke_m5_1843_MethodInfo_var);
 	}
 
 IL_001c:
@@ -29768,13 +29768,13 @@ IL_001c:
 	}
 }
 // System.Void UnityEngine.UI.InputField::SendOnSubmit()
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1845_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1843_MethodInfo_var;
 extern "C" void InputField_SendOnSubmit_m6_738 (InputField_t6_99 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1845_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483935);
+		UnityEvent_1_Invoke_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483935);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -29788,7 +29788,7 @@ extern "C" void InputField_SendOnSubmit_m6_738 (InputField_t6_99 * __this, const
 		SubmitEvent_t6_94 * L_1 = InputField_get_onEndEdit_m6_656(__this, /*hidden argument*/NULL);
 		String_t* L_2 = (__this->___m_Text_37);
 		NullCheck(L_1);
-		UnityEvent_1_Invoke_m5_1845(L_1, L_2, /*hidden argument*/UnityEvent_1_Invoke_m5_1845_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1843(L_1, L_2, /*hidden argument*/UnityEvent_1_Invoke_m5_1843_MethodInfo_var);
 	}
 
 IL_001c:
@@ -30008,7 +30008,7 @@ extern "C" void InputField_UpdateLabel_m6_741 (InputField_t6_99 * __this, const 
 	Graphic_t6_76 * G_B13_1 = {0};
 	{
 		Text_t6_64 * L_0 = (__this->___m_TextComponent_21);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0195;
@@ -30018,7 +30018,7 @@ extern "C" void InputField_UpdateLabel_m6_741 (InputField_t6_99 * __this, const 
 		Text_t6_64 * L_2 = (__this->___m_TextComponent_21);
 		NullCheck(L_2);
 		Font_t5_164 * L_3 = Text_get_font_m6_1106(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0195;
@@ -30034,7 +30034,7 @@ extern "C" void InputField_UpdateLabel_m6_741 (InputField_t6_99 * __this, const 
 	{
 		__this->___m_PreventFontCallback_47 = 1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_6 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_6 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_6);
 		int32_t L_7 = String_get_Length_m1_430(L_6, /*hidden argument*/NULL);
 		if ((((int32_t)L_7) <= ((int32_t)0)))
@@ -30048,7 +30048,7 @@ extern "C" void InputField_UpdateLabel_m6_741 (InputField_t6_99 * __this, const 
 		NullCheck(L_8);
 		String_t* L_10 = String_Substring_m1_355(L_8, 0, L_9, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		String_t* L_11 = Input_get_compositionString_m5_686(NULL /*static, unused*/, /*hidden argument*/NULL);
+		String_t* L_11 = Input_get_compositionString_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
 		String_t* L_12 = InputField_get_text_m6_639(__this, /*hidden argument*/NULL);
 		int32_t L_13 = (__this->___m_CaretPosition_41);
 		NullCheck(L_12);
@@ -30097,7 +30097,7 @@ IL_00a8:
 		bool L_24 = String_IsNullOrEmpty_m1_399(NULL /*static, unused*/, L_23, /*hidden argument*/NULL);
 		V_2 = L_24;
 		Graphic_t6_76 * L_25 = (__this->___m_Placeholder_22);
-		bool L_26 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_26 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_26)
 		{
 			goto IL_00dd;
@@ -30175,7 +30175,7 @@ IL_0100:
 		String_t* L_42 = V_1;
 		TextGenerationSettings_t5_163  L_43 = V_4;
 		NullCheck(L_41);
-		TextGenerator_Populate_m5_1165(L_41, L_42, L_43, /*hidden argument*/NULL);
+		TextGenerator_Populate_m5_1163(L_41, L_42, L_43, /*hidden argument*/NULL);
 		int32_t L_44 = InputField_get_caretSelectPositionInternal_m6_685(__this, /*hidden argument*/NULL);
 		InputField_SetDrawRangeToContainCaretPosition_m6_745(__this, L_44, /*hidden argument*/NULL);
 		String_t* L_45 = V_1;
@@ -30280,7 +30280,7 @@ extern "C" int32_t InputField_GetLineStartPosition_m6_743 (Object_t * __this /* 
 		int32_t L_0 = ___line;
 		TextGenerator_t5_166 * L_1 = ___gen;
 		NullCheck(L_1);
-		Object_t* L_2 = TextGenerator_get_lines_m5_1169(L_1, /*hidden argument*/NULL);
+		Object_t* L_2 = TextGenerator_get_lines_m5_1167(L_1, /*hidden argument*/NULL);
 		NullCheck(L_2);
 		int32_t L_3 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 System.Collections.Generic.ICollection`1<UnityEngine.UILineInfo>::get_Count() */, ICollection_1_t1_947_il2cpp_TypeInfo_var, L_2);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
@@ -30288,7 +30288,7 @@ extern "C" int32_t InputField_GetLineStartPosition_m6_743 (Object_t * __this /* 
 		___line = L_4;
 		TextGenerator_t5_166 * L_5 = ___gen;
 		NullCheck(L_5);
-		Object_t* L_6 = TextGenerator_get_lines_m5_1169(L_5, /*hidden argument*/NULL);
+		Object_t* L_6 = TextGenerator_get_lines_m5_1167(L_5, /*hidden argument*/NULL);
 		int32_t L_7 = ___line;
 		NullCheck(L_6);
 		UILineInfo_t5_173  L_8 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_6, L_7);
@@ -30320,7 +30320,7 @@ extern "C" int32_t InputField_GetLineEndPosition_m6_744 (Object_t * __this /* st
 		int32_t L_2 = ___line;
 		TextGenerator_t5_166 * L_3 = ___gen;
 		NullCheck(L_3);
-		Object_t* L_4 = TextGenerator_get_lines_m5_1169(L_3, /*hidden argument*/NULL);
+		Object_t* L_4 = TextGenerator_get_lines_m5_1167(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		int32_t L_5 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 System.Collections.Generic.ICollection`1<UnityEngine.UILineInfo>::get_Count() */, ICollection_1_t1_947_il2cpp_TypeInfo_var, L_4);
 		if ((((int32_t)((int32_t)((int32_t)L_2+(int32_t)1))) >= ((int32_t)L_5)))
@@ -30331,7 +30331,7 @@ extern "C" int32_t InputField_GetLineEndPosition_m6_744 (Object_t * __this /* st
 	{
 		TextGenerator_t5_166 * L_6 = ___gen;
 		NullCheck(L_6);
-		Object_t* L_7 = TextGenerator_get_lines_m5_1169(L_6, /*hidden argument*/NULL);
+		Object_t* L_7 = TextGenerator_get_lines_m5_1167(L_6, /*hidden argument*/NULL);
 		int32_t L_8 = ___line;
 		NullCheck(L_7);
 		UILineInfo_t5_173  L_9 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_7, ((int32_t)((int32_t)L_8+(int32_t)1)));
@@ -30344,7 +30344,7 @@ IL_0033:
 	{
 		TextGenerator_t5_166 * L_11 = ___gen;
 		NullCheck(L_11);
-		int32_t L_12 = TextGenerator_get_characterCountVisible_m5_1179(L_11, /*hidden argument*/NULL);
+		int32_t L_12 = TextGenerator_get_characterCountVisible_m5_1177(L_11, /*hidden argument*/NULL);
 		return L_12;
 	}
 }
@@ -30386,7 +30386,7 @@ extern "C" void InputField_SetDrawRangeToContainCaretPosition_m6_745 (InputField
 	{
 		TextGenerator_t5_166 * L_0 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		int32_t L_1 = TextGenerator_get_lineCount_m5_1181(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = TextGenerator_get_lineCount_m5_1179(L_0, /*hidden argument*/NULL);
 		if ((((int32_t)L_1) > ((int32_t)0)))
 		{
 			goto IL_0012;
@@ -30400,7 +30400,7 @@ IL_0012:
 	{
 		TextGenerator_t5_166 * L_2 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		Rect_t5_48  L_3 = TextGenerator_get_rectExtents_m5_1175(L_2, /*hidden argument*/NULL);
+		Rect_t5_48  L_3 = TextGenerator_get_rectExtents_m5_1173(L_2, /*hidden argument*/NULL);
 		V_9 = L_3;
 		Vector2_t5_44  L_4 = Rect_get_size_m5_279((&V_9), /*hidden argument*/NULL);
 		V_0 = L_4;
@@ -30413,7 +30413,7 @@ IL_0012:
 	{
 		TextGenerator_t5_166 * L_6 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Object_t* L_7 = TextGenerator_get_lines_m5_1169(L_6, /*hidden argument*/NULL);
+		Object_t* L_7 = TextGenerator_get_lines_m5_1167(L_6, /*hidden argument*/NULL);
 		V_1 = L_7;
 		int32_t L_8 = ___caretPos;
 		TextGenerator_t5_166 * L_9 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
@@ -30646,12 +30646,12 @@ IL_01ed:
 	{
 		TextGenerator_t5_166 * L_81 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_81);
-		Object_t* L_82 = TextGenerator_get_characters_m5_1168(L_81, /*hidden argument*/NULL);
+		Object_t* L_82 = TextGenerator_get_characters_m5_1166(L_81, /*hidden argument*/NULL);
 		V_7 = L_82;
 		int32_t L_83 = (__this->___m_DrawEnd_57);
 		TextGenerator_t5_166 * L_84 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_84);
-		int32_t L_85 = TextGenerator_get_characterCountVisible_m5_1179(L_84, /*hidden argument*/NULL);
+		int32_t L_85 = TextGenerator_get_characterCountVisible_m5_1177(L_84, /*hidden argument*/NULL);
 		if ((((int32_t)L_83) <= ((int32_t)L_85)))
 		{
 			goto IL_0221;
@@ -30660,7 +30660,7 @@ IL_01ed:
 	{
 		TextGenerator_t5_166 * L_86 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_86);
-		int32_t L_87 = TextGenerator_get_characterCountVisible_m5_1179(L_86, /*hidden argument*/NULL);
+		int32_t L_87 = TextGenerator_get_characterCountVisible_m5_1177(L_86, /*hidden argument*/NULL);
 		__this->___m_DrawEnd_57 = L_87;
 	}
 
@@ -30805,7 +30805,7 @@ IL_0338:
 		int32_t L_121 = (__this->___m_DrawEnd_57);
 		TextGenerator_t5_166 * L_122 = InputField_get_cachedInputTextGenerator_m6_636(__this, /*hidden argument*/NULL);
 		NullCheck(L_122);
-		int32_t L_123 = TextGenerator_get_characterCountVisible_m5_1179(L_122, /*hidden argument*/NULL);
+		int32_t L_123 = TextGenerator_get_characterCountVisible_m5_1177(L_122, /*hidden argument*/NULL);
 		if ((((int32_t)L_121) < ((int32_t)L_123)))
 		{
 			goto IL_02fc;
@@ -30887,9 +30887,9 @@ extern "C" void InputField_GraphicUpdateComplete_m6_750 (InputField_t6_99 * __th
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
 extern TypeInfo* Graphic_t6_76_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1846_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisLayoutElement_t6_150_m5_1847_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1844_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisLayoutElement_t6_150_m5_1845_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2745;
 extern "C" void InputField_UpdateGeometry_m6_751 (InputField_t6_99 * __this, const MethodInfo* method)
 {
@@ -30899,9 +30899,9 @@ extern "C" void InputField_UpdateGeometry_m6_751 (InputField_t6_99 * __this, con
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
 		Graphic_t6_76_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1089);
-		GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
-		GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1846_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483936);
-		GameObject_AddComponent_TisLayoutElement_t6_150_m5_1847_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483937);
+		GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483849);
+		GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1844_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483936);
+		GameObject_AddComponent_TisLayoutElement_t6_150_m5_1845_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483937);
 		_stringLiteral2745 = il2cpp_codegen_string_literal_from_index(2745);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -30920,7 +30920,7 @@ extern "C" void InputField_UpdateGeometry_m6_751 (InputField_t6_99 * __this, con
 IL_000c:
 	{
 		CanvasRenderer_t5_179 * L_1 = (__this->___m_CachedInputRenderer_46);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_00c7;
@@ -30928,62 +30928,62 @@ IL_000c:
 	}
 	{
 		Text_t6_64 * L_3 = (__this->___m_TextComponent_21);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_00c7;
 		}
 	}
 	{
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		String_t* L_6 = Object_get_name_m5_698(L_5, /*hidden argument*/NULL);
+		String_t* L_6 = Object_get_name_m5_696(L_5, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_7 = String_Concat_m1_420(NULL /*static, unused*/, L_6, _stringLiteral2745, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_8 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_8, L_7, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_8, L_7, /*hidden argument*/NULL);
 		V_0 = L_8;
 		GameObject_t5_101 * L_9 = V_0;
 		NullCheck(L_9);
-		Object_set_hideFlags_m5_702(L_9, ((int32_t)52), /*hidden argument*/NULL);
+		Object_set_hideFlags_m5_700(L_9, ((int32_t)52), /*hidden argument*/NULL);
 		GameObject_t5_101 * L_10 = V_0;
 		NullCheck(L_10);
-		Transform_t5_71 * L_11 = GameObject_get_transform_m5_766(L_10, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = GameObject_get_transform_m5_764(L_10, /*hidden argument*/NULL);
 		Text_t6_64 * L_12 = (__this->___m_TextComponent_21);
 		NullCheck(L_12);
-		Transform_t5_71 * L_13 = Component_get_transform_m5_723(L_12, /*hidden argument*/NULL);
+		Transform_t5_71 * L_13 = Component_get_transform_m5_721(L_12, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		Transform_t5_71 * L_14 = Transform_get_parent_m5_806(L_13, /*hidden argument*/NULL);
+		Transform_t5_71 * L_14 = Transform_get_parent_m5_804(L_13, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Transform_SetParent_m5_810(L_11, L_14, /*hidden argument*/NULL);
+		Transform_SetParent_m5_808(L_11, L_14, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_15 = V_0;
 		NullCheck(L_15);
-		Transform_t5_71 * L_16 = GameObject_get_transform_m5_766(L_15, /*hidden argument*/NULL);
+		Transform_t5_71 * L_16 = GameObject_get_transform_m5_764(L_15, /*hidden argument*/NULL);
 		NullCheck(L_16);
-		Transform_SetAsFirstSibling_m5_826(L_16, /*hidden argument*/NULL);
+		Transform_SetAsFirstSibling_m5_824(L_16, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_17 = V_0;
-		GameObject_t5_101 * L_18 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_18 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		int32_t L_19 = GameObject_get_layer_m5_767(L_18, /*hidden argument*/NULL);
+		int32_t L_19 = GameObject_get_layer_m5_765(L_18, /*hidden argument*/NULL);
 		NullCheck(L_17);
-		GameObject_set_layer_m5_768(L_17, L_19, /*hidden argument*/NULL);
+		GameObject_set_layer_m5_766(L_17, L_19, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_20 = V_0;
 		NullCheck(L_20);
-		RectTransform_t5_70 * L_21 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1809(L_20, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1809_MethodInfo_var);
+		RectTransform_t5_70 * L_21 = GameObject_AddComponent_TisRectTransform_t5_70_m5_1807(L_20, /*hidden argument*/GameObject_AddComponent_TisRectTransform_t5_70_m5_1807_MethodInfo_var);
 		__this->___caretRectTrans_43 = L_21;
 		GameObject_t5_101 * L_22 = V_0;
 		NullCheck(L_22);
-		CanvasRenderer_t5_179 * L_23 = GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1846(L_22, /*hidden argument*/GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1846_MethodInfo_var);
+		CanvasRenderer_t5_179 * L_23 = GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1844(L_22, /*hidden argument*/GameObject_AddComponent_TisCanvasRenderer_t5_179_m5_1844_MethodInfo_var);
 		__this->___m_CachedInputRenderer_46 = L_23;
 		CanvasRenderer_t5_179 * L_24 = (__this->___m_CachedInputRenderer_46);
 		IL2CPP_RUNTIME_CLASS_INIT(Graphic_t6_76_il2cpp_TypeInfo_var);
 		Material_t5_77 * L_25 = Graphic_get_defaultGraphicMaterial_m6_491(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Texture2D_t5_34 * L_26 = Texture2D_get_whiteTexture_m5_156(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_24);
-		CanvasRenderer_SetMaterial_m5_1240(L_24, L_25, L_26, /*hidden argument*/NULL);
+		CanvasRenderer_SetMaterial_m5_1238(L_24, L_25, L_26, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_27 = V_0;
 		NullCheck(L_27);
-		LayoutElement_t6_150 * L_28 = GameObject_AddComponent_TisLayoutElement_t6_150_m5_1847(L_27, /*hidden argument*/GameObject_AddComponent_TisLayoutElement_t6_150_m5_1847_MethodInfo_var);
+		LayoutElement_t6_150 * L_28 = GameObject_AddComponent_TisLayoutElement_t6_150_m5_1845(L_27, /*hidden argument*/GameObject_AddComponent_TisLayoutElement_t6_150_m5_1845_MethodInfo_var);
 		NullCheck(L_28);
 		VirtActionInvoker1< bool >::Invoke(27 /* System.Void UnityEngine.UI.LayoutElement::set_ignoreLayout(System.Boolean) */, L_28, 1);
 		InputField_AssignPositioningIfNeeded_m6_752(__this, /*hidden argument*/NULL);
@@ -30992,7 +30992,7 @@ IL_000c:
 IL_00c7:
 	{
 		CanvasRenderer_t5_179 * L_29 = (__this->___m_CachedInputRenderer_46);
-		bool L_30 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_30)
 		{
 			goto IL_00d9;
@@ -31009,7 +31009,7 @@ IL_00d9:
 		CanvasRenderer_t5_179 * L_32 = (__this->___m_CachedInputRenderer_46);
 		Mesh_t5_23 * L_33 = InputField_get_mesh_m6_635(__this, /*hidden argument*/NULL);
 		NullCheck(L_32);
-		CanvasRenderer_SetMesh_m5_1244(L_32, L_33, /*hidden argument*/NULL);
+		CanvasRenderer_SetMesh_m5_1242(L_32, L_33, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -31018,7 +31018,7 @@ extern "C" void InputField_AssignPositioningIfNeeded_m6_752 (InputField_t6_99 * 
 {
 	{
 		Text_t6_64 * L_0 = (__this->___m_TextComponent_21);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0222;
@@ -31026,7 +31026,7 @@ extern "C" void InputField_AssignPositioningIfNeeded_m6_752 (InputField_t6_99 * 
 	}
 	{
 		RectTransform_t5_70 * L_2 = (__this->___caretRectTrans_43);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0222;
@@ -31035,12 +31035,12 @@ extern "C" void InputField_AssignPositioningIfNeeded_m6_752 (InputField_t6_99 * 
 	{
 		RectTransform_t5_70 * L_4 = (__this->___caretRectTrans_43);
 		NullCheck(L_4);
-		Vector3_t5_45  L_5 = Transform_get_localPosition_m5_789(L_4, /*hidden argument*/NULL);
+		Vector3_t5_45  L_5 = Transform_get_localPosition_m5_787(L_4, /*hidden argument*/NULL);
 		Text_t6_64 * L_6 = (__this->___m_TextComponent_21);
 		NullCheck(L_6);
 		RectTransform_t5_70 * L_7 = Graphic_get_rectTransform_m6_506(L_6, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Vector3_t5_45  L_8 = Transform_get_localPosition_m5_789(L_7, /*hidden argument*/NULL);
+		Vector3_t5_45  L_8 = Transform_get_localPosition_m5_787(L_7, /*hidden argument*/NULL);
 		bool L_9 = Vector3_op_Inequality_m5_246(NULL /*static, unused*/, L_5, L_8, /*hidden argument*/NULL);
 		if (L_9)
 		{
@@ -31050,12 +31050,12 @@ extern "C" void InputField_AssignPositioningIfNeeded_m6_752 (InputField_t6_99 * 
 	{
 		RectTransform_t5_70 * L_10 = (__this->___caretRectTrans_43);
 		NullCheck(L_10);
-		Quaternion_t5_47  L_11 = Transform_get_localRotation_m5_798(L_10, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_11 = Transform_get_localRotation_m5_796(L_10, /*hidden argument*/NULL);
 		Text_t6_64 * L_12 = (__this->___m_TextComponent_21);
 		NullCheck(L_12);
 		RectTransform_t5_70 * L_13 = Graphic_get_rectTransform_m6_506(L_12, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		Quaternion_t5_47  L_14 = Transform_get_localRotation_m5_798(L_13, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_14 = Transform_get_localRotation_m5_796(L_13, /*hidden argument*/NULL);
 		bool L_15 = Quaternion_op_Inequality_m5_265(NULL /*static, unused*/, L_11, L_14, /*hidden argument*/NULL);
 		if (L_15)
 		{
@@ -31065,12 +31065,12 @@ extern "C" void InputField_AssignPositioningIfNeeded_m6_752 (InputField_t6_99 * 
 	{
 		RectTransform_t5_70 * L_16 = (__this->___caretRectTrans_43);
 		NullCheck(L_16);
-		Vector3_t5_45  L_17 = Transform_get_localScale_m5_802(L_16, /*hidden argument*/NULL);
+		Vector3_t5_45  L_17 = Transform_get_localScale_m5_800(L_16, /*hidden argument*/NULL);
 		Text_t6_64 * L_18 = (__this->___m_TextComponent_21);
 		NullCheck(L_18);
 		RectTransform_t5_70 * L_19 = Graphic_get_rectTransform_m6_506(L_18, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		Vector3_t5_45  L_20 = Transform_get_localScale_m5_802(L_19, /*hidden argument*/NULL);
+		Vector3_t5_45  L_20 = Transform_get_localScale_m5_800(L_19, /*hidden argument*/NULL);
 		bool L_21 = Vector3_op_Inequality_m5_246(NULL /*static, unused*/, L_17, L_20, /*hidden argument*/NULL);
 		if (L_21)
 		{
@@ -31160,25 +31160,25 @@ IL_014a:
 		NullCheck(L_53);
 		RectTransform_t5_70 * L_54 = Graphic_get_rectTransform_m6_506(L_53, /*hidden argument*/NULL);
 		NullCheck(L_54);
-		Vector3_t5_45  L_55 = Transform_get_localPosition_m5_789(L_54, /*hidden argument*/NULL);
+		Vector3_t5_45  L_55 = Transform_get_localPosition_m5_787(L_54, /*hidden argument*/NULL);
 		NullCheck(L_52);
-		Transform_set_localPosition_m5_790(L_52, L_55, /*hidden argument*/NULL);
+		Transform_set_localPosition_m5_788(L_52, L_55, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_56 = (__this->___caretRectTrans_43);
 		Text_t6_64 * L_57 = (__this->___m_TextComponent_21);
 		NullCheck(L_57);
 		RectTransform_t5_70 * L_58 = Graphic_get_rectTransform_m6_506(L_57, /*hidden argument*/NULL);
 		NullCheck(L_58);
-		Quaternion_t5_47  L_59 = Transform_get_localRotation_m5_798(L_58, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_59 = Transform_get_localRotation_m5_796(L_58, /*hidden argument*/NULL);
 		NullCheck(L_56);
-		Transform_set_localRotation_m5_799(L_56, L_59, /*hidden argument*/NULL);
+		Transform_set_localRotation_m5_797(L_56, L_59, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_60 = (__this->___caretRectTrans_43);
 		Text_t6_64 * L_61 = (__this->___m_TextComponent_21);
 		NullCheck(L_61);
 		RectTransform_t5_70 * L_62 = Graphic_get_rectTransform_m6_506(L_61, /*hidden argument*/NULL);
 		NullCheck(L_62);
-		Vector3_t5_45  L_63 = Transform_get_localScale_m5_802(L_62, /*hidden argument*/NULL);
+		Vector3_t5_45  L_63 = Transform_get_localScale_m5_800(L_62, /*hidden argument*/NULL);
 		NullCheck(L_60);
-		Transform_set_localScale_m5_803(L_60, L_63, /*hidden argument*/NULL);
+		Transform_set_localScale_m5_801(L_60, L_63, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_64 = (__this->___caretRectTrans_43);
 		Text_t6_64 * L_65 = (__this->___m_TextComponent_21);
 		NullCheck(L_65);
@@ -31485,7 +31485,7 @@ IL_004c:
 	{
 		TextGenerator_t5_166 * L_9 = V_2;
 		NullCheck(L_9);
-		int32_t L_10 = TextGenerator_get_lineCount_m5_1181(L_9, /*hidden argument*/NULL);
+		int32_t L_10 = TextGenerator_get_lineCount_m5_1179(L_9, /*hidden argument*/NULL);
 		if (L_10)
 		{
 			goto IL_0058;
@@ -31501,7 +31501,7 @@ IL_0058:
 		V_3 = L_11;
 		TextGenerator_t5_166 * L_12 = V_2;
 		NullCheck(L_12);
-		int32_t L_13 = TextGenerator_get_characterCountVisible_m5_1179(L_12, /*hidden argument*/NULL);
+		int32_t L_13 = TextGenerator_get_characterCountVisible_m5_1177(L_12, /*hidden argument*/NULL);
 		int32_t L_14 = V_1;
 		if ((((int32_t)((int32_t)((int32_t)L_13+(int32_t)1))) > ((int32_t)L_14)))
 		{
@@ -31520,7 +31520,7 @@ IL_0072:
 	{
 		TextGenerator_t5_166 * L_16 = V_2;
 		NullCheck(L_16);
-		Object_t* L_17 = TextGenerator_get_characters_m5_1168(L_16, /*hidden argument*/NULL);
+		Object_t* L_17 = TextGenerator_get_characters_m5_1166(L_16, /*hidden argument*/NULL);
 		int32_t L_18 = V_1;
 		NullCheck(L_17);
 		UICharInfo_t5_172  L_19 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_17, L_18);
@@ -31570,7 +31570,7 @@ IL_00f1:
 		V_5 = L_37;
 		TextGenerator_t5_166 * L_38 = V_2;
 		NullCheck(L_38);
-		Object_t* L_39 = TextGenerator_get_lines_m5_1169(L_38, /*hidden argument*/NULL);
+		Object_t* L_39 = TextGenerator_get_lines_m5_1167(L_38, /*hidden argument*/NULL);
 		int32_t L_40 = V_5;
 		NullCheck(L_39);
 		UILineInfo_t5_173  L_41 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_39, L_40);
@@ -31582,7 +31582,7 @@ IL_00f1:
 		(&V_3)->___y_2 = ((float)((float)L_42/(float)L_44));
 		TextGenerator_t5_166 * L_45 = V_2;
 		NullCheck(L_45);
-		Object_t* L_46 = TextGenerator_get_lines_m5_1169(L_45, /*hidden argument*/NULL);
+		Object_t* L_46 = TextGenerator_get_lines_m5_1167(L_45, /*hidden argument*/NULL);
 		int32_t L_47 = V_5;
 		NullCheck(L_46);
 		UILineInfo_t5_173  L_48 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_46, L_47);
@@ -31713,7 +31713,7 @@ IL_02a6:
 		NullCheck(L_98);
 		Canvas_t5_177 * L_99 = Graphic_get_canvas_m6_507(L_98, /*hidden argument*/NULL);
 		NullCheck(L_99);
-		int32_t L_100 = Canvas_get_targetDisplay_m5_1216(L_99, /*hidden argument*/NULL);
+		int32_t L_100 = Canvas_get_targetDisplay_m5_1214(L_99, /*hidden argument*/NULL);
 		V_11 = L_100;
 		bool L_101 = Screen_get_fullScreen_m5_130(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if (!L_101)
@@ -31750,7 +31750,7 @@ IL_02f2:
 		(&V_3)->___y_2 = ((float)((float)(((float)((float)L_108)))-(float)L_109));
 		Vector2_t5_44  L_110 = V_3;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Input_set_compositionCursorPos_m5_687(NULL /*static, unused*/, L_110, /*hidden argument*/NULL);
+		Input_set_compositionCursorPos_m5_685(NULL /*static, unused*/, L_110, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -31878,7 +31878,7 @@ IL_0035:
 		V_3 = L_13;
 		TextGenerator_t5_166 * L_14 = V_3;
 		NullCheck(L_14);
-		int32_t L_15 = TextGenerator_get_lineCount_m5_1181(L_14, /*hidden argument*/NULL);
+		int32_t L_15 = TextGenerator_get_lineCount_m5_1179(L_14, /*hidden argument*/NULL);
 		if ((((int32_t)L_15) > ((int32_t)0)))
 		{
 			goto IL_0052;
@@ -31934,14 +31934,14 @@ IL_00a6:
 	{
 		TextGenerator_t5_166 * L_31 = V_3;
 		NullCheck(L_31);
-		Object_t* L_32 = TextGenerator_get_characters_m5_1168(L_31, /*hidden argument*/NULL);
+		Object_t* L_32 = TextGenerator_get_characters_m5_1166(L_31, /*hidden argument*/NULL);
 		int32_t L_33 = V_0;
 		NullCheck(L_32);
 		UICharInfo_t5_172  L_34 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_32, L_33);
 		V_8 = L_34;
 		TextGenerator_t5_166 * L_35 = V_3;
 		NullCheck(L_35);
-		Object_t* L_36 = TextGenerator_get_characters_m5_1168(L_35, /*hidden argument*/NULL);
+		Object_t* L_36 = TextGenerator_get_characters_m5_1166(L_35, /*hidden argument*/NULL);
 		int32_t L_37 = V_7;
 		NullCheck(L_36);
 		UICharInfo_t5_172  L_38 = (UICharInfo_t5_172 )InterfaceFuncInvoker1< UICharInfo_t5_172 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UICharInfo>::get_Item(System.Int32) */, IList_1_t1_897_il2cpp_TypeInfo_var, L_36, L_37);
@@ -31953,7 +31953,7 @@ IL_00a6:
 		float L_42 = Text_get_pixelsPerUnit_m6_1132(L_41, /*hidden argument*/NULL);
 		TextGenerator_t5_166 * L_43 = V_3;
 		NullCheck(L_43);
-		Object_t* L_44 = TextGenerator_get_lines_m5_1169(L_43, /*hidden argument*/NULL);
+		Object_t* L_44 = TextGenerator_get_lines_m5_1167(L_43, /*hidden argument*/NULL);
 		int32_t L_45 = V_4;
 		NullCheck(L_44);
 		UILineInfo_t5_173  L_46 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_44, L_45);
@@ -31972,7 +31972,7 @@ IL_00a6:
 		float L_55 = ((&V_10)->___y_2);
 		TextGenerator_t5_166 * L_56 = V_3;
 		NullCheck(L_56);
-		Object_t* L_57 = TextGenerator_get_lines_m5_1169(L_56, /*hidden argument*/NULL);
+		Object_t* L_57 = TextGenerator_get_lines_m5_1167(L_56, /*hidden argument*/NULL);
 		int32_t L_58 = V_4;
 		NullCheck(L_57);
 		UILineInfo_t5_173  L_59 = (UILineInfo_t5_173 )InterfaceFuncInvoker1< UILineInfo_t5_173 , int32_t >::Invoke(3 /* !0 System.Collections.Generic.IList`1<UnityEngine.UILineInfo>::get_Item(System.Int32) */, IList_1_t1_898_il2cpp_TypeInfo_var, L_57, L_58);
@@ -32118,7 +32118,7 @@ IL_02cb:
 		int32_t L_127 = V_7;
 		TextGenerator_t5_166 * L_128 = V_3;
 		NullCheck(L_128);
-		int32_t L_129 = TextGenerator_get_characterCountVisible_m5_1179(L_128, /*hidden argument*/NULL);
+		int32_t L_129 = TextGenerator_get_characterCountVisible_m5_1177(L_128, /*hidden argument*/NULL);
 		if ((((int32_t)L_127) < ((int32_t)L_129)))
 		{
 			goto IL_0093;
@@ -32842,7 +32842,7 @@ extern "C" void InputField_ActivateInputField_m6_758 (InputField_t6_99 * __this,
 {
 	{
 		Text_t6_64 * L_0 = (__this->___m_TextComponent_21);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_003d;
@@ -32852,7 +32852,7 @@ extern "C" void InputField_ActivateInputField_m6_758 (InputField_t6_99 * __this,
 		Text_t6_64 * L_2 = (__this->___m_TextComponent_21);
 		NullCheck(L_2);
 		Font_t5_164 * L_3 = Text_get_font_m6_1106(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_4)
 		{
 			goto IL_003d;
@@ -32939,8 +32939,8 @@ extern "C" void InputField_ActivateInputFieldInternal_m6_759 (InputField_t6_99 *
 		EventSystem_t6_2 * L_0 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		GameObject_t5_101 * L_1 = EventSystem_get_currentSelectedGameObject_m6_11(L_0, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_002a;
@@ -32949,7 +32949,7 @@ extern "C" void InputField_ActivateInputFieldInternal_m6_759 (InputField_t6_99 *
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_4 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		EventSystem_SetSelectedGameObject_m6_17(L_4, L_5, /*hidden argument*/NULL);
 	}
@@ -32964,7 +32964,7 @@ IL_002a:
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_7 = Input_get_touchSupported_m5_684(NULL /*static, unused*/, /*hidden argument*/NULL);
+		bool L_7 = Input_get_touchSupported_m5_682(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0049;
@@ -33017,7 +33017,7 @@ IL_0094:
 IL_00a5:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Input_set_imeCompositionMode_m5_685(NULL /*static, unused*/, 1, /*hidden argument*/NULL);
+		Input_set_imeCompositionMode_m5_683(NULL /*static, unused*/, 1, /*hidden argument*/NULL);
 		InputField_OnFocus_m6_699(__this, /*hidden argument*/NULL);
 	}
 
@@ -33091,7 +33091,7 @@ IL_000c:
 		__this->___m_HasDoneFocusTransition_61 = 0;
 		__this->___m_AllowInput_49 = 0;
 		Text_t6_64 * L_1 = (__this->___m_TextComponent_21);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0087;
@@ -33140,7 +33140,7 @@ IL_006b:
 		__this->___m_CaretPosition_41 = L_9;
 		InputField_SendOnSubmit_m6_738(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Input_set_imeCompositionMode_m5_685(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		Input_set_imeCompositionMode_m5_683(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
 	}
 
 IL_0087:
@@ -33458,7 +33458,7 @@ extern "C" bool InputField_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_769 (Inp
 extern "C" Transform_t5_71 * InputField_UnityEngine_UI_ICanvasElement_get_transform_m6_770 (InputField_t6_99 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -33472,13 +33472,13 @@ extern "C" void Mask__ctor_m6_771 (Mask_t6_101 * __this, const MethodInfo* metho
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.Mask::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * Mask_get_rectTransform_m6_772 (Mask_t6_101 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	RectTransform_t5_70 * V_0 = {0};
@@ -33495,7 +33495,7 @@ extern "C" RectTransform_t5_70 * Mask_get_rectTransform_m6_772 (Mask_t6_101 * __
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		RectTransform_t5_70 * L_3 = L_2;
 		V_0 = L_3;
 		__this->___m_RectTransform_2 = L_3;
@@ -33536,7 +33536,7 @@ IL_000d:
 		bool L_2 = ___value;
 		__this->___m_ShowMaskGraphic_3 = L_2;
 		Graphic_t6_76 * L_3 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0030;
@@ -33554,13 +33554,13 @@ IL_0030:
 	}
 }
 // UnityEngine.UI.Graphic UnityEngine.UI.Mask::get_graphic()
-extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var;
 extern "C" Graphic_t6_76 * Mask_get_graphic_m6_775 (Mask_t6_101 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
+		Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
 		s_Il2CppMethodIntialized = true;
 	}
 	Graphic_t6_76 * V_0 = {0};
@@ -33577,7 +33577,7 @@ extern "C" Graphic_t6_76 * Mask_get_graphic_m6_775 (Mask_t6_101 * __this, const 
 		}
 	}
 	{
-		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1848(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var);
+		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1846(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var);
 		Graphic_t6_76 * L_3 = L_2;
 		V_0 = L_3;
 		__this->___m_Graphic_4 = L_3;
@@ -33619,7 +33619,7 @@ extern "C" void Mask_OnEnable_m6_778 (Mask_t6_101 * __this, const MethodInfo* me
 	{
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_0 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0033;
@@ -33630,7 +33630,7 @@ extern "C" void Mask_OnEnable_m6_778 (Mask_t6_101 * __this, const MethodInfo* me
 		NullCheck(L_2);
 		CanvasRenderer_t5_179 * L_3 = Graphic_get_canvasRenderer_m6_509(L_2, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		CanvasRenderer_set_hasPopInstruction_m5_1236(L_3, 1, /*hidden argument*/NULL);
+		CanvasRenderer_set_hasPopInstruction_m5_1234(L_3, 1, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_4 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		VirtActionInvoker0::Invoke(24 /* System.Void UnityEngine.UI.Graphic::SetMaterialDirty() */, L_4);
@@ -33655,7 +33655,7 @@ extern "C" void Mask_OnDisable_m6_779 (Mask_t6_101 * __this, const MethodInfo* m
 	{
 		UIBehaviour_OnDisable_m6_101(__this, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_0 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0044;
@@ -33669,12 +33669,12 @@ extern "C" void Mask_OnDisable_m6_779 (Mask_t6_101 * __this, const MethodInfo* m
 		NullCheck(L_3);
 		CanvasRenderer_t5_179 * L_4 = Graphic_get_canvasRenderer_m6_509(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		CanvasRenderer_set_hasPopInstruction_m5_1236(L_4, 0, /*hidden argument*/NULL);
+		CanvasRenderer_set_hasPopInstruction_m5_1234(L_4, 0, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_5 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
 		CanvasRenderer_t5_179 * L_6 = Graphic_get_canvasRenderer_m6_509(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		CanvasRenderer_set_popMaterialCount_m5_1241(L_6, 0, /*hidden argument*/NULL);
+		CanvasRenderer_set_popMaterialCount_m5_1239(L_6, 0, /*hidden argument*/NULL);
 	}
 
 IL_0044:
@@ -33717,7 +33717,7 @@ IL_000d:
 		Vector2_t5_44  L_2 = ___sp;
 		Camera_t5_86 * L_3 = ___eventCamera;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_4 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
+		bool L_4 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
 		return L_4;
 	}
 }
@@ -33770,7 +33770,7 @@ extern "C" Material_t5_77 * Mask_GetModifiedMaterial_m6_781 (Mask_t6_101 * __thi
 	Material_t5_77 * G_B12_4 = {0};
 	{
 		Graphic_t6_76 * L_0 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0013;
@@ -33783,10 +33783,10 @@ extern "C" Material_t5_77 * Mask_GetModifiedMaterial_m6_781 (Mask_t6_101 * __thi
 
 IL_0013:
 	{
-		Transform_t5_71 * L_3 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Transform_t5_71 * L_4 = MaskUtilities_FindRootSortOverrideCanvas_m6_804(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 		V_0 = L_4;
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Transform_t5_71 * L_6 = V_0;
 		int32_t L_7 = MaskUtilities_GetStencilDepth_m6_805(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
 		V_1 = L_7;
@@ -33797,7 +33797,7 @@ IL_0013:
 		}
 	}
 	{
-		GameObject_t5_101 * L_9 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_9 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
 		Debug_LogError_m5_621(NULL /*static, unused*/, _stringLiteral2747, L_9, /*hidden argument*/NULL);
 		Material_t5_77 * L_10 = ___baseMaterial;
@@ -33868,13 +33868,13 @@ IL_006a:
 		NullCheck(L_22);
 		CanvasRenderer_t5_179 * L_23 = Graphic_get_canvasRenderer_m6_509(L_22, /*hidden argument*/NULL);
 		NullCheck(L_23);
-		CanvasRenderer_set_popMaterialCount_m5_1241(L_23, 1, /*hidden argument*/NULL);
+		CanvasRenderer_set_popMaterialCount_m5_1239(L_23, 1, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_24 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
 		NullCheck(L_24);
 		CanvasRenderer_t5_179 * L_25 = Graphic_get_canvasRenderer_m6_509(L_24, /*hidden argument*/NULL);
 		Material_t5_77 * L_26 = (__this->___m_UnmaskMaterial_6);
 		NullCheck(L_25);
-		CanvasRenderer_SetPopMaterial_m5_1242(L_25, L_26, 0, /*hidden argument*/NULL);
+		CanvasRenderer_SetPopMaterial_m5_1240(L_25, L_26, 0, /*hidden argument*/NULL);
 		Material_t5_77 * L_27 = (__this->___m_MaskMaterial_5);
 		return L_27;
 	}
@@ -33932,7 +33932,7 @@ IL_00eb:
 		NullCheck(L_38);
 		CanvasRenderer_t5_179 * L_39 = Graphic_get_canvasRenderer_m6_509(L_38, /*hidden argument*/NULL);
 		NullCheck(L_39);
-		CanvasRenderer_set_hasPopInstruction_m5_1236(L_39, 1, /*hidden argument*/NULL);
+		CanvasRenderer_set_hasPopInstruction_m5_1234(L_39, 1, /*hidden argument*/NULL);
 		Material_t5_77 * L_40 = ___baseMaterial;
 		int32_t L_41 = V_2;
 		int32_t L_42 = V_2;
@@ -33948,29 +33948,29 @@ IL_00eb:
 		NullCheck(L_48);
 		CanvasRenderer_t5_179 * L_49 = Graphic_get_canvasRenderer_m6_509(L_48, /*hidden argument*/NULL);
 		NullCheck(L_49);
-		CanvasRenderer_set_popMaterialCount_m5_1241(L_49, 1, /*hidden argument*/NULL);
+		CanvasRenderer_set_popMaterialCount_m5_1239(L_49, 1, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_50 = Mask_get_graphic_m6_775(__this, /*hidden argument*/NULL);
 		NullCheck(L_50);
 		CanvasRenderer_t5_179 * L_51 = Graphic_get_canvasRenderer_m6_509(L_50, /*hidden argument*/NULL);
 		Material_t5_77 * L_52 = (__this->___m_UnmaskMaterial_6);
 		NullCheck(L_51);
-		CanvasRenderer_SetPopMaterial_m5_1242(L_51, L_52, 0, /*hidden argument*/NULL);
+		CanvasRenderer_SetPopMaterial_m5_1240(L_51, L_52, 0, /*hidden argument*/NULL);
 		Material_t5_77 * L_53 = (__this->___m_MaskMaterial_5);
 		return L_53;
 	}
 }
 // System.Void UnityEngine.UI.MaskableGraphic/CullStateChangedEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1849_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1847_MethodInfo_var;
 extern "C" void CullStateChangedEvent__ctor_m6_782 (CullStateChangedEvent_t6_102 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1849_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483939);
+		UnityEvent_1__ctor_m5_1847_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483939);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1849(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1849_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1847(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1847_MethodInfo_var);
 		return;
 	}
 }
@@ -34052,14 +34052,14 @@ IL_000d:
 }
 // UnityEngine.Material UnityEngine.UI.MaskableGraphic::GetModifiedMaterial(UnityEngine.Material)
 extern TypeInfo* StencilMaterial_t6_128_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisMask_t6_101_m5_1850_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisMask_t6_101_m5_1848_MethodInfo_var;
 extern "C" Material_t5_77 * MaskableGraphic_GetModifiedMaterial_m6_788 (MaskableGraphic_t6_89 * __this, Material_t5_77 * ___baseMaterial, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		StencilMaterial_t6_128_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1128);
-		Component_GetComponent_TisMask_t6_101_m5_1850_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483940);
+		Component_GetComponent_TisMask_t6_101_m5_1848_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483940);
 		s_Il2CppMethodIntialized = true;
 	}
 	Material_t5_77 * V_0 = {0};
@@ -34079,7 +34079,7 @@ extern "C" Material_t5_77 * MaskableGraphic_GetModifiedMaterial_m6_788 (Maskable
 		}
 	}
 	{
-		Transform_t5_71 * L_2 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Transform_t5_71 * L_3 = MaskUtilities_FindRootSortOverrideCanvas_m6_804(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		V_1 = L_3;
 		bool L_4 = MaskableGraphic_get_maskable_m6_786(__this, /*hidden argument*/NULL);
@@ -34091,7 +34091,7 @@ extern "C" Material_t5_77 * MaskableGraphic_GetModifiedMaterial_m6_788 (Maskable
 		}
 	}
 	{
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Transform_t5_71 * L_6 = V_1;
 		int32_t L_7 = MaskUtilities_GetStencilDepth_m6_805(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
 		G_B4_0 = L_7;
@@ -34121,8 +34121,8 @@ IL_0043:
 		}
 	}
 	{
-		Mask_t6_101 * L_9 = Component_GetComponent_TisMask_t6_101_m5_1850(__this, /*hidden argument*/Component_GetComponent_TisMask_t6_101_m5_1850_MethodInfo_var);
-		bool L_10 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Mask_t6_101 * L_9 = Component_GetComponent_TisMask_t6_101_m5_1848(__this, /*hidden argument*/Component_GetComponent_TisMask_t6_101_m5_1848_MethodInfo_var);
+		bool L_10 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_009f;
@@ -34150,13 +34150,13 @@ IL_009f:
 	}
 }
 // System.Void UnityEngine.UI.MaskableGraphic::Cull(UnityEngine.Rect,System.Boolean)
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1851_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1849_MethodInfo_var;
 extern "C" void MaskableGraphic_Cull_m6_789 (MaskableGraphic_t6_89 * __this, Rect_t5_48  ___clipRect, bool ___validRect, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1851_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483941);
+		UnityEvent_1_Invoke_m5_1849_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483941);
 		s_Il2CppMethodIntialized = true;
 	}
 	bool V_0 = false;
@@ -34165,7 +34165,7 @@ extern "C" void MaskableGraphic_Cull_m6_789 (MaskableGraphic_t6_89 * __this, Rec
 	{
 		CanvasRenderer_t5_179 * L_0 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		bool L_1 = CanvasRenderer_get_hasMoved_m5_1255(L_0, /*hidden argument*/NULL);
+		bool L_1 = CanvasRenderer_get_hasMoved_m5_1253(L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0011;
@@ -34200,13 +34200,13 @@ IL_002a:
 		V_0 = G_B5_0;
 		CanvasRenderer_t5_179 * L_5 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		bool L_6 = CanvasRenderer_get_cull_m5_1252(L_5, /*hidden argument*/NULL);
+		bool L_6 = CanvasRenderer_get_cull_m5_1250(L_5, /*hidden argument*/NULL);
 		bool L_7 = V_0;
 		V_1 = ((((int32_t)((((int32_t)L_6) == ((int32_t)L_7))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 		CanvasRenderer_t5_179 * L_8 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		bool L_9 = V_0;
 		NullCheck(L_8);
-		CanvasRenderer_set_cull_m5_1253(L_8, L_9, /*hidden argument*/NULL);
+		CanvasRenderer_set_cull_m5_1251(L_8, L_9, /*hidden argument*/NULL);
 		bool L_10 = V_1;
 		if (!L_10)
 		{
@@ -34217,7 +34217,7 @@ IL_002a:
 		CullStateChangedEvent_t6_102 * L_11 = (__this->___m_OnCullStateChanged_24);
 		bool L_12 = V_0;
 		NullCheck(L_11);
-		UnityEvent_1_Invoke_m5_1851(L_11, L_12, /*hidden argument*/UnityEvent_1_Invoke_m5_1851_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1849(L_11, L_12, /*hidden argument*/UnityEvent_1_Invoke_m5_1849_MethodInfo_var);
 		VirtActionInvoker0::Invoke(23 /* System.Void UnityEngine.UI.Graphic::SetVerticesDirty() */, __this);
 	}
 
@@ -34240,7 +34240,7 @@ extern "C" void MaskableGraphic_SetClipRect_m6_790 (MaskableGraphic_t6_89 * __th
 		CanvasRenderer_t5_179 * L_1 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		Rect_t5_48  L_2 = ___clipRect;
 		NullCheck(L_1);
-		CanvasRenderer_EnableRectClipping_m5_1233(L_1, L_2, /*hidden argument*/NULL);
+		CanvasRenderer_EnableRectClipping_m5_1231(L_1, L_2, /*hidden argument*/NULL);
 		goto IL_0022;
 	}
 
@@ -34248,7 +34248,7 @@ IL_0017:
 	{
 		CanvasRenderer_t5_179 * L_3 = Graphic_get_canvasRenderer_m6_509(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		CanvasRenderer_DisableRectClipping_m5_1235(L_3, /*hidden argument*/NULL);
+		CanvasRenderer_DisableRectClipping_m5_1233(L_3, /*hidden argument*/NULL);
 	}
 
 IL_0022:
@@ -34328,7 +34328,7 @@ extern "C" Rect_t5_48  MaskableGraphic_get_canvasRect_m6_796 (MaskableGraphic_t6
 		NullCheck(L_0);
 		RectTransform_GetWorldCorners_m5_503(L_0, L_1, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_2 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0065;
@@ -34347,13 +34347,13 @@ IL_0028:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, L_5);
 		Canvas_t5_177 * L_6 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(L_6, /*hidden argument*/NULL);
 		Vector3U5BU5D_t5_181* L_8 = (__this->___m_Corners_27);
 		int32_t L_9 = V_0;
 		NullCheck(L_8);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_8, L_9);
 		NullCheck(L_7);
-		Vector3_t5_45  L_10 = Transform_InverseTransformPoint_m5_822(L_7, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_8, L_9, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_10 = Transform_InverseTransformPoint_m5_820(L_7, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_8, L_9, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_4, L_5, sizeof(Vector3_t5_45 )))) = L_10;
 		int32_t L_11 = V_0;
 		V_0 = ((int32_t)((int32_t)L_11+(int32_t)1));
@@ -34434,7 +34434,7 @@ IL_0022:
 		V_0 = G_B4_0;
 		RectMask2D_t6_103 * L_3 = V_0;
 		RectMask2D_t6_103 * L_4 = (__this->___m_ParentMask_21);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0051;
@@ -34442,7 +34442,7 @@ IL_0022:
 	}
 	{
 		RectMask2D_t6_103 * L_6 = (__this->___m_ParentMask_21);
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0051;
@@ -34457,7 +34457,7 @@ IL_0022:
 IL_0051:
 	{
 		RectMask2D_t6_103 * L_9 = V_0;
-		bool L_10 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0064;
@@ -34513,7 +34513,7 @@ extern "C" void MaskUtilities__ctor_m6_801 (MaskUtilities_t6_104 * __this, const
 extern TypeInfo* ListPool_1_t6_183_il2cpp_TypeInfo_var;
 extern TypeInfo* IClippable_t6_179_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" void MaskUtilities_Notify2DMaskStateChanged_m6_802 (Object_t * __this /* static, unused */, Component_t5_25 * ___mask, const MethodInfo* method)
 {
@@ -34523,7 +34523,7 @@ extern "C" void MaskUtilities_Notify2DMaskStateChanged_m6_802 (Object_t * __this
 		ListPool_1_t6_183_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1095);
 		IClippable_t6_179_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1130);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483942);
+		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483942);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -34537,7 +34537,7 @@ extern "C" void MaskUtilities_Notify2DMaskStateChanged_m6_802 (Object_t * __this
 		Component_t5_25 * L_1 = ___mask;
 		List_1_t1_894 * L_2 = V_0;
 		NullCheck(L_1);
-		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852(L_1, L_2, /*hidden argument*/Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var);
+		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850(L_1, L_2, /*hidden argument*/Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var);
 		V_1 = 0;
 		goto IL_0064;
 	}
@@ -34548,7 +34548,7 @@ IL_0014:
 		int32_t L_4 = V_1;
 		NullCheck(L_3);
 		Component_t5_25 * L_5 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_3, L_4);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_0042;
@@ -34560,11 +34560,11 @@ IL_0014:
 		NullCheck(L_7);
 		Component_t5_25 * L_9 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_7, L_8);
 		NullCheck(L_9);
-		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_724(L_9, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_722(L_9, /*hidden argument*/NULL);
 		Component_t5_25 * L_11 = ___mask;
 		NullCheck(L_11);
-		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_724(L_11, /*hidden argument*/NULL);
-		bool L_13 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, L_12, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_722(L_11, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, L_12, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_0047;
@@ -34623,7 +34623,7 @@ IL_0064:
 extern TypeInfo* ListPool_1_t6_183_il2cpp_TypeInfo_var;
 extern TypeInfo* IMaskable_t6_187_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" void MaskUtilities_NotifyStencilStateChanged_m6_803 (Object_t * __this /* static, unused */, Component_t5_25 * ___mask, const MethodInfo* method)
 {
@@ -34633,7 +34633,7 @@ extern "C" void MaskUtilities_NotifyStencilStateChanged_m6_803 (Object_t * __thi
 		ListPool_1_t6_183_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1095);
 		IMaskable_t6_187_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1131);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483942);
+		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483942);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -34647,7 +34647,7 @@ extern "C" void MaskUtilities_NotifyStencilStateChanged_m6_803 (Object_t * __thi
 		Component_t5_25 * L_1 = ___mask;
 		List_1_t1_894 * L_2 = V_0;
 		NullCheck(L_1);
-		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852(L_1, L_2, /*hidden argument*/Component_GetComponentsInChildren_TisComponent_t5_25_m5_1852_MethodInfo_var);
+		Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850(L_1, L_2, /*hidden argument*/Component_GetComponentsInChildren_TisComponent_t5_25_m5_1850_MethodInfo_var);
 		V_1 = 0;
 		goto IL_0064;
 	}
@@ -34658,7 +34658,7 @@ IL_0014:
 		int32_t L_4 = V_1;
 		NullCheck(L_3);
 		Component_t5_25 * L_5 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_3, L_4);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_0042;
@@ -34670,11 +34670,11 @@ IL_0014:
 		NullCheck(L_7);
 		Component_t5_25 * L_9 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_7, L_8);
 		NullCheck(L_9);
-		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_724(L_9, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_722(L_9, /*hidden argument*/NULL);
 		Component_t5_25 * L_11 = ___mask;
 		NullCheck(L_11);
-		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_724(L_11, /*hidden argument*/NULL);
-		bool L_13 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, L_12, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_722(L_11, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, L_12, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_0047;
@@ -34730,13 +34730,13 @@ IL_0064:
 	}
 }
 // UnityEngine.Transform UnityEngine.UI.MaskUtilities::FindRootSortOverrideCanvas(UnityEngine.Transform)
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern "C" Transform_t5_71 * MaskUtilities_FindRootSortOverrideCanvas_m6_804 (Object_t * __this /* static, unused */, Transform_t5_71 * ___start, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		s_Il2CppMethodIntialized = true;
 	}
 	Transform_t5_71 * V_0 = {0};
@@ -34753,10 +34753,10 @@ IL_0009:
 	{
 		Transform_t5_71 * L_1 = V_0;
 		NullCheck(L_1);
-		Canvas_t5_177 * L_2 = Component_GetComponent_TisCanvas_t5_177_m5_1843(L_1, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_2 = Component_GetComponent_TisCanvas_t5_177_m5_1841(L_1, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		V_2 = L_2;
 		Canvas_t5_177 * L_3 = V_2;
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0029;
@@ -34765,7 +34765,7 @@ IL_0009:
 	{
 		Canvas_t5_177 * L_5 = V_2;
 		NullCheck(L_5);
-		bool L_6 = Canvas_get_overrideSorting_m5_1212(L_5, /*hidden argument*/NULL);
+		bool L_6 = Canvas_get_overrideSorting_m5_1210(L_5, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0029;
@@ -34779,7 +34779,7 @@ IL_0009:
 IL_0029:
 	{
 		Canvas_t5_177 * L_8 = V_2;
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0037;
@@ -34794,14 +34794,14 @@ IL_0037:
 	{
 		Transform_t5_71 * L_11 = V_0;
 		NullCheck(L_11);
-		Transform_t5_71 * L_12 = Transform_get_parent_m5_806(L_11, /*hidden argument*/NULL);
+		Transform_t5_71 * L_12 = Transform_get_parent_m5_804(L_11, /*hidden argument*/NULL);
 		V_0 = L_12;
 	}
 
 IL_003e:
 	{
 		Transform_t5_71 * L_13 = V_0;
-		bool L_14 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_13, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_14 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_13, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_14)
 		{
 			goto IL_0009;
@@ -34840,7 +34840,7 @@ extern "C" int32_t MaskUtilities_GetStencilDepth_m6_805 (Object_t * __this /* st
 		V_0 = 0;
 		Transform_t5_71 * L_0 = ___transform;
 		Transform_t5_71 * L_1 = ___stopAfter;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0010;
@@ -34855,7 +34855,7 @@ IL_0010:
 	{
 		Transform_t5_71 * L_4 = ___transform;
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Transform_get_parent_m5_806(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Transform_get_parent_m5_804(L_4, /*hidden argument*/NULL);
 		V_1 = L_5;
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_183_il2cpp_TypeInfo_var);
 		List_1_t1_894 * L_6 = ListPool_1_Get_m6_1479(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1479_MethodInfo_var);
@@ -34870,7 +34870,7 @@ IL_0022:
 		Type_t * L_8 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(Mask_t6_101_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_9 = V_2;
 		NullCheck(L_7);
-		Component_GetComponents_m5_737(L_7, L_8, L_9, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_7, L_8, L_9, /*hidden argument*/NULL);
 		V_3 = 0;
 		goto IL_008a;
 	}
@@ -34881,7 +34881,7 @@ IL_003a:
 		int32_t L_11 = V_3;
 		NullCheck(L_10);
 		Component_t5_25 * L_12 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_10, L_11);
-		bool L_13 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_0086;
@@ -34941,7 +34941,7 @@ IL_0096:
 	{
 		Transform_t5_71 * L_28 = V_1;
 		Transform_t5_71 * L_29 = ___stopAfter;
-		bool L_30 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_28, L_29, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_28, L_29, /*hidden argument*/NULL);
 		if (!L_30)
 		{
 			goto IL_00a7;
@@ -34955,14 +34955,14 @@ IL_00a7:
 	{
 		Transform_t5_71 * L_31 = V_1;
 		NullCheck(L_31);
-		Transform_t5_71 * L_32 = Transform_get_parent_m5_806(L_31, /*hidden argument*/NULL);
+		Transform_t5_71 * L_32 = Transform_get_parent_m5_804(L_31, /*hidden argument*/NULL);
 		V_1 = L_32;
 	}
 
 IL_00ae:
 	{
 		Transform_t5_71 * L_33 = V_1;
-		bool L_34 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_33, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_34 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_33, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_34)
 		{
 			goto IL_0022;
@@ -34986,7 +34986,7 @@ extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
 extern TypeInfo* RectMask2D_t6_103_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern "C" RectMask2D_t6_103 * MaskUtilities_GetRectMaskForClippable_m6_806 (Object_t * __this /* static, unused */, Object_t * ___transform, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -34999,7 +34999,7 @@ extern "C" RectMask2D_t6_103 * MaskUtilities_GetRectMaskForClippable_m6_806 (Obj
 		RectMask2D_t6_103_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1132);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		s_Il2CppMethodIntialized = true;
 	}
 	Transform_t5_71 * V_0 = {0};
@@ -35012,7 +35012,7 @@ extern "C" RectMask2D_t6_103 * MaskUtilities_GetRectMaskForClippable_m6_806 (Obj
 		NullCheck(L_0);
 		RectTransform_t5_70 * L_1 = (RectTransform_t5_70 *)InterfaceFuncInvoker0< RectTransform_t5_70 * >::Invoke(1 /* UnityEngine.RectTransform UnityEngine.UI.IClippable::get_rectTransform() */, IClippable_t6_179_il2cpp_TypeInfo_var, L_0);
 		NullCheck(L_1);
-		Transform_t5_71 * L_2 = Transform_get_parent_m5_806(L_1, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Transform_get_parent_m5_804(L_1, /*hidden argument*/NULL);
 		V_0 = L_2;
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_183_il2cpp_TypeInfo_var);
 		List_1_t1_894 * L_3 = ListPool_1_Get_m6_1479(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1479_MethodInfo_var);
@@ -35027,7 +35027,7 @@ IL_0017:
 		Type_t * L_5 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(RectMask2D_t6_103_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_6 = V_1;
 		NullCheck(L_4);
-		Component_GetComponents_m5_737(L_4, L_5, L_6, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_4, L_5, L_6, /*hidden argument*/NULL);
 		V_2 = 0;
 		goto IL_0070;
 	}
@@ -35038,7 +35038,7 @@ IL_002f:
 		int32_t L_8 = V_2;
 		NullCheck(L_7);
 		Component_t5_25 * L_9 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_7, L_8);
-		bool L_10 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_006c;
@@ -35089,10 +35089,10 @@ IL_0070:
 	{
 		Transform_t5_71 * L_24 = V_0;
 		NullCheck(L_24);
-		Canvas_t5_177 * L_25 = Component_GetComponent_TisCanvas_t5_177_m5_1843(L_24, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_25 = Component_GetComponent_TisCanvas_t5_177_m5_1841(L_24, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		V_4 = L_25;
 		Canvas_t5_177 * L_26 = V_4;
-		bool L_27 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_26, /*hidden argument*/NULL);
+		bool L_27 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_26, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_0095;
@@ -35106,14 +35106,14 @@ IL_0095:
 	{
 		Transform_t5_71 * L_28 = V_0;
 		NullCheck(L_28);
-		Transform_t5_71 * L_29 = Transform_get_parent_m5_806(L_28, /*hidden argument*/NULL);
+		Transform_t5_71 * L_29 = Transform_get_parent_m5_804(L_28, /*hidden argument*/NULL);
 		V_0 = L_29;
 	}
 
 IL_009c:
 	{
 		Transform_t5_71 * L_30 = V_0;
-		bool L_31 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_30, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_31 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_30, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_31)
 		{
 			goto IL_0017;
@@ -35134,7 +35134,7 @@ extern TypeInfo* ListPool_1_t6_183_il2cpp_TypeInfo_var;
 extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
 extern TypeInfo* RectMask2D_t6_103_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" void MaskUtilities_GetRectMasksForClip_m6_807 (Object_t * __this /* static, unused */, RectMask2D_t6_103 * ___clipper, List_1_t1_924 * ___masks, const MethodInfo* method)
 {
@@ -35146,7 +35146,7 @@ extern "C" void MaskUtilities_GetRectMasksForClip_m6_807 (Object_t * __this /* s
 		Type_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(3);
 		RectMask2D_t6_103_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1132);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -35160,7 +35160,7 @@ extern "C" void MaskUtilities_GetRectMasksForClip_m6_807 (Object_t * __this /* s
 		VirtActionInvoker0::Invoke(23 /* System.Void System.Collections.Generic.List`1<UnityEngine.UI.RectMask2D>::Clear() */, L_0);
 		RectMask2D_t6_103 * L_1 = ___clipper;
 		NullCheck(L_1);
-		Transform_t5_71 * L_2 = Component_get_transform_m5_723(L_1, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Component_get_transform_m5_721(L_1, /*hidden argument*/NULL);
 		V_0 = L_2;
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_183_il2cpp_TypeInfo_var);
 		List_1_t1_894 * L_3 = ListPool_1_Get_m6_1479(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1479_MethodInfo_var);
@@ -35175,7 +35175,7 @@ IL_0018:
 		Type_t * L_5 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(RectMask2D_t6_103_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_6 = V_1;
 		NullCheck(L_4);
-		Component_GetComponents_m5_737(L_4, L_5, L_6, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_4, L_5, L_6, /*hidden argument*/NULL);
 		V_2 = 0;
 		goto IL_006e;
 	}
@@ -35186,7 +35186,7 @@ IL_0030:
 		int32_t L_8 = V_2;
 		NullCheck(L_7);
 		Component_t5_25 * L_9 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_7, L_8);
-		bool L_10 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_10 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_9, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_006a;
@@ -35234,10 +35234,10 @@ IL_006e:
 	{
 		Transform_t5_71 * L_23 = V_0;
 		NullCheck(L_23);
-		Canvas_t5_177 * L_24 = Component_GetComponent_TisCanvas_t5_177_m5_1843(L_23, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_24 = Component_GetComponent_TisCanvas_t5_177_m5_1841(L_23, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		V_3 = L_24;
 		Canvas_t5_177 * L_25 = V_3;
-		bool L_26 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_25, /*hidden argument*/NULL);
+		bool L_26 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_25, /*hidden argument*/NULL);
 		if (!L_26)
 		{
 			goto IL_0091;
@@ -35251,14 +35251,14 @@ IL_0091:
 	{
 		Transform_t5_71 * L_27 = V_0;
 		NullCheck(L_27);
-		Transform_t5_71 * L_28 = Transform_get_parent_m5_806(L_27, /*hidden argument*/NULL);
+		Transform_t5_71 * L_28 = Transform_get_parent_m5_804(L_27, /*hidden argument*/NULL);
 		V_0 = L_28;
 	}
 
 IL_0098:
 	{
 		Transform_t5_71 * L_29 = V_0;
-		bool L_30 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_29, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_30)
 		{
 			goto IL_0018;
@@ -35286,7 +35286,7 @@ extern "C" void Misc_Destroy_m6_808 (Object_t * __this /* static, unused */, Obj
 	GameObject_t5_101 * V_0 = {0};
 	{
 		Object_t5_5 * L_0 = ___obj;
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0045;
@@ -35311,22 +35311,22 @@ extern "C" void Misc_Destroy_m6_808 (Object_t * __this /* static, unused */, Obj
 		V_0 = ((GameObject_t5_101 *)IsInstSealed(L_4, GameObject_t5_101_il2cpp_TypeInfo_var));
 		GameObject_t5_101 * L_5 = V_0;
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = GameObject_get_transform_m5_766(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = GameObject_get_transform_m5_764(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Transform_set_parent_m5_807(L_6, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
+		Transform_set_parent_m5_805(L_6, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
 	}
 
 IL_0034:
 	{
 		Object_t5_5 * L_7 = ___obj;
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		goto IL_0045;
 	}
 
 IL_003f:
 	{
 		Object_t5_5 * L_8 = ___obj;
-		Object_DestroyImmediate_m5_696(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		Object_DestroyImmediate_m5_694(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 	}
 
 IL_0045:
@@ -35339,7 +35339,7 @@ extern "C" void Misc_DestroyImmediate_m6_809 (Object_t * __this /* static, unuse
 {
 	{
 		Object_t5_5 * L_0 = ___obj;
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0027;
@@ -35354,14 +35354,14 @@ extern "C" void Misc_DestroyImmediate_m6_809 (Object_t * __this /* static, unuse
 	}
 	{
 		Object_t5_5 * L_3 = ___obj;
-		Object_DestroyImmediate_m5_696(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		Object_DestroyImmediate_m5_694(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 		goto IL_0027;
 	}
 
 IL_0021:
 	{
 		Object_t5_5 * L_4 = ___obj;
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
 	}
 
 IL_0027:
@@ -35496,7 +35496,7 @@ extern "C" Texture_t5_33 * RawImage_get_mainTexture_m6_822 (RawImage_t6_108 * __
 	}
 	{
 		Texture_t5_33 * L_0 = (__this->___m_Texture_28);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004a;
@@ -35504,7 +35504,7 @@ extern "C" Texture_t5_33 * RawImage_get_mainTexture_m6_822 (RawImage_t6_108 * __
 	}
 	{
 		Material_t5_77 * L_2 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, __this);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0044;
@@ -35514,7 +35514,7 @@ extern "C" Texture_t5_33 * RawImage_get_mainTexture_m6_822 (RawImage_t6_108 * __
 		Material_t5_77 * L_4 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, __this);
 		NullCheck(L_4);
 		Texture_t5_33 * L_5 = Material_get_mainTexture_m5_520(L_4, /*hidden argument*/NULL);
-		bool L_6 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_0044;
@@ -35554,7 +35554,7 @@ extern "C" void RawImage_set_texture_m6_824 (RawImage_t6_108 * __this, Texture_t
 	{
 		Texture_t5_33 * L_0 = (__this->___m_Texture_28);
 		Texture_t5_33 * L_1 = ___value;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -35624,7 +35624,7 @@ extern "C" void RawImage_SetNativeSize_m6_827 (RawImage_t6_108 * __this, const M
 		Texture_t5_33 * L_0 = (Texture_t5_33 *)VirtFuncInvoker0< Texture_t5_33 * >::Invoke(29 /* UnityEngine.Texture UnityEngine.UI.RawImage::get_mainTexture() */, __this);
 		V_0 = L_0;
 		Texture_t5_33 * L_1 = V_0;
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0076;
@@ -35682,7 +35682,7 @@ extern "C" void RawImage_OnPopulateMesh_m6_828 (RawImage_t6_108 * __this, Vertex
 		NullCheck(L_1);
 		VertexHelper_Clear_m6_1388(L_1, /*hidden argument*/NULL);
 		Texture_t5_33 * L_2 = V_0;
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0154;
@@ -35808,7 +35808,7 @@ extern "C" void RectMask2D__ctor_m6_829 (RectMask2D_t6_103 * __this, const Metho
 // UnityEngine.Rect UnityEngine.UI.RectMask2D::get_canvasRect()
 extern TypeInfo* ListPool_1_t6_182_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1474_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1475_MethodInfo_var;
 extern "C" Rect_t5_48  RectMask2D_get_canvasRect_m6_830 (RectMask2D_t6_103 * __this, const MethodInfo* method)
 {
@@ -35817,7 +35817,7 @@ extern "C" Rect_t5_48  RectMask2D_get_canvasRect_m6_830 (RectMask2D_t6_103 * __t
 	{
 		ListPool_1_t6_182_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1078);
 		ListPool_1_Get_m6_1474_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483876);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483877);
 		ListPool_1_Release_m6_1475_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483878);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -35828,10 +35828,10 @@ extern "C" Rect_t5_48  RectMask2D_get_canvasRect_m6_830 (RectMask2D_t6_103 * __t
 		IL2CPP_RUNTIME_CLASS_INIT(ListPool_1_t6_182_il2cpp_TypeInfo_var);
 		List_1_t1_942 * L_0 = ListPool_1_Get_m6_1474(NULL /*static, unused*/, /*hidden argument*/ListPool_1_Get_m6_1474_MethodInfo_var);
 		V_1 = L_0;
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		List_1_t1_942 * L_2 = V_1;
 		NullCheck(L_1);
-		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828(L_1, 0, L_2, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1828_MethodInfo_var);
+		GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826(L_1, 0, L_2, /*hidden argument*/GameObject_GetComponentsInParent_TisCanvas_t5_177_m5_1826_MethodInfo_var);
 		List_1_t1_942 * L_3 = V_1;
 		NullCheck(L_3);
 		int32_t L_4 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.Canvas>::get_Count() */, L_3);
@@ -35861,13 +35861,13 @@ IL_0029:
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.RectMask2D::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * RectMask2D_get_rectTransform_m6_831 (RectMask2D_t6_103 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	RectTransform_t5_70 * V_0 = {0};
@@ -35884,7 +35884,7 @@ extern "C" RectTransform_t5_70 * RectMask2D_get_rectTransform_m6_831 (RectMask2D
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		RectTransform_t5_70 * L_3 = L_2;
 		V_0 = L_3;
 		__this->___m_RectTransform_3 = L_3;
@@ -35951,7 +35951,7 @@ IL_000d:
 		Vector2_t5_44  L_2 = ___sp;
 		Camera_t5_86 * L_3 = ___eventCamera;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_4 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
+		bool L_4 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
 		return L_4;
 	}
 }
@@ -36179,17 +36179,17 @@ extern "C" void RectMask2D_OnCanvasHierarchyChanged_m6_839 (RectMask2D_t6_103 * 
 	}
 }
 // System.Void UnityEngine.UI.Scrollbar/ScrollEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1806_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1804_MethodInfo_var;
 extern "C" void ScrollEvent__ctor_m6_840 (ScrollEvent_t6_111 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
+		UnityEvent_1__ctor_m5_1804_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1806(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1806_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1804(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1804_MethodInfo_var);
 		return;
 	}
 }
@@ -36270,7 +36270,7 @@ IL_0026:
 		NullCheck(L_6);
 		Camera_t5_86 * L_7 = PointerEventData_get_enterEventCamera_m6_165(L_6, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_8 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_3, L_5, L_7, /*hidden argument*/NULL);
+		bool L_8 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_3, L_5, L_7, /*hidden argument*/NULL);
 		if (L_8)
 		{
 			goto IL_0102;
@@ -36288,7 +36288,7 @@ IL_0026:
 		Camera_t5_86 * L_14 = PointerEventData_get_pressEventCamera_m6_166(L_13, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_15 = &(__this->___U3ClocalMousePosU3E__0_1);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_16 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_10, L_12, L_14, L_15, /*hidden argument*/NULL);
+		bool L_16 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_10, L_12, L_14, L_15, /*hidden argument*/NULL);
 		if (!L_16)
 		{
 			goto IL_0102;
@@ -36728,18 +36728,18 @@ extern "C" void Scrollbar_OnDisable_m6_865 (Scrollbar_t6_114 * __this, const Met
 	}
 }
 // System.Void UnityEngine.UI.Scrollbar::UpdateCachedReferences()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" void Scrollbar_UpdateCachedReferences_m6_866 (Scrollbar_t6_114 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_HandleRect_16);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0041;
@@ -36748,8 +36748,8 @@ extern "C" void Scrollbar_UpdateCachedReferences_m6_866 (Scrollbar_t6_114 * __th
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_HandleRect_16);
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Transform_get_parent_m5_806(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Transform_get_parent_m5_804(L_2, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0041;
@@ -36758,9 +36758,9 @@ extern "C" void Scrollbar_UpdateCachedReferences_m6_866 (Scrollbar_t6_114 * __th
 	{
 		RectTransform_t5_70 * L_5 = (__this->___m_HandleRect_16);
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = Transform_get_parent_m5_806(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Transform_get_parent_m5_804(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		RectTransform_t5_70 * L_7 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(L_6, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_7 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(L_6, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_ContainerRect_22 = L_7;
 		goto IL_0048;
 	}
@@ -36786,14 +36786,14 @@ extern "C" void Scrollbar_Set_m6_867 (Scrollbar_t6_114 * __this, float ___input,
 }
 // System.Void UnityEngine.UI.Scrollbar::Set(System.Single,System.Boolean)
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1807_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1805_MethodInfo_var;
 extern "C" void Scrollbar_Set_m6_868 (Scrollbar_t6_114 * __this, float ___input, bool ___sendCallback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		UnityEvent_1_Invoke_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
+		UnityEvent_1_Invoke_m5_1805_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -36828,7 +36828,7 @@ IL_0020:
 		ScrollEvent_t6_111 * L_6 = (__this->___m_OnValueChanged_21);
 		float L_7 = Scrollbar_get_value_m6_852(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		UnityEvent_1_Invoke_m5_1807(L_6, L_7, /*hidden argument*/UnityEvent_1_Invoke_m5_1807_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1805(L_6, L_7, /*hidden argument*/UnityEvent_1_Invoke_m5_1805_MethodInfo_var);
 	}
 
 IL_003d:
@@ -36929,7 +36929,7 @@ extern "C" void Scrollbar_UpdateVisuals_m6_872 (Scrollbar_t6_114 * __this, const
 		DrivenRectTransformTracker_t5_66 * L_0 = &(__this->___m_Tracker_24);
 		DrivenRectTransformTracker_Clear_m5_472(L_0, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_1 = (__this->___m_ContainerRect_22);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_00cd;
@@ -37028,7 +37028,7 @@ extern "C" void Scrollbar_UpdateDrag_m6_873 (Scrollbar_t6_114 * __this, PointerE
 IL_000c:
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_ContainerRect_22);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001e;
@@ -37048,7 +37048,7 @@ IL_001e:
 		NullCheck(L_7);
 		Camera_t5_86 * L_8 = PointerEventData_get_pressEventCamera_m6_166(L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_9 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_4, L_6, L_8, (&V_0), /*hidden argument*/NULL);
+		bool L_9 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_4, L_6, L_8, (&V_0), /*hidden argument*/NULL);
 		if (L_9)
 		{
 			goto IL_003d;
@@ -37252,7 +37252,7 @@ extern "C" void Scrollbar_OnBeginDrag_m6_875 (Scrollbar_t6_114 * __this, Pointer
 IL_0014:
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_ContainerRect_22);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0026;
@@ -37274,7 +37274,7 @@ IL_0026:
 		NullCheck(L_8);
 		Camera_t5_86 * L_9 = PointerEventData_get_enterEventCamera_m6_165(L_8, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_10 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_5, L_7, L_9, /*hidden argument*/NULL);
+		bool L_10 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_5, L_7, L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_008a;
@@ -37289,7 +37289,7 @@ IL_0026:
 		NullCheck(L_14);
 		Camera_t5_86 * L_15 = PointerEventData_get_pressEventCamera_m6_166(L_14, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_16 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_11, L_13, L_15, (&V_0), /*hidden argument*/NULL);
+		bool L_16 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_11, L_13, L_15, (&V_0), /*hidden argument*/NULL);
 		if (!L_16)
 		{
 			goto IL_008a;
@@ -37329,7 +37329,7 @@ extern "C" void Scrollbar_OnDrag_m6_876 (Scrollbar_t6_114 * __this, PointerEvent
 IL_000d:
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_ContainerRect_22);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0025;
@@ -37492,7 +37492,7 @@ IL_0040:
 	}
 	{
 		Selectable_t6_56 * L_7 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(26 /* UnityEngine.UI.Selectable UnityEngine.UI.Scrollbar::FindSelectableOnLeft() */, __this);
-		bool L_8 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_0091;
@@ -37551,7 +37551,7 @@ IL_009d:
 	}
 	{
 		Selectable_t6_56 * L_16 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(27 /* UnityEngine.UI.Selectable UnityEngine.UI.Scrollbar::FindSelectableOnRight() */, __this);
-		bool L_17 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_17 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_17)
 		{
 			goto IL_00ee;
@@ -37610,7 +37610,7 @@ IL_00fa:
 	}
 	{
 		Selectable_t6_56 * L_25 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(28 /* UnityEngine.UI.Selectable UnityEngine.UI.Scrollbar::FindSelectableOnUp() */, __this);
-		bool L_26 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_26 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_26)
 		{
 			goto IL_014c;
@@ -37669,7 +37669,7 @@ IL_0158:
 	}
 	{
 		Selectable_t6_56 * L_34 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(29 /* UnityEngine.UI.Selectable UnityEngine.UI.Scrollbar::FindSelectableOnDown() */, __this);
-		bool L_35 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_34, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_35 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_34, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_35)
 		{
 			goto IL_01aa;
@@ -37894,9 +37894,9 @@ IL_001c:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_FlipLayoutAxes_m5_1268(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), 1, 1, /*hidden argument*/NULL);
+		RectTransformUtility_FlipLayoutAxes_m5_1266(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), 1, 1, /*hidden argument*/NULL);
 	}
 
 IL_003a:
@@ -37909,10 +37909,10 @@ IL_003a:
 		}
 	}
 	{
-		Transform_t5_71 * L_9 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_9 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		int32_t L_10 = Scrollbar_get_axis_m6_870(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_FlipLayoutOnAxis_m5_1267(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_9, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_10, 1, 1, /*hidden argument*/NULL);
+		RectTransformUtility_FlipLayoutOnAxis_m5_1265(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_9, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_10, 1, 1, /*hidden argument*/NULL);
 	}
 
 IL_005e:
@@ -37932,22 +37932,22 @@ extern "C" bool Scrollbar_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_887 (Scro
 extern "C" Transform_t5_71 * Scrollbar_UnityEngine_UI_ICanvasElement_get_transform_m6_888 (Scrollbar_t6_114 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // System.Void UnityEngine.UI.ScrollRect/ScrollRectEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1853_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1851_MethodInfo_var;
 extern "C" void ScrollRectEvent__ctor_m6_889 (ScrollRectEvent_t6_117 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1853_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483947);
+		UnityEvent_1__ctor_m5_1851_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483947);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1853(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1853_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1851(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1851_MethodInfo_var);
 		return;
 	}
 }
@@ -38150,9 +38150,9 @@ extern "C" Scrollbar_t6_114 * ScrollRect_get_horizontalScrollbar_m6_909 (ScrollR
 // System.Void UnityEngine.UI.ScrollRect::set_horizontalScrollbar(UnityEngine.UI.Scrollbar)
 extern TypeInfo* UnityAction_1_t5_321_il2cpp_TypeInfo_var;
 extern const MethodInfo* ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1838_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1808_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1836_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1806_MethodInfo_var;
 extern "C" void ScrollRect_set_horizontalScrollbar_m6_910 (ScrollRect_t6_118 * __this, Scrollbar_t6_114 * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -38160,14 +38160,14 @@ extern "C" void ScrollRect_set_horizontalScrollbar_m6_910 (ScrollRect_t6_118 * _
 	{
 		UnityAction_1_t5_321_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1081);
 		ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var = il2cpp_codegen_method_info_from_index(300);
-		UnityAction_1__ctor_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
-		UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
-		UnityEvent_1_AddListener_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
+		UnityAction_1__ctor_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
+		UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
+		UnityEvent_1_AddListener_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Scrollbar_t6_114 * L_0 = (__this->___m_HorizontalScrollbar_11);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_002c;
@@ -38179,9 +38179,9 @@ extern "C" void ScrollRect_set_horizontalScrollbar_m6_910 (ScrollRect_t6_118 * _
 		ScrollEvent_t6_111 * L_3 = Scrollbar_get_onValueChanged_m6_858(L_2, /*hidden argument*/NULL);
 		IntPtr_t L_4 = { (void*)ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var };
 		UnityAction_1_t5_321 * L_5 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_3);
-		UnityEvent_1_RemoveListener_m5_1854(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var);
+		UnityEvent_1_RemoveListener_m5_1852(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var);
 	}
 
 IL_002c:
@@ -38189,7 +38189,7 @@ IL_002c:
 		Scrollbar_t6_114 * L_6 = ___value;
 		__this->___m_HorizontalScrollbar_11 = L_6;
 		Scrollbar_t6_114 * L_7 = (__this->___m_HorizontalScrollbar_11);
-		bool L_8 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_005f;
@@ -38201,9 +38201,9 @@ IL_002c:
 		ScrollEvent_t6_111 * L_10 = Scrollbar_get_onValueChanged_m6_858(L_9, /*hidden argument*/NULL);
 		IntPtr_t L_11 = { (void*)ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var };
 		UnityAction_1_t5_321 * L_12 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_12, __this, L_11, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_12, __this, L_11, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_10);
-		UnityEvent_1_AddListener_m5_1808(L_10, L_12, /*hidden argument*/UnityEvent_1_AddListener_m5_1808_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1806(L_10, L_12, /*hidden argument*/UnityEvent_1_AddListener_m5_1806_MethodInfo_var);
 	}
 
 IL_005f:
@@ -38223,9 +38223,9 @@ extern "C" Scrollbar_t6_114 * ScrollRect_get_verticalScrollbar_m6_911 (ScrollRec
 // System.Void UnityEngine.UI.ScrollRect::set_verticalScrollbar(UnityEngine.UI.Scrollbar)
 extern TypeInfo* UnityAction_1_t5_321_il2cpp_TypeInfo_var;
 extern const MethodInfo* ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1838_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1808_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1836_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1806_MethodInfo_var;
 extern "C" void ScrollRect_set_verticalScrollbar_m6_912 (ScrollRect_t6_118 * __this, Scrollbar_t6_114 * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -38233,14 +38233,14 @@ extern "C" void ScrollRect_set_verticalScrollbar_m6_912 (ScrollRect_t6_118 * __t
 	{
 		UnityAction_1_t5_321_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1081);
 		ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var = il2cpp_codegen_method_info_from_index(302);
-		UnityAction_1__ctor_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
-		UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
-		UnityEvent_1_AddListener_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
+		UnityAction_1__ctor_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
+		UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
+		UnityEvent_1_AddListener_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Scrollbar_t6_114 * L_0 = (__this->___m_VerticalScrollbar_12);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_002c;
@@ -38252,9 +38252,9 @@ extern "C" void ScrollRect_set_verticalScrollbar_m6_912 (ScrollRect_t6_118 * __t
 		ScrollEvent_t6_111 * L_3 = Scrollbar_get_onValueChanged_m6_858(L_2, /*hidden argument*/NULL);
 		IntPtr_t L_4 = { (void*)ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var };
 		UnityAction_1_t5_321 * L_5 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_3);
-		UnityEvent_1_RemoveListener_m5_1854(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var);
+		UnityEvent_1_RemoveListener_m5_1852(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var);
 	}
 
 IL_002c:
@@ -38262,7 +38262,7 @@ IL_002c:
 		Scrollbar_t6_114 * L_6 = ___value;
 		__this->___m_VerticalScrollbar_12 = L_6;
 		Scrollbar_t6_114 * L_7 = (__this->___m_VerticalScrollbar_12);
-		bool L_8 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_005f;
@@ -38274,9 +38274,9 @@ IL_002c:
 		ScrollEvent_t6_111 * L_10 = Scrollbar_get_onValueChanged_m6_858(L_9, /*hidden argument*/NULL);
 		IntPtr_t L_11 = { (void*)ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var };
 		UnityAction_1_t5_321 * L_12 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_12, __this, L_11, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_12, __this, L_11, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_10);
-		UnityEvent_1_AddListener_m5_1808(L_10, L_12, /*hidden argument*/UnityEvent_1_AddListener_m5_1808_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1806(L_10, L_12, /*hidden argument*/UnityEvent_1_AddListener_m5_1806_MethodInfo_var);
 	}
 
 IL_005f:
@@ -38386,7 +38386,7 @@ extern "C" RectTransform_t5_70 * ScrollRect_get_viewRect_m6_923 (ScrollRect_t6_1
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_ViewRect_20);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
@@ -38400,14 +38400,14 @@ extern "C" RectTransform_t5_70 * ScrollRect_get_viewRect_m6_923 (ScrollRect_t6_1
 IL_001d:
 	{
 		RectTransform_t5_70 * L_3 = (__this->___m_ViewRect_20);
-		bool L_4 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_003f;
 		}
 	}
 	{
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		__this->___m_ViewRect_20 = ((RectTransform_t5_70 *)CastclassSealed(L_5, RectTransform_t5_70_il2cpp_TypeInfo_var));
 	}
 
@@ -38435,25 +38435,25 @@ extern "C" void ScrollRect_set_velocity_m6_925 (ScrollRect_t6_118 * __this, Vect
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.ScrollRect::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * ScrollRect_get_rectTransform_m6_926 (ScrollRect_t6_118 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Rect_33);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_Rect_33 = L_2;
 	}
 
@@ -38559,10 +38559,10 @@ extern "C" void ScrollRect_UpdateCachedData_m6_930 (ScrollRect_t6_118 * __this, 
 	float G_B30_0 = 0.0f;
 	ScrollRect_t6_118 * G_B30_1 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		V_0 = L_0;
 		Scrollbar_t6_114 * L_1 = (__this->___m_HorizontalScrollbar_11);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B1_0 = __this;
 		if (!L_2)
 		{
@@ -38580,7 +38580,7 @@ IL_001f:
 	{
 		Scrollbar_t6_114 * L_3 = (__this->___m_HorizontalScrollbar_11);
 		NullCheck(L_3);
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(L_3, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(L_3, /*hidden argument*/NULL);
 		G_B3_0 = ((RectTransform_t5_70 *)IsInstSealed(L_4, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		G_B3_1 = G_B2_0;
 	}
@@ -38590,7 +38590,7 @@ IL_002f:
 		NullCheck(G_B3_1);
 		G_B3_1->___m_HorizontalScrollbarRect_34 = G_B3_0;
 		Scrollbar_t6_114 * L_5 = (__this->___m_VerticalScrollbar_12);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B4_0 = __this;
 		if (!L_6)
 		{
@@ -38608,7 +38608,7 @@ IL_004c:
 	{
 		Scrollbar_t6_114 * L_7 = (__this->___m_VerticalScrollbar_12);
 		NullCheck(L_7);
-		Transform_t5_71 * L_8 = Component_get_transform_m5_723(L_7, /*hidden argument*/NULL);
+		Transform_t5_71 * L_8 = Component_get_transform_m5_721(L_7, /*hidden argument*/NULL);
 		G_B6_0 = ((RectTransform_t5_70 *)IsInstSealed(L_8, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		G_B6_1 = G_B5_0;
 	}
@@ -38619,12 +38619,12 @@ IL_005c:
 		G_B6_1->___m_VerticalScrollbarRect_35 = G_B6_0;
 		RectTransform_t5_70 * L_9 = ScrollRect_get_viewRect_m6_923(__this, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Transform_t5_71 * L_10 = Transform_get_parent_m5_806(L_9, /*hidden argument*/NULL);
+		Transform_t5_71 * L_10 = Transform_get_parent_m5_804(L_9, /*hidden argument*/NULL);
 		Transform_t5_71 * L_11 = V_0;
-		bool L_12 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
+		bool L_12 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
 		V_1 = L_12;
 		RectTransform_t5_70 * L_13 = (__this->___m_HorizontalScrollbarRect_34);
-		bool L_14 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
+		bool L_14 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_13, /*hidden argument*/NULL);
 		if (!L_14)
 		{
 			goto IL_0096;
@@ -38633,9 +38633,9 @@ IL_005c:
 	{
 		RectTransform_t5_70 * L_15 = (__this->___m_HorizontalScrollbarRect_34);
 		NullCheck(L_15);
-		Transform_t5_71 * L_16 = Transform_get_parent_m5_806(L_15, /*hidden argument*/NULL);
+		Transform_t5_71 * L_16 = Transform_get_parent_m5_804(L_15, /*hidden argument*/NULL);
 		Transform_t5_71 * L_17 = V_0;
-		bool L_18 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_16, L_17, /*hidden argument*/NULL);
+		bool L_18 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_16, L_17, /*hidden argument*/NULL);
 		G_B9_0 = ((int32_t)(L_18));
 		goto IL_0097;
 	}
@@ -38649,7 +38649,7 @@ IL_0097:
 	{
 		V_2 = G_B9_0;
 		RectTransform_t5_70 * L_19 = (__this->___m_VerticalScrollbarRect_35);
-		bool L_20 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_19, /*hidden argument*/NULL);
+		bool L_20 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_19, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_00bb;
@@ -38658,9 +38658,9 @@ IL_0097:
 	{
 		RectTransform_t5_70 * L_21 = (__this->___m_VerticalScrollbarRect_35);
 		NullCheck(L_21);
-		Transform_t5_71 * L_22 = Transform_get_parent_m5_806(L_21, /*hidden argument*/NULL);
+		Transform_t5_71 * L_22 = Transform_get_parent_m5_804(L_21, /*hidden argument*/NULL);
 		Transform_t5_71 * L_23 = V_0;
-		bool L_24 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_22, L_23, /*hidden argument*/NULL);
+		bool L_24 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_22, L_23, /*hidden argument*/NULL);
 		G_B12_0 = ((int32_t)(L_24));
 		goto IL_00bc;
 	}
@@ -38710,7 +38710,7 @@ IL_00cd:
 	}
 	{
 		RectTransform_t5_70 * L_29 = (__this->___m_HorizontalScrollbarRect_34);
-		bool L_30 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_29, /*hidden argument*/NULL);
+		bool L_30 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_29, /*hidden argument*/NULL);
 		G_B18_0 = G_B17_0;
 		if (!L_30)
 		{
@@ -38745,7 +38745,7 @@ IL_00f3:
 	}
 	{
 		RectTransform_t5_70 * L_33 = (__this->___m_VerticalScrollbarRect_35);
-		bool L_34 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_33, /*hidden argument*/NULL);
+		bool L_34 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_33, /*hidden argument*/NULL);
 		G_B22_0 = G_B21_0;
 		if (!L_34)
 		{
@@ -38771,7 +38771,7 @@ IL_011c:
 		NullCheck(G_B24_1);
 		G_B24_1->___m_VSliderExpand_30 = G_B24_0;
 		RectTransform_t5_70 * L_36 = (__this->___m_HorizontalScrollbarRect_34);
-		bool L_37 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_36, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_37 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_36, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B25_0 = __this;
 		if (!L_37)
 		{
@@ -38801,7 +38801,7 @@ IL_0151:
 		NullCheck(G_B27_1);
 		G_B27_1->___m_HSliderHeight_31 = G_B27_0;
 		RectTransform_t5_70 * L_41 = (__this->___m_VerticalScrollbarRect_35);
-		bool L_42 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_41, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_42 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_41, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B28_0 = __this;
 		if (!L_42)
 		{
@@ -38837,8 +38837,8 @@ IL_0186:
 extern TypeInfo* UnityAction_1_t5_321_il2cpp_TypeInfo_var;
 extern TypeInfo* CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var;
 extern const MethodInfo* ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1838_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_AddListener_m5_1808_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1836_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_AddListener_m5_1806_MethodInfo_var;
 extern const MethodInfo* ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var;
 extern "C" void ScrollRect_OnEnable_m6_931 (ScrollRect_t6_118 * __this, const MethodInfo* method)
 {
@@ -38848,15 +38848,15 @@ extern "C" void ScrollRect_OnEnable_m6_931 (ScrollRect_t6_118 * __this, const Me
 		UnityAction_1_t5_321_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1081);
 		CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1053);
 		ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var = il2cpp_codegen_method_info_from_index(300);
-		UnityAction_1__ctor_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
-		UnityEvent_1_AddListener_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
+		UnityAction_1__ctor_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
+		UnityEvent_1_AddListener_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483842);
 		ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var = il2cpp_codegen_method_info_from_index(302);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
 		Scrollbar_t6_114 * L_0 = (__this->___m_HorizontalScrollbar_11);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0032;
@@ -38868,15 +38868,15 @@ extern "C" void ScrollRect_OnEnable_m6_931 (ScrollRect_t6_118 * __this, const Me
 		ScrollEvent_t6_111 * L_3 = Scrollbar_get_onValueChanged_m6_858(L_2, /*hidden argument*/NULL);
 		IntPtr_t L_4 = { (void*)ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var };
 		UnityAction_1_t5_321 * L_5 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_3);
-		UnityEvent_1_AddListener_m5_1808(L_3, L_5, /*hidden argument*/UnityEvent_1_AddListener_m5_1808_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1806(L_3, L_5, /*hidden argument*/UnityEvent_1_AddListener_m5_1806_MethodInfo_var);
 	}
 
 IL_0032:
 	{
 		Scrollbar_t6_114 * L_6 = (__this->___m_VerticalScrollbar_12);
-		bool L_7 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_005e;
@@ -38888,9 +38888,9 @@ IL_0032:
 		ScrollEvent_t6_111 * L_9 = Scrollbar_get_onValueChanged_m6_858(L_8, /*hidden argument*/NULL);
 		IntPtr_t L_10 = { (void*)ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var };
 		UnityAction_1_t5_321 * L_11 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_11, __this, L_10, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_11, __this, L_10, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_9);
-		UnityEvent_1_AddListener_m5_1808(L_9, L_11, /*hidden argument*/UnityEvent_1_AddListener_m5_1808_MethodInfo_var);
+		UnityEvent_1_AddListener_m5_1806(L_9, L_11, /*hidden argument*/UnityEvent_1_AddListener_m5_1806_MethodInfo_var);
 	}
 
 IL_005e:
@@ -38905,8 +38905,8 @@ extern TypeInfo* CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var;
 extern TypeInfo* UnityAction_1_t5_321_il2cpp_TypeInfo_var;
 extern TypeInfo* LayoutRebuilder_t6_151_il2cpp_TypeInfo_var;
 extern const MethodInfo* ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1838_MethodInfo_var;
-extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1836_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var;
 extern const MethodInfo* ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var;
 extern "C" void ScrollRect_OnDisable_m6_932 (ScrollRect_t6_118 * __this, const MethodInfo* method)
 {
@@ -38917,8 +38917,8 @@ extern "C" void ScrollRect_OnDisable_m6_932 (ScrollRect_t6_118 * __this, const M
 		UnityAction_1_t5_321_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1081);
 		LayoutRebuilder_t6_151_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1091);
 		ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var = il2cpp_codegen_method_info_from_index(300);
-		UnityAction_1__ctor_m5_1838_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
-		UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
+		UnityAction_1__ctor_m5_1836_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483891);
+		UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483949);
 		ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var = il2cpp_codegen_method_info_from_index(302);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -38926,7 +38926,7 @@ extern "C" void ScrollRect_OnDisable_m6_932 (ScrollRect_t6_118 * __this, const M
 		IL2CPP_RUNTIME_CLASS_INIT(CanvasUpdateRegistry_t6_58_il2cpp_TypeInfo_var);
 		CanvasUpdateRegistry_UnRegisterCanvasElementForRebuild_m6_348(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		Scrollbar_t6_114 * L_0 = (__this->___m_HorizontalScrollbar_11);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0032;
@@ -38938,15 +38938,15 @@ extern "C" void ScrollRect_OnDisable_m6_932 (ScrollRect_t6_118 * __this, const M
 		ScrollEvent_t6_111 * L_3 = Scrollbar_get_onValueChanged_m6_858(L_2, /*hidden argument*/NULL);
 		IntPtr_t L_4 = { (void*)ScrollRect_SetHorizontalNormalizedPosition_m6_951_MethodInfo_var };
 		UnityAction_1_t5_321 * L_5 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_5, __this, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_3);
-		UnityEvent_1_RemoveListener_m5_1854(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var);
+		UnityEvent_1_RemoveListener_m5_1852(L_3, L_5, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var);
 	}
 
 IL_0032:
 	{
 		Scrollbar_t6_114 * L_6 = (__this->___m_VerticalScrollbar_12);
-		bool L_7 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_005e;
@@ -38958,9 +38958,9 @@ IL_0032:
 		ScrollEvent_t6_111 * L_9 = Scrollbar_get_onValueChanged_m6_858(L_8, /*hidden argument*/NULL);
 		IntPtr_t L_10 = { (void*)ScrollRect_SetVerticalNormalizedPosition_m6_952_MethodInfo_var };
 		UnityAction_1_t5_321 * L_11 = (UnityAction_1_t5_321 *)il2cpp_codegen_object_new (UnityAction_1_t5_321_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1838(L_11, __this, L_10, /*hidden argument*/UnityAction_1__ctor_m5_1838_MethodInfo_var);
+		UnityAction_1__ctor_m5_1836(L_11, __this, L_10, /*hidden argument*/UnityAction_1__ctor_m5_1836_MethodInfo_var);
 		NullCheck(L_9);
-		UnityEvent_1_RemoveListener_m5_1854(L_9, L_11, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1854_MethodInfo_var);
+		UnityEvent_1_RemoveListener_m5_1852(L_9, L_11, /*hidden argument*/UnityEvent_1_RemoveListener_m5_1852_MethodInfo_var);
 	}
 
 IL_005e:
@@ -38990,7 +38990,7 @@ extern "C" bool ScrollRect_IsActive_m6_933 (ScrollRect_t6_118 * __this, const Me
 	}
 	{
 		RectTransform_t5_70 * L_1 = (__this->___m_Content_2);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B3_0 = ((int32_t)(L_2));
 		goto IL_001a;
 	}
@@ -39031,7 +39031,7 @@ extern "C" void ScrollRect_EnsureLayoutHasRebuilt_m6_934 (ScrollRect_t6_118 * __
 		}
 	}
 	{
-		Canvas_ForceUpdateCanvases_m5_1221(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Canvas_ForceUpdateCanvases_m5_1219(NULL /*static, unused*/, /*hidden argument*/NULL);
 	}
 
 IL_001a:
@@ -39262,7 +39262,7 @@ IL_0018:
 		Camera_t5_86 * L_8 = PointerEventData_get_pressEventCamera_m6_166(L_7, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_9 = &(__this->___m_PointerStartLocalCursor_18);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_4, L_6, L_8, L_9, /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_4, L_6, L_8, L_9, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_10 = (__this->___m_Content_2);
 		NullCheck(L_10);
 		Vector2_t5_44  L_11 = RectTransform_get_anchoredPosition_m5_489(L_10, /*hidden argument*/NULL);
@@ -39344,7 +39344,7 @@ IL_0018:
 		NullCheck(L_6);
 		Camera_t5_86 * L_7 = PointerEventData_get_pressEventCamera_m6_166(L_6, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_8 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_3, L_5, L_7, (&V_0), /*hidden argument*/NULL);
+		bool L_8 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_3, L_5, L_7, (&V_0), /*hidden argument*/NULL);
 		if (L_8)
 		{
 			goto IL_0037;
@@ -39491,14 +39491,14 @@ IL_0072:
 }
 // System.Void UnityEngine.UI.ScrollRect::LateUpdate()
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1855_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1853_MethodInfo_var;
 extern "C" void ScrollRect_LateUpdate_m6_942 (ScrollRect_t6_118 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		UnityEvent_1_Invoke_m5_1855_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483951);
+		UnityEvent_1_Invoke_m5_1853_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483951);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -39515,7 +39515,7 @@ extern "C" void ScrollRect_LateUpdate_m6_942 (ScrollRect_t6_118 * __this, const 
 	Vector2_t5_44 * V_11 = {0};
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Content_2);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0011;
@@ -39530,7 +39530,7 @@ IL_0011:
 		ScrollRect_EnsureLayoutHasRebuilt_m6_934(__this, /*hidden argument*/NULL);
 		ScrollRect_UpdateScrollbarVisibility_m6_969(__this, /*hidden argument*/NULL);
 		ScrollRect_UpdateBounds_m6_971(__this, /*hidden argument*/NULL);
-		float L_2 = Time_get_unscaledDeltaTime_m5_835(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_2 = Time_get_unscaledDeltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_2;
 		Vector2_t5_44  L_3 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector2_t5_44  L_4 = ScrollRect_CalculateOffset_m6_973(__this, L_3, /*hidden argument*/NULL);
@@ -39807,7 +39807,7 @@ IL_029f:
 		ScrollRectEvent_t6_117 * L_109 = (__this->___m_OnValueChanged_17);
 		Vector2_t5_44  L_110 = ScrollRect_get_normalizedPosition_m6_945(__this, /*hidden argument*/NULL);
 		NullCheck(L_109);
-		UnityEvent_1_Invoke_m5_1855(L_109, L_110, /*hidden argument*/UnityEvent_1_Invoke_m5_1855_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1853(L_109, L_110, /*hidden argument*/UnityEvent_1_Invoke_m5_1853_MethodInfo_var);
 		ScrollRect_UpdatePrevData_m6_943(__this, /*hidden argument*/NULL);
 	}
 
@@ -39821,7 +39821,7 @@ extern "C" void ScrollRect_UpdatePrevData_m6_943 (ScrollRect_t6_118 * __this, co
 {
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Content_2);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0021;
@@ -39868,7 +39868,7 @@ extern "C" void ScrollRect_UpdateScrollbars_m6_944 (ScrollRect_t6_118 * __this, 
 	Vector3_t5_45  V_5 = {0};
 	{
 		Scrollbar_t6_114 * L_0 = (__this->___m_HorizontalScrollbar_11);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0097;
@@ -39921,7 +39921,7 @@ IL_0086:
 IL_0097:
 	{
 		Scrollbar_t6_114 * L_18 = (__this->___m_VerticalScrollbar_12);
-		bool L_19 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_18, /*hidden argument*/NULL);
+		bool L_19 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_18, /*hidden argument*/NULL);
 		if (!L_19)
 		{
 			goto IL_0130;
@@ -40231,7 +40231,7 @@ extern "C" void ScrollRect_SetNormalizedPosition_m6_953 (ScrollRect_t6_118 * __t
 		V_1 = ((float)((float)L_11-(float)((float)((float)L_12*(float)L_13))));
 		RectTransform_t5_70 * L_14 = (__this->___m_Content_2);
 		NullCheck(L_14);
-		Vector3_t5_45  L_15 = Transform_get_localPosition_m5_789(L_14, /*hidden argument*/NULL);
+		Vector3_t5_45  L_15 = Transform_get_localPosition_m5_787(L_14, /*hidden argument*/NULL);
 		V_7 = L_15;
 		int32_t L_16 = ___axis;
 		float L_17 = Vector3_get_Item_m5_219((&V_7), L_16, /*hidden argument*/NULL);
@@ -40244,7 +40244,7 @@ extern "C" void ScrollRect_SetNormalizedPosition_m6_953 (ScrollRect_t6_118 * __t
 		V_2 = ((float)((float)((float)((float)L_17+(float)L_18))-(float)L_22));
 		RectTransform_t5_70 * L_23 = (__this->___m_Content_2);
 		NullCheck(L_23);
-		Vector3_t5_45  L_24 = Transform_get_localPosition_m5_789(L_23, /*hidden argument*/NULL);
+		Vector3_t5_45  L_24 = Transform_get_localPosition_m5_787(L_23, /*hidden argument*/NULL);
 		V_3 = L_24;
 		int32_t L_25 = ___axis;
 		float L_26 = Vector3_get_Item_m5_219((&V_3), L_25, /*hidden argument*/NULL);
@@ -40263,7 +40263,7 @@ extern "C" void ScrollRect_SetNormalizedPosition_m6_953 (ScrollRect_t6_118 * __t
 		RectTransform_t5_70 * L_31 = (__this->___m_Content_2);
 		Vector3_t5_45  L_32 = V_3;
 		NullCheck(L_31);
-		Transform_set_localPosition_m5_790(L_31, L_32, /*hidden argument*/NULL);
+		Transform_set_localPosition_m5_788(L_31, L_32, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_33 = &(__this->___m_Velocity_23);
 		int32_t L_34 = ___axis;
 		Vector2_set_Item_m5_195(L_33, L_34, (0.0f), /*hidden argument*/NULL);
@@ -40692,7 +40692,7 @@ extern "C" void ScrollRect_UpdateScrollbarVisibility_m6_969 (ScrollRect_t6_118 *
 {
 	{
 		Scrollbar_t6_114 * L_0 = (__this->___m_VerticalScrollbar_12);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004c;
@@ -40708,9 +40708,9 @@ extern "C" void ScrollRect_UpdateScrollbarVisibility_m6_969 (ScrollRect_t6_118 *
 	{
 		Scrollbar_t6_114 * L_3 = (__this->___m_VerticalScrollbar_12);
 		NullCheck(L_3);
-		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_724(L_3, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_722(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		bool L_5 = GameObject_get_activeSelf_m5_770(L_4, /*hidden argument*/NULL);
+		bool L_5 = GameObject_get_activeSelf_m5_768(L_4, /*hidden argument*/NULL);
 		bool L_6 = ScrollRect_get_vScrollingNeeded_m6_957(__this, /*hidden argument*/NULL);
 		if ((((int32_t)L_5) == ((int32_t)L_6)))
 		{
@@ -40720,16 +40720,16 @@ extern "C" void ScrollRect_UpdateScrollbarVisibility_m6_969 (ScrollRect_t6_118 *
 	{
 		Scrollbar_t6_114 * L_7 = (__this->___m_VerticalScrollbar_12);
 		NullCheck(L_7);
-		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_724(L_7, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_722(L_7, /*hidden argument*/NULL);
 		bool L_9 = ScrollRect_get_vScrollingNeeded_m6_957(__this, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		GameObject_SetActive_m5_769(L_8, L_9, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_8, L_9, /*hidden argument*/NULL);
 	}
 
 IL_004c:
 	{
 		Scrollbar_t6_114 * L_10 = (__this->___m_HorizontalScrollbar_11);
-		bool L_11 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_0098;
@@ -40745,9 +40745,9 @@ IL_004c:
 	{
 		Scrollbar_t6_114 * L_13 = (__this->___m_HorizontalScrollbar_11);
 		NullCheck(L_13);
-		GameObject_t5_101 * L_14 = Component_get_gameObject_m5_724(L_13, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_14 = Component_get_gameObject_m5_722(L_13, /*hidden argument*/NULL);
 		NullCheck(L_14);
-		bool L_15 = GameObject_get_activeSelf_m5_770(L_14, /*hidden argument*/NULL);
+		bool L_15 = GameObject_get_activeSelf_m5_768(L_14, /*hidden argument*/NULL);
 		bool L_16 = ScrollRect_get_hScrollingNeeded_m6_956(__this, /*hidden argument*/NULL);
 		if ((((int32_t)L_15) == ((int32_t)L_16)))
 		{
@@ -40757,10 +40757,10 @@ IL_004c:
 	{
 		Scrollbar_t6_114 * L_17 = (__this->___m_HorizontalScrollbar_11);
 		NullCheck(L_17);
-		GameObject_t5_101 * L_18 = Component_get_gameObject_m5_724(L_17, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_18 = Component_get_gameObject_m5_722(L_17, /*hidden argument*/NULL);
 		bool L_19 = ScrollRect_get_hScrollingNeeded_m6_956(__this, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		GameObject_SetActive_m5_769(L_18, L_19, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_18, L_19, /*hidden argument*/NULL);
 	}
 
 IL_0098:
@@ -40790,7 +40790,7 @@ extern "C" void ScrollRect_UpdateScrollbarLayout_m6_970 (ScrollRect_t6_118 * __t
 	}
 	{
 		Scrollbar_t6_114 * L_1 = (__this->___m_HorizontalScrollbar_11);
-		bool L_2 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0114;
@@ -40876,7 +40876,7 @@ IL_0114:
 	}
 	{
 		Scrollbar_t6_114 * L_34 = (__this->___m_VerticalScrollbar_12);
-		bool L_35 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_34, /*hidden argument*/NULL);
+		bool L_35 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_34, /*hidden argument*/NULL);
 		if (!L_35)
 		{
 			goto IL_022c;
@@ -40988,7 +40988,7 @@ extern "C" void ScrollRect_UpdateBounds_m6_971 (ScrollRect_t6_118 * __this, cons
 		Bounds_t5_50  L_9 = ScrollRect_GetBounds_m6_972(__this, /*hidden argument*/NULL);
 		__this->___m_ContentBounds_21 = L_9;
 		RectTransform_t5_70 * L_10 = (__this->___m_Content_2);
-		bool L_11 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_005a;
@@ -41089,7 +41089,7 @@ extern "C" Bounds_t5_50  ScrollRect_GetBounds_m6_972 (ScrollRect_t6_118 * __this
 	Bounds_t5_50  V_6 = {0};
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Content_2);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -41107,7 +41107,7 @@ IL_001c:
 		Vector3__ctor_m5_216((&V_1), (-std::numeric_limits<float>::max()), (-std::numeric_limits<float>::max()), (-std::numeric_limits<float>::max()), /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_3 = ScrollRect_get_viewRect_m6_923(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Matrix4x4_t5_49  L_4 = Transform_get_worldToLocalMatrix_m5_812(L_3, /*hidden argument*/NULL);
+		Matrix4x4_t5_49  L_4 = Transform_get_worldToLocalMatrix_m5_810(L_3, /*hidden argument*/NULL);
 		V_2 = L_4;
 		RectTransform_t5_70 * L_5 = (__this->___m_Content_2);
 		Vector3U5BU5D_t5_181* L_6 = (__this->___m_Corners_37);
@@ -41387,7 +41387,7 @@ extern "C" bool ScrollRect_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_976 (Scr
 extern "C" Transform_t5_71 * ScrollRect_UnityEngine_UI_ICanvasElement_get_transform_m6_977 (ScrollRect_t6_118 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -41788,40 +41788,40 @@ extern "C" void Selectable_set_image_m6_1002 (Selectable_t6_56 * __this, Image_t
 	}
 }
 // UnityEngine.Animator UnityEngine.UI.Selectable::get_animator()
-extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var;
 extern "C" Animator_t5_156 * Selectable_get_animator_m6_1003 (Selectable_t6_56 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
+		Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Animator_t5_156 * L_0 = Component_GetComponent_TisAnimator_t5_156_m5_1856(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var);
+		Animator_t5_156 * L_0 = Component_GetComponent_TisAnimator_t5_156_m5_1854(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var);
 		return L_0;
 	}
 }
 // System.Void UnityEngine.UI.Selectable::Awake()
-extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var;
 extern "C" void Selectable_Awake_m6_1004 (Selectable_t6_56 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
+		Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Graphic_t6_76 * L_0 = (__this->___m_TargetGraphic_9);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1848(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var);
+		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1846(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var);
 		__this->___m_TargetGraphic_9 = L_2;
 	}
 
@@ -41831,13 +41831,13 @@ IL_001d:
 	}
 }
 // System.Void UnityEngine.UI.Selectable::OnCanvasGroupChanged()
-extern const MethodInfo* Component_GetComponents_TisCanvasGroup_t5_178_m5_1857_MethodInfo_var;
+extern const MethodInfo* Component_GetComponents_TisCanvasGroup_t5_178_m5_1855_MethodInfo_var;
 extern "C" void Selectable_OnCanvasGroupChanged_m6_1005 (Selectable_t6_56 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponents_TisCanvasGroup_t5_178_m5_1857_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483960);
+		Component_GetComponents_TisCanvasGroup_t5_178_m5_1855_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483960);
 		s_Il2CppMethodIntialized = true;
 	}
 	bool V_0 = false;
@@ -41846,7 +41846,7 @@ extern "C" void Selectable_OnCanvasGroupChanged_m6_1005 (Selectable_t6_56 * __th
 	int32_t V_3 = 0;
 	{
 		V_0 = 1;
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		V_1 = L_0;
 		goto IL_007c;
 	}
@@ -41856,7 +41856,7 @@ IL_000e:
 		Transform_t5_71 * L_1 = V_1;
 		List_1_t1_925 * L_2 = (__this->___m_CanvasGroupCache_12);
 		NullCheck(L_1);
-		Component_GetComponents_TisCanvasGroup_t5_178_m5_1857(L_1, L_2, /*hidden argument*/Component_GetComponents_TisCanvasGroup_t5_178_m5_1857_MethodInfo_var);
+		Component_GetComponents_TisCanvasGroup_t5_178_m5_1855(L_1, L_2, /*hidden argument*/Component_GetComponents_TisCanvasGroup_t5_178_m5_1855_MethodInfo_var);
 		V_2 = 0;
 		V_3 = 0;
 		goto IL_0059;
@@ -41869,7 +41869,7 @@ IL_0023:
 		NullCheck(L_3);
 		CanvasGroup_t5_178 * L_5 = (CanvasGroup_t5_178 *)VirtFuncInvoker1< CanvasGroup_t5_178 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.CanvasGroup>::get_Item(System.Int32) */, L_3, L_4);
 		NullCheck(L_5);
-		bool L_6 = CanvasGroup_get_interactable_m5_1224(L_5, /*hidden argument*/NULL);
+		bool L_6 = CanvasGroup_get_interactable_m5_1222(L_5, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_003d;
@@ -41887,7 +41887,7 @@ IL_003d:
 		NullCheck(L_7);
 		CanvasGroup_t5_178 * L_9 = (CanvasGroup_t5_178 *)VirtFuncInvoker1< CanvasGroup_t5_178 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.CanvasGroup>::get_Item(System.Int32) */, L_7, L_8);
 		NullCheck(L_9);
-		bool L_10 = CanvasGroup_get_ignoreParentGroups_m5_1227(L_9, /*hidden argument*/NULL);
+		bool L_10 = CanvasGroup_get_ignoreParentGroups_m5_1225(L_9, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0055;
@@ -41929,14 +41929,14 @@ IL_0075:
 	{
 		Transform_t5_71 * L_16 = V_1;
 		NullCheck(L_16);
-		Transform_t5_71 * L_17 = Transform_get_parent_m5_806(L_16, /*hidden argument*/NULL);
+		Transform_t5_71 * L_17 = Transform_get_parent_m5_804(L_16, /*hidden argument*/NULL);
 		V_1 = L_17;
 	}
 
 IL_007c:
 	{
 		Transform_t5_71 * L_18 = V_1;
-		bool L_19 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_19 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_18, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_19)
 		{
 			goto IL_000e;
@@ -42105,7 +42105,7 @@ extern "C" void Selectable_InstantClearState_m6_1012 (Selectable_t6_56 * __this,
 
 IL_0041:
 	{
-		Color_t5_165  L_4 = Color_get_white_m5_1587(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_4 = Color_get_white_m5_1585(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Selectable_StartColorTween_m6_1022(__this, L_4, 1, /*hidden argument*/NULL);
 		goto IL_006a;
 	}
@@ -42228,7 +42228,7 @@ IL_008e:
 
 IL_00b7:
 	{
-		Color_t5_165  L_24 = Color_get_black_m5_1588(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_24 = Color_get_black_m5_1586(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_24;
 		V_1 = (Sprite_t5_79 *)NULL;
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
@@ -42239,9 +42239,9 @@ IL_00b7:
 
 IL_00ca:
 	{
-		GameObject_t5_101 * L_26 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_26 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_26);
-		bool L_27 = GameObject_get_activeInHierarchy_m5_771(L_26, /*hidden argument*/NULL);
+		bool L_27 = GameObject_get_activeInHierarchy_m5_769(L_26, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_0131;
@@ -42273,7 +42273,7 @@ IL_00fc:
 		Color_t5_165  L_30 = V_0;
 		ColorBlock_t6_60 * L_31 = &(__this->___m_Colors_5);
 		float L_32 = ColorBlock_get_colorMultiplier_m6_361(L_31, /*hidden argument*/NULL);
-		Color_t5_165  L_33 = Color_op_Multiply_m5_1592(NULL /*static, unused*/, L_30, L_32, /*hidden argument*/NULL);
+		Color_t5_165  L_33 = Color_op_Multiply_m5_1590(NULL /*static, unused*/, L_30, L_32, /*hidden argument*/NULL);
 		bool L_34 = ___instant;
 		Selectable_StartColorTween_m6_1022(__this, L_33, L_34, /*hidden argument*/NULL);
 		goto IL_0131;
@@ -42327,21 +42327,21 @@ extern "C" Selectable_t6_56 * Selectable_FindSelectable_m6_1014 (Selectable_t6_5
 	{
 		Vector3_t5_45  L_0 = Vector3_get_normalized_m5_224((&___dir), /*hidden argument*/NULL);
 		___dir = L_0;
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		Quaternion_t5_47  L_2 = Transform_get_rotation_m5_794(L_1, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_2 = Transform_get_rotation_m5_792(L_1, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_3 = Quaternion_Inverse_m5_254(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		Vector3_t5_45  L_4 = ___dir;
 		Vector3_t5_45  L_5 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
 		V_0 = L_5;
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = V_0;
 		Vector2_t5_44  L_9 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Selectable_t6_56_il2cpp_TypeInfo_var);
 		Vector3_t5_45  L_10 = Selectable_GetPointOnRectEdge_m6_1015(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_7, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_9, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Vector3_t5_45  L_11 = Transform_TransformPoint_m5_820(L_6, L_10, /*hidden argument*/NULL);
+		Vector3_t5_45  L_11 = Transform_TransformPoint_m5_818(L_6, L_10, /*hidden argument*/NULL);
 		V_1 = L_11;
 		V_2 = (-std::numeric_limits<float>::infinity());
 		V_3 = (Selectable_t6_56 *)NULL;
@@ -42358,7 +42358,7 @@ IL_0052:
 		Selectable_t6_56 * L_14 = (Selectable_t6_56 *)VirtFuncInvoker1< Selectable_t6_56 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.UI.Selectable>::get_Item(System.Int32) */, L_12, L_13);
 		V_5 = L_14;
 		Selectable_t6_56 * L_15 = V_5;
-		bool L_16 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_15, __this, /*hidden argument*/NULL);
+		bool L_16 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_15, __this, /*hidden argument*/NULL);
 		if (L_16)
 		{
 			goto IL_007a;
@@ -42366,7 +42366,7 @@ IL_0052:
 	}
 	{
 		Selectable_t6_56 * L_17 = V_5;
-		bool L_18 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_18 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_18)
 		{
 			goto IL_007f;
@@ -42409,10 +42409,10 @@ IL_00a5:
 	{
 		Selectable_t6_56 * L_24 = V_5;
 		NullCheck(L_24);
-		Transform_t5_71 * L_25 = Component_get_transform_m5_723(L_24, /*hidden argument*/NULL);
+		Transform_t5_71 * L_25 = Component_get_transform_m5_721(L_24, /*hidden argument*/NULL);
 		V_6 = ((RectTransform_t5_70 *)IsInstSealed(L_25, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_26 = V_6;
-		bool L_27 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_27 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_26, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_00da;
@@ -42440,10 +42440,10 @@ IL_00df:
 		V_7 = G_B10_0;
 		Selectable_t6_56 * L_33 = V_5;
 		NullCheck(L_33);
-		Transform_t5_71 * L_34 = Component_get_transform_m5_723(L_33, /*hidden argument*/NULL);
+		Transform_t5_71 * L_34 = Component_get_transform_m5_721(L_33, /*hidden argument*/NULL);
 		Vector3_t5_45  L_35 = V_7;
 		NullCheck(L_34);
-		Vector3_t5_45  L_36 = Transform_TransformPoint_m5_820(L_34, L_35, /*hidden argument*/NULL);
+		Vector3_t5_45  L_36 = Transform_TransformPoint_m5_818(L_34, L_35, /*hidden argument*/NULL);
 		Vector3_t5_45  L_37 = V_1;
 		Vector3_t5_45  L_38 = Vector3_op_Subtraction_m5_242(NULL /*static, unused*/, L_36, L_37, /*hidden argument*/NULL);
 		V_8 = L_38;
@@ -42517,7 +42517,7 @@ extern "C" Vector3_t5_45  Selectable_GetPointOnRectEdge_m6_1015 (Object_t * __th
 	Rect_t5_48  V_1 = {0};
 	{
 		RectTransform_t5_70 * L_0 = ___rect;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -42577,7 +42577,7 @@ extern "C" void Selectable_Navigate_m6_1016 (Selectable_t6_56 * __this, AxisEven
 {
 	{
 		Selectable_t6_56 * L_0 = ___sel;
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0023;
@@ -42596,7 +42596,7 @@ extern "C" void Selectable_Navigate_m6_1016 (Selectable_t6_56 * __this, AxisEven
 		AxisEventData_t6_33 * L_4 = ___eventData;
 		Selectable_t6_56 * L_5 = ___sel;
 		NullCheck(L_5);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(L_5, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(L_5, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		BaseEventData_set_selectedObject_m6_123(L_4, L_6, /*hidden argument*/NULL);
 	}
@@ -42633,9 +42633,9 @@ IL_001d:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_794(L_6, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_792(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = Vector3_get_left_m5_239(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_9 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
 		Selectable_t6_56 * L_10 = Selectable_FindSelectable_m6_1014(__this, L_9, /*hidden argument*/NULL);
@@ -42674,9 +42674,9 @@ IL_001d:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_794(L_6, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_792(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = Vector3_get_right_m5_240(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_9 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
 		Selectable_t6_56 * L_10 = Selectable_FindSelectable_m6_1014(__this, L_9, /*hidden argument*/NULL);
@@ -42715,9 +42715,9 @@ IL_001d:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_794(L_6, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_792(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_9 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
 		Selectable_t6_56 * L_10 = Selectable_FindSelectable_m6_1014(__this, L_9, /*hidden argument*/NULL);
@@ -42756,9 +42756,9 @@ IL_001d:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_794(L_6, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_7 = Transform_get_rotation_m5_792(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = Vector3_get_down_m5_238(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_9 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
 		Selectable_t6_56 * L_10 = Selectable_FindSelectable_m6_1014(__this, L_9, /*hidden argument*/NULL);
@@ -42850,7 +42850,7 @@ extern "C" void Selectable_StartColorTween_m6_1022 (Selectable_t6_56 * __this, C
 	Graphic_t6_76 * G_B5_2 = {0};
 	{
 		Graphic_t6_76 * L_0 = (__this->___m_TargetGraphic_9);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -42902,7 +42902,7 @@ extern "C" void Selectable_DoSpriteSwap_m6_1023 (Selectable_t6_56 * __this, Spri
 {
 	{
 		Image_t6_65 * L_0 = Selectable_get_image_m6_1001(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -42933,7 +42933,7 @@ extern "C" void Selectable_TriggerAnimation_m6_1024 (Selectable_t6_56 * __this, 
 	}
 	{
 		Animator_t5_156 * L_0 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0042;
@@ -42951,8 +42951,8 @@ extern "C" void Selectable_TriggerAnimation_m6_1024 (Selectable_t6_56 * __this, 
 	{
 		Animator_t5_156 * L_4 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		RuntimeAnimatorController_t5_160 * L_5 = Animator_get_runtimeAnimatorController_m5_1140(L_4, /*hidden argument*/NULL);
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		RuntimeAnimatorController_t5_160 * L_5 = Animator_get_runtimeAnimatorController_m5_1138(L_4, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_0042;
@@ -42980,29 +42980,29 @@ IL_0043:
 		NullCheck(L_10);
 		String_t* L_11 = AnimationTriggers_get_normalTrigger_m6_312(L_10, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Animator_ResetTrigger_m5_1134(L_9, L_11, /*hidden argument*/NULL);
+		Animator_ResetTrigger_m5_1132(L_9, L_11, /*hidden argument*/NULL);
 		Animator_t5_156 * L_12 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
 		AnimationTriggers_t6_52 * L_13 = (__this->___m_AnimationTriggers_7);
 		NullCheck(L_13);
 		String_t* L_14 = AnimationTriggers_get_pressedTrigger_m6_316(L_13, /*hidden argument*/NULL);
 		NullCheck(L_12);
-		Animator_ResetTrigger_m5_1134(L_12, L_14, /*hidden argument*/NULL);
+		Animator_ResetTrigger_m5_1132(L_12, L_14, /*hidden argument*/NULL);
 		Animator_t5_156 * L_15 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
 		AnimationTriggers_t6_52 * L_16 = (__this->___m_AnimationTriggers_7);
 		NullCheck(L_16);
 		String_t* L_17 = AnimationTriggers_get_highlightedTrigger_m6_314(L_16, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		Animator_ResetTrigger_m5_1134(L_15, L_17, /*hidden argument*/NULL);
+		Animator_ResetTrigger_m5_1132(L_15, L_17, /*hidden argument*/NULL);
 		Animator_t5_156 * L_18 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
 		AnimationTriggers_t6_52 * L_19 = (__this->___m_AnimationTriggers_7);
 		NullCheck(L_19);
 		String_t* L_20 = AnimationTriggers_get_disabledTrigger_m6_318(L_19, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		Animator_ResetTrigger_m5_1134(L_18, L_20, /*hidden argument*/NULL);
+		Animator_ResetTrigger_m5_1132(L_18, L_20, /*hidden argument*/NULL);
 		Animator_t5_156 * L_21 = Selectable_get_animator_m6_1003(__this, /*hidden argument*/NULL);
 		String_t* L_22 = ___triggername;
 		NullCheck(L_21);
-		Animator_SetTrigger_m5_1133(L_21, L_22, /*hidden argument*/NULL);
+		Animator_SetTrigger_m5_1131(L_21, L_22, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -43090,8 +43090,8 @@ IL_001a:
 		PointerEventData_t6_37 * L_8 = V_1;
 		NullCheck(L_8);
 		GameObject_t5_101 * L_9 = PointerEventData_get_pointerPress_m6_167(L_8, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		bool L_11 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_10 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_9, L_10, /*hidden argument*/NULL);
 		G_B8_0 = G_B7_0;
 		if (L_11)
 		{
@@ -43123,8 +43123,8 @@ IL_0060:
 		PointerEventData_t6_37 * L_14 = V_1;
 		NullCheck(L_14);
 		GameObject_t5_101 * L_15 = PointerEventData_get_pointerPress_m6_167(L_14, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		bool L_17 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_15, L_16, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		bool L_17 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_15, L_16, /*hidden argument*/NULL);
 		G_B11_0 = G_B10_0;
 		if (L_17)
 		{
@@ -43156,7 +43156,7 @@ IL_008c:
 		PointerEventData_t6_37 * L_20 = V_1;
 		NullCheck(L_20);
 		GameObject_t5_101 * L_21 = PointerEventData_get_pointerPress_m6_167(L_20, /*hidden argument*/NULL);
-		bool L_22 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_21, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_22 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_21, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		G_B15_0 = ((int32_t)(L_22));
 		G_B15_1 = G_B13_0;
 		goto IL_00b1;
@@ -43380,7 +43380,7 @@ IL_000c:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_5 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		PointerEventData_t6_37 * L_7 = ___eventData;
 		NullCheck(L_5);
 		EventSystem_SetSelectedGameObject_m6_15(L_5, L_6, L_7, /*hidden argument*/NULL);
@@ -43486,7 +43486,7 @@ IL_0010:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_2 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
 		EventSystem_SetSelectedGameObject_m6_17(L_2, L_3, /*hidden argument*/NULL);
 		return;
@@ -43544,17 +43544,17 @@ IL_004a:
 	}
 }
 // System.Void UnityEngine.UI.Slider/SliderEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1806_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1804_MethodInfo_var;
 extern "C" void SliderEvent__ctor_m6_1039 (SliderEvent_t6_124 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1806_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
+		UnityEvent_1__ctor_m5_1804_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483840);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1806(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1806_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1804(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1804_MethodInfo_var);
 		return;
 	}
 }

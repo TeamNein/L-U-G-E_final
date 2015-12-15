@@ -1500,7 +1500,7 @@
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-extern const int32_t g_FieldOffsetTable[6657] = 
+extern const int32_t g_FieldOffsetTable[6658] = 
 {
 	0,
 	0,
@@ -7950,7 +7950,7 @@ extern const int32_t g_FieldOffsetTable[6657] =
 	0,
 	0,
 	0,
-	offsetof(ChunkInstancer_t7_2, ___chunkPrefab_5),
+	offsetof(ChunkInstancer_t7_2, ___chunkPrefabs_5),
 	offsetof(ChunkInstancer_t7_2, ___previousChunk_6),
 	offsetof(ChunkInstancer_t7_2, ___previousPos_7),
 	offsetof(ChunkInstancer_t7_2, ___letterPrefabs_8),
@@ -8154,11 +8154,12 @@ extern const int32_t g_FieldOffsetTable[6657] =
 	offsetof(WordManager_t7_51, ___countText_12),
 	offsetof(WordManager_t7_51, ___score_13),
 	offsetof(WordManager_t7_51, ___endScore_14),
-	offsetof(WordManager_t7_51, ___EndScreen_15),
-	offsetof(WordManager_t7_51, ___audio_16),
-	offsetof(WordManager_t7_51, ___pickup_17),
-	offsetof(WordManager_t7_51, ___wrongLetter_18),
-	offsetof(WordManager_t7_51, ___obstacleSound_19),
+	offsetof(WordManager_t7_51, ___finalWord_15),
+	offsetof(WordManager_t7_51, ___EndScreen_16),
+	offsetof(WordManager_t7_51, ___audio_17),
+	offsetof(WordManager_t7_51, ___pickup_18),
+	offsetof(WordManager_t7_51, ___wrongLetter_19),
+	offsetof(WordManager_t7_51, ___obstacleSound_20),
 };
 #ifdef __clang__
 #pragma clang diagnostic pop

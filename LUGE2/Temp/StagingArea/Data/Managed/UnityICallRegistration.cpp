@@ -1,4 +1,4 @@
-//Generated on : 12/15/2015 1:21:46 AM
+//Generated on : 12/15/2015 11:57:48 AM
 void RegisterAllStrippedInternalCalls()
 {
 	//Start Registrations for type : UnityEngine.AnimationCurve
@@ -1202,10 +1202,6 @@ void RegisterAllStrippedInternalCalls()
 		//System.String UnityEngine.Input::get_compositionString()
 		void Register_UnityEngine_Input_get_compositionString();
 		Register_UnityEngine_Input_get_compositionString();
-
-		//System.Void UnityEngine.Input::INTERNAL_get_acceleration(UnityEngine.Vector3&)
-		void Register_UnityEngine_Input_INTERNAL_get_acceleration();
-		Register_UnityEngine_Input_INTERNAL_get_acceleration();
 
 		//System.Void UnityEngine.Input::INTERNAL_get_mousePosition(UnityEngine.Vector3&)
 		void Register_UnityEngine_Input_INTERNAL_get_mousePosition();

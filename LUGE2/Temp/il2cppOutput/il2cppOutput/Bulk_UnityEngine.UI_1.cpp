@@ -394,24 +394,24 @@ extern "C" bool SetPropertyUtility_SetStruct_TisSingle_t1_17_m6_1488_gshared (Ob
 extern "C" bool SetPropertyUtility_SetStruct_TisBoolean_t1_20_m6_1486_gshared (Object_t * __this /* static, unused */, bool* p0, bool p1, const MethodInfo* method);
 #define SetPropertyUtility_SetStruct_TisBoolean_t1_20_m6_1486(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, bool*, bool, const MethodInfo*))SetPropertyUtility_SetStruct_TisBoolean_t1_20_m6_1486_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.Component::GetComponent<System.Object>()
-extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1795_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponent_TisObject_t_m5_1795(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1793_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponent_TisObject_t_m5_1793(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Image>()
-#define Component_GetComponent_TisImage_t6_65_m5_1866(__this, method) (( Image_t6_65 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisImage_t6_65_m5_1864(__this, method) (( Image_t6_65 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.RectTransform>()
-#define Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Collections.Generic.IEnumerable`1<!!0> System.Linq.Enumerable::Where<System.Object>(System.Collections.Generic.IEnumerable`1<!!0>,System.Func`2<!!0,System.Boolean>)
 extern "C" Object_t* Enumerable_Where_TisObject_t_m2_51_gshared (Object_t * __this /* static, unused */, Object_t* p0, Func_2_t2_16 * p1, const MethodInfo* method);
 #define Enumerable_Where_TisObject_t_m2_51(__this /* static, unused */, p0, p1, method) (( Object_t* (*) (Object_t * /* static, unused */, Object_t*, Func_2_t2_16 *, const MethodInfo*))Enumerable_Where_TisObject_t_m2_51_gshared)(__this /* static, unused */, p0, p1, method)
 // System.Collections.Generic.IEnumerable`1<!!0> System.Linq.Enumerable::Where<UnityEngine.UI.Toggle>(System.Collections.Generic.IEnumerable`1<!!0>,System.Func`2<!!0,System.Boolean>)
 #define Enumerable_Where_TisToggle_t6_66_m2_48(__this /* static, unused */, p0, p1, method) (( Object_t* (*) (Object_t * /* static, unused */, Object_t*, Func_2_t2_14 *, const MethodInfo*))Enumerable_Where_TisObject_t_m2_51_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Transform>()
-#define Component_GetComponent_TisTransform_t5_71_m5_1867(__this, method) (( Transform_t5_71 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisTransform_t5_71_m5_1865(__this, method) (( Transform_t5_71 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetStruct<UnityEngine.UI.AspectRatioFitter/AspectMode>(!!0&,!!0)
 extern "C" bool SetPropertyUtility_SetStruct_TisAspectMode_t6_135_m6_1517_gshared (Object_t * __this /* static, unused */, int32_t* p0, int32_t p1, const MethodInfo* method);
 #define SetPropertyUtility_SetStruct_TisAspectMode_t6_135_m6_1517(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, int32_t*, int32_t, const MethodInfo*))SetPropertyUtility_SetStruct_TisAspectMode_t6_135_m6_1517_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Canvas>()
-#define Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // System.Boolean UnityEngine.UI.SetPropertyUtility::SetStruct<UnityEngine.UI.ContentSizeFitter/FitMode>(!!0&,!!0)
 extern "C" bool SetPropertyUtility_SetStruct_TisFitMode_t6_141_m6_1518_gshared (Object_t * __this /* static, unused */, int32_t* p0, int32_t p1, const MethodInfo* method);
 #define SetPropertyUtility_SetStruct_TisFitMode_t6_141_m6_1518(__this /* static, unused */, p0, p1, method) (( bool (*) (Object_t * /* static, unused */, int32_t*, int32_t, const MethodInfo*))SetPropertyUtility_SetStruct_TisFitMode_t6_141_m6_1518_gshared)(__this /* static, unused */, p0, p1, method)
@@ -445,7 +445,7 @@ extern "C" void LayoutGroup_SetProperty_TisObject_t_m6_1543_gshared (LayoutGroup
 extern "C" void LayoutGroup_SetProperty_TisTextAnchor_t5_167_m6_1527_gshared (LayoutGroup_t6_147 * __this, int32_t* p0, int32_t p1, const MethodInfo* method);
 #define LayoutGroup_SetProperty_TisTextAnchor_t5_167_m6_1527(__this, p0, p1, method) (( void (*) (LayoutGroup_t6_147 *, int32_t*, int32_t, const MethodInfo*))LayoutGroup_SetProperty_TisTextAnchor_t5_167_m6_1527_gshared)(__this, p0, p1, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Graphic>()
-#define Component_GetComponent_TisGraphic_t6_76_m5_1848(__this, method) (( Graphic_t6_76 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisGraphic_t6_76_m5_1846(__this, method) (( Graphic_t6_76 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -881,13 +881,13 @@ extern "C" void Slider_OnDisable_m6_1064 (Slider_t6_126 * __this, const MethodIn
 	}
 }
 // System.Void UnityEngine.UI.Slider::OnDidApplyAnimationProperties()
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1807_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1805_MethodInfo_var;
 extern "C" void Slider_OnDidApplyAnimationProperties_m6_1065 (Slider_t6_126 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
+		UnityEvent_1_Invoke_m5_1805_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -904,7 +904,7 @@ extern "C" void Slider_OnDidApplyAnimationProperties_m6_1065 (Slider_t6_126 * __
 		float L_2 = Slider_get_normalizedValue_m6_1055(__this, /*hidden argument*/NULL);
 		V_0 = L_2;
 		RectTransform_t5_70 * L_3 = (__this->___m_FillContainerRect_26);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_00ab;
@@ -912,7 +912,7 @@ extern "C" void Slider_OnDidApplyAnimationProperties_m6_1065 (Slider_t6_126 * __
 	}
 	{
 		Image_t6_65 * L_5 = (__this->___m_FillImage_24);
-		bool L_6 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_005d;
@@ -978,7 +978,7 @@ IL_00a6:
 IL_00ab:
 	{
 		RectTransform_t5_70 * L_20 = (__this->___m_HandleContainerRect_28);
-		bool L_21 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_20, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_21 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_20, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_21)
 		{
 			goto IL_0106;
@@ -1032,7 +1032,7 @@ IL_0106:
 		SliderEvent_t6_124 * L_33 = Slider_get_onValueChanged_m6_1057(__this, /*hidden argument*/NULL);
 		float L_34 = (__this->___m_Value_22);
 		NullCheck(L_33);
-		UnityEvent_1_Invoke_m5_1807(L_33, L_34, /*hidden argument*/UnityEvent_1_Invoke_m5_1807_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1805(L_33, L_34, /*hidden argument*/UnityEvent_1_Invoke_m5_1805_MethodInfo_var);
 	}
 
 IL_0129:
@@ -1041,20 +1041,20 @@ IL_0129:
 	}
 }
 // System.Void UnityEngine.UI.Slider::UpdateCachedReferences()
-extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" void Slider_UpdateCachedReferences_m6_1066 (Slider_t6_126 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_FillRect_16);
-		bool L_1 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0063;
@@ -1063,16 +1063,16 @@ extern "C" void Slider_UpdateCachedReferences_m6_1066 (Slider_t6_126 * __this, c
 	{
 		RectTransform_t5_70 * L_2 = (__this->___m_FillRect_16);
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Component_get_transform_m5_723(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(L_2, /*hidden argument*/NULL);
 		__this->___m_FillTransform_25 = L_3;
 		RectTransform_t5_70 * L_4 = (__this->___m_FillRect_16);
 		NullCheck(L_4);
-		Image_t6_65 * L_5 = Component_GetComponent_TisImage_t6_65_m5_1866(L_4, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var);
+		Image_t6_65 * L_5 = Component_GetComponent_TisImage_t6_65_m5_1864(L_4, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var);
 		__this->___m_FillImage_24 = L_5;
 		Transform_t5_71 * L_6 = (__this->___m_FillTransform_25);
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = Transform_get_parent_m5_806(L_6, /*hidden argument*/NULL);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Transform_get_parent_m5_804(L_6, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_005e;
@@ -1081,9 +1081,9 @@ extern "C" void Slider_UpdateCachedReferences_m6_1066 (Slider_t6_126 * __this, c
 	{
 		Transform_t5_71 * L_9 = (__this->___m_FillTransform_25);
 		NullCheck(L_9);
-		Transform_t5_71 * L_10 = Transform_get_parent_m5_806(L_9, /*hidden argument*/NULL);
+		Transform_t5_71 * L_10 = Transform_get_parent_m5_804(L_9, /*hidden argument*/NULL);
 		NullCheck(L_10);
-		RectTransform_t5_70 * L_11 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(L_10, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_11 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(L_10, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_FillContainerRect_26 = L_11;
 	}
 
@@ -1101,7 +1101,7 @@ IL_0063:
 IL_0071:
 	{
 		RectTransform_t5_70 * L_12 = (__this->___m_HandleRect_17);
-		bool L_13 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_00c3;
@@ -1110,12 +1110,12 @@ IL_0071:
 	{
 		RectTransform_t5_70 * L_14 = (__this->___m_HandleRect_17);
 		NullCheck(L_14);
-		Transform_t5_71 * L_15 = Component_get_transform_m5_723(L_14, /*hidden argument*/NULL);
+		Transform_t5_71 * L_15 = Component_get_transform_m5_721(L_14, /*hidden argument*/NULL);
 		__this->___m_HandleTransform_27 = L_15;
 		Transform_t5_71 * L_16 = (__this->___m_HandleTransform_27);
 		NullCheck(L_16);
-		Transform_t5_71 * L_17 = Transform_get_parent_m5_806(L_16, /*hidden argument*/NULL);
-		bool L_18 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Transform_t5_71 * L_17 = Transform_get_parent_m5_804(L_16, /*hidden argument*/NULL);
+		bool L_18 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_18)
 		{
 			goto IL_00be;
@@ -1124,9 +1124,9 @@ IL_0071:
 	{
 		Transform_t5_71 * L_19 = (__this->___m_HandleTransform_27);
 		NullCheck(L_19);
-		Transform_t5_71 * L_20 = Transform_get_parent_m5_806(L_19, /*hidden argument*/NULL);
+		Transform_t5_71 * L_20 = Transform_get_parent_m5_804(L_19, /*hidden argument*/NULL);
 		NullCheck(L_20);
-		RectTransform_t5_70 * L_21 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(L_20, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_21 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(L_20, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_HandleContainerRect_28 = L_21;
 	}
 
@@ -1192,13 +1192,13 @@ extern "C" void Slider_Set_m6_1068 (Slider_t6_126 * __this, float ___input, cons
 	}
 }
 // System.Void UnityEngine.UI.Slider::Set(System.Single,System.Boolean)
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1807_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1805_MethodInfo_var;
 extern "C" void Slider_Set_m6_1069 (Slider_t6_126 * __this, float ___input, bool ___sendCallback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1807_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
+		UnityEvent_1_Invoke_m5_1805_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483841);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -1232,7 +1232,7 @@ IL_0015:
 		SliderEvent_t6_124 * L_6 = (__this->___m_OnValueChanged_23);
 		float L_7 = V_0;
 		NullCheck(L_6);
-		UnityEvent_1_Invoke_m5_1807(L_6, L_7, /*hidden argument*/UnityEvent_1_Invoke_m5_1807_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1805(L_6, L_7, /*hidden argument*/UnityEvent_1_Invoke_m5_1805_MethodInfo_var);
 	}
 
 IL_0034:
@@ -1342,7 +1342,7 @@ extern "C" void Slider_UpdateVisuals_m6_1073 (Slider_t6_126 * __this, const Meth
 		DrivenRectTransformTracker_t5_66 * L_0 = &(__this->___m_Tracker_30);
 		DrivenRectTransformTracker_Clear_m5_472(L_0, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_1 = (__this->___m_FillContainerRect_26);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_00cb;
@@ -1357,7 +1357,7 @@ extern "C" void Slider_UpdateVisuals_m6_1073 (Slider_t6_126 * __this, const Meth
 		Vector2_t5_44  L_6 = Vector2_get_one_m5_205(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_1 = L_6;
 		Image_t6_65 * L_7 = (__this->___m_FillImage_24);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_0077;
@@ -1417,7 +1417,7 @@ IL_00b3:
 IL_00cb:
 	{
 		RectTransform_t5_70 * L_22 = (__this->___m_HandleContainerRect_28);
-		bool L_23 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_22, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_23 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_22, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_23)
 		{
 			goto IL_0159;
@@ -1527,7 +1527,7 @@ IL_0013:
 	{
 		V_0 = G_B2_0;
 		RectTransform_t5_70 * L_3 = V_0;
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_00d0;
@@ -1554,7 +1554,7 @@ IL_0013:
 		Vector2_t5_44  L_12 = PointerEventData_get_position_m6_141(L_11, /*hidden argument*/NULL);
 		Camera_t5_86 * L_13 = ___cam;
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_14 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_10, L_12, L_13, (&V_1), /*hidden argument*/NULL);
+		bool L_14 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_10, L_12, L_13, (&V_1), /*hidden argument*/NULL);
 		if (L_14)
 		{
 			goto IL_005c;
@@ -1690,7 +1690,7 @@ IL_000d:
 		Vector2_t5_44  L_3 = Vector2_get_zero_m5_204(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___m_Offset_29 = L_3;
 		RectTransform_t5_70 * L_4 = (__this->___m_HandleContainerRect_28);
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0076;
@@ -1705,7 +1705,7 @@ IL_000d:
 		NullCheck(L_9);
 		Camera_t5_86 * L_10 = PointerEventData_get_enterEventCamera_m6_165(L_9, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_11 = RectTransformUtility_RectangleContainsScreenPoint_m5_1257(NULL /*static, unused*/, L_6, L_8, L_10, /*hidden argument*/NULL);
+		bool L_11 = RectTransformUtility_RectangleContainsScreenPoint_m5_1255(NULL /*static, unused*/, L_6, L_8, L_10, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_0076;
@@ -1720,7 +1720,7 @@ IL_000d:
 		NullCheck(L_15);
 		Camera_t5_86 * L_16 = PointerEventData_get_pressEventCamera_m6_166(L_15, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_17 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_12, L_14, L_16, (&V_0), /*hidden argument*/NULL);
+		bool L_17 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_12, L_14, L_16, (&V_0), /*hidden argument*/NULL);
 		if (!L_17)
 		{
 			goto IL_0071;
@@ -1855,7 +1855,7 @@ IL_0040:
 	}
 	{
 		Selectable_t6_56 * L_7 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(26 /* UnityEngine.UI.Selectable UnityEngine.UI.Slider::FindSelectableOnLeft() */, __this);
-		bool L_8 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_0091;
@@ -1914,7 +1914,7 @@ IL_009d:
 	}
 	{
 		Selectable_t6_56 * L_16 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(27 /* UnityEngine.UI.Selectable UnityEngine.UI.Slider::FindSelectableOnRight() */, __this);
-		bool L_17 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_17 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_17)
 		{
 			goto IL_00ee;
@@ -1973,7 +1973,7 @@ IL_00fa:
 	}
 	{
 		Selectable_t6_56 * L_25 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(28 /* UnityEngine.UI.Selectable UnityEngine.UI.Slider::FindSelectableOnUp() */, __this);
-		bool L_26 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_26 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_25, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_26)
 		{
 			goto IL_014c;
@@ -2032,7 +2032,7 @@ IL_0158:
 	}
 	{
 		Selectable_t6_56 * L_34 = (Selectable_t6_56 *)VirtFuncInvoker0< Selectable_t6_56 * >::Invoke(29 /* UnityEngine.UI.Selectable UnityEngine.UI.Slider::FindSelectableOnDown() */, __this);
-		bool L_35 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_34, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_35 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_34, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_35)
 		{
 			goto IL_01aa;
@@ -2257,9 +2257,9 @@ IL_001c:
 		}
 	}
 	{
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_FlipLayoutAxes_m5_1268(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), 1, 1, /*hidden argument*/NULL);
+		RectTransformUtility_FlipLayoutAxes_m5_1266(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), 1, 1, /*hidden argument*/NULL);
 	}
 
 IL_003a:
@@ -2272,10 +2272,10 @@ IL_003a:
 		}
 	}
 	{
-		Transform_t5_71 * L_9 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_9 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		int32_t L_10 = Slider_get_axis_m6_1071(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_FlipLayoutOnAxis_m5_1267(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_9, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_10, 1, 1, /*hidden argument*/NULL);
+		RectTransformUtility_FlipLayoutOnAxis_m5_1265(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_9, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_10, 1, 1, /*hidden argument*/NULL);
 	}
 
 IL_005e:
@@ -2295,7 +2295,7 @@ extern "C" bool Slider_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_1085 (Slider
 extern "C" Transform_t5_71 * Slider_UnityEngine_UI_ICanvasElement_get_transform_m6_1086 (Slider_t6_126 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -2502,7 +2502,7 @@ extern "C" Material_t5_77 * StencilMaterial_Add_m6_1097 (Object_t * __this /* st
 IL_0010:
 	{
 		Material_t5_77 * L_2 = ___baseMat;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001e;
@@ -2528,7 +2528,7 @@ IL_001e:
 	{
 		Material_t5_77 * L_7 = ___baseMat;
 		NullCheck(L_7);
-		String_t* L_8 = Object_get_name_m5_698(L_7, /*hidden argument*/NULL);
+		String_t* L_8 = Object_get_name_m5_696(L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_9 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_8, _stringLiteral2750, /*hidden argument*/NULL);
 		Material_t5_77 * L_10 = ___baseMat;
@@ -2551,7 +2551,7 @@ IL_004b:
 	{
 		Material_t5_77 * L_14 = ___baseMat;
 		NullCheck(L_14);
-		String_t* L_15 = Object_get_name_m5_698(L_14, /*hidden argument*/NULL);
+		String_t* L_15 = Object_get_name_m5_696(L_14, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_16 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_15, _stringLiteral2752, /*hidden argument*/NULL);
 		Material_t5_77 * L_17 = ___baseMat;
@@ -2574,7 +2574,7 @@ IL_0078:
 	{
 		Material_t5_77 * L_21 = ___baseMat;
 		NullCheck(L_21);
-		String_t* L_22 = Object_get_name_m5_698(L_21, /*hidden argument*/NULL);
+		String_t* L_22 = Object_get_name_m5_696(L_21, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_23 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_22, _stringLiteral2754, /*hidden argument*/NULL);
 		Material_t5_77 * L_24 = ___baseMat;
@@ -2597,7 +2597,7 @@ IL_00a5:
 	{
 		Material_t5_77 * L_28 = ___baseMat;
 		NullCheck(L_28);
-		String_t* L_29 = Object_get_name_m5_698(L_28, /*hidden argument*/NULL);
+		String_t* L_29 = Object_get_name_m5_696(L_28, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_30 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_29, _stringLiteral2756, /*hidden argument*/NULL);
 		Material_t5_77 * L_31 = ___baseMat;
@@ -2620,7 +2620,7 @@ IL_00d2:
 	{
 		Material_t5_77 * L_35 = ___baseMat;
 		NullCheck(L_35);
-		String_t* L_36 = Object_get_name_m5_698(L_35, /*hidden argument*/NULL);
+		String_t* L_36 = Object_get_name_m5_696(L_35, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_37 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_36, _stringLiteral2757, /*hidden argument*/NULL);
 		Material_t5_77 * L_38 = ___baseMat;
@@ -2643,7 +2643,7 @@ IL_00ff:
 	{
 		Material_t5_77 * L_42 = ___baseMat;
 		NullCheck(L_42);
-		String_t* L_43 = Object_get_name_m5_698(L_42, /*hidden argument*/NULL);
+		String_t* L_43 = Object_get_name_m5_696(L_42, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_44 = String_Concat_m1_421(NULL /*static, unused*/, _stringLiteral2749, L_43, _stringLiteral2759, /*hidden argument*/NULL);
 		Material_t5_77 * L_45 = ___baseMat;
@@ -2671,7 +2671,7 @@ IL_0133:
 		NullCheck(L_50);
 		Material_t5_77 * L_51 = (L_50->___baseMat_0);
 		Material_t5_77 * L_52 = ___baseMat;
-		bool L_53 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_51, L_52, /*hidden argument*/NULL);
+		bool L_53 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_51, L_52, /*hidden argument*/NULL);
 		if (!L_53)
 		{
 			goto IL_01b0;
@@ -2789,7 +2789,7 @@ IL_01b4:
 		NullCheck(L_88);
 		Material_t5_77 * L_89 = (L_88->___customMat_1);
 		NullCheck(L_89);
-		Object_set_hideFlags_m5_702(L_89, ((int32_t)61), /*hidden argument*/NULL);
+		Object_set_hideFlags_m5_700(L_89, ((int32_t)61), /*hidden argument*/NULL);
 		MatEntry_t6_127 * L_90 = V_2;
 		int32_t L_91 = ___stencilID;
 		NullCheck(L_90);
@@ -2904,7 +2904,7 @@ IL_022d:
 		ObjectU5BU5D_t1_156* L_136 = L_131;
 		Material_t5_77 * L_137 = ___baseMat;
 		NullCheck(L_137);
-		String_t* L_138 = Object_get_name_m5_698(L_137, /*hidden argument*/NULL);
+		String_t* L_138 = Object_get_name_m5_696(L_137, /*hidden argument*/NULL);
 		NullCheck(L_136);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_136, 7);
 		ArrayElementTypeCheck (L_136, L_138);
@@ -2912,7 +2912,7 @@ IL_022d:
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_139 = String_Format_m1_415(NULL /*static, unused*/, _stringLiteral2760, L_136, /*hidden argument*/NULL);
 		NullCheck(L_106);
-		Object_set_name_m5_699(L_106, L_139, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_106, L_139, /*hidden argument*/NULL);
 		MatEntry_t6_127 * L_140 = V_2;
 		NullCheck(L_140);
 		Material_t5_77 * L_141 = (L_140->___customMat_1);
@@ -3051,7 +3051,7 @@ extern "C" void StencilMaterial_Remove_m6_1098 (Object_t * __this /* static, unu
 	int32_t V_2 = 0;
 	{
 		Material_t5_77 * L_0 = ___customMat;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -3079,7 +3079,7 @@ IL_0014:
 		NullCheck(L_5);
 		Material_t5_77 * L_6 = (L_5->___customMat_1);
 		Material_t5_77 * L_7 = ___customMat;
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_0036;
@@ -3277,7 +3277,7 @@ extern "C" TextGenerator_t5_166 * Text_get_cachedTextGenerator_m6_1102 (Text_t6_
 		NullCheck(L_4);
 		int32_t L_5 = String_get_Length_m1_430(L_4, /*hidden argument*/NULL);
 		TextGenerator_t5_166 * L_6 = (TextGenerator_t5_166 *)il2cpp_codegen_object_new (TextGenerator_t5_166_il2cpp_TypeInfo_var);
-		TextGenerator__ctor_m5_1155(L_6, L_5, /*hidden argument*/NULL);
+		TextGenerator__ctor_m5_1153(L_6, L_5, /*hidden argument*/NULL);
 		G_B4_0 = L_6;
 		G_B4_1 = G_B2_0;
 		goto IL_0038;
@@ -3286,7 +3286,7 @@ extern "C" TextGenerator_t5_166 * Text_get_cachedTextGenerator_m6_1102 (Text_t6_
 IL_0033:
 	{
 		TextGenerator_t5_166 * L_7 = (TextGenerator_t5_166 *)il2cpp_codegen_object_new (TextGenerator_t5_166_il2cpp_TypeInfo_var);
-		TextGenerator__ctor_m5_1154(L_7, /*hidden argument*/NULL);
+		TextGenerator__ctor_m5_1152(L_7, /*hidden argument*/NULL);
 		G_B4_0 = L_7;
 		G_B4_1 = G_B3_0;
 	}
@@ -3331,7 +3331,7 @@ extern "C" TextGenerator_t5_166 * Text_get_cachedTextGeneratorForLayout_m6_1103 
 	}
 	{
 		TextGenerator_t5_166 * L_2 = (TextGenerator_t5_166 *)il2cpp_codegen_object_new (TextGenerator_t5_166_il2cpp_TypeInfo_var);
-		TextGenerator__ctor_m5_1154(L_2, /*hidden argument*/NULL);
+		TextGenerator__ctor_m5_1152(L_2, /*hidden argument*/NULL);
 		TextGenerator_t5_166 * L_3 = L_2;
 		V_0 = L_3;
 		__this->___m_TextCacheForLayout_31 = L_3;
@@ -3349,7 +3349,7 @@ extern "C" Texture_t5_33 * Text_get_mainTexture_m6_1104 (Text_t6_64 * __this, co
 {
 	{
 		Font_t5_164 * L_0 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0053;
@@ -3358,8 +3358,8 @@ extern "C" Texture_t5_33 * Text_get_mainTexture_m6_1104 (Text_t6_64 * __this, co
 	{
 		Font_t5_164 * L_2 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		Material_t5_77 * L_3 = Font_get_material_m5_1191(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Material_t5_77 * L_3 = Font_get_material_m5_1189(L_2, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0053;
@@ -3368,10 +3368,10 @@ extern "C" Texture_t5_33 * Text_get_mainTexture_m6_1104 (Text_t6_64 * __this, co
 	{
 		Font_t5_164 * L_5 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Material_t5_77 * L_6 = Font_get_material_m5_1191(L_5, /*hidden argument*/NULL);
+		Material_t5_77 * L_6 = Font_get_material_m5_1189(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
 		Texture_t5_33 * L_7 = Material_get_mainTexture_m5_520(L_6, /*hidden argument*/NULL);
-		bool L_8 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_8)
 		{
 			goto IL_0053;
@@ -3380,7 +3380,7 @@ extern "C" Texture_t5_33 * Text_get_mainTexture_m6_1104 (Text_t6_64 * __this, co
 	{
 		Font_t5_164 * L_9 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Material_t5_77 * L_10 = Font_get_material_m5_1191(L_9, /*hidden argument*/NULL);
+		Material_t5_77 * L_10 = Font_get_material_m5_1189(L_9, /*hidden argument*/NULL);
 		NullCheck(L_10);
 		Texture_t5_33 * L_11 = Material_get_mainTexture_m5_520(L_10, /*hidden argument*/NULL);
 		return L_11;
@@ -3389,7 +3389,7 @@ extern "C" Texture_t5_33 * Text_get_mainTexture_m6_1104 (Text_t6_64 * __this, co
 IL_0053:
 	{
 		Material_t5_77 * L_12 = (((Graphic_t6_76 *)__this)->___m_Material_4);
-		bool L_13 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_13 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_0070;
@@ -3421,7 +3421,7 @@ extern "C" void Text_FontTextureChanged_m6_1105 (Text_t6_64 * __this, const Meth
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		bool L_0 = Object_op_Implicit_m5_719(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
+		bool L_0 = Object_op_Implicit_m5_717(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		if (L_0)
 		{
 			goto IL_0012;
@@ -3449,7 +3449,7 @@ IL_001e:
 	{
 		TextGenerator_t5_166 * L_2 = Text_get_cachedTextGenerator_m6_1102(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		TextGenerator_Invalidate_m5_1159(L_2, /*hidden argument*/NULL);
+		TextGenerator_Invalidate_m5_1157(L_2, /*hidden argument*/NULL);
 		bool L_3 = (bool)VirtFuncInvoker0< bool >::Invoke(9 /* System.Boolean UnityEngine.EventSystems.UIBehaviour::IsActive() */, __this);
 		if (L_3)
 		{
@@ -3519,7 +3519,7 @@ extern "C" void Text_set_font_m6_1107 (Text_t6_64 * __this, Font_t5_164 * ___val
 		NullCheck(L_0);
 		Font_t5_164 * L_1 = FontData_get_font_m6_461(L_0, /*hidden argument*/NULL);
 		Font_t5_164 * L_2 = ___value;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0017;
@@ -4039,7 +4039,7 @@ extern "C" float Text_get_pixelsPerUnit_m6_1132 (Text_t6_64 * __this, const Meth
 		Canvas_t5_177 * L_0 = Graphic_get_canvas_m6_507(__this, /*hidden argument*/NULL);
 		V_0 = L_0;
 		Canvas_t5_177 * L_1 = V_0;
-		bool L_2 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		if (L_2)
 		{
 			goto IL_0018;
@@ -4052,7 +4052,7 @@ extern "C" float Text_get_pixelsPerUnit_m6_1132 (Text_t6_64 * __this, const Meth
 IL_0018:
 	{
 		Font_t5_164 * L_3 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0038;
@@ -4061,7 +4061,7 @@ IL_0018:
 	{
 		Font_t5_164 * L_5 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		bool L_6 = Font_get_dynamic_m5_1194(L_5, /*hidden argument*/NULL);
+		bool L_6 = Font_get_dynamic_m5_1192(L_5, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_003f;
@@ -4072,7 +4072,7 @@ IL_0038:
 	{
 		Canvas_t5_177 * L_7 = V_0;
 		NullCheck(L_7);
-		float L_8 = Canvas_get_scaleFactor_m5_1206(L_7, /*hidden argument*/NULL);
+		float L_8 = Canvas_get_scaleFactor_m5_1204(L_7, /*hidden argument*/NULL);
 		return L_8;
 	}
 
@@ -4089,7 +4089,7 @@ IL_003f:
 	{
 		Font_t5_164 * L_11 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		int32_t L_12 = Font_get_fontSize_m5_1195(L_11, /*hidden argument*/NULL);
+		int32_t L_12 = Font_get_fontSize_m5_1193(L_11, /*hidden argument*/NULL);
 		if ((((int32_t)L_12) > ((int32_t)0)))
 		{
 			goto IL_0067;
@@ -4105,7 +4105,7 @@ IL_0067:
 	{
 		Font_t5_164 * L_13 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		int32_t L_14 = Font_get_fontSize_m5_1195(L_13, /*hidden argument*/NULL);
+		int32_t L_14 = Font_get_fontSize_m5_1193(L_13, /*hidden argument*/NULL);
 		FontData_t6_74 * L_15 = (__this->___m_FontData_28);
 		NullCheck(L_15);
 		int32_t L_16 = FontData_get_fontSize_m6_463(L_15, /*hidden argument*/NULL);
@@ -4126,7 +4126,7 @@ extern "C" void Text_OnEnable_m6_1133 (Text_t6_64 * __this, const MethodInfo* me
 		MaskableGraphic_OnEnable_m6_791(__this, /*hidden argument*/NULL);
 		TextGenerator_t5_166 * L_0 = Text_get_cachedTextGenerator_m6_1102(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		TextGenerator_Invalidate_m5_1159(L_0, /*hidden argument*/NULL);
+		TextGenerator_Invalidate_m5_1157(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(FontUpdateTracker_t6_75_il2cpp_TypeInfo_var);
 		FontUpdateTracker_TrackText_m6_486(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		return;
@@ -4154,7 +4154,7 @@ extern "C" void Text_UpdateGeometry_m6_1135 (Text_t6_64 * __this, const MethodIn
 {
 	{
 		Font_t5_164 * L_0 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0017;
@@ -4185,7 +4185,7 @@ extern "C" TextGenerationSettings_t5_163  Text_GetGenerationSettings_m6_1136 (Te
 		Vector2_t5_44  L_0 = ___extents;
 		(&V_0)->___generationExtents_15 = L_0;
 		Font_t5_164 * L_1 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0067;
@@ -4194,7 +4194,7 @@ extern "C" TextGenerationSettings_t5_163  Text_GetGenerationSettings_m6_1136 (Te
 	{
 		Font_t5_164 * L_3 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		bool L_4 = Font_get_dynamic_m5_1194(L_3, /*hidden argument*/NULL);
+		bool L_4 = Font_get_dynamic_m5_1192(L_3, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0067;
@@ -4414,7 +4414,7 @@ extern "C" void Text_OnPopulateMesh_m6_1138 (Text_t6_64 * __this, VertexHelper_t
 	Rect_t5_48  V_13 = {0};
 	{
 		Font_t5_164 * L_0 = Text_get_font_m6_1106(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -4440,7 +4440,7 @@ IL_0012:
 		String_t* L_8 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(64 /* System.String UnityEngine.UI.Text::get_text() */, __this);
 		TextGenerationSettings_t5_163  L_9 = V_1;
 		NullCheck(L_7);
-		TextGenerator_Populate_m5_1165(L_7, L_8, L_9, /*hidden argument*/NULL);
+		TextGenerator_Populate_m5_1163(L_7, L_8, L_9, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_10 = Graphic_get_rectTransform_m6_506(__this, /*hidden argument*/NULL);
 		NullCheck(L_10);
 		Rect_t5_48  L_11 = RectTransform_get_rect_m5_479(L_10, /*hidden argument*/NULL);
@@ -4471,7 +4471,7 @@ IL_0012:
 		V_5 = L_27;
 		TextGenerator_t5_166 * L_28 = Text_get_cachedTextGenerator_m6_1102(__this, /*hidden argument*/NULL);
 		NullCheck(L_28);
-		Object_t* L_29 = TextGenerator_get_verts_m5_1167(L_28, /*hidden argument*/NULL);
+		Object_t* L_29 = TextGenerator_get_verts_m5_1165(L_28, /*hidden argument*/NULL);
 		V_6 = L_29;
 		float L_30 = Text_get_pixelsPerUnit_m6_1132(__this, /*hidden argument*/NULL);
 		V_7 = ((float)((float)(1.0f)/(float)L_30));
@@ -4663,7 +4663,7 @@ extern "C" float Text_get_preferredWidth_m6_1142 (Text_t6_64 * __this, const Met
 		String_t* L_3 = (__this->___m_Text_29);
 		TextGenerationSettings_t5_163  L_4 = V_0;
 		NullCheck(L_2);
-		float L_5 = TextGenerator_GetPreferredWidth_m5_1163(L_2, L_3, L_4, /*hidden argument*/NULL);
+		float L_5 = TextGenerator_GetPreferredWidth_m5_1161(L_2, L_3, L_4, /*hidden argument*/NULL);
 		float L_6 = Text_get_pixelsPerUnit_m6_1132(__this, /*hidden argument*/NULL);
 		return ((float)((float)L_5/(float)L_6));
 	}
@@ -4704,7 +4704,7 @@ extern "C" float Text_get_preferredHeight_m6_1145 (Text_t6_64 * __this, const Me
 		String_t* L_7 = (__this->___m_Text_29);
 		TextGenerationSettings_t5_163  L_8 = V_0;
 		NullCheck(L_6);
-		float L_9 = TextGenerator_GetPreferredHeight_m5_1164(L_6, L_7, L_8, /*hidden argument*/NULL);
+		float L_9 = TextGenerator_GetPreferredHeight_m5_1162(L_6, L_7, L_8, /*hidden argument*/NULL);
 		float L_10 = Text_get_pixelsPerUnit_m6_1132(__this, /*hidden argument*/NULL);
 		return ((float)((float)L_9/(float)L_10));
 	}
@@ -4724,17 +4724,17 @@ extern "C" int32_t Text_get_layoutPriority_m6_1147 (Text_t6_64 * __this, const M
 	}
 }
 // System.Void UnityEngine.UI.Toggle/ToggleEvent::.ctor()
-extern const MethodInfo* UnityEvent_1__ctor_m5_1849_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1__ctor_m5_1847_MethodInfo_var;
 extern "C" void ToggleEvent__ctor_m6_1148 (ToggleEvent_t6_130 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1__ctor_m5_1849_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483939);
+		UnityEvent_1__ctor_m5_1847_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483939);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		UnityEvent_1__ctor_m5_1849(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1849_MethodInfo_var);
+		UnityEvent_1__ctor_m5_1847(__this, /*hidden argument*/UnityEvent_1__ctor_m5_1847_MethodInfo_var);
 		return;
 	}
 }
@@ -4835,7 +4835,7 @@ extern "C" void Toggle_OnDidApplyAnimationProperties_m6_1157 (Toggle_t6_66 * __t
 	Color_t5_165  V_1 = {0};
 	{
 		Graphic_t6_76 * L_0 = (__this->___graphic_17);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0054;
@@ -4846,7 +4846,7 @@ extern "C" void Toggle_OnDidApplyAnimationProperties_m6_1157 (Toggle_t6_66 * __t
 		NullCheck(L_2);
 		CanvasRenderer_t5_179 * L_3 = Graphic_get_canvasRenderer_m6_509(L_2, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Color_t5_165  L_4 = CanvasRenderer_GetColor_m5_1231(L_3, /*hidden argument*/NULL);
+		Color_t5_165  L_4 = CanvasRenderer_GetColor_m5_1229(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		float L_5 = ((&V_1)->___a_3);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
@@ -4880,7 +4880,7 @@ extern "C" void Toggle_SetToggleGroup_m6_1158 (Toggle_t6_66 * __this, ToggleGrou
 		ToggleGroup_t6_131 * L_0 = (__this->___m_Group_18);
 		V_0 = L_0;
 		ToggleGroup_t6_131 * L_1 = (__this->___m_Group_18);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0024;
@@ -4908,7 +4908,7 @@ IL_0024:
 IL_0031:
 	{
 		ToggleGroup_t6_131 * L_6 = (__this->___m_Group_18);
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0059;
@@ -4930,7 +4930,7 @@ IL_0031:
 IL_0059:
 	{
 		ToggleGroup_t6_131 * L_10 = ___newGroup;
-		bool L_11 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_0093;
@@ -4939,7 +4939,7 @@ IL_0059:
 	{
 		ToggleGroup_t6_131 * L_12 = ___newGroup;
 		ToggleGroup_t6_131 * L_13 = V_0;
-		bool L_14 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_12, L_13, /*hidden argument*/NULL);
+		bool L_14 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_12, L_13, /*hidden argument*/NULL);
 		if (!L_14)
 		{
 			goto IL_0093;
@@ -4997,13 +4997,13 @@ extern "C" void Toggle_Set_m6_1161 (Toggle_t6_66 * __this, bool ___value, const 
 	}
 }
 // System.Void UnityEngine.UI.Toggle::Set(System.Boolean,System.Boolean)
-extern const MethodInfo* UnityEvent_1_Invoke_m5_1851_MethodInfo_var;
+extern const MethodInfo* UnityEvent_1_Invoke_m5_1849_MethodInfo_var;
 extern "C" void Toggle_Set_m6_1162 (Toggle_t6_66 * __this, bool ___value, bool ___sendCallback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		UnityEvent_1_Invoke_m5_1851_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483941);
+		UnityEvent_1_Invoke_m5_1849_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483941);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -5023,7 +5023,7 @@ IL_000d:
 		bool L_2 = ___value;
 		__this->___m_IsOn_20 = L_2;
 		ToggleGroup_t6_131 * L_3 = (__this->___m_Group_18);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_006e;
@@ -5084,7 +5084,7 @@ IL_006e:
 		ToggleEvent_t6_130 * L_14 = (__this->___onValueChanged_19);
 		bool L_15 = (__this->___m_IsOn_20);
 		NullCheck(L_14);
-		UnityEvent_1_Invoke_m5_1851(L_14, L_15, /*hidden argument*/UnityEvent_1_Invoke_m5_1851_MethodInfo_var);
+		UnityEvent_1_Invoke_m5_1849(L_14, L_15, /*hidden argument*/UnityEvent_1_Invoke_m5_1849_MethodInfo_var);
 	}
 
 IL_0094:
@@ -5108,7 +5108,7 @@ extern "C" void Toggle_PlayEffect_m6_1163 (Toggle_t6_66 * __this, bool ___instan
 	Graphic_t6_76 * G_B8_2 = {0};
 	{
 		Graphic_t6_76 * L_0 = (__this->___graphic_17);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -5254,7 +5254,7 @@ extern "C" bool Toggle_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_1168 (Toggle
 extern "C" Transform_t5_71 * Toggle_UnityEngine_UI_ICanvasElement_get_transform_m6_1169 (Toggle_t6_66 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
@@ -5313,7 +5313,7 @@ extern "C" void ToggleGroup_ValidateToggleIsInGroup_m6_1173 (ToggleGroup_t6_131 
 	}
 	{
 		Toggle_t6_66 * L_0 = ___toggle;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_001d;
@@ -5373,7 +5373,7 @@ IL_000e:
 		NullCheck(L_1);
 		Toggle_t6_66 * L_3 = (Toggle_t6_66 *)VirtFuncInvoker1< Toggle_t6_66 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.UI.Toggle>::get_Item(System.Int32) */, L_1, L_2);
 		Toggle_t6_66 * L_4 = ___toggle;
-		bool L_5 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_3, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_002a;
@@ -5507,7 +5507,7 @@ IL_001e:
 		Predicate_1_t1_929 * L_4 = ((ToggleGroup_t6_131_StaticFields*)ToggleGroup_t6_131_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache2_4;
 		NullCheck(G_B2_0);
 		Toggle_t6_66 * L_5 = List_1_Find_m1_5559(G_B2_0, L_4, /*hidden argument*/List_1_Find_m1_5559_MethodInfo_var);
-		bool L_6 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return L_6;
 	}
 }
@@ -5975,13 +5975,13 @@ extern "C" void RectangularVertexClipper__ctor_m6_1189 (RectangularVertexClipper
 	}
 }
 // UnityEngine.Rect UnityEngine.UI.RectangularVertexClipper::GetCanvasRect(UnityEngine.RectTransform,UnityEngine.Canvas)
-extern const MethodInfo* Component_GetComponent_TisTransform_t5_71_m5_1867_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisTransform_t5_71_m5_1865_MethodInfo_var;
 extern "C" Rect_t5_48  RectangularVertexClipper_GetCanvasRect_m6_1190 (RectangularVertexClipper_t6_109 * __this, RectTransform_t5_70 * ___t, Canvas_t5_177 * ___c, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisTransform_t5_71_m5_1867_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483973);
+		Component_GetComponent_TisTransform_t5_71_m5_1865_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483973);
 		s_Il2CppMethodIntialized = true;
 	}
 	Transform_t5_71 * V_0 = {0};
@@ -5993,7 +5993,7 @@ extern "C" Rect_t5_48  RectangularVertexClipper_GetCanvasRect_m6_1190 (Rectangul
 		RectTransform_GetWorldCorners_m5_503(L_0, L_1, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_2 = ___c;
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Component_GetComponent_TisTransform_t5_71_m5_1867(L_2, /*hidden argument*/Component_GetComponent_TisTransform_t5_71_m5_1867_MethodInfo_var);
+		Transform_t5_71 * L_3 = Component_GetComponent_TisTransform_t5_71_m5_1865(L_2, /*hidden argument*/Component_GetComponent_TisTransform_t5_71_m5_1865_MethodInfo_var);
 		V_0 = L_3;
 		V_1 = 0;
 		goto IL_0046;
@@ -6011,7 +6011,7 @@ IL_001a:
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, L_8);
 		NullCheck(L_6);
-		Vector3_t5_45  L_9 = Transform_InverseTransformPoint_m5_822(L_6, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_7, L_8, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_9 = Transform_InverseTransformPoint_m5_820(L_6, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_7, L_8, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_4, L_5, sizeof(Vector3_t5_45 )))) = L_9;
 		int32_t L_10 = V_1;
 		V_1 = ((int32_t)((int32_t)L_10+(int32_t)1));
@@ -6137,25 +6137,25 @@ IL_0017:
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.AspectRatioFitter::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * AspectRatioFitter_get_rectTransform_m6_1196 (AspectRatioFitter_t6_136 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Rect_4);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_Rect_4 = L_2;
 	}
 
@@ -6385,10 +6385,10 @@ extern "C" Vector2_t5_44  AspectRatioFitter_GetParentSize_m6_1202 (AspectRatioFi
 	{
 		RectTransform_t5_70 * L_0 = AspectRatioFitter_get_rectTransform_m6_1196(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_parent_m5_806(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_parent_m5_804(L_0, /*hidden argument*/NULL);
 		V_0 = ((RectTransform_t5_70 *)IsInstSealed(L_1, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_2 = V_0;
-		bool L_3 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_0022;
@@ -6693,18 +6693,18 @@ extern "C" void CanvasScaler_set_dynamicPixelsPerUnit_m6_1226 (CanvasScaler_t6_1
 	}
 }
 // System.Void UnityEngine.UI.CanvasScaler::OnEnable()
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern "C" void CanvasScaler_OnEnable_m6_1227 (CanvasScaler_t6_140 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
-		Canvas_t5_177 * L_0 = Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_0 = Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		__this->___m_Canvas_13 = L_0;
 		VirtActionInvoker0::Invoke(17 /* System.Void UnityEngine.UI.CanvasScaler::Handle() */, __this);
 		return;
@@ -6734,7 +6734,7 @@ extern "C" void CanvasScaler_Handle_m6_1230 (CanvasScaler_t6_140 * __this, const
 	int32_t V_0 = {0};
 	{
 		Canvas_t5_177 * L_0 = (__this->___m_Canvas_13);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0021;
@@ -6743,7 +6743,7 @@ extern "C" void CanvasScaler_Handle_m6_1230 (CanvasScaler_t6_140 * __this, const
 	{
 		Canvas_t5_177 * L_2 = (__this->___m_Canvas_13);
 		NullCheck(L_2);
-		bool L_3 = Canvas_get_isRootCanvas_m5_1204(L_2, /*hidden argument*/NULL);
+		bool L_3 = Canvas_get_isRootCanvas_m5_1202(L_2, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_0022;
@@ -6759,7 +6759,7 @@ IL_0022:
 	{
 		Canvas_t5_177 * L_4 = (__this->___m_Canvas_13);
 		NullCheck(L_4);
-		int32_t L_5 = Canvas_get_renderMode_m5_1203(L_4, /*hidden argument*/NULL);
+		int32_t L_5 = Canvas_get_renderMode_m5_1201(L_4, /*hidden argument*/NULL);
 		if ((!(((uint32_t)L_5) == ((uint32_t)2))))
 		{
 			goto IL_003a;
@@ -6869,7 +6869,7 @@ extern "C" void CanvasScaler_HandleScaleWithScreenSize_m6_1233 (CanvasScaler_t6_
 	{
 		Canvas_t5_177 * L_3 = (__this->___m_Canvas_13);
 		NullCheck(L_3);
-		int32_t L_4 = Canvas_get_targetDisplay_m5_1216(L_3, /*hidden argument*/NULL);
+		int32_t L_4 = Canvas_get_targetDisplay_m5_1214(L_3, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
 		DisplayU5BU5D_t5_92* L_5 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1;
 		NullCheck(L_5);
@@ -6883,7 +6883,7 @@ extern "C" void CanvasScaler_HandleScaleWithScreenSize_m6_1233 (CanvasScaler_t6_
 		DisplayU5BU5D_t5_92* L_6 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1;
 		Canvas_t5_177 * L_7 = (__this->___m_Canvas_13);
 		NullCheck(L_7);
-		int32_t L_8 = Canvas_get_targetDisplay_m5_1216(L_7, /*hidden argument*/NULL);
+		int32_t L_8 = Canvas_get_targetDisplay_m5_1214(L_7, /*hidden argument*/NULL);
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, L_8);
 		int32_t L_9 = L_8;
@@ -7104,7 +7104,7 @@ IL_000d:
 		Canvas_t5_177 * L_2 = (__this->___m_Canvas_13);
 		float L_3 = ___scaleFactor;
 		NullCheck(L_2);
-		Canvas_set_scaleFactor_m5_1207(L_2, L_3, /*hidden argument*/NULL);
+		Canvas_set_scaleFactor_m5_1205(L_2, L_3, /*hidden argument*/NULL);
 		float L_4 = ___scaleFactor;
 		__this->___m_PrevScaleFactor_14 = L_4;
 		return;
@@ -7130,7 +7130,7 @@ IL_000d:
 		Canvas_t5_177 * L_2 = (__this->___m_Canvas_13);
 		float L_3 = ___referencePixelsPerUnit;
 		NullCheck(L_2);
-		Canvas_set_referencePixelsPerUnit_m5_1209(L_2, L_3, /*hidden argument*/NULL);
+		Canvas_set_referencePixelsPerUnit_m5_1207(L_2, L_3, /*hidden argument*/NULL);
 		float L_4 = ___referencePixelsPerUnit;
 		__this->___m_PrevReferencePixelsPerUnit_15 = L_4;
 		return;
@@ -7217,25 +7217,25 @@ IL_0017:
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.ContentSizeFitter::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * ContentSizeFitter_get_rectTransform_m6_1242 (ContentSizeFitter_t6_142 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Rect_4);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_Rect_4 = L_2;
 	}
 
@@ -9426,7 +9426,7 @@ extern "C" void LayoutElement_SetDirty_m6_1305 (LayoutElement_t6_150 * __this, c
 
 IL_000c:
 	{
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		LayoutRebuilder_MarkLayoutForRebuild_m6_1346(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_1, RectTransform_t5_70_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		return;
@@ -9528,25 +9528,25 @@ extern "C" void LayoutGroup_set_childAlignment_m6_1310 (LayoutGroup_t6_147 * __t
 	}
 }
 // UnityEngine.RectTransform UnityEngine.UI.LayoutGroup::get_rectTransform()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" RectTransform_t5_70 * LayoutGroup_get_rectTransform_m6_1311 (LayoutGroup_t6_147 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_Rect_4);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___m_Rect_4 = L_2;
 	}
 
@@ -9607,10 +9607,10 @@ IL_0018:
 		RectTransform_t5_70 * L_2 = LayoutGroup_get_rectTransform_m6_1311(__this, /*hidden argument*/NULL);
 		int32_t L_3 = V_1;
 		NullCheck(L_2);
-		Transform_t5_71 * L_4 = Transform_GetChild_m5_831(L_2, L_3, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Transform_GetChild_m5_829(L_2, L_3, /*hidden argument*/NULL);
 		V_2 = ((RectTransform_t5_70 *)IsInstSealed(L_4, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_5 = V_2;
-		bool L_6 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_6)
 		{
 			goto IL_0046;
@@ -9619,9 +9619,9 @@ IL_0018:
 	{
 		RectTransform_t5_70 * L_7 = V_2;
 		NullCheck(L_7);
-		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_724(L_7, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_722(L_7, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		bool L_9 = GameObject_get_activeInHierarchy_m5_771(L_8, /*hidden argument*/NULL);
+		bool L_9 = GameObject_get_activeInHierarchy_m5_769(L_8, /*hidden argument*/NULL);
 		if (L_9)
 		{
 			goto IL_004b;
@@ -9640,7 +9640,7 @@ IL_004b:
 		Type_t * L_11 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutIgnorer_t6_189_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_12 = V_0;
 		NullCheck(L_10);
-		Component_GetComponents_m5_737(L_10, L_11, L_12, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_10, L_11, L_12, /*hidden argument*/NULL);
 		List_1_t1_894 * L_13 = V_0;
 		NullCheck(L_13);
 		int32_t L_14 = (int32_t)VirtFuncInvoker0< int32_t >::Invoke(20 /* System.Int32 System.Collections.Generic.List`1<UnityEngine.Component>::get_Count() */, L_13);
@@ -9715,7 +9715,7 @@ IL_00be:
 		int32_t L_29 = V_1;
 		RectTransform_t5_70 * L_30 = LayoutGroup_get_rectTransform_m6_1311(__this, /*hidden argument*/NULL);
 		NullCheck(L_30);
-		int32_t L_31 = Transform_get_childCount_m5_825(L_30, /*hidden argument*/NULL);
+		int32_t L_31 = Transform_get_childCount_m5_823(L_30, /*hidden argument*/NULL);
 		if ((((int32_t)L_29) < ((int32_t)L_31)))
 		{
 			goto IL_0018;
@@ -9987,7 +9987,7 @@ extern "C" void LayoutGroup_SetChildAlongAxis_m6_1329 (LayoutGroup_t6_147 * __th
 	RectTransform_t5_70 * G_B5_1 = {0};
 	{
 		RectTransform_t5_70 * L_0 = ___rect;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -10046,12 +10046,12 @@ extern "C" bool LayoutGroup_get_isRootLayoutGroup_m6_1330 (LayoutGroup_t6_147 * 
 	}
 	Transform_t5_71 * V_0 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_parent_m5_806(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_parent_m5_804(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Transform_t5_71 * L_2 = V_0;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_001a;
@@ -10063,14 +10063,14 @@ extern "C" bool LayoutGroup_get_isRootLayoutGroup_m6_1330 (LayoutGroup_t6_147 * 
 
 IL_001a:
 	{
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Transform_get_parent_m5_806(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Transform_get_parent_m5_804(L_4, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
 		Type_t * L_6 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutGroup_t6_190_0_0_0_var), /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Component_t5_25 * L_7 = Component_GetComponent_m5_725(L_5, L_6, /*hidden argument*/NULL);
-		bool L_8 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Component_t5_25 * L_7 = Component_GetComponent_m5_723(L_5, L_6, /*hidden argument*/NULL);
+		bool L_8 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_7, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -10145,7 +10145,7 @@ extern TypeInfo* UnityAction_1_t5_318_il2cpp_TypeInfo_var;
 extern TypeInfo* ObjectPool_1_t6_152_il2cpp_TypeInfo_var;
 extern TypeInfo* ReapplyDrivenProperties_t5_69_il2cpp_TypeInfo_var;
 extern const MethodInfo* LayoutRebuilder_U3Cs_RebuildersU3Em__6_m6_1355_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1868_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1866_MethodInfo_var;
 extern const MethodInfo* ObjectPool_1__ctor_m6_1528_MethodInfo_var;
 extern const MethodInfo* LayoutRebuilder_ReapplyDrivenProperties_m6_1338_MethodInfo_var;
 extern "C" void LayoutRebuilder__cctor_m6_1335 (Object_t * __this /* static, unused */, const MethodInfo* method)
@@ -10158,7 +10158,7 @@ extern "C" void LayoutRebuilder__cctor_m6_1335 (Object_t * __this /* static, unu
 		ObjectPool_1_t6_152_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1177);
 		ReapplyDrivenProperties_t5_69_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(868);
 		LayoutRebuilder_U3Cs_RebuildersU3Em__6_m6_1355_MethodInfo_var = il2cpp_codegen_method_info_from_index(338);
-		UnityAction_1__ctor_m5_1868_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483987);
+		UnityAction_1__ctor_m5_1866_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483987);
 		ObjectPool_1__ctor_m6_1528_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483988);
 		LayoutRebuilder_ReapplyDrivenProperties_m6_1338_MethodInfo_var = il2cpp_codegen_method_info_from_index(341);
 		s_Il2CppMethodIntialized = true;
@@ -10177,7 +10177,7 @@ extern "C" void LayoutRebuilder__cctor_m6_1335 (Object_t * __this /* static, unu
 	{
 		IntPtr_t L_1 = { (void*)LayoutRebuilder_U3Cs_RebuildersU3Em__6_m6_1355_MethodInfo_var };
 		UnityAction_1_t5_318 * L_2 = (UnityAction_1_t5_318 *)il2cpp_codegen_object_new (UnityAction_1_t5_318_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1868(L_2, NULL, L_1, /*hidden argument*/UnityAction_1__ctor_m5_1868_MethodInfo_var);
+		UnityAction_1__ctor_m5_1866(L_2, NULL, L_1, /*hidden argument*/UnityAction_1__ctor_m5_1866_MethodInfo_var);
 		((LayoutRebuilder_t6_151_StaticFields*)LayoutRebuilder_t6_151_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache3_3 = L_2;
 		G_B2_0 = G_B1_0;
 	}
@@ -10247,7 +10247,7 @@ extern "C" bool LayoutRebuilder_IsDestroyed_m6_1340 (LayoutRebuilder_t6_151 * __
 {
 	{
 		RectTransform_t5_70 * L_0 = (__this->___m_ToRebuild_0);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
@@ -10339,7 +10339,7 @@ extern "C" void LayoutRebuilder_ForceRebuildLayoutImmediate_m6_1342 (Object_t * 
 extern TypeInfo* LayoutRebuilder_t6_151_il2cpp_TypeInfo_var;
 extern TypeInfo* UnityAction_1_t5_319_il2cpp_TypeInfo_var;
 extern const MethodInfo* LayoutRebuilder_U3CRebuildU3Em__8_m6_1357_MethodInfo_var;
-extern const MethodInfo* UnityAction_1__ctor_m5_1869_MethodInfo_var;
+extern const MethodInfo* UnityAction_1__ctor_m5_1867_MethodInfo_var;
 extern const MethodInfo* LayoutRebuilder_U3CRebuildU3Em__9_m6_1358_MethodInfo_var;
 extern const MethodInfo* LayoutRebuilder_U3CRebuildU3Em__A_m6_1359_MethodInfo_var;
 extern const MethodInfo* LayoutRebuilder_U3CRebuildU3Em__B_m6_1360_MethodInfo_var;
@@ -10351,7 +10351,7 @@ extern "C" void LayoutRebuilder_Rebuild_m6_1343 (LayoutRebuilder_t6_151 * __this
 		LayoutRebuilder_t6_151_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1091);
 		UnityAction_1_t5_319_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1179);
 		LayoutRebuilder_U3CRebuildU3Em__8_m6_1357_MethodInfo_var = il2cpp_codegen_method_info_from_index(347);
-		UnityAction_1__ctor_m5_1869_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483996);
+		UnityAction_1__ctor_m5_1867_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483996);
 		LayoutRebuilder_U3CRebuildU3Em__9_m6_1358_MethodInfo_var = il2cpp_codegen_method_info_from_index(349);
 		LayoutRebuilder_U3CRebuildU3Em__A_m6_1359_MethodInfo_var = il2cpp_codegen_method_info_from_index(350);
 		LayoutRebuilder_U3CRebuildU3Em__B_m6_1360_MethodInfo_var = il2cpp_codegen_method_info_from_index(351);
@@ -10404,7 +10404,7 @@ IL_000e:
 	{
 		IntPtr_t L_4 = { (void*)LayoutRebuilder_U3CRebuildU3Em__8_m6_1357_MethodInfo_var };
 		UnityAction_1_t5_319 * L_5 = (UnityAction_1_t5_319 *)il2cpp_codegen_object_new (UnityAction_1_t5_319_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1869(L_5, NULL, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1869_MethodInfo_var);
+		UnityAction_1__ctor_m5_1867(L_5, NULL, L_4, /*hidden argument*/UnityAction_1__ctor_m5_1867_MethodInfo_var);
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		((LayoutRebuilder_t6_151_StaticFields*)LayoutRebuilder_t6_151_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache5_5 = L_5;
 		G_B4_0 = G_B3_0;
@@ -10431,7 +10431,7 @@ IL_002d:
 	{
 		IntPtr_t L_9 = { (void*)LayoutRebuilder_U3CRebuildU3Em__9_m6_1358_MethodInfo_var };
 		UnityAction_1_t5_319 * L_10 = (UnityAction_1_t5_319 *)il2cpp_codegen_object_new (UnityAction_1_t5_319_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1869(L_10, NULL, L_9, /*hidden argument*/UnityAction_1__ctor_m5_1869_MethodInfo_var);
+		UnityAction_1__ctor_m5_1867(L_10, NULL, L_9, /*hidden argument*/UnityAction_1__ctor_m5_1867_MethodInfo_var);
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		((LayoutRebuilder_t6_151_StaticFields*)LayoutRebuilder_t6_151_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache6_6 = L_10;
 		G_B6_0 = G_B5_0;
@@ -10458,7 +10458,7 @@ IL_0056:
 	{
 		IntPtr_t L_14 = { (void*)LayoutRebuilder_U3CRebuildU3Em__A_m6_1359_MethodInfo_var };
 		UnityAction_1_t5_319 * L_15 = (UnityAction_1_t5_319 *)il2cpp_codegen_object_new (UnityAction_1_t5_319_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1869(L_15, NULL, L_14, /*hidden argument*/UnityAction_1__ctor_m5_1869_MethodInfo_var);
+		UnityAction_1__ctor_m5_1867(L_15, NULL, L_14, /*hidden argument*/UnityAction_1__ctor_m5_1867_MethodInfo_var);
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		((LayoutRebuilder_t6_151_StaticFields*)LayoutRebuilder_t6_151_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache7_7 = L_15;
 		G_B8_0 = G_B7_0;
@@ -10485,7 +10485,7 @@ IL_007f:
 	{
 		IntPtr_t L_19 = { (void*)LayoutRebuilder_U3CRebuildU3Em__B_m6_1360_MethodInfo_var };
 		UnityAction_1_t5_319 * L_20 = (UnityAction_1_t5_319 *)il2cpp_codegen_object_new (UnityAction_1_t5_319_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_m5_1869(L_20, NULL, L_19, /*hidden argument*/UnityAction_1__ctor_m5_1869_MethodInfo_var);
+		UnityAction_1__ctor_m5_1867(L_20, NULL, L_19, /*hidden argument*/UnityAction_1__ctor_m5_1867_MethodInfo_var);
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		((LayoutRebuilder_t6_151_StaticFields*)LayoutRebuilder_t6_151_il2cpp_TypeInfo_var->static_fields)->___U3CU3Ef__amU24cache8_8 = L_20;
 		G_B10_0 = G_B9_0;
@@ -10514,7 +10514,7 @@ extern TypeInfo* LayoutRebuilder_t6_151_il2cpp_TypeInfo_var;
 extern TypeInfo* ILayoutSelfController_t6_192_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* UnityAction_1_Invoke_m5_1870_MethodInfo_var;
+extern const MethodInfo* UnityAction_1_Invoke_m5_1868_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" void LayoutRebuilder_PerformLayoutControl_m6_1344 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_319 * ___action, const MethodInfo* method)
 {
@@ -10528,7 +10528,7 @@ extern "C" void LayoutRebuilder_PerformLayoutControl_m6_1344 (LayoutRebuilder_t6
 		ILayoutSelfController_t6_192_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1181);
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		UnityAction_1_Invoke_m5_1870_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484000);
+		UnityAction_1_Invoke_m5_1868_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484000);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -10538,7 +10538,7 @@ extern "C" void LayoutRebuilder_PerformLayoutControl_m6_1344 (LayoutRebuilder_t6
 	int32_t V_3 = 0;
 	{
 		RectTransform_t5_70 * L_0 = ___rect;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -10558,7 +10558,7 @@ IL_000d:
 		Type_t * L_4 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutController_t6_191_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_5 = V_0;
 		NullCheck(L_3);
-		Component_GetComponents_m5_737(L_3, L_4, L_5, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_3, L_4, L_5, /*hidden argument*/NULL);
 		List_1_t1_894 * L_6 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		LayoutRebuilder_StripDisabledBehavioursFromList_m6_1341(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
@@ -10593,7 +10593,7 @@ IL_003d:
 		NullCheck(L_13);
 		Component_t5_25 * L_15 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_13, L_14);
 		NullCheck(L_12);
-		UnityAction_1_Invoke_m5_1870(L_12, L_15, /*hidden argument*/UnityAction_1_Invoke_m5_1870_MethodInfo_var);
+		UnityAction_1_Invoke_m5_1868(L_12, L_15, /*hidden argument*/UnityAction_1_Invoke_m5_1868_MethodInfo_var);
 	}
 
 IL_005b:
@@ -10636,7 +10636,7 @@ IL_0072:
 		NullCheck(L_24);
 		Component_t5_25 * L_26 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_24, L_25);
 		NullCheck(L_23);
-		UnityAction_1_Invoke_m5_1870(L_23, L_26, /*hidden argument*/UnityAction_1_Invoke_m5_1870_MethodInfo_var);
+		UnityAction_1_Invoke_m5_1868(L_23, L_26, /*hidden argument*/UnityAction_1_Invoke_m5_1868_MethodInfo_var);
 	}
 
 IL_0090:
@@ -10666,7 +10666,7 @@ IL_00a7:
 		RectTransform_t5_70 * L_31 = ___rect;
 		int32_t L_32 = V_3;
 		NullCheck(L_31);
-		Transform_t5_71 * L_33 = Transform_GetChild_m5_831(L_31, L_32, /*hidden argument*/NULL);
+		Transform_t5_71 * L_33 = Transform_GetChild_m5_829(L_31, L_32, /*hidden argument*/NULL);
 		UnityAction_1_t5_319 * L_34 = ___action;
 		LayoutRebuilder_PerformLayoutControl_m6_1344(__this, ((RectTransform_t5_70 *)IsInstSealed(L_33, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_34, /*hidden argument*/NULL);
 		int32_t L_35 = V_3;
@@ -10678,7 +10678,7 @@ IL_00be:
 		int32_t L_36 = V_3;
 		RectTransform_t5_70 * L_37 = ___rect;
 		NullCheck(L_37);
-		int32_t L_38 = Transform_get_childCount_m5_825(L_37, /*hidden argument*/NULL);
+		int32_t L_38 = Transform_get_childCount_m5_823(L_37, /*hidden argument*/NULL);
 		if ((((int32_t)L_36) < ((int32_t)L_38)))
 		{
 			goto IL_00a7;
@@ -10700,7 +10700,7 @@ extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
 extern TypeInfo* LayoutRebuilder_t6_151_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern const MethodInfo* ListPool_1_Get_m6_1479_MethodInfo_var;
-extern const MethodInfo* UnityAction_1_Invoke_m5_1870_MethodInfo_var;
+extern const MethodInfo* UnityAction_1_Invoke_m5_1868_MethodInfo_var;
 extern const MethodInfo* ListPool_1_Release_m6_1480_MethodInfo_var;
 extern "C" void LayoutRebuilder_PerformLayoutCalculation_m6_1345 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_319 * ___action, const MethodInfo* method)
 {
@@ -10713,7 +10713,7 @@ extern "C" void LayoutRebuilder_PerformLayoutCalculation_m6_1345 (LayoutRebuilde
 		LayoutRebuilder_t6_151_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1091);
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		ListPool_1_Get_m6_1479_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483901);
-		UnityAction_1_Invoke_m5_1870_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484000);
+		UnityAction_1_Invoke_m5_1868_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484000);
 		ListPool_1_Release_m6_1480_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483902);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -10722,7 +10722,7 @@ extern "C" void LayoutRebuilder_PerformLayoutCalculation_m6_1345 (LayoutRebuilde
 	int32_t V_2 = 0;
 	{
 		RectTransform_t5_70 * L_0 = ___rect;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -10742,7 +10742,7 @@ IL_000d:
 		Type_t * L_4 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutElement_t6_181_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_5 = V_0;
 		NullCheck(L_3);
-		Component_GetComponents_m5_737(L_3, L_4, L_5, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_3, L_4, L_5, /*hidden argument*/NULL);
 		List_1_t1_894 * L_6 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		LayoutRebuilder_StripDisabledBehavioursFromList_m6_1341(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
@@ -10764,7 +10764,7 @@ IL_003d:
 		RectTransform_t5_70 * L_9 = ___rect;
 		int32_t L_10 = V_1;
 		NullCheck(L_9);
-		Transform_t5_71 * L_11 = Transform_GetChild_m5_831(L_9, L_10, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = Transform_GetChild_m5_829(L_9, L_10, /*hidden argument*/NULL);
 		UnityAction_1_t5_319 * L_12 = ___action;
 		LayoutRebuilder_PerformLayoutCalculation_m6_1345(__this, ((RectTransform_t5_70 *)IsInstSealed(L_11, RectTransform_t5_70_il2cpp_TypeInfo_var)), L_12, /*hidden argument*/NULL);
 		int32_t L_13 = V_1;
@@ -10776,7 +10776,7 @@ IL_0054:
 		int32_t L_14 = V_1;
 		RectTransform_t5_70 * L_15 = ___rect;
 		NullCheck(L_15);
-		int32_t L_16 = Transform_get_childCount_m5_825(L_15, /*hidden argument*/NULL);
+		int32_t L_16 = Transform_get_childCount_m5_823(L_15, /*hidden argument*/NULL);
 		if ((((int32_t)L_14) < ((int32_t)L_16)))
 		{
 			goto IL_003d;
@@ -10795,7 +10795,7 @@ IL_0067:
 		NullCheck(L_18);
 		Component_t5_25 * L_20 = (Component_t5_25 *)VirtFuncInvoker1< Component_t5_25 *, int32_t >::Invoke(31 /* !0 System.Collections.Generic.List`1<UnityEngine.Component>::get_Item(System.Int32) */, L_18, L_19);
 		NullCheck(L_17);
-		UnityAction_1_Invoke_m5_1870(L_17, L_20, /*hidden argument*/UnityAction_1_Invoke_m5_1870_MethodInfo_var);
+		UnityAction_1_Invoke_m5_1868(L_17, L_20, /*hidden argument*/UnityAction_1_Invoke_m5_1868_MethodInfo_var);
 		int32_t L_21 = V_2;
 		V_2 = ((int32_t)((int32_t)L_21+(int32_t)1));
 	}
@@ -10843,7 +10843,7 @@ extern "C" void LayoutRebuilder_MarkLayoutForRebuild_m6_1346 (Object_t * __this 
 	RectTransform_t5_70 * V_2 = {0};
 	{
 		RectTransform_t5_70 * L_0 = ___rect;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -10866,7 +10866,7 @@ IL_0015:
 	{
 		RectTransform_t5_70 * L_4 = V_1;
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Transform_get_parent_m5_806(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Transform_get_parent_m5_804(L_4, /*hidden argument*/NULL);
 		V_2 = ((RectTransform_t5_70 *)IsInstSealed(L_5, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_6 = V_2;
 		List_1_t1_894 * L_7 = V_0;
@@ -10892,7 +10892,7 @@ IL_0039:
 	{
 		RectTransform_t5_70 * L_10 = V_1;
 		RectTransform_t5_70 * L_11 = ___rect;
-		bool L_12 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
+		bool L_12 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
 		if (!L_12)
 		{
 			goto IL_0058;
@@ -10943,7 +10943,7 @@ extern "C" bool LayoutRebuilder_ValidLayoutGroup_m6_1347 (Object_t * __this /* s
 	bool V_0 = false;
 	{
 		RectTransform_t5_70 * L_0 = ___parent;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000e;
@@ -10960,7 +10960,7 @@ IL_000e:
 		Type_t * L_3 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutGroup_t6_190_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_4 = ___comps;
 		NullCheck(L_2);
-		Component_GetComponents_m5_737(L_2, L_3, L_4, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_2, L_3, L_4, /*hidden argument*/NULL);
 		List_1_t1_894 * L_5 = ___comps;
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		LayoutRebuilder_StripDisabledBehavioursFromList_m6_1341(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
@@ -10989,7 +10989,7 @@ extern "C" bool LayoutRebuilder_ValidController_m6_1348 (Object_t * __this /* st
 	bool V_0 = false;
 	{
 		RectTransform_t5_70 * L_0 = ___layoutRoot;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000e;
@@ -11006,7 +11006,7 @@ IL_000e:
 		Type_t * L_3 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutController_t6_191_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_4 = ___comps;
 		NullCheck(L_2);
-		Component_GetComponents_m5_737(L_2, L_3, L_4, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_2, L_3, L_4, /*hidden argument*/NULL);
 		List_1_t1_894 * L_5 = ___comps;
 		IL2CPP_RUNTIME_CLASS_INIT(LayoutRebuilder_t6_151_il2cpp_TypeInfo_var);
 		LayoutRebuilder_StripDisabledBehavioursFromList_m6_1341(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
@@ -11037,7 +11037,7 @@ extern "C" void LayoutRebuilder_MarkLayoutRootForRebuild_m6_1349 (Object_t * __t
 	LayoutRebuilder_t6_151 * V_0 = {0};
 	{
 		RectTransform_t5_70 * L_0 = ___controller;
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_000d;
@@ -11700,7 +11700,7 @@ extern "C" float LayoutUtility_GetLayoutProperty_m6_1371 (Object_t * __this /* s
 		Object_t ** L_0 = ___source;
 		*((Object_t **)(L_0)) = (Object_t *)NULL;
 		RectTransform_t5_70 * L_1 = ___rect;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0015;
@@ -11723,7 +11723,7 @@ IL_0015:
 		Type_t * L_6 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(ILayoutElement_t6_181_0_0_0_var), /*hidden argument*/NULL);
 		List_1_t1_894 * L_7 = V_2;
 		NullCheck(L_5);
-		Component_GetComponents_m5_737(L_5, L_6, L_7, /*hidden argument*/NULL);
+		Component_GetComponents_m5_735(L_5, L_6, L_7, /*hidden argument*/NULL);
 		V_3 = 0;
 		goto IL_00c6;
 	}
@@ -12634,7 +12634,7 @@ extern "C" void VertexHelper_AddUIVertexStream_m6_1400 (VertexHelper_t6_78 * __t
 		List_1_t1_891 * L_5 = (__this->___m_Uv1S_3);
 		List_1_t1_889 * L_6 = (__this->___m_Normals_4);
 		List_1_t1_890 * L_7 = (__this->___m_Tangents_5);
-		CanvasRenderer_AddUIVertexStream_m5_1251(NULL /*static, unused*/, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
+		CanvasRenderer_AddUIVertexStream_m5_1249(NULL /*static, unused*/, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
 	}
 
 IL_0030:
@@ -12669,7 +12669,7 @@ extern "C" void VertexHelper_AddUIVertexTriangleStream_m6_1401 (VertexHelper_t6_
 		List_1_t1_889 * L_5 = (__this->___m_Normals_4);
 		List_1_t1_890 * L_6 = (__this->___m_Tangents_5);
 		List_1_t1_893 * L_7 = (__this->___m_Indices_6);
-		CanvasRenderer_SplitUIVertexStreams_m5_1246(NULL /*static, unused*/, L_0, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
+		CanvasRenderer_SplitUIVertexStreams_m5_1244(NULL /*static, unused*/, L_0, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -12685,7 +12685,7 @@ extern "C" void VertexHelper_GetUIVertexStream_m6_1402 (VertexHelper_t6_78 * __t
 		List_1_t1_889 * L_5 = (__this->___m_Normals_4);
 		List_1_t1_890 * L_6 = (__this->___m_Tangents_5);
 		List_1_t1_893 * L_7 = (__this->___m_Indices_6);
-		CanvasRenderer_CreateUIVertexStream_m5_1249(NULL /*static, unused*/, L_0, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
+		CanvasRenderer_CreateUIVertexStream_m5_1247(NULL /*static, unused*/, L_0, L_1, L_2, L_3, L_4, L_5, L_6, L_7, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -12706,25 +12706,25 @@ extern "C" void BaseMeshEffect__ctor_m6_1404 (BaseMeshEffect_t6_156 * __this, co
 	}
 }
 // UnityEngine.UI.Graphic UnityEngine.UI.BaseMeshEffect::get_graphic()
-extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var;
 extern "C" Graphic_t6_76 * BaseMeshEffect_get_graphic_m6_1405 (BaseMeshEffect_t6_156 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
+		Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483938);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Graphic_t6_76 * L_0 = (__this->___m_Graphic_2);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001d;
 		}
 	}
 	{
-		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1848(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1848_MethodInfo_var);
+		Graphic_t6_76 * L_2 = Component_GetComponent_TisGraphic_t6_76_m5_1846(__this, /*hidden argument*/Component_GetComponent_TisGraphic_t6_76_m5_1846_MethodInfo_var);
 		__this->___m_Graphic_2 = L_2;
 	}
 
@@ -12740,7 +12740,7 @@ extern "C" void BaseMeshEffect_OnEnable_m6_1406 (BaseMeshEffect_t6_156 * __this,
 	{
 		UIBehaviour_OnEnable_m6_99(__this, /*hidden argument*/NULL);
 		Graphic_t6_76 * L_0 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0022;
@@ -12762,7 +12762,7 @@ extern "C" void BaseMeshEffect_OnDisable_m6_1407 (BaseMeshEffect_t6_156 * __this
 {
 	{
 		Graphic_t6_76 * L_0 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -12785,7 +12785,7 @@ extern "C" void BaseMeshEffect_OnDidApplyAnimationProperties_m6_1408 (BaseMeshEf
 {
 	{
 		Graphic_t6_76 * L_0 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -13119,7 +13119,7 @@ extern "C" void Shadow__ctor_m6_1414 (Shadow_t6_158 * __this, const MethodInfo* 
 {
 	{
 		Color_t5_165  L_0 = {0};
-		Color__ctor_m5_1579(&L_0, (0.0f), (0.0f), (0.0f), (0.5f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_0, (0.0f), (0.0f), (0.0f), (0.5f), /*hidden argument*/NULL);
 		__this->___m_EffectColor_4 = L_0;
 		Vector2_t5_44  L_1 = {0};
 		Vector2__ctor_m5_193(&L_1, (1.0f), (-1.0f), /*hidden argument*/NULL);
@@ -13144,7 +13144,7 @@ extern "C" void Shadow_set_effectColor_m6_1416 (Shadow_t6_158 * __this, Color_t5
 		Color_t5_165  L_0 = ___value;
 		__this->___m_EffectColor_4 = L_0;
 		Graphic_t6_76 * L_1 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0023;
@@ -13238,7 +13238,7 @@ IL_0086:
 		Vector2_t5_44  L_7 = ___value;
 		__this->___m_EffectDistance_5 = L_7;
 		Graphic_t6_76 * L_8 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_00a9;
@@ -13270,7 +13270,7 @@ extern "C" void Shadow_set_useGraphicAlpha_m6_1420 (Shadow_t6_158 * __this, bool
 		bool L_0 = ___value;
 		__this->___m_UseGraphicAlpha_6 = L_0;
 		Graphic_t6_76 * L_1 = BaseMeshEffect_get_graphic_m6_1405(__this, /*hidden argument*/NULL);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0023;

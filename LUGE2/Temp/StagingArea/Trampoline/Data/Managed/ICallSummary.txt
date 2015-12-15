@@ -264,7 +264,6 @@ UnityEngine.Input::get_touchCount
 UnityEngine.Input::GetAxis
 UnityEngine.Input::GetAxisRaw
 UnityEngine.Input::get_compositionString
-UnityEngine.Input::INTERNAL_get_acceleration
 UnityEngine.Input::INTERNAL_get_mousePosition
 UnityEngine.Input::INTERNAL_get_mouseScrollDelta
 UnityEngine.Input::INTERNAL_set_compositionCursorPos
