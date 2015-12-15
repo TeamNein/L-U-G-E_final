@@ -26,14 +26,14 @@ struct ObjectU5BU5D_t1_156;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Events.InvokableCall`1<System.Int32>::.ctor(System.Object,System.Reflection.MethodInfo)
-extern "C" void InvokableCall_1__ctor_m5_1951_gshared (InvokableCall_1_t5_347 * __this, Object_t * ___target, MethodInfo_t * ___theFunction, const MethodInfo* method);
-#define InvokableCall_1__ctor_m5_1951(__this, ___target, ___theFunction, method) (( void (*) (InvokableCall_1_t5_347 *, Object_t *, MethodInfo_t *, const MethodInfo*))InvokableCall_1__ctor_m5_1951_gshared)(__this, ___target, ___theFunction, method)
+extern "C" void InvokableCall_1__ctor_m5_1949_gshared (InvokableCall_1_t5_347 * __this, Object_t * ___target, MethodInfo_t * ___theFunction, const MethodInfo* method);
+#define InvokableCall_1__ctor_m5_1949(__this, ___target, ___theFunction, method) (( void (*) (InvokableCall_1_t5_347 *, Object_t *, MethodInfo_t *, const MethodInfo*))InvokableCall_1__ctor_m5_1949_gshared)(__this, ___target, ___theFunction, method)
 // System.Void UnityEngine.Events.InvokableCall`1<System.Int32>::.ctor(UnityEngine.Events.UnityAction`1<T1>)
-extern "C" void InvokableCall_1__ctor_m5_1952_gshared (InvokableCall_1_t5_347 * __this, UnityAction_1_t5_348 * ___action, const MethodInfo* method);
-#define InvokableCall_1__ctor_m5_1952(__this, ___action, method) (( void (*) (InvokableCall_1_t5_347 *, UnityAction_1_t5_348 *, const MethodInfo*))InvokableCall_1__ctor_m5_1952_gshared)(__this, ___action, method)
+extern "C" void InvokableCall_1__ctor_m5_1950_gshared (InvokableCall_1_t5_347 * __this, UnityAction_1_t5_348 * ___action, const MethodInfo* method);
+#define InvokableCall_1__ctor_m5_1950(__this, ___action, method) (( void (*) (InvokableCall_1_t5_347 *, UnityAction_1_t5_348 *, const MethodInfo*))InvokableCall_1__ctor_m5_1950_gshared)(__this, ___action, method)
 // System.Void UnityEngine.Events.InvokableCall`1<System.Int32>::Invoke(System.Object[])
-extern "C" void InvokableCall_1_Invoke_m5_1953_gshared (InvokableCall_1_t5_347 * __this, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method);
-#define InvokableCall_1_Invoke_m5_1953(__this, ___args, method) (( void (*) (InvokableCall_1_t5_347 *, ObjectU5BU5D_t1_156*, const MethodInfo*))InvokableCall_1_Invoke_m5_1953_gshared)(__this, ___args, method)
+extern "C" void InvokableCall_1_Invoke_m5_1951_gshared (InvokableCall_1_t5_347 * __this, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method);
+#define InvokableCall_1_Invoke_m5_1951(__this, ___args, method) (( void (*) (InvokableCall_1_t5_347 *, ObjectU5BU5D_t1_156*, const MethodInfo*))InvokableCall_1_Invoke_m5_1951_gshared)(__this, ___args, method)
 // System.Boolean UnityEngine.Events.InvokableCall`1<System.Int32>::Find(System.Object,System.Reflection.MethodInfo)
-extern "C" bool InvokableCall_1_Find_m5_1954_gshared (InvokableCall_1_t5_347 * __this, Object_t * ___targetObj, MethodInfo_t * ___method, const MethodInfo* method);
-#define InvokableCall_1_Find_m5_1954(__this, ___targetObj, ___method, method) (( bool (*) (InvokableCall_1_t5_347 *, Object_t *, MethodInfo_t *, const MethodInfo*))InvokableCall_1_Find_m5_1954_gshared)(__this, ___targetObj, ___method, method)
+extern "C" bool InvokableCall_1_Find_m5_1952_gshared (InvokableCall_1_t5_347 * __this, Object_t * ___targetObj, MethodInfo_t * ___method, const MethodInfo* method);
+#define InvokableCall_1_Find_m5_1952(__this, ___targetObj, ___method, method) (( bool (*) (InvokableCall_1_t5_347 *, Object_t *, MethodInfo_t *, const MethodInfo*))InvokableCall_1_Find_m5_1952_gshared)(__this, ___targetObj, ___method, method)

@@ -50,21 +50,17 @@ extern "C" Vector2_t5_44  Input_get_mouseScrollDelta_m5_677 (Object_t * __this /
 extern "C" void Input_INTERNAL_get_mouseScrollDelta_m5_678 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Input::get_mousePresent()
 extern "C" bool Input_get_mousePresent_m5_679 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
-// UnityEngine.Vector3 UnityEngine.Input::get_acceleration()
-extern "C" Vector3_t5_45  Input_get_acceleration_m5_680 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
-// System.Void UnityEngine.Input::INTERNAL_get_acceleration(UnityEngine.Vector3&)
-extern "C" void Input_INTERNAL_get_acceleration_m5_681 (Object_t * __this /* static, unused */, Vector3_t5_45 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Touch UnityEngine.Input::GetTouch(System.Int32)
-extern "C" Touch_t5_97  Input_GetTouch_m5_682 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Touch_t5_97  Input_GetTouch_m5_680 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.Input::get_touchCount()
-extern "C" int32_t Input_get_touchCount_m5_683 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t Input_get_touchCount_m5_681 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.Input::get_touchSupported()
-extern "C" bool Input_get_touchSupported_m5_684 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool Input_get_touchSupported_m5_682 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Input::set_imeCompositionMode(UnityEngine.IMECompositionMode)
-extern "C" void Input_set_imeCompositionMode_m5_685 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Input_set_imeCompositionMode_m5_683 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String UnityEngine.Input::get_compositionString()
-extern "C" String_t* Input_get_compositionString_m5_686 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* Input_get_compositionString_m5_684 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Input::set_compositionCursorPos(UnityEngine.Vector2)
-extern "C" void Input_set_compositionCursorPos_m5_687 (Object_t * __this /* static, unused */, Vector2_t5_44  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Input_set_compositionCursorPos_m5_685 (Object_t * __this /* static, unused */, Vector2_t5_44  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.Input::INTERNAL_set_compositionCursorPos(UnityEngine.Vector2&)
-extern "C" void Input_INTERNAL_set_compositionCursorPos_m5_688 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Input_INTERNAL_set_compositionCursorPos_m5_686 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;

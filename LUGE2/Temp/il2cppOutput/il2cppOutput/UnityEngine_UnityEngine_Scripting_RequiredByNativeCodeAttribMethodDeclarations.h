@@ -18,4 +18,4 @@ struct RequiredByNativeCodeAttribute_t5_277;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.Scripting.RequiredByNativeCodeAttribute::.ctor()
-extern "C" void RequiredByNativeCodeAttribute__ctor_m5_1774 (RequiredByNativeCodeAttribute_t5_277 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RequiredByNativeCodeAttribute__ctor_m5_1772 (RequiredByNativeCodeAttribute_t5_277 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

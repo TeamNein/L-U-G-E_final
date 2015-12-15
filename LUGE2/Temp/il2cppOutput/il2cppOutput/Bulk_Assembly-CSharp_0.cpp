@@ -204,6 +204,7 @@ struct TriggerDestroy_t7_50;
 #include "UnityEngine_UnityEngine_PhysicsMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_RaycastHitMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_RaycastHit.h"
+#include "mscorlib_System_String.h"
 #include "UnityEngine_UnityEngine_Space.h"
 #include "mscorlib_System_Boolean.h"
 #include "AssemblyU2DCSharp_ChunkInstancer.h"
@@ -211,8 +212,8 @@ struct TriggerDestroy_t7_50;
 #include "UnityEngine_UnityEngine_Collider.h"
 #include "mscorlib_System_StringMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_DebugMethodDeclarations.h"
-#include "mscorlib_System_String.h"
 #include "mscorlib_System_Object.h"
+#include "UnityEngine_UnityEngine_RandomMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_QuaternionMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_ObjectMethodDeclarations.h"
 #include "AssemblyU2DCSharp_WordManagerMethodDeclarations.h"
@@ -223,7 +224,6 @@ struct TriggerDestroy_t7_50;
 #include "UnityEngine_UnityEngine_Quaternion.h"
 #include "UnityEngine_UnityEngine_Object.h"
 #include "AssemblyU2DCSharp_WordManager.h"
-#include "UnityEngine_UnityEngine_RandomMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_RendererMethodDeclarations.h"
 #include "mscorlib_System_Char.h"
 #include "UnityEngine_UnityEngine_Material.h"
@@ -408,121 +408,121 @@ struct TriggerDestroy_t7_50;
 #include "UnityEngine_UnityEngine_TextAsset.h"
 
 // !!0 UnityEngine.Component::GetComponent<System.Object>()
-extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1795_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponent_TisObject_t_m5_1795(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponent_TisObject_t_m5_1793_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponent_TisObject_t_m5_1793(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<WordManager>()
-#define Component_GetComponent_TisWordManager_t7_51_m5_1871(__this, method) (( WordManager_t7_51 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisWordManager_t7_51_m5_1869(__this, method) (( WordManager_t7_51 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<ChunkManager>()
-#define Component_GetComponent_TisChunkManager_t7_3_m5_1872(__this, method) (( ChunkManager_t7_3 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisChunkManager_t7_3_m5_1870(__this, method) (( ChunkManager_t7_3 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Renderer>()
-#define Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, method) (( Renderer_t5_24 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, method) (( Renderer_t5_24 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<System.Object>()
-extern "C" Object_t * Component_GetComponentInChildren_TisObject_t_m5_1861_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponentInChildren_TisObject_t_m5_1861(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+extern "C" Object_t * Component_GetComponentInChildren_TisObject_t_m5_1859_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponentInChildren_TisObject_t_m5_1859(__this, method) (( Object_t * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<UnityEngine.ParticleSystemRenderer>()
-#define Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1874(__this, method) (( ParticleSystemRenderer_t5_124 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+#define Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1872(__this, method) (( ParticleSystemRenderer_t5_124 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<System.Object>()
-extern "C" Object_t * GameObject_GetComponent_TisObject_t_m5_1789_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
-#define GameObject_GetComponent_TisObject_t_m5_1789(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+extern "C" Object_t * GameObject_GetComponent_TisObject_t_m5_1787_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
+#define GameObject_GetComponent_TisObject_t_m5_1787(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.Renderer>()
-#define GameObject_GetComponent_TisRenderer_t5_24_m5_1875(__this, method) (( Renderer_t5_24 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisRenderer_t5_24_m5_1873(__this, method) (( Renderer_t5_24 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.ParticleSystem>()
-#define Component_GetComponent_TisParticleSystem_t5_123_m5_1876(__this, method) (( ParticleSystem_t5_123 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisParticleSystem_t5_123_m5_1874(__this, method) (( ParticleSystem_t5_123 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<UnityEngine.ParticleSystem>()
-#define Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1877(__this, method) (( ParticleSystem_t5_123 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+#define Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1875(__this, method) (( ParticleSystem_t5_123 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.AudioSource>()
-#define GameObject_GetComponent_TisAudioSource_t5_148_m5_1878(__this, method) (( AudioSource_t5_148 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisAudioSource_t5_148_m5_1876(__this, method) (( AudioSource_t5_148 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.ParticleSystem>()
-#define GameObject_GetComponent_TisParticleSystem_t5_123_m5_1788(__this, method) (( ParticleSystem_t5_123 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisParticleSystem_t5_123_m5_1786(__this, method) (( ParticleSystem_t5_123 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<PickupSpawner>()
-#define GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879(__this, method) (( PickupSpawner_t7_17 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877(__this, method) (( PickupSpawner_t7_17 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<LayBombs>()
-#define GameObject_GetComponent_TisLayBombs_t7_16_m5_1880(__this, method) (( LayBombs_t7_16 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisLayBombs_t7_16_m5_1878(__this, method) (( LayBombs_t7_16 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Rigidbody2D>()
-#define Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, method) (( Rigidbody2D_t5_139 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, method) (( Rigidbody2D_t5_139 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<Enemy>()
-#define GameObject_GetComponent_TisEnemy_t7_26_m5_1882(__this, method) (( Enemy_t7_26 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisEnemy_t7_26_m5_1880(__this, method) (( Enemy_t7_26 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Animator>()
-#define Component_GetComponent_TisAnimator_t5_156_m5_1856(__this, method) (( Animator_t5_156 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisAnimator_t5_156_m5_1854(__this, method) (( Animator_t5_156 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<LayBombs>()
-#define Component_GetComponent_TisLayBombs_t7_16_m5_1883(__this, method) (( LayBombs_t7_16 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisLayBombs_t7_16_m5_1881(__this, method) (( LayBombs_t7_16 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<System.Object>()
-extern "C" Object_t * GameObject_AddComponent_TisObject_t_m5_1859_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
-#define GameObject_AddComponent_TisObject_t_m5_1859(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+extern "C" Object_t * GameObject_AddComponent_TisObject_t_m5_1857_gshared (GameObject_t5_101 * __this, const MethodInfo* method);
+#define GameObject_AddComponent_TisObject_t_m5_1857(__this, method) (( Object_t * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.Rigidbody2D>()
-#define GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884(__this, method) (( Rigidbody2D_t5_139 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882(__this, method) (( Rigidbody2D_t5_139 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Light>()
-#define Component_GetComponent_TisLight_t5_100_m5_1885(__this, method) (( Light_t5_100 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisLight_t5_100_m5_1883(__this, method) (( Light_t5_100 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 DragMe::FindInParents<System.Object>(UnityEngine.GameObject)
 extern "C" Object_t * DragMe_FindInParents_TisObject_t_m7_214_gshared (Object_t * __this /* static, unused */, GameObject_t5_101 * p0, const MethodInfo* method);
 #define DragMe_FindInParents_TisObject_t_m7_214(__this /* static, unused */, p0, method) (( Object_t * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))DragMe_FindInParents_TisObject_t_m7_214_gshared)(__this /* static, unused */, p0, method)
 // !!0 DragMe::FindInParents<UnityEngine.Canvas>(UnityEngine.GameObject)
 #define DragMe_FindInParents_TisCanvas_t5_177_m7_213(__this /* static, unused */, p0, method) (( Canvas_t5_177 * (*) (Object_t * /* static, unused */, GameObject_t5_101 *, const MethodInfo*))DragMe_FindInParents_TisObject_t_m7_214_gshared)(__this /* static, unused */, p0, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.UI.Image>()
-#define GameObject_AddComponent_TisImage_t6_65_m5_1811(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisImage_t6_65_m5_1809(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::AddComponent<UnityEngine.CanvasGroup>()
-#define GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1886(__this, method) (( CanvasGroup_t5_178 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1859_gshared)(__this, method)
+#define GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1884(__this, method) (( CanvasGroup_t5_178 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_AddComponent_TisObject_t_m5_1857_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Image>()
-#define Component_GetComponent_TisImage_t6_65_m5_1866(__this, method) (( Image_t6_65 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisImage_t6_65_m5_1864(__this, method) (( Image_t6_65 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.RectTransform>()
-#define GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(__this, method) (( RectTransform_t5_70 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<DragMe>()
-#define GameObject_GetComponent_TisDragMe_t7_23_m5_1887(__this, method) (( DragMe_t7_23 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisDragMe_t7_23_m5_1885(__this, method) (( DragMe_t7_23 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.UI.Image>()
-#define GameObject_GetComponent_TisImage_t6_65_m5_1888(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisImage_t6_65_m5_1886(__this, method) (( Image_t6_65 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.SpriteRenderer>()
-#define Component_GetComponent_TisSpriteRenderer_t5_80_m5_1889(__this, method) (( SpriteRenderer_t5_80 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisSpriteRenderer_t5_80_m5_1887(__this, method) (( SpriteRenderer_t5_80 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<Score>()
-#define GameObject_GetComponent_TisScore_t7_27_m5_1890(__this, method) (( Score_t7_27 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisScore_t7_27_m5_1888(__this, method) (( Score_t7_27 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0[] UnityEngine.Component::GetComponentsInChildren<System.Object>()
-extern "C" ObjectU5BU5D_t1_156* Component_GetComponentsInChildren_TisObject_t_m5_1908_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponentsInChildren_TisObject_t_m5_1908(__this, method) (( ObjectU5BU5D_t1_156* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1908_gshared)(__this, method)
+extern "C" ObjectU5BU5D_t1_156* Component_GetComponentsInChildren_TisObject_t_m5_1906_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponentsInChildren_TisObject_t_m5_1906(__this, method) (( ObjectU5BU5D_t1_156* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1906_gshared)(__this, method)
 // !!0[] UnityEngine.Component::GetComponentsInChildren<UnityEngine.SpriteRenderer>()
-#define Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891(__this, method) (( SpriteRendererU5BU5D_t5_328* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1908_gshared)(__this, method)
+#define Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889(__this, method) (( SpriteRendererU5BU5D_t5_328* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1906_gshared)(__this, method)
 // !!0[] UnityEngine.Component::GetComponents<System.Object>()
-extern "C" ObjectU5BU5D_t1_156* Component_GetComponents_TisObject_t_m5_1909_gshared (Component_t5_25 * __this, const MethodInfo* method);
-#define Component_GetComponents_TisObject_t_m5_1909(__this, method) (( ObjectU5BU5D_t1_156* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1909_gshared)(__this, method)
+extern "C" ObjectU5BU5D_t1_156* Component_GetComponents_TisObject_t_m5_1907_gshared (Component_t5_25 * __this, const MethodInfo* method);
+#define Component_GetComponents_TisObject_t_m5_1907(__this, method) (( ObjectU5BU5D_t1_156* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1907_gshared)(__this, method)
 // !!0[] UnityEngine.Component::GetComponents<UnityEngine.Collider2D>()
-#define Component_GetComponents_TisCollider2D_t5_137_m5_1892(__this, method) (( Collider2DU5BU5D_t5_298* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1909_gshared)(__this, method)
+#define Component_GetComponents_TisCollider2D_t5_137_m5_1890(__this, method) (( Collider2DU5BU5D_t5_298* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponents_TisObject_t_m5_1907_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.Animator>()
-#define GameObject_GetComponent_TisAnimator_t5_156_m5_1893(__this, method) (( Animator_t5_156 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisAnimator_t5_156_m5_1891(__this, method) (( Animator_t5_156 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<PlayerControl>()
-#define Component_GetComponent_TisPlayerControl_t7_30_m5_1894(__this, method) (( PlayerControl_t7_30 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisPlayerControl_t7_30_m5_1892(__this, method) (( PlayerControl_t7_30 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.AudioSource>()
-#define Component_GetComponent_TisAudioSource_t5_148_m5_1895(__this, method) (( AudioSource_t5_148 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisAudioSource_t5_148_m5_1893(__this, method) (( AudioSource_t5_148 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<PlayerHealth>()
-#define Component_GetComponent_TisPlayerHealth_t7_38_m5_1896(__this, method) (( PlayerHealth_t7_38 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisPlayerHealth_t7_38_m5_1894(__this, method) (( PlayerHealth_t7_38 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.GUITexture>()
-#define GameObject_GetComponent_TisGUITexture_t5_31_m5_1897(__this, method) (( GUITexture_t5_31 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisGUITexture_t5_31_m5_1895(__this, method) (( GUITexture_t5_31 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0[] UnityEngine.GameObject::GetComponentsInChildren<System.Object>(System.Boolean)
-extern "C" ObjectU5BU5D_t1_156* GameObject_GetComponentsInChildren_TisObject_t_m5_1910_gshared (GameObject_t5_101 * __this, bool p0, const MethodInfo* method);
-#define GameObject_GetComponentsInChildren_TisObject_t_m5_1910(__this, p0, method) (( ObjectU5BU5D_t1_156* (*) (GameObject_t5_101 *, bool, const MethodInfo*))GameObject_GetComponentsInChildren_TisObject_t_m5_1910_gshared)(__this, p0, method)
+extern "C" ObjectU5BU5D_t1_156* GameObject_GetComponentsInChildren_TisObject_t_m5_1908_gshared (GameObject_t5_101 * __this, bool p0, const MethodInfo* method);
+#define GameObject_GetComponentsInChildren_TisObject_t_m5_1908(__this, p0, method) (( ObjectU5BU5D_t1_156* (*) (GameObject_t5_101 *, bool, const MethodInfo*))GameObject_GetComponentsInChildren_TisObject_t_m5_1908_gshared)(__this, p0, method)
 // !!0[] UnityEngine.GameObject::GetComponentsInChildren<UnityEngine.UI.Selectable>(System.Boolean)
-#define GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1898(__this, p0, method) (( SelectableU5BU5D_t6_199* (*) (GameObject_t5_101 *, bool, const MethodInfo*))GameObject_GetComponentsInChildren_TisObject_t_m5_1910_gshared)(__this, p0, method)
+#define GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1896(__this, p0, method) (( SelectableU5BU5D_t6_199* (*) (GameObject_t5_101 *, bool, const MethodInfo*))GameObject_GetComponentsInChildren_TisObject_t_m5_1908_gshared)(__this, p0, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.Canvas>()
-#define Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, method) (( Canvas_t5_177 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<PlayerHealth>()
-#define GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1899(__this, method) (( PlayerHealth_t7_38 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1897(__this, method) (( PlayerHealth_t7_38 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.SpriteRenderer>()
-#define GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802(__this, method) (( SpriteRenderer_t5_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800(__this, method) (( SpriteRenderer_t5_80 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponentInChildren<Gun>()
-#define Component_GetComponentInChildren_TisGun_t7_29_m5_1900(__this, method) (( Gun_t7_29 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1861_gshared)(__this, method)
+#define Component_GetComponentInChildren_TisGun_t7_29_m5_1898(__this, method) (( Gun_t7_29 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentInChildren_TisObject_t_m5_1859_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<CameraFollow>()
-#define GameObject_GetComponent_TisCameraFollow_t7_19_m5_1901(__this, method) (( CameraFollow_t7_19 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisCameraFollow_t7_19_m5_1899(__this, method) (( CameraFollow_t7_19 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.RectTransform>()
-#define Component_GetComponent_TisRectTransform_t5_70_m5_1839(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisRectTransform_t5_70_m5_1837(__this, method) (( RectTransform_t5_70 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<Bomb>()
-#define GameObject_GetComponent_TisBomb_t7_15_m5_1902(__this, method) (( Bomb_t7_15 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisBomb_t7_15_m5_1900(__this, method) (( Bomb_t7_15 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<PlayerControl>()
-#define GameObject_GetComponent_TisPlayerControl_t7_30_m5_1903(__this, method) (( PlayerControl_t7_30 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisPlayerControl_t7_30_m5_1901(__this, method) (( PlayerControl_t7_30 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.GUIText>()
-#define Component_GetComponent_TisGUIText_t5_170_m5_1904(__this, method) (( GUIText_t5_170 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisGUIText_t5_170_m5_1902(__this, method) (( GUIText_t5_170 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0 UnityEngine.GameObject::GetComponent<UnityEngine.GUIText>()
-#define GameObject_GetComponent_TisGUIText_t5_170_m5_1905(__this, method) (( GUIText_t5_170 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1789_gshared)(__this, method)
+#define GameObject_GetComponent_TisGUIText_t5_170_m5_1903(__this, method) (( GUIText_t5_170 * (*) (GameObject_t5_101 *, const MethodInfo*))GameObject_GetComponent_TisObject_t_m5_1787_gshared)(__this, method)
 // !!0 UnityEngine.Component::GetComponent<UnityEngine.UI.Text>()
-#define Component_GetComponent_TisText_t6_64_m5_1906(__this, method) (( Text_t6_64 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1795_gshared)(__this, method)
+#define Component_GetComponent_TisText_t6_64_m5_1904(__this, method) (( Text_t6_64 * (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponent_TisObject_t_m5_1793_gshared)(__this, method)
 // !!0[] UnityEngine.Component::GetComponentsInChildren<UnityEngine.ParticleSystem>()
-#define Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1907(__this, method) (( ParticleSystemU5BU5D_t5_329* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1908_gshared)(__this, method)
+#define Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1905(__this, method) (( ParticleSystemU5BU5D_t5_329* (*) (Component_t5_25 *, const MethodInfo*))Component_GetComponentsInChildren_TisObject_t_m5_1906_gshared)(__this, method)
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -550,28 +550,28 @@ extern "C" void BoardCharacter_Start_m7_1 (BoardCharacter_t7_1 * __this, const M
 		Application_set_targetFrameRate_m5_576(NULL /*static, unused*/, ((int32_t)60), /*hidden argument*/NULL);
 		Transform_t5_71 * L_0 = (__this->___LeftBound_3);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		float L_2 = ((&V_0)->___x_1);
 		__this->___leftBound_9 = L_2;
 		Transform_t5_71 * L_3 = (__this->___RightBound_2);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		float L_5 = ((&V_1)->___x_1);
 		__this->___rightBound_8 = L_5;
 		Camera_t5_86 * L_6 = Camera_get_main_m5_602(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(L_6, /*hidden argument*/NULL);
 		__this->___mainCamera_10 = L_7;
 		Transform_t5_71 * L_8 = (__this->___mainCamera_10);
 		NullCheck(L_8);
-		Vector3_t5_45  L_9 = Transform_get_position_m5_785(L_8, /*hidden argument*/NULL);
+		Vector3_t5_45  L_9 = Transform_get_position_m5_783(L_8, /*hidden argument*/NULL);
 		V_2 = L_9;
 		float L_10 = ((&V_2)->___y_2);
-		Transform_t5_71 * L_11 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Vector3_t5_45  L_12 = Transform_get_position_m5_785(L_11, /*hidden argument*/NULL);
+		Vector3_t5_45  L_12 = Transform_get_position_m5_783(L_11, /*hidden argument*/NULL);
 		V_3 = L_12;
 		float L_13 = ((&V_3)->___y_2);
 		__this->___cameraOffset_7 = ((float)((float)L_10-(float)L_13));
@@ -581,6 +581,7 @@ extern "C" void BoardCharacter_Start_m7_1 (BoardCharacter_t7_1 * __this, const M
 // System.Void BoardCharacter::Update()
 extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
 extern TypeInfo* RaycastHit_t5_134_il2cpp_TypeInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2683;
 extern "C" void BoardCharacter_Update_m7_2 (BoardCharacter_t7_1 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -588,6 +589,7 @@ extern "C" void BoardCharacter_Update_m7_2 (BoardCharacter_t7_1 * __this, const 
 	{
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		RaycastHit_t5_134_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1042);
+		_stringLiteral2683 = il2cpp_codegen_string_literal_from_index(2683);
 		s_Il2CppMethodIntialized = true;
 	}
 	Vector3_t5_45  V_0 = {0};
@@ -598,119 +600,116 @@ extern "C" void BoardCharacter_Update_m7_2 (BoardCharacter_t7_1 * __this, const 
 	Vector3_t5_45  V_5 = {0};
 	Vector3_t5_45  V_6 = {0};
 	Vector3_t5_45  V_7 = {0};
-	Vector3_t5_45  V_8 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		Vector3_t5_45  L_2 = Input_get_acceleration_m5_680(NULL /*static, unused*/, /*hidden argument*/NULL);
-		V_5 = L_2;
-		float L_3 = ((&V_5)->___x_1);
-		Vector3__ctor_m5_216((&V_1), L_3, (0.0f), (0.0f), /*hidden argument*/NULL);
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		Vector3_t5_45  L_5 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_6 = (__this->___speed_5);
-		Vector3_t5_45  L_7 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
-		float L_8 = Time_get_deltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Vector3_t5_45  L_9 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
-		NullCheck(L_4);
-		Transform_Translate_m5_814(L_4, L_9, /*hidden argument*/NULL);
-		float L_10 = ((&V_0)->___x_1);
-		float L_11 = (__this->___leftBound_9);
-		if ((!(((float)L_10) > ((float)L_11))))
+		float L_2 = Input_GetAxis_m5_668(NULL /*static, unused*/, _stringLiteral2683, /*hidden argument*/NULL);
+		Vector3__ctor_m5_216((&V_1), L_2, (0.0f), (0.0f), /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_5 = (__this->___speed_5);
+		Vector3_t5_45  L_6 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_4, L_5, /*hidden argument*/NULL);
+		float L_7 = Time_get_deltaTime_m5_831(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Vector3_t5_45  L_8 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
+		NullCheck(L_3);
+		Transform_Translate_m5_812(L_3, L_8, /*hidden argument*/NULL);
+		float L_9 = ((&V_0)->___x_1);
+		float L_10 = (__this->___leftBound_9);
+		if ((!(((float)L_9) > ((float)L_10))))
 		{
-			goto IL_0073;
+			goto IL_006f;
 		}
 	}
+	{
+		float L_11 = ((&V_1)->___x_1);
+		if ((((float)L_11) < ((float)(0.0f))))
+		{
+			goto IL_0092;
+		}
+	}
+
+IL_006f:
 	{
 		float L_12 = ((&V_1)->___x_1);
-		if ((((float)L_12) < ((float)(0.0f))))
+		if ((!(((float)L_12) > ((float)(0.0f)))))
 		{
-			goto IL_0096;
-		}
-	}
-
-IL_0073:
-	{
-		float L_13 = ((&V_1)->___x_1);
-		if ((!(((float)L_13) > ((float)(0.0f)))))
-		{
-			goto IL_00d5;
+			goto IL_00d1;
 		}
 	}
 	{
-		float L_14 = ((&V_0)->___x_1);
-		float L_15 = (__this->___rightBound_8);
-		if ((!(((float)L_14) < ((float)L_15))))
+		float L_13 = ((&V_0)->___x_1);
+		float L_14 = (__this->___rightBound_8);
+		if ((!(((float)L_13) < ((float)L_14))))
 		{
-			goto IL_00d5;
+			goto IL_00d1;
 		}
 	}
 
-IL_0096:
+IL_0092:
 	{
-		Transform_t5_71 * L_16 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		Vector3_t5_45  L_17 = V_1;
-		float L_18 = (__this->___turnSpeed_6);
-		Vector3_t5_45  L_19 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_17, L_18, /*hidden argument*/NULL);
-		NullCheck(L_16);
-		Transform_Translate_m5_815(L_16, L_19, 0, /*hidden argument*/NULL);
-		Transform_t5_71 * L_20 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		Vector3_t5_45  L_21 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_22 = ((&V_1)->___x_1);
-		Vector3_t5_45  L_23 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_21, L_22, /*hidden argument*/NULL);
-		float L_24 = (__this->___MAX_ROTATION_4);
-		Vector3_t5_45  L_25 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_23, L_24, /*hidden argument*/NULL);
-		NullCheck(L_20);
-		Transform_Rotate_m5_816(L_20, L_25, /*hidden argument*/NULL);
+		Transform_t5_71 * L_15 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_16 = V_1;
+		float L_17 = (__this->___turnSpeed_6);
+		Vector3_t5_45  L_18 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_16, L_17, /*hidden argument*/NULL);
+		NullCheck(L_15);
+		Transform_Translate_m5_813(L_15, L_18, 0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_19 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_20 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_21 = ((&V_1)->___x_1);
+		Vector3_t5_45  L_22 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_20, L_21, /*hidden argument*/NULL);
+		float L_23 = (__this->___MAX_ROTATION_4);
+		Vector3_t5_45  L_24 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_22, L_23, /*hidden argument*/NULL);
+		NullCheck(L_19);
+		Transform_Rotate_m5_814(L_19, L_24, /*hidden argument*/NULL);
 	}
 
-IL_00d5:
+IL_00d1:
 	{
 		Initobj (RaycastHit_t5_134_il2cpp_TypeInfo_var, (&V_2));
-		Vector3_t5_45  L_26 = V_0;
-		Vector3_t5_45  L_27 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
-		bool L_28 = Physics_Raycast_m5_1005(NULL /*static, unused*/, L_26, L_27, (&V_2), (2.0f), ((int32_t)4096), /*hidden argument*/NULL);
-		if (!L_28)
+		Vector3_t5_45  L_25 = V_0;
+		Vector3_t5_45  L_26 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
+		bool L_27 = Physics_Raycast_m5_1003(NULL /*static, unused*/, L_25, L_26, (&V_2), (2.0f), ((int32_t)4096), /*hidden argument*/NULL);
+		if (!L_27)
 		{
-			goto IL_012e;
+			goto IL_012a;
 		}
 	}
 	{
-		Transform_t5_71 * L_29 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		NullCheck(L_29);
-		Vector3_t5_45  L_30 = Transform_get_position_m5_785(L_29, /*hidden argument*/NULL);
-		V_3 = L_30;
-		Vector3_t5_45  L_31 = RaycastHit_get_point_m5_1016((&V_2), /*hidden argument*/NULL);
-		V_6 = L_31;
-		float L_32 = ((&V_6)->___z_3);
-		(&V_3)->___z_3 = ((float)((float)L_32-(float)(0.2f)));
-		Transform_t5_71 * L_33 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		Vector3_t5_45  L_34 = V_3;
-		NullCheck(L_33);
-		Transform_set_position_m5_786(L_33, L_34, /*hidden argument*/NULL);
+		Transform_t5_71 * L_28 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		NullCheck(L_28);
+		Vector3_t5_45  L_29 = Transform_get_position_m5_783(L_28, /*hidden argument*/NULL);
+		V_3 = L_29;
+		Vector3_t5_45  L_30 = RaycastHit_get_point_m5_1014((&V_2), /*hidden argument*/NULL);
+		V_5 = L_30;
+		float L_31 = ((&V_5)->___z_3);
+		(&V_3)->___z_3 = ((float)((float)L_31-(float)(0.2f)));
+		Transform_t5_71 * L_32 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_33 = V_3;
+		NullCheck(L_32);
+		Transform_set_position_m5_784(L_32, L_33, /*hidden argument*/NULL);
 	}
 
-IL_012e:
+IL_012a:
 	{
-		Transform_t5_71 * L_35 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		NullCheck(L_35);
-		Vector3_t5_45  L_36 = Transform_get_position_m5_785(L_35, /*hidden argument*/NULL);
-		V_7 = L_36;
-		float L_37 = ((&V_7)->___y_2);
-		float L_38 = (__this->___cameraOffset_7);
-		Transform_t5_71 * L_39 = (__this->___mainCamera_10);
-		NullCheck(L_39);
-		Vector3_t5_45  L_40 = Transform_get_position_m5_785(L_39, /*hidden argument*/NULL);
-		V_8 = L_40;
-		float L_41 = ((&V_8)->___z_3);
-		Vector3__ctor_m5_216((&V_4), (0.0f), ((float)((float)L_37+(float)L_38)), L_41, /*hidden argument*/NULL);
-		Transform_t5_71 * L_42 = (__this->___mainCamera_10);
-		Vector3_t5_45  L_43 = V_4;
-		NullCheck(L_42);
-		Transform_set_position_m5_786(L_42, L_43, /*hidden argument*/NULL);
+		Transform_t5_71 * L_34 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		NullCheck(L_34);
+		Vector3_t5_45  L_35 = Transform_get_position_m5_783(L_34, /*hidden argument*/NULL);
+		V_6 = L_35;
+		float L_36 = ((&V_6)->___y_2);
+		float L_37 = (__this->___cameraOffset_7);
+		Transform_t5_71 * L_38 = (__this->___mainCamera_10);
+		NullCheck(L_38);
+		Vector3_t5_45  L_39 = Transform_get_position_m5_783(L_38, /*hidden argument*/NULL);
+		V_7 = L_39;
+		float L_40 = ((&V_7)->___z_3);
+		Vector3__ctor_m5_216((&V_4), (0.0f), ((float)((float)L_36+(float)L_37)), L_40, /*hidden argument*/NULL);
+		Transform_t5_71 * L_41 = (__this->___mainCamera_10);
+		Vector3_t5_45  L_42 = V_4;
+		NullCheck(L_41);
+		Transform_set_position_m5_784(L_41, L_42, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -743,7 +742,7 @@ extern "C" void ChunkInstancer_OnTriggerEnter_m7_4 (ChunkInstancer_t7_2 * __this
 	{
 		Collider_t5_127 * L_0 = ___other;
 		NullCheck(L_0);
-		String_t* L_1 = Component_get_tag_m5_738(L_0, /*hidden argument*/NULL);
+		String_t* L_1 = Component_get_tag_m5_736(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2769, /*hidden argument*/NULL);
 		if (!L_2)
@@ -767,9 +766,8 @@ extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
 extern TypeInfo* Transform_t5_71_il2cpp_TypeInfo_var;
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisWordManager_t7_51_m5_1871_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisChunkManager_t7_3_m5_1872_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisWordManager_t7_51_m5_1869_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisChunkManager_t7_3_m5_1870_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2771;
 extern Il2CppCodeGenString* _stringLiteral2772;
 extern "C" void ChunkInstancer_instanceNewChunk_m7_5 (ChunkInstancer_t7_2 * __this, const MethodInfo* method)
@@ -781,9 +779,8 @@ extern "C" void ChunkInstancer_instanceNewChunk_m7_5 (ChunkInstancer_t7_2 * __th
 		Transform_t5_71_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(890);
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		Component_GetComponent_TisWordManager_t7_51_m5_1871_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484030);
-		Component_GetComponent_TisChunkManager_t7_3_m5_1872_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484031);
+		Component_GetComponent_TisWordManager_t7_51_m5_1869_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484030);
+		Component_GetComponent_TisChunkManager_t7_3_m5_1870_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484031);
 		_stringLiteral2771 = il2cpp_codegen_string_literal_from_index(2771);
 		_stringLiteral2772 = il2cpp_codegen_string_literal_from_index(2772);
 		s_Il2CppMethodIntialized = true;
@@ -791,17 +788,18 @@ extern "C" void ChunkInstancer_instanceNewChunk_m7_5 (ChunkInstancer_t7_2 * __th
 	int32_t V_0 = 0;
 	Vector3_t5_45  V_1 = {0};
 	Transform_t5_71 * V_2 = {0};
-	String_t* V_3 = {0};
-	ChunkManager_t7_3 * V_4 = {0};
-	TransformU5BU5D_t5_324* V_5 = {0};
-	Vector3_t5_45  V_6 = {0};
-	int32_t V_7 = 0;
+	Transform_t5_71 * V_3 = {0};
+	String_t* V_4 = {0};
+	ChunkManager_t7_3 * V_5 = {0};
+	TransformU5BU5D_t5_324* V_6 = {0};
+	Vector3_t5_45  V_7 = {0};
+	int32_t V_8 = 0;
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
-		V_6 = L_1;
-		float L_2 = ((&V_6)->___y_2);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
+		V_7 = L_1;
+		float L_2 = ((&V_7)->___y_2);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
 		float L_3 = bankers_roundf(((float)((float)L_2+(float)(2.5f))));
 		V_0 = (((int32_t)((int32_t)L_3)));
@@ -809,64 +807,69 @@ extern "C" void ChunkInstancer_instanceNewChunk_m7_5 (ChunkInstancer_t7_2 * __th
 		__this->___previousPos_7 = L_4;
 		Transform_t5_71 * L_5 = (__this->___previousChunk_6);
 		NullCheck(L_5);
-		Vector3_t5_45  L_6 = Transform_get_position_m5_785(L_5, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_get_position_m5_783(L_5, /*hidden argument*/NULL);
 		V_1 = L_6;
 		Vector3_t5_45 * L_7 = (&V_1);
 		float L_8 = (L_7->___y_2);
 		L_7->___y_2 = ((float)((float)L_8+(float)(9.9f)));
-		Transform_t5_71 * L_9 = (__this->___chunkPrefab_5);
-		Vector3_t5_45  L_10 = V_1;
-		Quaternion_t5_47  L_11 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_t5_5 * L_12 = Object_Instantiate_m5_715(NULL /*static, unused*/, L_9, L_10, L_11, /*hidden argument*/NULL);
-		V_2 = ((Transform_t5_71 *)IsInstClass(L_12, Transform_t5_71_il2cpp_TypeInfo_var));
+		TransformU5BU5D_t5_324* L_9 = (__this->___chunkPrefabs_5);
+		TransformU5BU5D_t5_324* L_10 = (__this->___chunkPrefabs_5);
+		NullCheck(L_10);
+		int32_t L_11 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_10)->max_length)))), /*hidden argument*/NULL);
+		NullCheck(L_9);
+		IL2CPP_ARRAY_BOUNDS_CHECK(L_9, L_11);
+		int32_t L_12 = L_11;
+		V_2 = (*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_9, L_12, sizeof(Transform_t5_71 *)));
 		Transform_t5_71 * L_13 = V_2;
-		int32_t L_14 = (__this->___chunkCounter_12);
-		int32_t L_15 = L_14;
-		V_7 = L_15;
-		__this->___chunkCounter_12 = ((int32_t)((int32_t)L_15+(int32_t)1));
-		int32_t L_16 = V_7;
-		int32_t L_17 = L_16;
-		Object_t * L_18 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_17);
+		Vector3_t5_45  L_14 = V_1;
+		Quaternion_t5_47  L_15 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Object_t5_5 * L_16 = Object_Instantiate_m5_713(NULL /*static, unused*/, L_13, L_14, L_15, /*hidden argument*/NULL);
+		V_3 = ((Transform_t5_71 *)IsInstClass(L_16, Transform_t5_71_il2cpp_TypeInfo_var));
+		Transform_t5_71 * L_17 = V_3;
+		int32_t L_18 = (__this->___chunkCounter_12);
+		int32_t L_19 = L_18;
+		V_8 = L_19;
+		__this->___chunkCounter_12 = ((int32_t)((int32_t)L_19+(int32_t)1));
+		int32_t L_20 = V_8;
+		int32_t L_21 = L_20;
+		Object_t * L_22 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_21);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_19 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2771, L_18, /*hidden argument*/NULL);
-		NullCheck(L_13);
-		Object_set_name_m5_699(L_13, L_19, /*hidden argument*/NULL);
-		WordManager_t7_51 * L_20 = Component_GetComponent_TisWordManager_t7_51_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisWordManager_t7_51_m5_1871_MethodInfo_var);
-		Transform_t5_71 * L_21 = V_2;
-		NullCheck(L_21);
-		Transform_t5_71 * L_22 = Transform_Find_m5_828(L_21, _stringLiteral2772, /*hidden argument*/NULL);
-		NullCheck(L_22);
-		int32_t L_23 = Transform_get_childCount_m5_825(L_22, /*hidden argument*/NULL);
-		NullCheck(L_20);
-		String_t* L_24 = WordManager_getNewLetters_m7_210(L_20, L_23, /*hidden argument*/NULL);
-		V_3 = L_24;
-		String_t* L_25 = V_3;
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, L_25, /*hidden argument*/NULL);
-		Transform_t5_71 * L_26 = V_2;
+		String_t* L_23 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2771, L_22, /*hidden argument*/NULL);
+		NullCheck(L_17);
+		Object_set_name_m5_697(L_17, L_23, /*hidden argument*/NULL);
+		WordManager_t7_51 * L_24 = Component_GetComponent_TisWordManager_t7_51_m5_1869(__this, /*hidden argument*/Component_GetComponent_TisWordManager_t7_51_m5_1869_MethodInfo_var);
+		Transform_t5_71 * L_25 = V_3;
+		NullCheck(L_25);
+		Transform_t5_71 * L_26 = Transform_Find_m5_826(L_25, _stringLiteral2772, /*hidden argument*/NULL);
 		NullCheck(L_26);
-		ChunkManager_t7_3 * L_27 = Component_GetComponent_TisChunkManager_t7_3_m5_1872(L_26, /*hidden argument*/Component_GetComponent_TisChunkManager_t7_3_m5_1872_MethodInfo_var);
-		V_4 = L_27;
-		String_t* L_28 = V_3;
-		ChunkManager_t7_3 * L_29 = V_4;
+		int32_t L_27 = Transform_get_childCount_m5_823(L_26, /*hidden argument*/NULL);
+		NullCheck(L_24);
+		String_t* L_28 = WordManager_getNewLetters_m7_210(L_24, L_27, /*hidden argument*/NULL);
+		V_4 = L_28;
+		Transform_t5_71 * L_29 = V_3;
 		NullCheck(L_29);
-		TransformU5BU5D_t5_324* L_30 = ChunkManager_getLetters_m7_9(L_29, /*hidden argument*/NULL);
-		TransformU5BU5D_t5_324* L_31 = ChunkInstancer_getObjectsFromLetters_m7_6(__this, L_28, L_30, /*hidden argument*/NULL);
-		V_5 = L_31;
-		Transform_t5_71 * L_32 = V_2;
-		__this->___previousChunk_6 = L_32;
-		ChunkManager_t7_3 * L_33 = V_4;
-		TransformU5BU5D_t5_324* L_34 = V_5;
-		NullCheck(L_33);
-		ChunkManager_setLetters_m7_8(L_33, L_34, /*hidden argument*/NULL);
+		ChunkManager_t7_3 * L_30 = Component_GetComponent_TisChunkManager_t7_3_m5_1870(L_29, /*hidden argument*/Component_GetComponent_TisChunkManager_t7_3_m5_1870_MethodInfo_var);
+		V_5 = L_30;
+		String_t* L_31 = V_4;
+		ChunkManager_t7_3 * L_32 = V_5;
+		NullCheck(L_32);
+		TransformU5BU5D_t5_324* L_33 = ChunkManager_getLetters_m7_9(L_32, /*hidden argument*/NULL);
+		TransformU5BU5D_t5_324* L_34 = ChunkInstancer_getObjectsFromLetters_m7_6(__this, L_31, L_33, /*hidden argument*/NULL);
+		V_6 = L_34;
+		Transform_t5_71 * L_35 = V_3;
+		__this->___previousChunk_6 = L_35;
+		ChunkManager_t7_3 * L_36 = V_5;
+		TransformU5BU5D_t5_324* L_37 = V_6;
+		NullCheck(L_36);
+		ChunkManager_setLetters_m7_8(L_36, L_37, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Transform[] ChunkInstancer::getObjectsFromLetters(System.String,UnityEngine.Transform[])
 extern TypeInfo* TransformU5BU5D_t5_324_il2cpp_TypeInfo_var;
 extern TypeInfo* Transform_t5_71_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1874_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1872_MethodInfo_var;
 extern "C" TransformU5BU5D_t5_324* ChunkInstancer_getObjectsFromLetters_m7_6 (ChunkInstancer_t7_2 * __this, String_t* ___newLetters, TransformU5BU5D_t5_324* ___oldLetters, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -874,8 +877,8 @@ extern "C" TransformU5BU5D_t5_324* ChunkInstancer_getObjectsFromLetters_m7_6 (Ch
 	{
 		TransformU5BU5D_t5_324_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1197);
 		Transform_t5_71_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(890);
-		Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
-		Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1874_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484033);
+		Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
+		Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1872_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484033);
 		s_Il2CppMethodIntialized = true;
 	}
 	TransformU5BU5D_t5_324* V_0 = {0};
@@ -912,22 +915,22 @@ IL_0013:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_11, L_12);
 		int32_t L_13 = L_12;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_11, L_13, sizeof(Transform_t5_71 *))));
-		Vector3_t5_45  L_14 = Transform_get_position_m5_785((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_11, L_13, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_14 = Transform_get_position_m5_783((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_11, L_13, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
 		TransformU5BU5D_t5_324* L_15 = ___oldLetters;
 		int32_t L_16 = V_1;
 		NullCheck(L_15);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_15, L_16);
 		int32_t L_17 = L_16;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))));
-		Quaternion_t5_47  L_18 = Transform_get_rotation_m5_794((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
-		Object_t5_5 * L_19 = Object_Instantiate_m5_715(NULL /*static, unused*/, (*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_8, L_10, sizeof(Transform_t5_71 *))), L_14, L_18, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_18 = Transform_get_rotation_m5_792((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Object_t5_5 * L_19 = Object_Instantiate_m5_713(NULL /*static, unused*/, (*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_8, L_10, sizeof(Transform_t5_71 *))), L_14, L_18, /*hidden argument*/NULL);
 		NullCheck(L_6);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, L_7);
 		ArrayElementTypeCheck (L_6, ((Transform_t5_71 *)IsInstClass(L_19, Transform_t5_71_il2cpp_TypeInfo_var)));
 		*((Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_6, L_7, sizeof(Transform_t5_71 *))) = (Transform_t5_71 *)((Transform_t5_71 *)IsInstClass(L_19, Transform_t5_71_il2cpp_TypeInfo_var));
 		MaterialU5BU5D_t5_325* L_20 = (__this->___letterMats_9);
 		NullCheck(L_20);
-		int32_t L_21 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_20)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_21 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_20)->max_length)))), /*hidden argument*/NULL);
 		V_3 = L_21;
 		TransformU5BU5D_t5_324* L_22 = V_0;
 		int32_t L_23 = V_1;
@@ -935,7 +938,7 @@ IL_0013:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_22, L_23);
 		int32_t L_24 = L_23;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_22, L_24, sizeof(Transform_t5_71 *))));
-		Renderer_t5_24 * L_25 = Component_GetComponent_TisRenderer_t5_24_m5_1873((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_22, L_24, sizeof(Transform_t5_71 *))), /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
+		Renderer_t5_24 * L_25 = Component_GetComponent_TisRenderer_t5_24_m5_1871((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_22, L_24, sizeof(Transform_t5_71 *))), /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
 		MaterialU5BU5D_t5_325* L_26 = (__this->___letterMats_9);
 		int32_t L_27 = V_3;
 		NullCheck(L_26);
@@ -949,7 +952,7 @@ IL_0013:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_29, L_30);
 		int32_t L_31 = L_30;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_29, L_31, sizeof(Transform_t5_71 *))));
-		ParticleSystemRenderer_t5_124 * L_32 = Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1874((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_29, L_31, sizeof(Transform_t5_71 *))), /*hidden argument*/Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1874_MethodInfo_var);
+		ParticleSystemRenderer_t5_124 * L_32 = Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1872((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_29, L_31, sizeof(Transform_t5_71 *))), /*hidden argument*/Component_GetComponentInChildren_TisParticleSystemRenderer_t5_124_m5_1872_MethodInfo_var);
 		MaterialU5BU5D_t5_325* L_33 = (__this->___particleMats_10);
 		int32_t L_34 = V_3;
 		NullCheck(L_33);
@@ -1011,8 +1014,8 @@ IL_000e:
 		V_0 = (*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_1, L_3, sizeof(Transform_t5_71 *)));
 		Transform_t5_71 * L_4 = V_0;
 		NullCheck(L_4);
-		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_724(L_4, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_722(L_4, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		int32_t L_6 = V_2;
 		V_2 = ((int32_t)((int32_t)L_6+(int32_t)1));
 	}
@@ -1047,7 +1050,7 @@ IL_0041:
 		Transform_t5_71 * L_14 = V_3;
 		Transform_t5_71 * L_15 = (__this->___lettersParent_3);
 		NullCheck(L_14);
-		Transform_set_parent_m5_807(L_14, L_15, /*hidden argument*/NULL);
+		Transform_set_parent_m5_805(L_14, L_15, /*hidden argument*/NULL);
 		int32_t L_16 = V_5;
 		V_5 = ((int32_t)((int32_t)L_16+(int32_t)1));
 	}
@@ -1100,14 +1103,14 @@ extern "C" Object_t * U3CExploadU3Ec__Iterator0_System_Collections_IEnumerator_g
 }
 // System.Boolean Explode/<Expload>c__Iterator0::MoveNext()
 extern TypeInfo* WaitForSeconds_t5_10_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRenderer_t5_24_m5_1875_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var;
 extern "C" bool U3CExploadU3Ec__Iterator0_MoveNext_m7_13 (U3CExploadU3Ec__Iterator0_t7_4 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		WaitForSeconds_t5_10_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1069);
-		GameObject_GetComponent_TisRenderer_t5_24_m5_1875_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484034);
+		GameObject_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484034);
 		s_Il2CppMethodIntialized = true;
 	}
 	uint32_t V_0 = 0;
@@ -1136,7 +1139,7 @@ IL_0021:
 		NullCheck(L_2);
 		ParticleSystem_t5_123 * L_3 = (L_2->___ps_2);
 		NullCheck(L_3);
-		ParticleSystem_Play_m5_976(L_3, /*hidden argument*/NULL);
+		ParticleSystem_Play_m5_974(L_3, /*hidden argument*/NULL);
 		WaitForSeconds_t5_10 * L_4 = (WaitForSeconds_t5_10 *)il2cpp_codegen_object_new (WaitForSeconds_t5_10_il2cpp_TypeInfo_var);
 		WaitForSeconds__ctor_m5_9(L_4, (0.15f), /*hidden argument*/NULL);
 		__this->___U24current_1 = L_4;
@@ -1148,9 +1151,9 @@ IL_004d:
 	{
 		Explode_t7_5 * L_5 = (__this->___U3CU3Ef__this_2);
 		NullCheck(L_5);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(L_5, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Renderer_t5_24 * L_7 = GameObject_GetComponent_TisRenderer_t5_24_m5_1875(L_6, /*hidden argument*/GameObject_GetComponent_TisRenderer_t5_24_m5_1875_MethodInfo_var);
+		Renderer_t5_24 * L_7 = GameObject_GetComponent_TisRenderer_t5_24_m5_1873(L_6, /*hidden argument*/GameObject_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
 		NullCheck(L_7);
 		Renderer_set_enabled_m5_121(L_7, 0, /*hidden argument*/NULL);
 		__this->___U24PC_0 = (-1);
@@ -1200,29 +1203,29 @@ extern "C" void Explode__ctor_m7_16 (Explode_t7_5 * __this, const MethodInfo* me
 	}
 }
 // System.Void Explode::Start()
-extern const MethodInfo* Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1877_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1875_MethodInfo_var;
 extern "C" void Explode_Start_m7_17 (Explode_t7_5 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484035);
-		Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1877_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484036);
+		Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484035);
+		Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1875_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484036);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		ParticleSystem_t5_123 * L_0 = Component_GetComponent_TisParticleSystem_t5_123_m5_1876(__this, /*hidden argument*/Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var);
+		ParticleSystem_t5_123 * L_0 = Component_GetComponent_TisParticleSystem_t5_123_m5_1874(__this, /*hidden argument*/Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var);
 		__this->___ps_2 = L_0;
 		ParticleSystem_t5_123 * L_1 = (__this->___ps_2);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0029;
 		}
 	}
 	{
-		ParticleSystem_t5_123 * L_3 = Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1877(__this, /*hidden argument*/Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1877_MethodInfo_var);
+		ParticleSystem_t5_123 * L_3 = Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1875(__this, /*hidden argument*/Component_GetComponentInChildren_TisParticleSystem_t5_123_m5_1875_MethodInfo_var);
 		__this->___ps_2 = L_3;
 	}
 
@@ -1270,24 +1273,37 @@ extern "C" void MusicVolume__ctor_m7_20 (MusicVolume_t7_7 * __this, const Method
 	}
 }
 // System.Void MusicVolume::Start()
-extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2773;
 extern "C" void MusicVolume_Start_m7_21 (MusicVolume_t7_7 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484037);
+		GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484037);
+		_stringLiteral2773 = il2cpp_codegen_string_literal_from_index(2773);
 		s_Il2CppMethodIntialized = true;
 	}
+	GameObject_t5_101 * V_0 = {0};
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_0 = ((String_t_StaticFields*)String_t_il2cpp_TypeInfo_var->static_fields)->___Empty_2;
-		GameObject_t5_101 * L_1 = GameObject_Find_m5_779(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
-		NullCheck(L_1);
-		AudioSource_t5_148 * L_2 = GameObject_GetComponent_TisAudioSource_t5_148_m5_1878(L_1, /*hidden argument*/GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var);
-		__this->___source_2 = L_2;
+		GameObject_t5_101 * L_0 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2773, /*hidden argument*/NULL);
+		V_0 = L_0;
+		GameObject_t5_101 * L_1 = V_0;
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		if (!L_2)
+		{
+			goto IL_0023;
+		}
+	}
+	{
+		GameObject_t5_101 * L_3 = V_0;
+		NullCheck(L_3);
+		AudioSource_t5_148 * L_4 = GameObject_GetComponent_TisAudioSource_t5_148_m5_1876(L_3, /*hidden argument*/GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var);
+		__this->___source_2 = L_4;
+	}
+
+IL_0023:
+	{
 		return;
 	}
 }
@@ -1296,9 +1312,21 @@ extern "C" void MusicVolume_OnValueChanged_m7_22 (MusicVolume_t7_7 * __this, flo
 {
 	{
 		AudioSource_t5_148 * L_0 = (__this->___source_2);
-		float L_1 = ___val;
-		NullCheck(L_0);
-		AudioSource_set_volume_m5_1077(L_0, L_1, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		if (!L_1)
+		{
+			goto IL_001d;
+		}
+	}
+	{
+		AudioSource_t5_148 * L_2 = (__this->___source_2);
+		float L_3 = ___val;
+		NullCheck(L_2);
+		AudioSource_set_volume_m5_1075(L_2, L_3, /*hidden argument*/NULL);
+	}
+
+IL_001d:
+	{
 		return;
 	}
 }
@@ -1336,12 +1364,12 @@ extern "C" void ActiveStateToggler__ctor_m7_26 (ActiveStateToggler_t7_9 * __this
 extern "C" void ActiveStateToggler_ToggleActive_m7_27 (ActiveStateToggler_t7_9 * __this, const MethodInfo* method)
 {
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		bool L_2 = GameObject_get_activeSelf_m5_770(L_1, /*hidden argument*/NULL);
+		bool L_2 = GameObject_get_activeSelf_m5_768(L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		GameObject_SetActive_m5_769(L_0, ((((int32_t)L_2) == ((int32_t)0))? 1 : 0), /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_0, ((((int32_t)L_2) == ((int32_t)0))? 1 : 0), /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -1375,7 +1403,7 @@ extern "C" void BackgroundParallax_Awake_m7_31 (BackgroundParallax_t7_11 * __thi
 	{
 		Camera_t5_86 * L_0 = Camera_get_main_m5_602(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(L_0, /*hidden argument*/NULL);
 		__this->___cam_6 = L_1;
 		return;
 	}
@@ -1386,7 +1414,7 @@ extern "C" void BackgroundParallax_Start_m7_32 (BackgroundParallax_t7_11 * __thi
 	{
 		Transform_t5_71 * L_0 = (__this->___cam_6);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		__this->___previousCamPos_7 = L_1;
 		return;
 	}
@@ -1407,7 +1435,7 @@ extern "C" void BackgroundParallax_Update_m7_33 (BackgroundParallax_t7_11 * __th
 		float L_1 = (L_0->___x_1);
 		Transform_t5_71 * L_2 = (__this->___cam_6);
 		NullCheck(L_2);
-		Vector3_t5_45  L_3 = Transform_get_position_m5_785(L_2, /*hidden argument*/NULL);
+		Vector3_t5_45  L_3 = Transform_get_position_m5_783(L_2, /*hidden argument*/NULL);
 		V_4 = L_3;
 		float L_4 = ((&V_4)->___x_1);
 		float L_5 = (__this->___parallaxScale_3);
@@ -1424,7 +1452,7 @@ IL_002f:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_6, L_7);
 		int32_t L_8 = L_7;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_6, L_8, sizeof(Transform_t5_71 *))));
-		Vector3_t5_45  L_9 = Transform_get_position_m5_785((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_6, L_8, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_9 = Transform_get_position_m5_783((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_6, L_8, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
 		V_5 = L_9;
 		float L_10 = ((&V_5)->___x_1);
 		float L_11 = V_0;
@@ -1438,7 +1466,7 @@ IL_002f:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_15, L_16);
 		int32_t L_17 = L_16;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))));
-		Vector3_t5_45  L_18 = Transform_get_position_m5_785((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_18 = Transform_get_position_m5_783((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_15, L_17, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
 		V_6 = L_18;
 		float L_19 = ((&V_6)->___y_2);
 		TransformU5BU5D_t5_324* L_20 = (__this->___backgrounds_2);
@@ -1447,7 +1475,7 @@ IL_002f:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_20, L_21);
 		int32_t L_22 = L_21;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_20, L_22, sizeof(Transform_t5_71 *))));
-		Vector3_t5_45  L_23 = Transform_get_position_m5_785((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_20, L_22, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_23 = Transform_get_position_m5_783((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_20, L_22, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
 		V_7 = L_23;
 		float L_24 = ((&V_7)->___z_3);
 		Vector3__ctor_m5_216((&V_3), L_14, L_19, L_24, /*hidden argument*/NULL);
@@ -1462,13 +1490,13 @@ IL_002f:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_28, L_29);
 		int32_t L_30 = L_29;
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_28, L_30, sizeof(Transform_t5_71 *))));
-		Vector3_t5_45  L_31 = Transform_get_position_m5_785((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_28, L_30, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_31 = Transform_get_position_m5_783((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_28, L_30, sizeof(Transform_t5_71 *))), /*hidden argument*/NULL);
 		Vector3_t5_45  L_32 = V_3;
 		float L_33 = (__this->___smoothing_5);
-		float L_34 = Time_get_deltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_34 = Time_get_deltaTime_m5_831(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_35 = Vector3_Lerp_m5_218(NULL /*static, unused*/, L_31, L_32, ((float)((float)L_33*(float)L_34)), /*hidden argument*/NULL);
 		NullCheck((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_25, L_27, sizeof(Transform_t5_71 *))));
-		Transform_set_position_m5_786((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_25, L_27, sizeof(Transform_t5_71 *))), L_35, /*hidden argument*/NULL);
+		Transform_set_position_m5_784((*(Transform_t5_71 **)(Transform_t5_71 **)SZArrayLdElema(L_25, L_27, sizeof(Transform_t5_71 *))), L_35, /*hidden argument*/NULL);
 		int32_t L_36 = V_1;
 		V_1 = ((int32_t)((int32_t)L_36+(int32_t)1));
 	}
@@ -1486,7 +1514,7 @@ IL_00bc:
 	{
 		Transform_t5_71 * L_39 = (__this->___cam_6);
 		NullCheck(L_39);
-		Vector3_t5_45  L_40 = Transform_get_position_m5_785(L_39, /*hidden argument*/NULL);
+		Vector3_t5_45  L_40 = Transform_get_position_m5_783(L_39, /*hidden argument*/NULL);
 		__this->___previousCamPos_7 = L_40;
 		return;
 	}
@@ -1573,7 +1601,7 @@ IL_0025:
 		BackgroundPropSpawner_t7_13 * L_4 = (__this->___U3CU3Ef__this_10);
 		NullCheck(L_4);
 		float L_5 = (L_4->___maxTimeBetweenSpawns_8);
-		float L_6 = Random_Range_m5_840(NULL /*static, unused*/, L_3, L_5, /*hidden argument*/NULL);
+		float L_6 = Random_Range_m5_838(NULL /*static, unused*/, L_3, L_5, /*hidden argument*/NULL);
 		__this->___U3CwaitTimeU3E__0_0 = L_6;
 		float L_7 = (__this->___U3CwaitTimeU3E__0_0);
 		WaitForSeconds_t5_10 * L_8 = (WaitForSeconds_t5_10 *)il2cpp_codegen_object_new (WaitForSeconds_t5_10_il2cpp_TypeInfo_var);
@@ -1585,7 +1613,7 @@ IL_0025:
 
 IL_0063:
 	{
-		int32_t L_9 = Random_Range_m5_841(NULL /*static, unused*/, 0, 2, /*hidden argument*/NULL);
+		int32_t L_9 = Random_Range_m5_839(NULL /*static, unused*/, 0, 2, /*hidden argument*/NULL);
 		__this->___U3CfacingLeftU3E__1_1 = ((((int32_t)L_9) == ((int32_t)0))? 1 : 0);
 		bool L_10 = (__this->___U3CfacingLeftU3E__1_1);
 		G_B4_0 = __this;
@@ -1623,15 +1651,15 @@ IL_009a:
 		BackgroundPropSpawner_t7_13 * L_17 = (__this->___U3CU3Ef__this_10);
 		NullCheck(L_17);
 		float L_18 = (L_17->___maxSpawnPosY_6);
-		float L_19 = Random_Range_m5_840(NULL /*static, unused*/, L_16, L_18, /*hidden argument*/NULL);
+		float L_19 = Random_Range_m5_838(NULL /*static, unused*/, L_16, L_18, /*hidden argument*/NULL);
 		__this->___U3CposYU3E__3_3 = L_19;
 		float L_20 = (__this->___U3CposXU3E__2_2);
 		float L_21 = (__this->___U3CposYU3E__3_3);
 		BackgroundPropSpawner_t7_13 * L_22 = (__this->___U3CU3Ef__this_10);
 		NullCheck(L_22);
-		Transform_t5_71 * L_23 = Component_get_transform_m5_723(L_22, /*hidden argument*/NULL);
+		Transform_t5_71 * L_23 = Component_get_transform_m5_721(L_22, /*hidden argument*/NULL);
 		NullCheck(L_23);
-		Vector3_t5_45  L_24 = Transform_get_position_m5_785(L_23, /*hidden argument*/NULL);
+		Vector3_t5_45  L_24 = Transform_get_position_m5_783(L_23, /*hidden argument*/NULL);
 		V_1 = L_24;
 		float L_25 = ((&V_1)->___z_3);
 		Vector3_t5_45  L_26 = {0};
@@ -1642,7 +1670,7 @@ IL_009a:
 		Rigidbody2D_t5_139 * L_28 = (L_27->___backgroundProp_2);
 		Vector3_t5_45  L_29 = (__this->___U3CspawnPosU3E__4_4);
 		Quaternion_t5_47  L_30 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_t5_5 * L_31 = Object_Instantiate_m5_715(NULL /*static, unused*/, L_28, L_29, L_30, /*hidden argument*/NULL);
+		Object_t5_5 * L_31 = Object_Instantiate_m5_713(NULL /*static, unused*/, L_28, L_29, L_30, /*hidden argument*/NULL);
 		__this->___U3CpropInstanceU3E__5_5 = ((Rigidbody2D_t5_139 *)IsInstSealed(L_31, Rigidbody2D_t5_139_il2cpp_TypeInfo_var));
 		bool L_32 = (__this->___U3CfacingLeftU3E__1_1);
 		if (L_32)
@@ -1653,9 +1681,9 @@ IL_009a:
 	{
 		Rigidbody2D_t5_139 * L_33 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_33);
-		Transform_t5_71 * L_34 = Component_get_transform_m5_723(L_33, /*hidden argument*/NULL);
+		Transform_t5_71 * L_34 = Component_get_transform_m5_721(L_33, /*hidden argument*/NULL);
 		NullCheck(L_34);
-		Vector3_t5_45  L_35 = Transform_get_localScale_m5_802(L_34, /*hidden argument*/NULL);
+		Vector3_t5_45  L_35 = Transform_get_localScale_m5_800(L_34, /*hidden argument*/NULL);
 		__this->___U3CscaleU3E__6_6 = L_35;
 		Vector3_t5_45 * L_36 = &(__this->___U3CscaleU3E__6_6);
 		Vector3_t5_45 * L_37 = L_36;
@@ -1663,10 +1691,10 @@ IL_009a:
 		L_37->___x_1 = ((float)((float)L_38*(float)(-1.0f)));
 		Rigidbody2D_t5_139 * L_39 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_39);
-		Transform_t5_71 * L_40 = Component_get_transform_m5_723(L_39, /*hidden argument*/NULL);
+		Transform_t5_71 * L_40 = Component_get_transform_m5_721(L_39, /*hidden argument*/NULL);
 		Vector3_t5_45  L_41 = (__this->___U3CscaleU3E__6_6);
 		NullCheck(L_40);
-		Transform_set_localScale_m5_803(L_40, L_41, /*hidden argument*/NULL);
+		Transform_set_localScale_m5_801(L_40, L_41, /*hidden argument*/NULL);
 	}
 
 IL_0163:
@@ -1677,7 +1705,7 @@ IL_0163:
 		BackgroundPropSpawner_t7_13 * L_44 = (__this->___U3CU3Ef__this_10);
 		NullCheck(L_44);
 		float L_45 = (L_44->___maxSpeed_10);
-		float L_46 = Random_Range_m5_840(NULL /*static, unused*/, L_43, L_45, /*hidden argument*/NULL);
+		float L_46 = Random_Range_m5_838(NULL /*static, unused*/, L_43, L_45, /*hidden argument*/NULL);
 		__this->___U3CspeedU3E__7_7 = L_46;
 		float L_47 = (__this->___U3CspeedU3E__7_7);
 		bool L_48 = (__this->___U3CfacingLeftU3E__1_1);
@@ -1713,7 +1741,7 @@ IL_01a5:
 		Vector2_t5_44  L_51 = {0};
 		Vector2__ctor_m5_193(&L_51, L_50, (0.0f), /*hidden argument*/NULL);
 		NullCheck(L_49);
-		Rigidbody2D_set_velocity_m5_1043(L_49, L_51, /*hidden argument*/NULL);
+		Rigidbody2D_set_velocity_m5_1041(L_49, L_51, /*hidden argument*/NULL);
 		BackgroundPropSpawner_t7_13 * L_52 = (__this->___U3CU3Ef__this_10);
 		BackgroundPropSpawner_t7_13 * L_53 = (__this->___U3CU3Ef__this_10);
 		NullCheck(L_53);
@@ -1734,9 +1762,9 @@ IL_01e2:
 	{
 		Rigidbody2D_t5_139 * L_56 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_56);
-		Transform_t5_71 * L_57 = Component_get_transform_m5_723(L_56, /*hidden argument*/NULL);
+		Transform_t5_71 * L_57 = Component_get_transform_m5_721(L_56, /*hidden argument*/NULL);
 		NullCheck(L_57);
-		Vector3_t5_45  L_58 = Transform_get_position_m5_785(L_57, /*hidden argument*/NULL);
+		Vector3_t5_45  L_58 = Transform_get_position_m5_783(L_57, /*hidden argument*/NULL);
 		V_2 = L_58;
 		float L_59 = ((&V_2)->___x_1);
 		BackgroundPropSpawner_t7_13 * L_60 = (__this->___U3CU3Ef__this_10);
@@ -1750,8 +1778,8 @@ IL_01e2:
 	{
 		Rigidbody2D_t5_139 * L_62 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_62);
-		GameObject_t5_101 * L_63 = Component_get_gameObject_m5_724(L_62, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_63, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_63 = Component_get_gameObject_m5_722(L_62, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_63, /*hidden argument*/NULL);
 	}
 
 IL_022b:
@@ -1763,9 +1791,9 @@ IL_0230:
 	{
 		Rigidbody2D_t5_139 * L_64 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_64);
-		Transform_t5_71 * L_65 = Component_get_transform_m5_723(L_64, /*hidden argument*/NULL);
+		Transform_t5_71 * L_65 = Component_get_transform_m5_721(L_64, /*hidden argument*/NULL);
 		NullCheck(L_65);
-		Vector3_t5_45  L_66 = Transform_get_position_m5_785(L_65, /*hidden argument*/NULL);
+		Vector3_t5_45  L_66 = Transform_get_position_m5_783(L_65, /*hidden argument*/NULL);
 		V_3 = L_66;
 		float L_67 = ((&V_3)->___x_1);
 		BackgroundPropSpawner_t7_13 * L_68 = (__this->___U3CU3Ef__this_10);
@@ -1779,8 +1807,8 @@ IL_0230:
 	{
 		Rigidbody2D_t5_139 * L_70 = (__this->___U3CpropInstanceU3E__5_5);
 		NullCheck(L_70);
-		GameObject_t5_101 * L_71 = Component_get_gameObject_m5_724(L_70, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_71, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_71 = Component_get_gameObject_m5_722(L_70, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_71, /*hidden argument*/NULL);
 	}
 
 IL_026e:
@@ -1793,7 +1821,7 @@ IL_026e:
 IL_0281:
 	{
 		Rigidbody2D_t5_139 * L_72 = (__this->___U3CpropInstanceU3E__5_5);
-		bool L_73 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_72, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_73 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_72, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_73)
 		{
 			goto IL_01e2;
@@ -1848,14 +1876,14 @@ extern "C" void BackgroundPropSpawner__ctor_m7_40 (BackgroundPropSpawner_t7_13 *
 }
 // System.Void BackgroundPropSpawner::Start()
 extern TypeInfo* DateTime_t1_126_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2773;
+extern Il2CppCodeGenString* _stringLiteral2774;
 extern "C" void BackgroundPropSpawner_Start_m7_41 (BackgroundPropSpawner_t7_13 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		DateTime_t1_126_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(171);
-		_stringLiteral2773 = il2cpp_codegen_string_literal_from_index(2773);
+		_stringLiteral2774 = il2cpp_codegen_string_literal_from_index(2774);
 		s_Il2CppMethodIntialized = true;
 	}
 	DateTime_t1_126  V_0 = {0};
@@ -1864,8 +1892,8 @@ extern "C" void BackgroundPropSpawner_Start_m7_41 (BackgroundPropSpawner_t7_13 *
 		DateTime_t1_126  L_0 = DateTime_get_Today_m1_4879(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
 		int32_t L_1 = DateTime_get_Millisecond_m1_4874((&V_0), /*hidden argument*/NULL);
-		Random_set_seed_m5_839(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
-		MonoBehaviour_StartCoroutine_m5_653(__this, _stringLiteral2773, /*hidden argument*/NULL);
+		Random_set_seed_m5_837(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		MonoBehaviour_StartCoroutine_m5_653(__this, _stringLiteral2774, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -1952,10 +1980,10 @@ IL_0021:
 		AudioClip_t5_147 * L_3 = (L_2->___fuse_5);
 		Bomb_t7_15 * L_4 = (__this->___U3CU3Ef__this_2);
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(L_4, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Vector3_t5_45  L_6 = Transform_get_position_m5_785(L_5, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, L_3, L_6, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_get_position_m5_783(L_5, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, L_3, L_6, /*hidden argument*/NULL);
 		Bomb_t7_15 * L_7 = (__this->___U3CU3Ef__this_2);
 		NullCheck(L_7);
 		float L_8 = (L_7->___fuseTime_6);
@@ -2021,45 +2049,45 @@ extern "C" void Bomb__ctor_m7_49 (Bomb_t7_15 * __this, const MethodInfo* method)
 	}
 }
 // System.Void Bomb::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisParticleSystem_t5_123_m5_1788_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisLayBombs_t7_16_m5_1880_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2774;
+extern const MethodInfo* GameObject_GetComponent_TisParticleSystem_t5_123_m5_1786_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisLayBombs_t7_16_m5_1878_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2775;
 extern Il2CppCodeGenString* _stringLiteral2776;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void Bomb_Awake_m7_50 (Bomb_t7_15 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisParticleSystem_t5_123_m5_1788_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483714);
-		GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484038);
-		GameObject_GetComponent_TisLayBombs_t7_16_m5_1880_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484039);
-		_stringLiteral2774 = il2cpp_codegen_string_literal_from_index(2774);
+		GameObject_GetComponent_TisParticleSystem_t5_123_m5_1786_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483714);
+		GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484038);
+		GameObject_GetComponent_TisLayBombs_t7_16_m5_1878_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484039);
 		_stringLiteral2775 = il2cpp_codegen_string_literal_from_index(2775);
 		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2774, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2775, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		ParticleSystem_t5_123 * L_1 = GameObject_GetComponent_TisParticleSystem_t5_123_m5_1788(L_0, /*hidden argument*/GameObject_GetComponent_TisParticleSystem_t5_123_m5_1788_MethodInfo_var);
+		ParticleSystem_t5_123 * L_1 = GameObject_GetComponent_TisParticleSystem_t5_123_m5_1786(L_0, /*hidden argument*/GameObject_GetComponent_TisParticleSystem_t5_123_m5_1786_MethodInfo_var);
 		__this->___explosionFX_10 = L_1;
-		GameObject_t5_101 * L_2 = GameObject_Find_m5_779(NULL /*static, unused*/, _stringLiteral2775, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_2 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		PickupSpawner_t7_17 * L_3 = GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879(L_2, /*hidden argument*/GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var);
+		PickupSpawner_t7_17 * L_3 = GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877(L_2, /*hidden argument*/GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var);
 		__this->___pickupSpawner_9 = L_3;
-		GameObject_t5_101 * L_4 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
-		bool L_5 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_4 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Implicit_m5_717(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0053;
 		}
 	}
 	{
-		GameObject_t5_101 * L_6 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		LayBombs_t7_16 * L_7 = GameObject_GetComponent_TisLayBombs_t7_16_m5_1880(L_6, /*hidden argument*/GameObject_GetComponent_TisLayBombs_t7_16_m5_1880_MethodInfo_var);
+		LayBombs_t7_16 * L_7 = GameObject_GetComponent_TisLayBombs_t7_16_m5_1878(L_6, /*hidden argument*/GameObject_GetComponent_TisLayBombs_t7_16_m5_1878_MethodInfo_var);
 		__this->___layBombs_8 = L_7;
 	}
 
@@ -2072,11 +2100,11 @@ IL_0053:
 extern "C" void Bomb_Start_m7_51 (Bomb_t7_15 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_root_m5_824(L_0, /*hidden argument*/NULL);
-		Transform_t5_71 * L_2 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_root_m5_822(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0028;
@@ -2117,10 +2145,10 @@ extern "C" Object_t * Bomb_BombDetonation_m7_52 (Bomb_t7_15 * __this, const Meth
 // System.Void Bomb::Explode()
 extern TypeInfo* Physics2D_t5_135_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2777;
+extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2778;
+extern Il2CppCodeGenString* _stringLiteral2779;
 extern "C" void Bomb_Explode_m7_53 (Bomb_t7_15 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -2128,10 +2156,10 @@ extern "C" void Bomb_Explode_m7_53 (Bomb_t7_15 * __this, const MethodInfo* metho
 	{
 		Physics2D_t5_135_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(893);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
-		GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484041);
-		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
+		Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
+		GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484041);
 		_stringLiteral2778 = il2cpp_codegen_string_literal_from_index(2778);
+		_stringLiteral2779 = il2cpp_codegen_string_literal_from_index(2779);
 		s_Il2CppMethodIntialized = true;
 	}
 	Collider2DU5BU5D_t5_298* V_0 = {0};
@@ -2151,14 +2179,14 @@ extern "C" void Bomb_Explode_m7_53 (Bomb_t7_15 * __this, const MethodInfo* metho
 		Object_t * L_3 = PickupSpawner_DeliverPickup_m7_143(L_2, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		MonoBehaviour_StartCoroutine_m5_650(L_1, L_3, /*hidden argument*/NULL);
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Vector3_t5_45  L_5 = Transform_get_position_m5_785(L_4, /*hidden argument*/NULL);
+		Vector3_t5_45  L_5 = Transform_get_position_m5_783(L_4, /*hidden argument*/NULL);
 		Vector2_t5_44  L_6 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		float L_7 = (__this->___bombRadius_2);
-		int32_t L_8 = LayerMask_NameToLayer_m5_190(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
+		int32_t L_8 = LayerMask_NameToLayer_m5_190(NULL /*static, unused*/, _stringLiteral2778, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t5_135_il2cpp_TypeInfo_var);
-		Collider2DU5BU5D_t5_298* L_9 = Physics2D_OverlapCircleAll_m5_1033(NULL /*static, unused*/, L_6, L_7, ((int32_t)((int32_t)1<<(int32_t)((int32_t)((int32_t)L_8&(int32_t)((int32_t)31))))), /*hidden argument*/NULL);
+		Collider2DU5BU5D_t5_298* L_9 = Physics2D_OverlapCircleAll_m5_1031(NULL /*static, unused*/, L_6, L_7, ((int32_t)((int32_t)1<<(int32_t)((int32_t)((int32_t)L_8&(int32_t)((int32_t)31))))), /*hidden argument*/NULL);
 		V_0 = L_9;
 		Collider2DU5BU5D_t5_298* L_10 = V_0;
 		V_2 = L_10;
@@ -2176,10 +2204,10 @@ IL_0057:
 		V_1 = (*(Collider2D_t5_137 **)(Collider2D_t5_137 **)SZArrayLdElema(L_11, L_13, sizeof(Collider2D_t5_137 *)));
 		Collider2D_t5_137 * L_14 = V_1;
 		NullCheck(L_14);
-		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(L_14, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(L_14, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		V_4 = L_15;
 		Rigidbody2D_t5_139 * L_16 = V_4;
-		bool L_17 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_17 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_16, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_17)
 		{
 			goto IL_00d8;
@@ -2188,9 +2216,9 @@ IL_0057:
 	{
 		Rigidbody2D_t5_139 * L_18 = V_4;
 		NullCheck(L_18);
-		String_t* L_19 = Component_get_tag_m5_738(L_18, /*hidden argument*/NULL);
+		String_t* L_19 = Component_get_tag_m5_736(L_18, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_20 = String_op_Equality_m1_456(NULL /*static, unused*/, L_19, _stringLiteral2778, /*hidden argument*/NULL);
+		bool L_20 = String_op_Equality_m1_456(NULL /*static, unused*/, L_19, _stringLiteral2779, /*hidden argument*/NULL);
 		if (!L_20)
 		{
 			goto IL_00d8;
@@ -2199,19 +2227,19 @@ IL_0057:
 	{
 		Rigidbody2D_t5_139 * L_21 = V_4;
 		NullCheck(L_21);
-		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_724(L_21, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_722(L_21, /*hidden argument*/NULL);
 		NullCheck(L_22);
-		Enemy_t7_26 * L_23 = GameObject_GetComponent_TisEnemy_t7_26_m5_1882(L_22, /*hidden argument*/GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var);
+		Enemy_t7_26 * L_23 = GameObject_GetComponent_TisEnemy_t7_26_m5_1880(L_22, /*hidden argument*/GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var);
 		NullCheck(L_23);
 		L_23->___HP_3 = 0;
 		Rigidbody2D_t5_139 * L_24 = V_4;
 		NullCheck(L_24);
-		Transform_t5_71 * L_25 = Component_get_transform_m5_723(L_24, /*hidden argument*/NULL);
+		Transform_t5_71 * L_25 = Component_get_transform_m5_721(L_24, /*hidden argument*/NULL);
 		NullCheck(L_25);
-		Vector3_t5_45  L_26 = Transform_get_position_m5_785(L_25, /*hidden argument*/NULL);
-		Transform_t5_71 * L_27 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_26 = Transform_get_position_m5_783(L_25, /*hidden argument*/NULL);
+		Transform_t5_71 * L_27 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_27);
-		Vector3_t5_45  L_28 = Transform_get_position_m5_785(L_27, /*hidden argument*/NULL);
+		Vector3_t5_45  L_28 = Transform_get_position_m5_783(L_27, /*hidden argument*/NULL);
 		Vector3_t5_45  L_29 = Vector3_op_Subtraction_m5_242(NULL /*static, unused*/, L_26, L_28, /*hidden argument*/NULL);
 		V_5 = L_29;
 		Vector3_t5_45  L_30 = Vector3_get_normalized_m5_224((&V_5), /*hidden argument*/NULL);
@@ -2222,7 +2250,7 @@ IL_0057:
 		Vector3_t5_45  L_34 = V_6;
 		Vector2_t5_44  L_35 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_34, /*hidden argument*/NULL);
 		NullCheck(L_33);
-		Rigidbody2D_AddForce_m5_1047(L_33, L_35, /*hidden argument*/NULL);
+		Rigidbody2D_AddForce_m5_1045(L_33, L_35, /*hidden argument*/NULL);
 	}
 
 IL_00d8:
@@ -2244,28 +2272,28 @@ IL_00dc:
 	{
 		ParticleSystem_t5_123 * L_39 = (__this->___explosionFX_10);
 		NullCheck(L_39);
-		Transform_t5_71 * L_40 = Component_get_transform_m5_723(L_39, /*hidden argument*/NULL);
-		Transform_t5_71 * L_41 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_40 = Component_get_transform_m5_721(L_39, /*hidden argument*/NULL);
+		Transform_t5_71 * L_41 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_41);
-		Vector3_t5_45  L_42 = Transform_get_position_m5_785(L_41, /*hidden argument*/NULL);
+		Vector3_t5_45  L_42 = Transform_get_position_m5_783(L_41, /*hidden argument*/NULL);
 		NullCheck(L_40);
-		Transform_set_position_m5_786(L_40, L_42, /*hidden argument*/NULL);
+		Transform_set_position_m5_784(L_40, L_42, /*hidden argument*/NULL);
 		ParticleSystem_t5_123 * L_43 = (__this->___explosionFX_10);
 		NullCheck(L_43);
-		ParticleSystem_Play_m5_976(L_43, /*hidden argument*/NULL);
+		ParticleSystem_Play_m5_974(L_43, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_44 = (__this->___explosion_7);
-		Transform_t5_71 * L_45 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_45 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_45);
-		Vector3_t5_45  L_46 = Transform_get_position_m5_785(L_45, /*hidden argument*/NULL);
+		Vector3_t5_45  L_46 = Transform_get_position_m5_783(L_45, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_47 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_44, L_46, L_47, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_44, L_46, L_47, /*hidden argument*/NULL);
 		AudioClip_t5_147 * L_48 = (__this->___boom_4);
-		Transform_t5_71 * L_49 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_49 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_49);
-		Vector3_t5_45  L_50 = Transform_get_position_m5_785(L_49, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, L_48, L_50, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_51 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_51, /*hidden argument*/NULL);
+		Vector3_t5_45  L_50 = Transform_get_position_m5_783(L_49, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, L_48, L_50, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_51 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_51, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -2278,51 +2306,51 @@ extern "C" void BombPickup__ctor_m7_54 (BombPickup_t7_18 * __this, const MethodI
 	}
 }
 // System.Void BombPickup::Awake()
-extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var;
 extern "C" void BombPickup_Awake_m7_55 (BombPickup_t7_18 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
+		Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_root_m5_824(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_root_m5_822(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		Animator_t5_156 * L_2 = Component_GetComponent_TisAnimator_t5_156_m5_1856(L_1, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var);
+		Animator_t5_156 * L_2 = Component_GetComponent_TisAnimator_t5_156_m5_1854(L_1, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var);
 		__this->___anim_3 = L_2;
 		return;
 	}
 }
 // System.Void BombPickup::OnTriggerEnter2D(UnityEngine.Collider2D)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisLayBombs_t7_16_m5_1883_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2776;
-extern Il2CppCodeGenString* _stringLiteral2779;
+extern const MethodInfo* Component_GetComponent_TisLayBombs_t7_16_m5_1881_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern Il2CppCodeGenString* _stringLiteral2780;
+extern Il2CppCodeGenString* _stringLiteral2781;
 extern "C" void BombPickup_OnTriggerEnter2D_m7_56 (BombPickup_t7_18 * __this, Collider2D_t5_137 * ___other, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisLayBombs_t7_16_m5_1883_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484042);
-		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484043);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
-		_stringLiteral2779 = il2cpp_codegen_string_literal_from_index(2779);
+		Component_GetComponent_TisLayBombs_t7_16_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484042);
+		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484043);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		_stringLiteral2780 = il2cpp_codegen_string_literal_from_index(2780);
+		_stringLiteral2781 = il2cpp_codegen_string_literal_from_index(2781);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Collider2D_t5_137 * L_0 = ___other;
 		NullCheck(L_0);
-		String_t* L_1 = Component_get_tag_m5_738(L_0, /*hidden argument*/NULL);
+		String_t* L_1 = Component_get_tag_m5_736(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2776, /*hidden argument*/NULL);
+		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2777, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0058;
@@ -2330,24 +2358,24 @@ extern "C" void BombPickup_OnTriggerEnter2D_m7_56 (BombPickup_t7_18 * __this, Co
 	}
 	{
 		AudioClip_t5_147 * L_3 = (__this->___pickupClip_2);
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Vector3_t5_45  L_5 = Transform_get_position_m5_785(L_4, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, L_3, L_5, /*hidden argument*/NULL);
+		Vector3_t5_45  L_5 = Transform_get_position_m5_783(L_4, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, L_3, L_5, /*hidden argument*/NULL);
 		Collider2D_t5_137 * L_6 = ___other;
 		NullCheck(L_6);
-		LayBombs_t7_16 * L_7 = Component_GetComponent_TisLayBombs_t7_16_m5_1883(L_6, /*hidden argument*/Component_GetComponent_TisLayBombs_t7_16_m5_1883_MethodInfo_var);
+		LayBombs_t7_16 * L_7 = Component_GetComponent_TisLayBombs_t7_16_m5_1881(L_6, /*hidden argument*/Component_GetComponent_TisLayBombs_t7_16_m5_1881_MethodInfo_var);
 		LayBombs_t7_16 * L_8 = L_7;
 		NullCheck(L_8);
 		int32_t L_9 = (L_8->___bombCount_3);
 		NullCheck(L_8);
 		L_8->___bombCount_3 = ((int32_t)((int32_t)L_9+(int32_t)1));
-		Transform_t5_71 * L_10 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_10 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_10);
-		Transform_t5_71 * L_11 = Transform_get_root_m5_824(L_10, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = Transform_get_root_m5_822(L_10, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_724(L_11, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_12 = Component_get_gameObject_m5_722(L_11, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
 		goto IL_00a7;
 	}
 
@@ -2355,9 +2383,9 @@ IL_0058:
 	{
 		Collider2D_t5_137 * L_13 = ___other;
 		NullCheck(L_13);
-		String_t* L_14 = Component_get_tag_m5_738(L_13, /*hidden argument*/NULL);
+		String_t* L_14 = Component_get_tag_m5_736(L_13, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_15 = String_op_Equality_m1_456(NULL /*static, unused*/, L_14, _stringLiteral2779, /*hidden argument*/NULL);
+		bool L_15 = String_op_Equality_m1_456(NULL /*static, unused*/, L_14, _stringLiteral2780, /*hidden argument*/NULL);
 		if (!L_15)
 		{
 			goto IL_00a7;
@@ -2373,13 +2401,13 @@ IL_0058:
 	{
 		Animator_t5_156 * L_17 = (__this->___anim_3);
 		NullCheck(L_17);
-		Animator_SetTrigger_m5_1133(L_17, _stringLiteral2780, /*hidden argument*/NULL);
-		Transform_t5_71 * L_18 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Animator_SetTrigger_m5_1131(L_17, _stringLiteral2781, /*hidden argument*/NULL);
+		Transform_t5_71 * L_18 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		Transform_set_parent_m5_807(L_18, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_19 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		Transform_set_parent_m5_805(L_18, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_19 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884(L_19, /*hidden argument*/GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var);
+		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882(L_19, /*hidden argument*/GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var);
 		__this->___landed_4 = 1;
 	}
 
@@ -2401,19 +2429,19 @@ extern "C" void CameraFollow__ctor_m7_57 (CameraFollow_t7_19 * __this, const Met
 	}
 }
 // System.Void CameraFollow::Awake()
-extern Il2CppCodeGenString* _stringLiteral2776;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void CameraFollow_Awake_m7_58 (CameraFollow_t7_19 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = GameObject_get_transform_m5_766(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = GameObject_get_transform_m5_764(L_0, /*hidden argument*/NULL);
 		__this->___player_8 = L_1;
 		return;
 	}
@@ -2431,14 +2459,14 @@ extern "C" bool CameraFollow_CheckXMargin_m7_59 (CameraFollow_t7_19 * __this, co
 	Vector3_t5_45  V_0 = {0};
 	Vector3_t5_45  V_1 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		float L_2 = ((&V_0)->___x_1);
 		Transform_t5_71 * L_3 = (__this->___player_8);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		float L_5 = ((&V_1)->___x_1);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
@@ -2460,14 +2488,14 @@ extern "C" bool CameraFollow_CheckYMargin_m7_60 (CameraFollow_t7_19 * __this, co
 	Vector3_t5_45  V_0 = {0};
 	Vector3_t5_45  V_1 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		float L_2 = ((&V_0)->___y_2);
 		Transform_t5_71 * L_3 = (__this->___player_8);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		float L_5 = ((&V_1)->___y_2);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
@@ -2504,15 +2532,15 @@ extern "C" void CameraFollow_TrackPlayer_m7_62 (CameraFollow_t7_19 * __this, con
 	Vector3_t5_45  V_7 = {0};
 	Vector3_t5_45  V_8 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_2 = L_1;
 		float L_2 = ((&V_2)->___x_1);
 		V_0 = L_2;
-		Transform_t5_71 * L_3 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		V_3 = L_4;
 		float L_5 = ((&V_3)->___y_2);
 		V_1 = L_5;
@@ -2523,18 +2551,18 @@ extern "C" void CameraFollow_TrackPlayer_m7_62 (CameraFollow_t7_19 * __this, con
 		}
 	}
 	{
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Vector3_t5_45  L_8 = Transform_get_position_m5_785(L_7, /*hidden argument*/NULL);
+		Vector3_t5_45  L_8 = Transform_get_position_m5_783(L_7, /*hidden argument*/NULL);
 		V_4 = L_8;
 		float L_9 = ((&V_4)->___x_1);
 		Transform_t5_71 * L_10 = (__this->___player_8);
 		NullCheck(L_10);
-		Vector3_t5_45  L_11 = Transform_get_position_m5_785(L_10, /*hidden argument*/NULL);
+		Vector3_t5_45  L_11 = Transform_get_position_m5_783(L_10, /*hidden argument*/NULL);
 		V_5 = L_11;
 		float L_12 = ((&V_5)->___x_1);
 		float L_13 = (__this->___xSmooth_4);
-		float L_14 = Time_get_deltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_14 = Time_get_deltaTime_m5_831(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
 		float L_15 = Mathf_Lerp_m5_356(NULL /*static, unused*/, L_9, L_12, ((float)((float)L_13*(float)L_14)), /*hidden argument*/NULL);
 		V_0 = L_15;
@@ -2549,18 +2577,18 @@ IL_006d:
 		}
 	}
 	{
-		Transform_t5_71 * L_17 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_17 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_17);
-		Vector3_t5_45  L_18 = Transform_get_position_m5_785(L_17, /*hidden argument*/NULL);
+		Vector3_t5_45  L_18 = Transform_get_position_m5_783(L_17, /*hidden argument*/NULL);
 		V_6 = L_18;
 		float L_19 = ((&V_6)->___y_2);
 		Transform_t5_71 * L_20 = (__this->___player_8);
 		NullCheck(L_20);
-		Vector3_t5_45  L_21 = Transform_get_position_m5_785(L_20, /*hidden argument*/NULL);
+		Vector3_t5_45  L_21 = Transform_get_position_m5_783(L_20, /*hidden argument*/NULL);
 		V_7 = L_21;
 		float L_22 = ((&V_7)->___y_2);
 		float L_23 = (__this->___ySmooth_5);
-		float L_24 = Time_get_deltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_24 = Time_get_deltaTime_m5_831(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
 		float L_25 = Mathf_Lerp_m5_356(NULL /*static, unused*/, L_19, L_22, ((float)((float)L_23*(float)L_24)), /*hidden argument*/NULL);
 		V_1 = L_25;
@@ -2583,18 +2611,18 @@ IL_00b2:
 		float L_36 = (L_35->___y_2);
 		float L_37 = Mathf_Clamp_m5_353(NULL /*static, unused*/, L_32, L_34, L_36, /*hidden argument*/NULL);
 		V_1 = L_37;
-		Transform_t5_71 * L_38 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_38 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		float L_39 = V_0;
 		float L_40 = V_1;
-		Transform_t5_71 * L_41 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_41 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_41);
-		Vector3_t5_45  L_42 = Transform_get_position_m5_785(L_41, /*hidden argument*/NULL);
+		Vector3_t5_45  L_42 = Transform_get_position_m5_783(L_41, /*hidden argument*/NULL);
 		V_8 = L_42;
 		float L_43 = ((&V_8)->___z_3);
 		Vector3_t5_45  L_44 = {0};
 		Vector3__ctor_m5_216(&L_44, L_39, L_40, L_43, /*hidden argument*/NULL);
 		NullCheck(L_38);
-		Transform_set_position_m5_786(L_38, L_44, /*hidden argument*/NULL);
+		Transform_set_position_m5_784(L_38, L_44, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -2641,30 +2669,30 @@ extern "C" void ChangeColor_SetBlue_m7_67 (ChangeColor_t7_20 * __this, float ___
 	}
 }
 // System.Void ChangeColor::OnValueChanged(System.Single,System.Int32)
-extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var;
 extern "C" void ChangeColor_OnValueChanged_m7_68 (ChangeColor_t7_20 * __this, float ___value, int32_t ___channel, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
-		Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484044);
+		Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
+		Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484044);
 		s_Il2CppMethodIntialized = true;
 	}
 	Color_t5_165  V_0 = {0};
 	{
-		Color_t5_165  L_0 = Color_get_white_m5_1587(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = Color_get_white_m5_1585(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
-		Renderer_t5_24 * L_1 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Renderer_t5_24 * L_1 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_002d;
 		}
 	}
 	{
-		Renderer_t5_24 * L_3 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
+		Renderer_t5_24 * L_3 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
 		NullCheck(L_3);
 		Material_t5_77 * L_4 = Renderer_get_material_m5_122(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
@@ -2675,17 +2703,17 @@ extern "C" void ChangeColor_OnValueChanged_m7_68 (ChangeColor_t7_20 * __this, fl
 
 IL_002d:
 	{
-		Light_t5_100 * L_6 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Light_t5_100 * L_6 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_004a;
 		}
 	}
 	{
-		Light_t5_100 * L_8 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
+		Light_t5_100 * L_8 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
 		NullCheck(L_8);
-		Color_t5_165  L_9 = Light_get_color_m5_753(L_8, /*hidden argument*/NULL);
+		Color_t5_165  L_9 = Light_get_color_m5_751(L_8, /*hidden argument*/NULL);
 		V_0 = L_9;
 	}
 
@@ -2693,16 +2721,16 @@ IL_004a:
 	{
 		int32_t L_10 = ___channel;
 		float L_11 = ___value;
-		Color_set_Item_m5_1591((&V_0), L_10, L_11, /*hidden argument*/NULL);
-		Renderer_t5_24 * L_12 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
-		bool L_13 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Color_set_Item_m5_1589((&V_0), L_10, L_11, /*hidden argument*/NULL);
+		Renderer_t5_24 * L_12 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
+		bool L_13 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_12, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_13)
 		{
 			goto IL_007a;
 		}
 	}
 	{
-		Renderer_t5_24 * L_14 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
+		Renderer_t5_24 * L_14 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
 		NullCheck(L_14);
 		Material_t5_77 * L_15 = Renderer_get_material_m5_122(L_14, /*hidden argument*/NULL);
 		Color_t5_165  L_16 = V_0;
@@ -2713,18 +2741,18 @@ IL_004a:
 
 IL_007a:
 	{
-		Light_t5_100 * L_17 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
-		bool L_18 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Light_t5_100 * L_17 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
+		bool L_18 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_17, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_18)
 		{
 			goto IL_0097;
 		}
 	}
 	{
-		Light_t5_100 * L_19 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
+		Light_t5_100 * L_19 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
 		Color_t5_165  L_20 = V_0;
 		NullCheck(L_19);
-		Light_set_color_m5_754(L_19, L_20, /*hidden argument*/NULL);
+		Light_set_color_m5_752(L_19, L_20, /*hidden argument*/NULL);
 	}
 
 IL_0097:
@@ -2733,34 +2761,34 @@ IL_0097:
 	}
 }
 // System.Void ChangeColor::OnPointerClick(UnityEngine.EventSystems.PointerEventData)
-extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var;
 extern "C" void ChangeColor_OnPointerClick_m7_69 (ChangeColor_t7_20 * __this, PointerEventData_t6_37 * ___data, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
-		Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484044);
+		Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
+		Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484044);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Renderer_t5_24 * L_0 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Renderer_t5_24 * L_0 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_003f;
 		}
 	}
 	{
-		Renderer_t5_24 * L_2 = Component_GetComponent_TisRenderer_t5_24_m5_1873(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
+		Renderer_t5_24 * L_2 = Component_GetComponent_TisRenderer_t5_24_m5_1871(__this, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
 		NullCheck(L_2);
 		Material_t5_77 * L_3 = Renderer_get_material_m5_122(L_2, /*hidden argument*/NULL);
-		float L_4 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_5 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_6 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_4 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_5 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_6 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Color_t5_165  L_7 = {0};
-		Color__ctor_m5_1579(&L_7, L_4, L_5, L_6, (1.0f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_7, L_4, L_5, L_6, (1.0f), /*hidden argument*/NULL);
 		NullCheck(L_3);
 		Material_set_color_m5_519(L_3, L_7, /*hidden argument*/NULL);
 		goto IL_0074;
@@ -2768,22 +2796,22 @@ extern "C" void ChangeColor_OnPointerClick_m7_69 (ChangeColor_t7_20 * __this, Po
 
 IL_003f:
 	{
-		Light_t5_100 * L_8 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Light_t5_100 * L_8 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0074;
 		}
 	}
 	{
-		Light_t5_100 * L_10 = Component_GetComponent_TisLight_t5_100_m5_1885(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1885_MethodInfo_var);
-		float L_11 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_12 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
-		float L_13 = Random_get_value_m5_843(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Light_t5_100 * L_10 = Component_GetComponent_TisLight_t5_100_m5_1883(__this, /*hidden argument*/Component_GetComponent_TisLight_t5_100_m5_1883_MethodInfo_var);
+		float L_11 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_12 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_13 = Random_get_value_m5_841(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Color_t5_165  L_14 = {0};
-		Color__ctor_m5_1579(&L_14, L_11, L_12, L_13, (1.0f), /*hidden argument*/NULL);
+		Color__ctor_m5_1577(&L_14, L_11, L_12, L_13, (1.0f), /*hidden argument*/NULL);
 		NullCheck(L_10);
-		Light_set_color_m5_754(L_10, L_14, /*hidden argument*/NULL);
+		Light_set_color_m5_752(L_10, L_14, /*hidden argument*/NULL);
 	}
 
 IL_0074:
@@ -2817,21 +2845,21 @@ extern "C" void Destroyer_Awake_m7_71 (Destroyer_t7_21 * __this, const MethodInf
 		}
 	}
 	{
-		Transform_t5_71 * L_2 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		String_t* L_3 = (__this->___namedChild_5);
 		NullCheck(L_2);
-		Transform_t5_71 * L_4 = Transform_Find_m5_828(L_2, L_3, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Transform_Find_m5_826(L_2, L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_724(L_4, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_5 = Component_get_gameObject_m5_722(L_4, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		goto IL_0047;
 	}
 
 IL_0036:
 	{
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		float L_7 = (__this->___awakeDestroyDelay_3);
-		Object_Destroy_m5_693(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
+		Object_Destroy_m5_691(NULL /*static, unused*/, L_6, L_7, /*hidden argument*/NULL);
 	}
 
 IL_0047:
@@ -2843,26 +2871,26 @@ IL_0047:
 extern "C" void Destroyer_DestroyChildGameObject_m7_72 (Destroyer_t7_21 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		String_t* L_1 = (__this->___namedChild_5);
 		NullCheck(L_0);
-		Transform_t5_71 * L_2 = Transform_Find_m5_828(L_0, L_1, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Transform_Find_m5_826(L_0, L_1, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_724(L_2, /*hidden argument*/NULL);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(L_2, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_003c;
 		}
 	}
 	{
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		String_t* L_6 = (__this->___namedChild_5);
 		NullCheck(L_5);
-		Transform_t5_71 * L_7 = Transform_Find_m5_828(L_5, L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Transform_Find_m5_826(L_5, L_6, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_724(L_7, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_722(L_7, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 	}
 
 IL_003c:
@@ -2874,28 +2902,28 @@ IL_003c:
 extern "C" void Destroyer_DisableChildGameObject_m7_73 (Destroyer_t7_21 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		String_t* L_1 = (__this->___namedChild_5);
 		NullCheck(L_0);
-		Transform_t5_71 * L_2 = Transform_Find_m5_828(L_0, L_1, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Transform_Find_m5_826(L_0, L_1, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_724(L_2, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(L_2, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		bool L_4 = GameObject_get_activeSelf_m5_770(L_3, /*hidden argument*/NULL);
+		bool L_4 = GameObject_get_activeSelf_m5_768(L_3, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_003c;
 		}
 	}
 	{
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		String_t* L_6 = (__this->___namedChild_5);
 		NullCheck(L_5);
-		Transform_t5_71 * L_7 = Transform_Find_m5_828(L_5, L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Transform_Find_m5_826(L_5, L_6, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_724(L_7, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = Component_get_gameObject_m5_722(L_7, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		GameObject_SetActive_m5_769(L_8, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_8, 0, /*hidden argument*/NULL);
 	}
 
 IL_003c:
@@ -2907,8 +2935,8 @@ IL_003c:
 extern "C" void Destroyer_DestroyGameObject_m7_74 (Destroyer_t7_21 * __this, const MethodInfo* method)
 {
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -2924,8 +2952,8 @@ extern "C" void DoNotDestroy__ctor_m7_75 (DoNotDestroy_t7_22 * __this, const Met
 extern "C" void DoNotDestroy_Awake_m7_76 (DoNotDestroy_t7_22 * __this, const MethodInfo* method)
 {
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_DontDestroyOnLoad_m5_700(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_DontDestroyOnLoad_m5_698(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -2961,10 +2989,10 @@ extern "C" void DragMe__ctor_m7_77 (DragMe_t7_23 * __this, const MethodInfo* met
 extern TypeInfo* GameObject_t5_101_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern const MethodInfo* DragMe_FindInParents_TisCanvas_t5_177_m7_213_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1886_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2781;
+extern const MethodInfo* GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1884_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2782;
 extern "C" void DragMe_OnBeginDrag_m7_78 (DragMe_t7_23 * __this, PointerEventData_t6_37 * ___eventData, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -2973,21 +3001,21 @@ extern "C" void DragMe_OnBeginDrag_m7_78 (DragMe_t7_23 * __this, PointerEventDat
 		GameObject_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(896);
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		DragMe_FindInParents_TisCanvas_t5_177_m7_213_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484047);
-		GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
-		GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1886_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484048);
-		Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
-		_stringLiteral2781 = il2cpp_codegen_string_literal_from_index(2781);
+		GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483851);
+		GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1884_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484048);
+		Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
+		_stringLiteral2782 = il2cpp_codegen_string_literal_from_index(2782);
 		s_Il2CppMethodIntialized = true;
 	}
 	Canvas_t5_177 * V_0 = {0};
 	Image_t6_65 * V_1 = {0};
 	CanvasGroup_t5_178 * V_2 = {0};
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_1 = DragMe_FindInParents_TisCanvas_t5_177_m7_213(NULL /*static, unused*/, L_0, /*hidden argument*/DragMe_FindInParents_TisCanvas_t5_177_m7_213_MethodInfo_var);
 		V_0 = L_1;
 		Canvas_t5_177 * L_2 = V_0;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0019;
@@ -3004,7 +3032,7 @@ IL_0019:
 		NullCheck(L_5);
 		int32_t L_6 = PointerEventData_get_pointerId_m6_139(L_5, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_7 = (GameObject_t5_101 *)il2cpp_codegen_object_new (GameObject_t5_101_il2cpp_TypeInfo_var);
-		GameObject__ctor_m5_757(L_7, _stringLiteral2781, /*hidden argument*/NULL);
+		GameObject__ctor_m5_755(L_7, _stringLiteral2782, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		VirtActionInvoker2< int32_t, GameObject_t5_101 * >::Invoke(26 /* System.Void System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::set_Item(!0,!1) */, L_4, L_6, L_7);
 		Dictionary_2_t1_952 * L_8 = (__this->___m_DraggingIcons_3);
@@ -3014,12 +3042,12 @@ IL_0019:
 		NullCheck(L_8);
 		GameObject_t5_101 * L_11 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_8, L_10);
 		NullCheck(L_11);
-		Transform_t5_71 * L_12 = GameObject_get_transform_m5_766(L_11, /*hidden argument*/NULL);
+		Transform_t5_71 * L_12 = GameObject_get_transform_m5_764(L_11, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_13 = V_0;
 		NullCheck(L_13);
-		Transform_t5_71 * L_14 = Component_get_transform_m5_723(L_13, /*hidden argument*/NULL);
+		Transform_t5_71 * L_14 = Component_get_transform_m5_721(L_13, /*hidden argument*/NULL);
 		NullCheck(L_12);
-		Transform_SetParent_m5_811(L_12, L_14, 0, /*hidden argument*/NULL);
+		Transform_SetParent_m5_809(L_12, L_14, 0, /*hidden argument*/NULL);
 		Dictionary_2_t1_952 * L_15 = (__this->___m_DraggingIcons_3);
 		PointerEventData_t6_37 * L_16 = ___eventData;
 		NullCheck(L_16);
@@ -3027,9 +3055,9 @@ IL_0019:
 		NullCheck(L_15);
 		GameObject_t5_101 * L_18 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_15, L_17);
 		NullCheck(L_18);
-		Transform_t5_71 * L_19 = GameObject_get_transform_m5_766(L_18, /*hidden argument*/NULL);
+		Transform_t5_71 * L_19 = GameObject_get_transform_m5_764(L_18, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		Transform_SetAsLastSibling_m5_827(L_19, /*hidden argument*/NULL);
+		Transform_SetAsLastSibling_m5_825(L_19, /*hidden argument*/NULL);
 		Dictionary_2_t1_952 * L_20 = (__this->___m_DraggingIcons_3);
 		PointerEventData_t6_37 * L_21 = ___eventData;
 		NullCheck(L_21);
@@ -3037,7 +3065,7 @@ IL_0019:
 		NullCheck(L_20);
 		GameObject_t5_101 * L_23 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_20, L_22);
 		NullCheck(L_23);
-		Image_t6_65 * L_24 = GameObject_AddComponent_TisImage_t6_65_m5_1811(L_23, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1811_MethodInfo_var);
+		Image_t6_65 * L_24 = GameObject_AddComponent_TisImage_t6_65_m5_1809(L_23, /*hidden argument*/GameObject_AddComponent_TisImage_t6_65_m5_1809_MethodInfo_var);
 		V_1 = L_24;
 		Dictionary_2_t1_952 * L_25 = (__this->___m_DraggingIcons_3);
 		PointerEventData_t6_37 * L_26 = ___eventData;
@@ -3046,13 +3074,13 @@ IL_0019:
 		NullCheck(L_25);
 		GameObject_t5_101 * L_28 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_25, L_27);
 		NullCheck(L_28);
-		CanvasGroup_t5_178 * L_29 = GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1886(L_28, /*hidden argument*/GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1886_MethodInfo_var);
+		CanvasGroup_t5_178 * L_29 = GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1884(L_28, /*hidden argument*/GameObject_AddComponent_TisCanvasGroup_t5_178_m5_1884_MethodInfo_var);
 		V_2 = L_29;
 		CanvasGroup_t5_178 * L_30 = V_2;
 		NullCheck(L_30);
-		CanvasGroup_set_blocksRaycasts_m5_1226(L_30, 0, /*hidden argument*/NULL);
+		CanvasGroup_set_blocksRaycasts_m5_1224(L_30, 0, /*hidden argument*/NULL);
 		Image_t6_65 * L_31 = V_1;
-		Image_t6_65 * L_32 = Component_GetComponent_TisImage_t6_65_m5_1866(__this, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var);
+		Image_t6_65 * L_32 = Component_GetComponent_TisImage_t6_65_m5_1864(__this, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var);
 		NullCheck(L_32);
 		Sprite_t5_79 * L_33 = Image_get_sprite_m6_567(L_32, /*hidden argument*/NULL);
 		NullCheck(L_31);
@@ -3071,7 +3099,7 @@ IL_0019:
 		PointerEventData_t6_37 * L_37 = ___eventData;
 		NullCheck(L_37);
 		int32_t L_38 = PointerEventData_get_pointerId_m6_139(L_37, /*hidden argument*/NULL);
-		Transform_t5_71 * L_39 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_39 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_36);
 		VirtActionInvoker2< int32_t, RectTransform_t5_70 * >::Invoke(26 /* System.Void System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.RectTransform>::set_Item(!0,!1) */, L_36, L_38, ((RectTransform_t5_70 *)IsInstSealed(L_39, RectTransform_t5_70_il2cpp_TypeInfo_var)));
 		goto IL_0105;
@@ -3085,7 +3113,7 @@ IL_00e9:
 		int32_t L_42 = PointerEventData_get_pointerId_m6_139(L_41, /*hidden argument*/NULL);
 		Canvas_t5_177 * L_43 = V_0;
 		NullCheck(L_43);
-		Transform_t5_71 * L_44 = Component_get_transform_m5_723(L_43, /*hidden argument*/NULL);
+		Transform_t5_71 * L_44 = Component_get_transform_m5_721(L_43, /*hidden argument*/NULL);
 		NullCheck(L_40);
 		VirtActionInvoker2< int32_t, RectTransform_t5_70 * >::Invoke(26 /* System.Void System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.RectTransform>::set_Item(!0,!1) */, L_40, L_42, ((RectTransform_t5_70 *)IsInstSealed(L_44, RectTransform_t5_70_il2cpp_TypeInfo_var)));
 	}
@@ -3107,7 +3135,7 @@ extern "C" void DragMe_OnDrag_m7_79 (DragMe_t7_23 * __this, PointerEventData_t6_
 		int32_t L_2 = PointerEventData_get_pointerId_m6_139(L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		GameObject_t5_101 * L_3 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_0, L_2);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0023;
@@ -3126,7 +3154,7 @@ IL_0023:
 // System.Void DragMe::SetDraggedPosition(UnityEngine.EventSystems.PointerEventData)
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
 extern TypeInfo* RectTransformUtility_t5_180_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var;
 extern "C" void DragMe_SetDraggedPosition_m7_80 (DragMe_t7_23 * __this, PointerEventData_t6_37 * ___eventData, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -3134,7 +3162,7 @@ extern "C" void DragMe_SetDraggedPosition_m7_80 (DragMe_t7_23 * __this, PointerE
 	{
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
 		RectTransformUtility_t5_180_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(908);
-		GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
+		GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483850);
 		s_Il2CppMethodIntialized = true;
 	}
 	RectTransform_t5_70 * V_0 = {0};
@@ -3150,7 +3178,7 @@ extern "C" void DragMe_SetDraggedPosition_m7_80 (DragMe_t7_23 * __this, PointerE
 		PointerEventData_t6_37 * L_1 = ___eventData;
 		NullCheck(L_1);
 		GameObject_t5_101 * L_2 = PointerEventData_get_pointerEnter_m6_125(L_1, /*hidden argument*/NULL);
-		bool L_3 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0058;
@@ -3161,8 +3189,8 @@ extern "C" void DragMe_SetDraggedPosition_m7_80 (DragMe_t7_23 * __this, PointerE
 		NullCheck(L_4);
 		GameObject_t5_101 * L_5 = PointerEventData_get_pointerEnter_m6_125(L_4, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Transform_t5_71 * L_6 = GameObject_get_transform_m5_766(L_5, /*hidden argument*/NULL);
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = GameObject_get_transform_m5_764(L_5, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, ((RectTransform_t5_70 *)IsInstSealed(L_6, RectTransform_t5_70_il2cpp_TypeInfo_var)), (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0058;
@@ -3177,7 +3205,7 @@ extern "C" void DragMe_SetDraggedPosition_m7_80 (DragMe_t7_23 * __this, PointerE
 		NullCheck(L_11);
 		GameObject_t5_101 * L_12 = PointerEventData_get_pointerEnter_m6_125(L_11, /*hidden argument*/NULL);
 		NullCheck(L_12);
-		Transform_t5_71 * L_13 = GameObject_get_transform_m5_766(L_12, /*hidden argument*/NULL);
+		Transform_t5_71 * L_13 = GameObject_get_transform_m5_764(L_12, /*hidden argument*/NULL);
 		NullCheck(L_8);
 		VirtActionInvoker2< int32_t, RectTransform_t5_70 * >::Invoke(26 /* System.Void System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.RectTransform>::set_Item(!0,!1) */, L_8, L_10, ((RectTransform_t5_70 *)IsInstSealed(L_13, RectTransform_t5_70_il2cpp_TypeInfo_var)));
 	}
@@ -3191,7 +3219,7 @@ IL_0058:
 		NullCheck(L_14);
 		GameObject_t5_101 * L_17 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_14, L_16);
 		NullCheck(L_17);
-		RectTransform_t5_70 * L_18 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1810(L_17, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1810_MethodInfo_var);
+		RectTransform_t5_70 * L_18 = GameObject_GetComponent_TisRectTransform_t5_70_m5_1808(L_17, /*hidden argument*/GameObject_GetComponent_TisRectTransform_t5_70_m5_1808_MethodInfo_var);
 		V_0 = L_18;
 		Dictionary_2_t1_953 * L_19 = (__this->___m_DraggingPlanes_4);
 		PointerEventData_t6_37 * L_20 = ___eventData;
@@ -3206,7 +3234,7 @@ IL_0058:
 		NullCheck(L_25);
 		Camera_t5_86 * L_26 = PointerEventData_get_pressEventCamera_m6_166(L_25, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_27 = RectTransformUtility_ScreenPointToWorldPointInRectangle_m5_1264(NULL /*static, unused*/, L_22, L_24, L_26, (&V_1), /*hidden argument*/NULL);
+		bool L_27 = RectTransformUtility_ScreenPointToWorldPointInRectangle_m5_1262(NULL /*static, unused*/, L_22, L_24, L_26, (&V_1), /*hidden argument*/NULL);
 		if (!L_27)
 		{
 			goto IL_00bb;
@@ -3216,7 +3244,7 @@ IL_0058:
 		RectTransform_t5_70 * L_28 = V_0;
 		Vector3_t5_45  L_29 = V_1;
 		NullCheck(L_28);
-		Transform_set_position_m5_786(L_28, L_29, /*hidden argument*/NULL);
+		Transform_set_position_m5_784(L_28, L_29, /*hidden argument*/NULL);
 		RectTransform_t5_70 * L_30 = V_0;
 		Dictionary_2_t1_953 * L_31 = (__this->___m_DraggingPlanes_4);
 		PointerEventData_t6_37 * L_32 = ___eventData;
@@ -3225,9 +3253,9 @@ IL_0058:
 		NullCheck(L_31);
 		RectTransform_t5_70 * L_34 = (RectTransform_t5_70 *)VirtFuncInvoker1< RectTransform_t5_70 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.RectTransform>::get_Item(!0) */, L_31, L_33);
 		NullCheck(L_34);
-		Quaternion_t5_47  L_35 = Transform_get_rotation_m5_794(L_34, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_35 = Transform_get_rotation_m5_792(L_34, /*hidden argument*/NULL);
 		NullCheck(L_30);
-		Transform_set_rotation_m5_795(L_30, L_35, /*hidden argument*/NULL);
+		Transform_set_rotation_m5_793(L_30, L_35, /*hidden argument*/NULL);
 	}
 
 IL_00bb:
@@ -3245,7 +3273,7 @@ extern "C" void DragMe_OnEndDrag_m7_81 (DragMe_t7_23 * __this, PointerEventData_
 		int32_t L_2 = PointerEventData_get_pointerId_m6_139(L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		GameObject_t5_101 * L_3 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_0, L_2);
-		bool L_4 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_4 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_3, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
 			goto IL_0032;
@@ -3258,7 +3286,7 @@ extern "C" void DragMe_OnEndDrag_m7_81 (DragMe_t7_23 * __this, PointerEventData_
 		int32_t L_7 = PointerEventData_get_pointerId_m6_139(L_6, /*hidden argument*/NULL);
 		NullCheck(L_5);
 		GameObject_t5_101 * L_8 = (GameObject_t5_101 *)VirtFuncInvoker1< GameObject_t5_101 *, int32_t >::Invoke(25 /* !1 System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.GameObject>::get_Item(!0) */, L_5, L_7);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 	}
 
 IL_0032:
@@ -3291,13 +3319,13 @@ extern "C" void DragPanel_Awake_m7_83 (DragPanel_t7_24 * __this, const MethodInf
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_parent_m5_806(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_parent_m5_804(L_0, /*hidden argument*/NULL);
 		__this->___panelRectTransform_4 = ((RectTransform_t5_70 *)IsInstSealed(L_1, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_2 = (__this->___panelRectTransform_4);
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Transform_get_parent_m5_806(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Transform_get_parent_m5_804(L_2, /*hidden argument*/NULL);
 		__this->___parentRectTransform_5 = ((RectTransform_t5_70 *)IsInstSealed(L_3, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		return;
 	}
@@ -3315,7 +3343,7 @@ extern "C" void DragPanel_OnPointerDown_m7_84 (DragPanel_t7_24 * __this, Pointer
 	{
 		RectTransform_t5_70 * L_0 = (__this->___panelRectTransform_4);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_localPosition_m5_789(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_localPosition_m5_787(L_0, /*hidden argument*/NULL);
 		__this->___originalPanelLocalPosition_3 = L_1;
 		RectTransform_t5_70 * L_2 = (__this->___parentRectTransform_5);
 		PointerEventData_t6_37 * L_3 = ___data;
@@ -3326,7 +3354,7 @@ extern "C" void DragPanel_OnPointerDown_m7_84 (DragPanel_t7_24 * __this, Pointer
 		Camera_t5_86 * L_6 = PointerEventData_get_pressEventCamera_m6_166(L_5, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_7 = &(__this->___originalLocalPointerPosition_2);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_2, L_4, L_6, L_7, /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_2, L_4, L_6, L_7, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -3344,7 +3372,7 @@ extern "C" void DragPanel_OnDrag_m7_85 (DragPanel_t7_24 * __this, PointerEventDa
 	Vector3_t5_45  V_1 = {0};
 	{
 		RectTransform_t5_70 * L_0 = (__this->___panelRectTransform_4);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (L_1)
 		{
 			goto IL_0022;
@@ -3352,7 +3380,7 @@ extern "C" void DragPanel_OnDrag_m7_85 (DragPanel_t7_24 * __this, PointerEventDa
 	}
 	{
 		RectTransform_t5_70 * L_2 = (__this->___parentRectTransform_5);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0023;
@@ -3374,7 +3402,7 @@ IL_0023:
 		NullCheck(L_7);
 		Camera_t5_86 * L_8 = PointerEventData_get_pressEventCamera_m6_166(L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		bool L_9 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_4, L_6, L_8, (&V_0), /*hidden argument*/NULL);
+		bool L_9 = RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_4, L_6, L_8, (&V_0), /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_006a;
@@ -3391,7 +3419,7 @@ IL_0023:
 		Vector3_t5_45  L_16 = V_1;
 		Vector3_t5_45  L_17 = Vector3_op_Addition_m5_241(NULL /*static, unused*/, L_15, L_16, /*hidden argument*/NULL);
 		NullCheck(L_14);
-		Transform_set_localPosition_m5_790(L_14, L_17, /*hidden argument*/NULL);
+		Transform_set_localPosition_m5_788(L_14, L_17, /*hidden argument*/NULL);
 	}
 
 IL_006a:
@@ -3422,7 +3450,7 @@ extern "C" void DragPanel_ClampToWindow_m7_86 (DragPanel_t7_24 * __this, const M
 	{
 		RectTransform_t5_70 * L_0 = (__this->___panelRectTransform_4);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_localPosition_m5_789(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_localPosition_m5_787(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		RectTransform_t5_70 * L_2 = (__this->___parentRectTransform_5);
 		NullCheck(L_2);
@@ -3452,7 +3480,7 @@ extern "C" void DragPanel_ClampToWindow_m7_86 (DragPanel_t7_24 * __this, const M
 		V_2 = L_17;
 		RectTransform_t5_70 * L_18 = (__this->___panelRectTransform_4);
 		NullCheck(L_18);
-		Vector3_t5_45  L_19 = Transform_get_localPosition_m5_789(L_18, /*hidden argument*/NULL);
+		Vector3_t5_45  L_19 = Transform_get_localPosition_m5_787(L_18, /*hidden argument*/NULL);
 		V_7 = L_19;
 		float L_20 = ((&V_7)->___x_1);
 		float L_21 = ((&V_1)->___x_1);
@@ -3462,7 +3490,7 @@ extern "C" void DragPanel_ClampToWindow_m7_86 (DragPanel_t7_24 * __this, const M
 		(&V_0)->___x_1 = L_23;
 		RectTransform_t5_70 * L_24 = (__this->___panelRectTransform_4);
 		NullCheck(L_24);
-		Vector3_t5_45  L_25 = Transform_get_localPosition_m5_789(L_24, /*hidden argument*/NULL);
+		Vector3_t5_45  L_25 = Transform_get_localPosition_m5_787(L_24, /*hidden argument*/NULL);
 		V_8 = L_25;
 		float L_26 = ((&V_8)->___y_2);
 		float L_27 = ((&V_1)->___y_2);
@@ -3472,7 +3500,7 @@ extern "C" void DragPanel_ClampToWindow_m7_86 (DragPanel_t7_24 * __this, const M
 		RectTransform_t5_70 * L_30 = (__this->___panelRectTransform_4);
 		Vector3_t5_45  L_31 = V_0;
 		NullCheck(L_30);
-		Transform_set_localPosition_m5_790(L_30, L_31, /*hidden argument*/NULL);
+		Transform_set_localPosition_m5_788(L_30, L_31, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -3480,7 +3508,7 @@ extern "C" void DragPanel_ClampToWindow_m7_86 (DragPanel_t7_24 * __this, const M
 extern "C" void DropMe__ctor_m7_87 (DropMe_t7_25 * __this, const MethodInfo* method)
 {
 	{
-		Color_t5_165  L_0 = Color_get_yellow_m5_1589(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = Color_get_yellow_m5_1587(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___highlightColor_5 = L_0;
 		MonoBehaviour__ctor_m5_641(__this, /*hidden argument*/NULL);
 		return;
@@ -3491,7 +3519,7 @@ extern "C" void DropMe_OnEnable_m7_88 (DropMe_t7_25 * __this, const MethodInfo* 
 {
 	{
 		Image_t6_65 * L_0 = (__this->___containerImage_2);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0022;
@@ -3519,7 +3547,7 @@ extern "C" void DropMe_OnDrop_m7_89 (DropMe_t7_25 * __this, PointerEventData_t6_
 		NullCheck(L_0);
 		Graphic_set_color_m6_493(L_0, L_1, /*hidden argument*/NULL);
 		Image_t6_65 * L_2 = (__this->___receivingImage_3);
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0023;
@@ -3535,7 +3563,7 @@ IL_0023:
 		Sprite_t5_79 * L_5 = DropMe_GetDropSprite_m7_92(__this, L_4, /*hidden argument*/NULL);
 		V_0 = L_5;
 		Sprite_t5_79 * L_6 = V_0;
-		bool L_7 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0043;
@@ -3559,7 +3587,7 @@ extern "C" void DropMe_OnPointerEnter_m7_90 (DropMe_t7_25 * __this, PointerEvent
 	Sprite_t5_79 * V_0 = {0};
 	{
 		Image_t6_65 * L_0 = (__this->___containerImage_2);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -3575,7 +3603,7 @@ IL_0012:
 		Sprite_t5_79 * L_3 = DropMe_GetDropSprite_m7_92(__this, L_2, /*hidden argument*/NULL);
 		V_0 = L_3;
 		Sprite_t5_79 * L_4 = V_0;
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0037;
@@ -3598,7 +3626,7 @@ extern "C" void DropMe_OnPointerExit_m7_91 (DropMe_t7_25 * __this, PointerEventD
 {
 	{
 		Image_t6_65 * L_0 = (__this->___containerImage_2);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -3618,15 +3646,15 @@ IL_0012:
 	}
 }
 // UnityEngine.Sprite DropMe::GetDropSprite(UnityEngine.EventSystems.PointerEventData)
-extern const MethodInfo* GameObject_GetComponent_TisDragMe_t7_23_m5_1887_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisImage_t6_65_m5_1888_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisDragMe_t7_23_m5_1885_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisImage_t6_65_m5_1886_MethodInfo_var;
 extern "C" Sprite_t5_79 * DropMe_GetDropSprite_m7_92 (DropMe_t7_25 * __this, PointerEventData_t6_37 * ___data, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisDragMe_t7_23_m5_1887_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484049);
-		GameObject_GetComponent_TisImage_t6_65_m5_1888_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484050);
+		GameObject_GetComponent_TisDragMe_t7_23_m5_1885_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484049);
+		GameObject_GetComponent_TisImage_t6_65_m5_1886_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484050);
 		s_Il2CppMethodIntialized = true;
 	}
 	GameObject_t5_101 * V_0 = {0};
@@ -3638,7 +3666,7 @@ extern "C" Sprite_t5_79 * DropMe_GetDropSprite_m7_92 (DropMe_t7_25 * __this, Poi
 		GameObject_t5_101 * L_1 = PointerEventData_get_pointerDrag_m6_131(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = V_0;
-		bool L_3 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_3 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_2, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0015;
@@ -3652,10 +3680,10 @@ IL_0015:
 	{
 		GameObject_t5_101 * L_4 = V_0;
 		NullCheck(L_4);
-		DragMe_t7_23 * L_5 = GameObject_GetComponent_TisDragMe_t7_23_m5_1887(L_4, /*hidden argument*/GameObject_GetComponent_TisDragMe_t7_23_m5_1887_MethodInfo_var);
+		DragMe_t7_23 * L_5 = GameObject_GetComponent_TisDragMe_t7_23_m5_1885(L_4, /*hidden argument*/GameObject_GetComponent_TisDragMe_t7_23_m5_1885_MethodInfo_var);
 		V_1 = L_5;
 		DragMe_t7_23 * L_6 = V_1;
-		bool L_7 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_7 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_6, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_002a;
@@ -3669,10 +3697,10 @@ IL_002a:
 	{
 		GameObject_t5_101 * L_8 = V_0;
 		NullCheck(L_8);
-		Image_t6_65 * L_9 = GameObject_GetComponent_TisImage_t6_65_m5_1888(L_8, /*hidden argument*/GameObject_GetComponent_TisImage_t6_65_m5_1888_MethodInfo_var);
+		Image_t6_65 * L_9 = GameObject_GetComponent_TisImage_t6_65_m5_1886(L_8, /*hidden argument*/GameObject_GetComponent_TisImage_t6_65_m5_1886_MethodInfo_var);
 		V_2 = L_9;
 		Image_t6_65 * L_10 = V_2;
-		bool L_11 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_11 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_10, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_11)
 		{
 			goto IL_003f;
@@ -3703,39 +3731,39 @@ extern "C" void Enemy__ctor_m7_93 (Enemy_t7_26 * __this, const MethodInfo* metho
 	}
 }
 // System.Void Enemy::Awake()
-extern const MethodInfo* Component_GetComponent_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisScore_t7_27_m5_1890_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2782;
+extern const MethodInfo* Component_GetComponent_TisSpriteRenderer_t5_80_m5_1887_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisScore_t7_27_m5_1888_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2783;
 extern Il2CppCodeGenString* _stringLiteral2784;
+extern Il2CppCodeGenString* _stringLiteral2785;
 extern "C" void Enemy_Awake_m7_94 (Enemy_t7_26 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484051);
-		GameObject_GetComponent_TisScore_t7_27_m5_1890_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484052);
-		_stringLiteral2782 = il2cpp_codegen_string_literal_from_index(2782);
+		Component_GetComponent_TisSpriteRenderer_t5_80_m5_1887_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484051);
+		GameObject_GetComponent_TisScore_t7_27_m5_1888_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484052);
 		_stringLiteral2783 = il2cpp_codegen_string_literal_from_index(2783);
 		_stringLiteral2784 = il2cpp_codegen_string_literal_from_index(2784);
+		_stringLiteral2785 = il2cpp_codegen_string_literal_from_index(2785);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_Find_m5_828(L_0, _stringLiteral2782, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_Find_m5_826(L_0, _stringLiteral2783, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		SpriteRenderer_t5_80 * L_2 = Component_GetComponent_TisSpriteRenderer_t5_80_m5_1889(L_1, /*hidden argument*/Component_GetComponent_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var);
+		SpriteRenderer_t5_80 * L_2 = Component_GetComponent_TisSpriteRenderer_t5_80_m5_1887(L_1, /*hidden argument*/Component_GetComponent_TisSpriteRenderer_t5_80_m5_1887_MethodInfo_var);
 		__this->___ren_10 = L_2;
-		Transform_t5_71 * L_3 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Transform_t5_71 * L_4 = Transform_Find_m5_828(L_3, _stringLiteral2783, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Transform_Find_m5_826(L_3, _stringLiteral2784, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(L_4, /*hidden argument*/NULL);
 		__this->___frontCheck_11 = L_5;
-		GameObject_t5_101 * L_6 = GameObject_Find_m5_779(NULL /*static, unused*/, _stringLiteral2784, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2785, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Score_t7_27 * L_7 = GameObject_GetComponent_TisScore_t7_27_m5_1890(L_6, /*hidden argument*/GameObject_GetComponent_TisScore_t7_27_m5_1890_MethodInfo_var);
+		Score_t7_27 * L_7 = GameObject_GetComponent_TisScore_t7_27_m5_1888(L_6, /*hidden argument*/GameObject_GetComponent_TisScore_t7_27_m5_1888_MethodInfo_var);
 		__this->___score_13 = L_7;
 		return;
 	}
@@ -3743,8 +3771,8 @@ extern "C" void Enemy_Awake_m7_94 (Enemy_t7_26 * __this, const MethodInfo* metho
 // System.Void Enemy::FixedUpdate()
 extern TypeInfo* Physics2D_t5_135_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2785;
+extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2786;
 extern "C" void Enemy_FixedUpdate_m7_95 (Enemy_t7_26 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -3752,8 +3780,8 @@ extern "C" void Enemy_FixedUpdate_m7_95 (Enemy_t7_26 * __this, const MethodInfo*
 	{
 		Physics2D_t5_135_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(893);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
-		_stringLiteral2785 = il2cpp_codegen_string_literal_from_index(2785);
+		Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
+		_stringLiteral2786 = il2cpp_codegen_string_literal_from_index(2786);
 		s_Il2CppMethodIntialized = true;
 	}
 	Collider2DU5BU5D_t5_298* V_0 = {0};
@@ -3765,10 +3793,10 @@ extern "C" void Enemy_FixedUpdate_m7_95 (Enemy_t7_26 * __this, const MethodInfo*
 	{
 		Transform_t5_71 * L_0 = (__this->___frontCheck_11);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		Vector2_t5_44  L_2 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t5_135_il2cpp_TypeInfo_var);
-		Collider2DU5BU5D_t5_298* L_3 = Physics2D_OverlapPointAll_m5_1031(NULL /*static, unused*/, L_2, 1, /*hidden argument*/NULL);
+		Collider2DU5BU5D_t5_298* L_3 = Physics2D_OverlapPointAll_m5_1029(NULL /*static, unused*/, L_2, 1, /*hidden argument*/NULL);
 		V_0 = L_3;
 		Collider2DU5BU5D_t5_298* L_4 = V_0;
 		V_2 = L_4;
@@ -3786,9 +3814,9 @@ IL_0020:
 		V_1 = (*(Collider2D_t5_137 **)(Collider2D_t5_137 **)SZArrayLdElema(L_5, L_7, sizeof(Collider2D_t5_137 *)));
 		Collider2D_t5_137 * L_8 = V_1;
 		NullCheck(L_8);
-		String_t* L_9 = Component_get_tag_m5_738(L_8, /*hidden argument*/NULL);
+		String_t* L_9 = Component_get_tag_m5_736(L_8, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_10 = String_op_Equality_m1_456(NULL /*static, unused*/, L_9, _stringLiteral2785, /*hidden argument*/NULL);
+		bool L_10 = String_op_Equality_m1_456(NULL /*static, unused*/, L_9, _stringLiteral2786, /*hidden argument*/NULL);
 		if (!L_10)
 		{
 			goto IL_0044;
@@ -3818,22 +3846,22 @@ IL_0048:
 
 IL_0051:
 	{
-		Rigidbody2D_t5_139 * L_14 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
-		Transform_t5_71 * L_15 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Rigidbody2D_t5_139 * L_14 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
+		Transform_t5_71 * L_15 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		Vector3_t5_45  L_16 = Transform_get_localScale_m5_802(L_15, /*hidden argument*/NULL);
+		Vector3_t5_45  L_16 = Transform_get_localScale_m5_800(L_15, /*hidden argument*/NULL);
 		V_4 = L_16;
 		float L_17 = ((&V_4)->___x_1);
 		float L_18 = (__this->___moveSpeed_2);
-		Rigidbody2D_t5_139 * L_19 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_19 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_19);
-		Vector2_t5_44  L_20 = Rigidbody2D_get_velocity_m5_1042(L_19, /*hidden argument*/NULL);
+		Vector2_t5_44  L_20 = Rigidbody2D_get_velocity_m5_1040(L_19, /*hidden argument*/NULL);
 		V_5 = L_20;
 		float L_21 = ((&V_5)->___y_2);
 		Vector2_t5_44  L_22 = {0};
 		Vector2__ctor_m5_193(&L_22, ((float)((float)L_17*(float)L_18)), L_21, /*hidden argument*/NULL);
 		NullCheck(L_14);
-		Rigidbody2D_set_velocity_m5_1043(L_14, L_22, /*hidden argument*/NULL);
+		Rigidbody2D_set_velocity_m5_1041(L_14, L_22, /*hidden argument*/NULL);
 		int32_t L_23 = (__this->___HP_3);
 		if ((!(((uint32_t)L_23) == ((uint32_t)1))))
 		{
@@ -3842,7 +3870,7 @@ IL_0051:
 	}
 	{
 		Sprite_t5_79 * L_24 = (__this->___damagedEnemy_5);
-		bool L_25 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_24, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_25 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_24, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_25)
 		{
 			goto IL_00be;
@@ -3889,17 +3917,17 @@ extern "C" void Enemy_Hurt_m7_96 (Enemy_t7_26 * __this, const MethodInfo* method
 	}
 }
 // System.Void Enemy::Death()
-extern const MethodInfo* Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var;
-extern const MethodInfo* Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var;
+extern const MethodInfo* Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var;
 extern "C" void Enemy_Death_m7_97 (Enemy_t7_26 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484053);
-		Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
-		Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484054);
+		Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484053);
+		Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
+		Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484054);
 		s_Il2CppMethodIntialized = true;
 	}
 	SpriteRendererU5BU5D_t5_328* V_0 = {0};
@@ -3913,7 +3941,7 @@ extern "C" void Enemy_Death_m7_97 (Enemy_t7_26 * __this, const MethodInfo* metho
 	int32_t V_8 = 0;
 	Vector3_t5_45  V_9 = {0};
 	{
-		SpriteRendererU5BU5D_t5_328* L_0 = Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891(__this, /*hidden argument*/Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var);
+		SpriteRendererU5BU5D_t5_328* L_0 = Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889(__this, /*hidden argument*/Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var);
 		V_0 = L_0;
 		SpriteRendererU5BU5D_t5_328* L_1 = V_0;
 		V_2 = L_1;
@@ -3961,16 +3989,16 @@ IL_001f:
 		NullCheck(L_13);
 		L_13->___score_2 = ((int32_t)((int32_t)L_14+(int32_t)((int32_t)100)));
 		__this->___dead_12 = 1;
-		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_15);
-		Rigidbody2D_set_fixedAngle_m5_1046(L_15, 0, /*hidden argument*/NULL);
-		Rigidbody2D_t5_139 * L_16 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_set_fixedAngle_m5_1044(L_15, 0, /*hidden argument*/NULL);
+		Rigidbody2D_t5_139 * L_16 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		float L_17 = (__this->___deathSpinMin_8);
 		float L_18 = (__this->___deathSpinMax_9);
-		float L_19 = Random_Range_m5_840(NULL /*static, unused*/, L_17, L_18, /*hidden argument*/NULL);
+		float L_19 = Random_Range_m5_838(NULL /*static, unused*/, L_17, L_18, /*hidden argument*/NULL);
 		NullCheck(L_16);
-		Rigidbody2D_AddTorque_m5_1050(L_16, L_19, /*hidden argument*/NULL);
-		Collider2DU5BU5D_t5_298* L_20 = Component_GetComponents_TisCollider2D_t5_137_m5_1892(__this, /*hidden argument*/Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var);
+		Rigidbody2D_AddTorque_m5_1048(L_16, L_19, /*hidden argument*/NULL);
+		Collider2DU5BU5D_t5_298* L_20 = Component_GetComponents_TisCollider2D_t5_137_m5_1890(__this, /*hidden argument*/Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var);
 		V_4 = L_20;
 		Collider2DU5BU5D_t5_298* L_21 = V_4;
 		V_6 = L_21;
@@ -3988,7 +4016,7 @@ IL_009c:
 		V_5 = (*(Collider2D_t5_137 **)(Collider2D_t5_137 **)SZArrayLdElema(L_22, L_24, sizeof(Collider2D_t5_137 *)));
 		Collider2D_t5_137 * L_25 = V_5;
 		NullCheck(L_25);
-		Collider2D_set_isTrigger_m5_1051(L_25, 1, /*hidden argument*/NULL);
+		Collider2D_set_isTrigger_m5_1049(L_25, 1, /*hidden argument*/NULL);
 		int32_t L_26 = V_7;
 		V_7 = ((int32_t)((int32_t)L_26+(int32_t)1));
 	}
@@ -4006,20 +4034,20 @@ IL_00b1:
 	{
 		AudioClipU5BU5D_t5_326* L_29 = (__this->___deathClips_6);
 		NullCheck(L_29);
-		int32_t L_30 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_29)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_30 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_29)->max_length)))), /*hidden argument*/NULL);
 		V_8 = L_30;
 		AudioClipU5BU5D_t5_326* L_31 = (__this->___deathClips_6);
 		int32_t L_32 = V_8;
 		NullCheck(L_31);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_31, L_32);
 		int32_t L_33 = L_32;
-		Transform_t5_71 * L_34 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_34 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_34);
-		Vector3_t5_45  L_35 = Transform_get_position_m5_785(L_34, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_31, L_33, sizeof(AudioClip_t5_147 *))), L_35, /*hidden argument*/NULL);
-		Transform_t5_71 * L_36 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_35 = Transform_get_position_m5_783(L_34, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_31, L_33, sizeof(AudioClip_t5_147 *))), L_35, /*hidden argument*/NULL);
+		Transform_t5_71 * L_36 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_36);
-		Vector3_t5_45  L_37 = Transform_get_position_m5_785(L_36, /*hidden argument*/NULL);
+		Vector3_t5_45  L_37 = Transform_get_position_m5_783(L_36, /*hidden argument*/NULL);
 		V_9 = L_37;
 		Vector3_t5_45 * L_38 = (&V_9);
 		float L_39 = (L_38->___y_2);
@@ -4027,7 +4055,7 @@ IL_00b1:
 		GameObject_t5_101 * L_40 = (__this->___hundredPointsUI_7);
 		Vector3_t5_45  L_41 = V_9;
 		Quaternion_t5_47  L_42 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_40, L_41, L_42, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_40, L_41, L_42, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -4036,17 +4064,17 @@ extern "C" void Enemy_Flip_m7_98 (Enemy_t7_26 * __this, const MethodInfo* method
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_localScale_m5_802(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_localScale_m5_800(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		Vector3_t5_45 * L_2 = (&V_0);
 		float L_3 = (L_2->___x_1);
 		L_2->___x_1 = ((float)((float)L_3*(float)(-1.0f)));
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_5 = V_0;
 		NullCheck(L_4);
-		Transform_set_localScale_m5_803(L_4, L_5, /*hidden argument*/NULL);
+		Transform_set_localScale_m5_801(L_4, L_5, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -4059,19 +4087,19 @@ extern "C" void FollowPlayer__ctor_m7_99 (FollowPlayer_t7_28 * __this, const Met
 	}
 }
 // System.Void FollowPlayer::Awake()
-extern Il2CppCodeGenString* _stringLiteral2776;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void FollowPlayer_Awake_m7_100 (FollowPlayer_t7_28 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = GameObject_get_transform_m5_766(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = GameObject_get_transform_m5_764(L_0, /*hidden argument*/NULL);
 		__this->___player_3 = L_1;
 		return;
 	}
@@ -4080,14 +4108,14 @@ extern "C" void FollowPlayer_Awake_m7_100 (FollowPlayer_t7_28 * __this, const Me
 extern "C" void FollowPlayer_Update_m7_101 (FollowPlayer_t7_28 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Transform_t5_71 * L_1 = (__this->___player_3);
 		NullCheck(L_1);
-		Vector3_t5_45  L_2 = Transform_get_position_m5_785(L_1, /*hidden argument*/NULL);
+		Vector3_t5_45  L_2 = Transform_get_position_m5_783(L_1, /*hidden argument*/NULL);
 		Vector3_t5_45  L_3 = (__this->___offset_2);
 		Vector3_t5_45  L_4 = Vector3_op_Addition_m5_241(NULL /*static, unused*/, L_2, L_3, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_set_position_m5_786(L_0, L_4, /*hidden argument*/NULL);
+		Transform_set_position_m5_784(L_0, L_4, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -4101,31 +4129,31 @@ extern "C" void Gun__ctor_m7_102 (Gun_t7_29 * __this, const MethodInfo* method)
 	}
 }
 // System.Void Gun::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var;
 extern "C" void Gun_Awake_m7_103 (Gun_t7_29 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
-		Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
+		GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
+		Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_root_m5_824(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_root_m5_822(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_724(L_1, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_2 = Component_get_gameObject_m5_722(L_1, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		Animator_t5_156 * L_3 = GameObject_GetComponent_TisAnimator_t5_156_m5_1893(L_2, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var);
+		Animator_t5_156 * L_3 = GameObject_GetComponent_TisAnimator_t5_156_m5_1891(L_2, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var);
 		__this->___anim_5 = L_3;
-		Transform_t5_71 * L_4 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_4 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Transform_get_root_m5_824(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Transform_get_root_m5_822(L_4, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		PlayerControl_t7_30 * L_6 = Component_GetComponent_TisPlayerControl_t7_30_m5_1894(L_5, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var);
+		PlayerControl_t7_30 * L_6 = Component_GetComponent_TisPlayerControl_t7_30_m5_1892(L_5, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var);
 		__this->___playerCtrl_4 = L_6;
 		return;
 	}
@@ -4133,9 +4161,9 @@ extern "C" void Gun_Awake_m7_103 (Gun_t7_29 * __this, const MethodInfo* method)
 // System.Void Gun::Update()
 extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
 extern TypeInfo* Rigidbody2D_t5_139_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2786;
+extern const MethodInfo* Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2787;
+extern Il2CppCodeGenString* _stringLiteral2788;
 extern "C" void Gun_Update_m7_104 (Gun_t7_29 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -4143,16 +4171,16 @@ extern "C" void Gun_Update_m7_104 (Gun_t7_29 * __this, const MethodInfo* method)
 	{
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		Rigidbody2D_t5_139_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(891);
-		Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484057);
-		_stringLiteral2786 = il2cpp_codegen_string_literal_from_index(2786);
+		Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484057);
 		_stringLiteral2787 = il2cpp_codegen_string_literal_from_index(2787);
+		_stringLiteral2788 = il2cpp_codegen_string_literal_from_index(2788);
 		s_Il2CppMethodIntialized = true;
 	}
 	Rigidbody2D_t5_139 * V_0 = {0};
 	Rigidbody2D_t5_139 * V_1 = {0};
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_0 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2786, /*hidden argument*/NULL);
+		bool L_0 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2787, /*hidden argument*/NULL);
 		if (!L_0)
 		{
 			goto IL_00d6;
@@ -4161,10 +4189,10 @@ extern "C" void Gun_Update_m7_104 (Gun_t7_29 * __this, const MethodInfo* method)
 	{
 		Animator_t5_156 * L_1 = (__this->___anim_5);
 		NullCheck(L_1);
-		Animator_SetTrigger_m5_1133(L_1, _stringLiteral2787, /*hidden argument*/NULL);
-		AudioSource_t5_148 * L_2 = Component_GetComponent_TisAudioSource_t5_148_m5_1895(__this, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var);
+		Animator_SetTrigger_m5_1131(L_1, _stringLiteral2788, /*hidden argument*/NULL);
+		AudioSource_t5_148 * L_2 = Component_GetComponent_TisAudioSource_t5_148_m5_1893(__this, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var);
 		NullCheck(L_2);
-		AudioSource_Play_m5_1080(L_2, /*hidden argument*/NULL);
+		AudioSource_Play_m5_1078(L_2, /*hidden argument*/NULL);
 		PlayerControl_t7_30 * L_3 = (__this->___playerCtrl_4);
 		NullCheck(L_3);
 		bool L_4 = (L_3->___facingRight_2);
@@ -4175,40 +4203,40 @@ extern "C" void Gun_Update_m7_104 (Gun_t7_29 * __this, const MethodInfo* method)
 	}
 	{
 		Rigidbody2D_t5_139 * L_5 = (__this->___rocket_2);
-		Transform_t5_71 * L_6 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_6 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Vector3_t5_45  L_7 = Transform_get_position_m5_785(L_6, /*hidden argument*/NULL);
+		Vector3_t5_45  L_7 = Transform_get_position_m5_783(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = {0};
 		Vector3__ctor_m5_216(&L_8, (0.0f), (0.0f), (0.0f), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_9 = Quaternion_Euler_m5_258(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
-		Object_t5_5 * L_10 = Object_Instantiate_m5_715(NULL /*static, unused*/, L_5, L_7, L_9, /*hidden argument*/NULL);
+		Object_t5_5 * L_10 = Object_Instantiate_m5_713(NULL /*static, unused*/, L_5, L_7, L_9, /*hidden argument*/NULL);
 		V_0 = ((Rigidbody2D_t5_139 *)IsInstSealed(L_10, Rigidbody2D_t5_139_il2cpp_TypeInfo_var));
 		Rigidbody2D_t5_139 * L_11 = V_0;
 		float L_12 = (__this->___speed_3);
 		Vector2_t5_44  L_13 = {0};
 		Vector2__ctor_m5_193(&L_13, L_12, (0.0f), /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Rigidbody2D_set_velocity_m5_1043(L_11, L_13, /*hidden argument*/NULL);
+		Rigidbody2D_set_velocity_m5_1041(L_11, L_13, /*hidden argument*/NULL);
 		goto IL_00d6;
 	}
 
 IL_008a:
 	{
 		Rigidbody2D_t5_139 * L_14 = (__this->___rocket_2);
-		Transform_t5_71 * L_15 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_15 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		Vector3_t5_45  L_16 = Transform_get_position_m5_785(L_15, /*hidden argument*/NULL);
+		Vector3_t5_45  L_16 = Transform_get_position_m5_783(L_15, /*hidden argument*/NULL);
 		Vector3_t5_45  L_17 = {0};
 		Vector3__ctor_m5_216(&L_17, (0.0f), (0.0f), (180.0f), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_18 = Quaternion_Euler_m5_258(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
-		Object_t5_5 * L_19 = Object_Instantiate_m5_715(NULL /*static, unused*/, L_14, L_16, L_18, /*hidden argument*/NULL);
+		Object_t5_5 * L_19 = Object_Instantiate_m5_713(NULL /*static, unused*/, L_14, L_16, L_18, /*hidden argument*/NULL);
 		V_1 = ((Rigidbody2D_t5_139 *)IsInstSealed(L_19, Rigidbody2D_t5_139_il2cpp_TypeInfo_var));
 		Rigidbody2D_t5_139 * L_20 = V_1;
 		float L_21 = (__this->___speed_3);
 		Vector2_t5_44  L_22 = {0};
 		Vector2__ctor_m5_193(&L_22, ((-L_21)), (0.0f), /*hidden argument*/NULL);
 		NullCheck(L_20);
-		Rigidbody2D_set_velocity_m5_1043(L_20, L_22, /*hidden argument*/NULL);
+		Rigidbody2D_set_velocity_m5_1041(L_20, L_22, /*hidden argument*/NULL);
 	}
 
 IL_00d6:
@@ -4225,29 +4253,29 @@ extern "C" void HealthPickup__ctor_m7_105 (HealthPickup_t7_31 * __this, const Me
 	}
 }
 // System.Void HealthPickup::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2775;
+extern const MethodInfo* GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2776;
 extern "C" void HealthPickup_Awake_m7_106 (HealthPickup_t7_31 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484038);
-		Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
-		_stringLiteral2775 = il2cpp_codegen_string_literal_from_index(2775);
+		GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484038);
+		Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
+		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_Find_m5_779(NULL /*static, unused*/, _stringLiteral2775, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		PickupSpawner_t7_17 * L_1 = GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879(L_0, /*hidden argument*/GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1879_MethodInfo_var);
+		PickupSpawner_t7_17 * L_1 = GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877(L_0, /*hidden argument*/GameObject_GetComponent_TisPickupSpawner_t7_17_m5_1877_MethodInfo_var);
 		__this->___pickupSpawner_4 = L_1;
-		Transform_t5_71 * L_2 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = Transform_get_root_m5_824(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Transform_get_root_m5_822(L_2, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Animator_t5_156 * L_4 = Component_GetComponent_TisAnimator_t5_156_m5_1856(L_3, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var);
+		Animator_t5_156 * L_4 = Component_GetComponent_TisAnimator_t5_156_m5_1854(L_3, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var);
 		__this->___anim_5 = L_4;
 		return;
 	}
@@ -4255,11 +4283,11 @@ extern "C" void HealthPickup_Awake_m7_106 (HealthPickup_t7_31 * __this, const Me
 // System.Void HealthPickup::OnTriggerEnter2D(UnityEngine.Collider2D)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisPlayerHealth_t7_38_m5_1896_MethodInfo_var;
-extern const MethodInfo* GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2776;
-extern Il2CppCodeGenString* _stringLiteral2779;
+extern const MethodInfo* Component_GetComponent_TisPlayerHealth_t7_38_m5_1894_MethodInfo_var;
+extern const MethodInfo* GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern Il2CppCodeGenString* _stringLiteral2780;
+extern Il2CppCodeGenString* _stringLiteral2781;
 extern "C" void HealthPickup_OnTriggerEnter2D_m7_107 (HealthPickup_t7_31 * __this, Collider2D_t5_137 * ___other, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -4267,20 +4295,20 @@ extern "C" void HealthPickup_OnTriggerEnter2D_m7_107 (HealthPickup_t7_31 * __thi
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		Component_GetComponent_TisPlayerHealth_t7_38_m5_1896_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484058);
-		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484043);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
-		_stringLiteral2779 = il2cpp_codegen_string_literal_from_index(2779);
+		Component_GetComponent_TisPlayerHealth_t7_38_m5_1894_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484058);
+		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484043);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		_stringLiteral2780 = il2cpp_codegen_string_literal_from_index(2780);
+		_stringLiteral2781 = il2cpp_codegen_string_literal_from_index(2781);
 		s_Il2CppMethodIntialized = true;
 	}
 	PlayerHealth_t7_38 * V_0 = {0};
 	{
 		Collider2D_t5_137 * L_0 = ___other;
 		NullCheck(L_0);
-		String_t* L_1 = Component_get_tag_m5_738(L_0, /*hidden argument*/NULL);
+		String_t* L_1 = Component_get_tag_m5_736(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2776, /*hidden argument*/NULL);
+		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2777, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0097;
@@ -4289,7 +4317,7 @@ extern "C" void HealthPickup_OnTriggerEnter2D_m7_107 (HealthPickup_t7_31 * __thi
 	{
 		Collider2D_t5_137 * L_3 = ___other;
 		NullCheck(L_3);
-		PlayerHealth_t7_38 * L_4 = Component_GetComponent_TisPlayerHealth_t7_38_m5_1896(L_3, /*hidden argument*/Component_GetComponent_TisPlayerHealth_t7_38_m5_1896_MethodInfo_var);
+		PlayerHealth_t7_38 * L_4 = Component_GetComponent_TisPlayerHealth_t7_38_m5_1894(L_3, /*hidden argument*/Component_GetComponent_TisPlayerHealth_t7_38_m5_1894_MethodInfo_var);
 		V_0 = L_4;
 		PlayerHealth_t7_38 * L_5 = V_0;
 		PlayerHealth_t7_38 * L_6 = L_5;
@@ -4316,16 +4344,16 @@ extern "C" void HealthPickup_OnTriggerEnter2D_m7_107 (HealthPickup_t7_31 * __thi
 		NullCheck(L_14);
 		MonoBehaviour_StartCoroutine_m5_650(L_14, L_16, /*hidden argument*/NULL);
 		AudioClip_t5_147 * L_17 = (__this->___collect_3);
-		Transform_t5_71 * L_18 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_18 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_18);
-		Vector3_t5_45  L_19 = Transform_get_position_m5_785(L_18, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, L_17, L_19, /*hidden argument*/NULL);
-		Transform_t5_71 * L_20 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_19 = Transform_get_position_m5_783(L_18, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, L_17, L_19, /*hidden argument*/NULL);
+		Transform_t5_71 * L_20 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_20);
-		Transform_t5_71 * L_21 = Transform_get_root_m5_824(L_20, /*hidden argument*/NULL);
+		Transform_t5_71 * L_21 = Transform_get_root_m5_822(L_20, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_724(L_21, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_22, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_722(L_21, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_22, /*hidden argument*/NULL);
 		goto IL_00e6;
 	}
 
@@ -4333,9 +4361,9 @@ IL_0097:
 	{
 		Collider2D_t5_137 * L_23 = ___other;
 		NullCheck(L_23);
-		String_t* L_24 = Component_get_tag_m5_738(L_23, /*hidden argument*/NULL);
+		String_t* L_24 = Component_get_tag_m5_736(L_23, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_25 = String_op_Equality_m1_456(NULL /*static, unused*/, L_24, _stringLiteral2779, /*hidden argument*/NULL);
+		bool L_25 = String_op_Equality_m1_456(NULL /*static, unused*/, L_24, _stringLiteral2780, /*hidden argument*/NULL);
 		if (!L_25)
 		{
 			goto IL_00e6;
@@ -4351,13 +4379,13 @@ IL_0097:
 	{
 		Animator_t5_156 * L_27 = (__this->___anim_5);
 		NullCheck(L_27);
-		Animator_SetTrigger_m5_1133(L_27, _stringLiteral2780, /*hidden argument*/NULL);
-		Transform_t5_71 * L_28 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Animator_SetTrigger_m5_1131(L_27, _stringLiteral2781, /*hidden argument*/NULL);
+		Transform_t5_71 * L_28 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_28);
-		Transform_set_parent_m5_807(L_28, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_29 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		Transform_set_parent_m5_805(L_28, (Transform_t5_71 *)NULL, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_29 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_29);
-		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884(L_29, /*hidden argument*/GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1884_MethodInfo_var);
+		GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882(L_29, /*hidden argument*/GameObject_AddComponent_TisRigidbody2D_t5_139_m5_1882_MethodInfo_var);
 		__this->___landed_6 = 1;
 	}
 
@@ -4375,40 +4403,40 @@ extern "C" void LayBombs__ctor_m7_108 (LayBombs_t7_16 * __this, const MethodInfo
 	}
 }
 // System.Void LayBombs::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisGUITexture_t5_31_m5_1897_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2788;
+extern const MethodInfo* GameObject_GetComponent_TisGUITexture_t5_31_m5_1895_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2789;
 extern "C" void LayBombs_Awake_m7_109 (LayBombs_t7_16 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisGUITexture_t5_31_m5_1897_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484059);
-		_stringLiteral2788 = il2cpp_codegen_string_literal_from_index(2788);
+		GameObject_GetComponent_TisGUITexture_t5_31_m5_1895_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484059);
+		_stringLiteral2789 = il2cpp_codegen_string_literal_from_index(2789);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_Find_m5_779(NULL /*static, unused*/, _stringLiteral2788, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2789, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		GUITexture_t5_31 * L_1 = GameObject_GetComponent_TisGUITexture_t5_31_m5_1897(L_0, /*hidden argument*/GameObject_GetComponent_TisGUITexture_t5_31_m5_1897_MethodInfo_var);
+		GUITexture_t5_31 * L_1 = GameObject_GetComponent_TisGUITexture_t5_31_m5_1895(L_0, /*hidden argument*/GameObject_GetComponent_TisGUITexture_t5_31_m5_1895_MethodInfo_var);
 		__this->___bombHUD_6 = L_1;
 		return;
 	}
 }
 // System.Void LayBombs::Update()
 extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2789;
+extern Il2CppCodeGenString* _stringLiteral2790;
 extern "C" void LayBombs_Update_m7_110 (LayBombs_t7_16 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
-		_stringLiteral2789 = il2cpp_codegen_string_literal_from_index(2789);
+		_stringLiteral2790 = il2cpp_codegen_string_literal_from_index(2790);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_0 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2789, /*hidden argument*/NULL);
+		bool L_0 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2790, /*hidden argument*/NULL);
 		if (!L_0)
 		{
 			goto IL_0073;
@@ -4433,18 +4461,18 @@ extern "C" void LayBombs_Update_m7_110 (LayBombs_t7_16 * __this, const MethodInf
 		__this->___bombCount_3 = ((int32_t)((int32_t)L_3-(int32_t)1));
 		__this->___bombLaid_2 = 1;
 		AudioClip_t5_147 * L_4 = (__this->___bombsAway_4);
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Vector3_t5_45  L_6 = Transform_get_position_m5_785(L_5, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_get_position_m5_783(L_5, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_7 = (__this->___bomb_5);
-		Transform_t5_71 * L_8 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_8 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		Vector3_t5_45  L_9 = Transform_get_position_m5_785(L_8, /*hidden argument*/NULL);
-		Transform_t5_71 * L_10 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_9 = Transform_get_position_m5_783(L_8, /*hidden argument*/NULL);
+		Transform_t5_71 * L_10 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_10);
-		Quaternion_t5_47  L_11 = Transform_get_rotation_m5_794(L_10, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_7, L_9, L_11, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_11 = Transform_get_rotation_m5_792(L_10, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_7, L_9, L_11, /*hidden argument*/NULL);
 	}
 
 IL_0073:
@@ -4474,30 +4502,20 @@ extern "C" void LoadWhenTapped_Update_m7_112 (LoadWhenTapped_t7_32 * __this, con
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
-	int32_t V_0 = 0;
 	{
-		V_0 = 0;
-		goto IL_001b;
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		bool L_0 = Input_GetMouseButton_m5_672(NULL /*static, unused*/, 0, /*hidden argument*/NULL);
+		if (!L_0)
+		{
+			goto IL_001b;
+		}
 	}
-
-IL_0007:
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
 		Application_LoadLevel_m5_579(NULL /*static, unused*/, 1, /*hidden argument*/NULL);
-		int32_t L_0 = V_0;
-		V_0 = ((int32_t)((int32_t)L_0+(int32_t)1));
 	}
 
 IL_001b:
-	{
-		int32_t L_1 = V_0;
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		int32_t L_2 = Input_get_touchCount_m5_683(NULL /*static, unused*/, /*hidden argument*/NULL);
-		if ((((int32_t)L_1) < ((int32_t)L_2)))
-		{
-			goto IL_0007;
-		}
-	}
 	{
 		return;
 	}
@@ -4508,7 +4526,7 @@ extern "C" void LoadWhenTapped_LoadScene_m7_113 (LoadWhenTapped_t7_32 * __this, 
 	{
 		GameObject_t5_101 * L_0 = (__this->___loadingBG_2);
 		NullCheck(L_0);
-		GameObject_SetActive_m5_769(L_0, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_0, 1, /*hidden argument*/NULL);
 		String_t* L_1 = ___level;
 		Application_LoadLevel_m5_580(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		return;
@@ -4540,14 +4558,14 @@ extern "C" Object_t * U3CDisablePanelDeleyedU3Ec__Iterator3_System_Collections_I
 }
 // System.Boolean PanelManager/<DisablePanelDeleyed>c__Iterator3::MoveNext()
 extern TypeInfo* WaitForEndOfFrame_t5_13_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2791;
+extern Il2CppCodeGenString* _stringLiteral2792;
 extern "C" bool U3CDisablePanelDeleyedU3Ec__Iterator3_MoveNext_m7_117 (U3CDisablePanelDeleyedU3Ec__Iterator3_t7_33 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		WaitForEndOfFrame_t5_13_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1137);
-		_stringLiteral2791 = il2cpp_codegen_string_literal_from_index(2791);
+		_stringLiteral2792 = il2cpp_codegen_string_literal_from_index(2792);
 		s_Il2CppMethodIntialized = true;
 	}
 	uint32_t V_0 = 0;
@@ -4582,7 +4600,7 @@ IL_0034:
 	{
 		Animator_t5_156 * L_2 = (__this->___anim_2);
 		NullCheck(L_2);
-		bool L_3 = Animator_IsInTransition_m5_1136(L_2, 0, /*hidden argument*/NULL);
+		bool L_3 = Animator_IsInTransition_m5_1134(L_2, 0, /*hidden argument*/NULL);
 		if (L_3)
 		{
 			goto IL_0064;
@@ -4591,9 +4609,9 @@ IL_0034:
 	{
 		Animator_t5_156 * L_4 = (__this->___anim_2);
 		NullCheck(L_4);
-		AnimatorStateInfo_t5_152  L_5 = Animator_GetCurrentAnimatorStateInfo_m5_1135(L_4, 0, /*hidden argument*/NULL);
+		AnimatorStateInfo_t5_152  L_5 = Animator_GetCurrentAnimatorStateInfo_m5_1133(L_4, 0, /*hidden argument*/NULL);
 		V_1 = L_5;
-		bool L_6 = AnimatorStateInfo_IsName_m5_1110((&V_1), _stringLiteral2791, /*hidden argument*/NULL);
+		bool L_6 = AnimatorStateInfo_IsName_m5_1108((&V_1), _stringLiteral2792, /*hidden argument*/NULL);
 		__this->___U3CclosedStateReachedU3E__0_0 = L_6;
 	}
 
@@ -4604,7 +4622,7 @@ IL_0064:
 		NullCheck(L_8);
 		int32_t L_9 = (L_8->___m_OpenParameterId_5);
 		NullCheck(L_7);
-		bool L_10 = Animator_GetBool_m5_1131(L_7, L_9, /*hidden argument*/NULL);
+		bool L_10 = Animator_GetBool_m5_1129(L_7, L_9, /*hidden argument*/NULL);
 		__this->___U3CwantToCloseU3E__1_1 = ((((int32_t)L_10) == ((int32_t)0))? 1 : 0);
 		WaitForEndOfFrame_t5_13 * L_11 = (WaitForEndOfFrame_t5_13 *)il2cpp_codegen_object_new (WaitForEndOfFrame_t5_13_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame__ctor_m5_11(L_11, /*hidden argument*/NULL);
@@ -4640,9 +4658,9 @@ IL_00b0:
 	{
 		Animator_t5_156 * L_15 = (__this->___anim_2);
 		NullCheck(L_15);
-		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_724(L_15, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_722(L_15, /*hidden argument*/NULL);
 		NullCheck(L_16);
-		GameObject_SetActive_m5_769(L_16, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_16, 0, /*hidden argument*/NULL);
 	}
 
 IL_00cc:
@@ -4694,20 +4712,20 @@ extern "C" void PanelManager__ctor_m7_120 (PanelManager_t7_34 * __this, const Me
 	}
 }
 // System.Void PanelManager::OnEnable()
-extern Il2CppCodeGenString* _stringLiteral2790;
+extern Il2CppCodeGenString* _stringLiteral2791;
 extern "C" void PanelManager_OnEnable_m7_121 (PanelManager_t7_34 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		_stringLiteral2790 = il2cpp_codegen_string_literal_from_index(2790);
+		_stringLiteral2791 = il2cpp_codegen_string_literal_from_index(2791);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		int32_t L_0 = Animator_StringToHash_m5_1141(NULL /*static, unused*/, _stringLiteral2790, /*hidden argument*/NULL);
+		int32_t L_0 = Animator_StringToHash_m5_1139(NULL /*static, unused*/, _stringLiteral2791, /*hidden argument*/NULL);
 		__this->___m_OpenParameterId_5 = L_0;
 		Animator_t5_156 * L_1 = (__this->___initiallyOpen_4);
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0022;
@@ -4739,7 +4757,7 @@ extern "C" void PanelManager_OpenPanel_m7_122 (PanelManager_t7_34 * __this, Anim
 	{
 		Animator_t5_156 * L_0 = (__this->___m_Open_6);
 		Animator_t5_156 * L_1 = ___anim;
-		bool L_2 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0012;
@@ -4753,9 +4771,9 @@ IL_0012:
 	{
 		Animator_t5_156 * L_3 = ___anim;
 		NullCheck(L_3);
-		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_724(L_3, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_722(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		GameObject_SetActive_m5_769(L_4, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_4, 1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t6_2_il2cpp_TypeInfo_var);
 		EventSystem_t6_2 * L_5 = EventSystem_get_current_m6_2(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_5);
@@ -4763,9 +4781,9 @@ IL_0012:
 		V_0 = L_6;
 		Animator_t5_156 * L_7 = ___anim;
 		NullCheck(L_7);
-		Transform_t5_71 * L_8 = Component_get_transform_m5_723(L_7, /*hidden argument*/NULL);
+		Transform_t5_71 * L_8 = Component_get_transform_m5_721(L_7, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		Transform_SetAsLastSibling_m5_827(L_8, /*hidden argument*/NULL);
+		Transform_SetAsLastSibling_m5_825(L_8, /*hidden argument*/NULL);
 		PanelManager_CloseCurrent_m7_124(__this, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_9 = V_0;
 		__this->___m_PreviouslySelected_7 = L_9;
@@ -4774,10 +4792,10 @@ IL_0012:
 		Animator_t5_156 * L_11 = (__this->___m_Open_6);
 		int32_t L_12 = (__this->___m_OpenParameterId_5);
 		NullCheck(L_11);
-		Animator_SetBool_m5_1132(L_11, L_12, 1, /*hidden argument*/NULL);
+		Animator_SetBool_m5_1130(L_11, L_12, 1, /*hidden argument*/NULL);
 		Animator_t5_156 * L_13 = ___anim;
 		NullCheck(L_13);
-		GameObject_t5_101 * L_14 = Component_get_gameObject_m5_724(L_13, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_14 = Component_get_gameObject_m5_722(L_13, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_15 = PanelManager_FindFirstEnabledSelectable_m7_123(NULL /*static, unused*/, L_14, /*hidden argument*/NULL);
 		V_1 = L_15;
 		GameObject_t5_101 * L_16 = V_1;
@@ -4786,13 +4804,13 @@ IL_0012:
 	}
 }
 // UnityEngine.GameObject PanelManager::FindFirstEnabledSelectable(UnityEngine.GameObject)
-extern const MethodInfo* GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1898_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1896_MethodInfo_var;
 extern "C" GameObject_t5_101 * PanelManager_FindFirstEnabledSelectable_m7_123 (Object_t * __this /* static, unused */, GameObject_t5_101 * ___gameObject, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1898_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484060);
+		GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1896_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484060);
 		s_Il2CppMethodIntialized = true;
 	}
 	GameObject_t5_101 * V_0 = {0};
@@ -4804,7 +4822,7 @@ extern "C" GameObject_t5_101 * PanelManager_FindFirstEnabledSelectable_m7_123 (O
 		V_0 = (GameObject_t5_101 *)NULL;
 		GameObject_t5_101 * L_0 = ___gameObject;
 		NullCheck(L_0);
-		SelectableU5BU5D_t6_199* L_1 = GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1898(L_0, 1, /*hidden argument*/GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1898_MethodInfo_var);
+		SelectableU5BU5D_t6_199* L_1 = GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1896(L_0, 1, /*hidden argument*/GameObject_GetComponentsInChildren_TisSelectable_t6_56_m5_1896_MethodInfo_var);
 		V_1 = L_1;
 		SelectableU5BU5D_t6_199* L_2 = V_1;
 		V_3 = L_2;
@@ -4840,7 +4858,7 @@ IL_0014:
 	{
 		Selectable_t6_56 * L_10 = V_2;
 		NullCheck(L_10);
-		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_724(L_10, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_722(L_10, /*hidden argument*/NULL);
 		V_0 = L_11;
 		goto IL_004b;
 	}
@@ -4873,7 +4891,7 @@ extern "C" void PanelManager_CloseCurrent_m7_124 (PanelManager_t7_34 * __this, c
 {
 	{
 		Animator_t5_156 * L_0 = (__this->___m_Open_6);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -4888,7 +4906,7 @@ IL_0012:
 		Animator_t5_156 * L_2 = (__this->___m_Open_6);
 		int32_t L_3 = (__this->___m_OpenParameterId_5);
 		NullCheck(L_2);
-		Animator_SetBool_m5_1132(L_2, L_3, 0, /*hidden argument*/NULL);
+		Animator_SetBool_m5_1130(L_2, L_3, 0, /*hidden argument*/NULL);
 		GameObject_t5_101 * L_4 = (__this->___m_PreviouslySelected_7);
 		PanelManager_SetSelected_m7_126(__this, L_4, /*hidden argument*/NULL);
 		Animator_t5_156 * L_5 = (__this->___m_Open_6);
@@ -4956,17 +4974,17 @@ extern "C" void PauseManager__ctor_m7_127 (PauseManager_t7_35 * __this, const Me
 	}
 }
 // System.Void PauseManager::Start()
-extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var;
 extern "C" void PauseManager_Start_m7_128 (PauseManager_t7_35 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
+		Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483908);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Canvas_t5_177 * L_0 = Component_GetComponent_TisCanvas_t5_177_m5_1843(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1843_MethodInfo_var);
+		Canvas_t5_177 * L_0 = Component_GetComponent_TisCanvas_t5_177_m5_1841(__this, /*hidden argument*/Component_GetComponent_TisCanvas_t5_177_m5_1841_MethodInfo_var);
 		__this->___canvas_2 = L_0;
 		Canvas_t5_177 * L_1 = (__this->___canvas_2);
 		bool L_2 = (__this->___en_3);
@@ -4986,7 +5004,7 @@ extern "C" void PauseManager_Pause_m7_129 (PauseManager_t7_35 * __this, const Me
 		bool L_2 = Behaviour_get_enabled_m5_582(L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		Behaviour_set_enabled_m5_583(L_0, ((((int32_t)L_2) == ((int32_t)0))? 1 : 0), /*hidden argument*/NULL);
-		float L_3 = Time_get_timeScale_m5_836(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_3 = Time_get_timeScale_m5_834(NULL /*static, unused*/, /*hidden argument*/NULL);
 		if ((!(((float)L_3) == ((float)(0.0f)))))
 		{
 			goto IL_002e;
@@ -5004,7 +5022,7 @@ IL_002e:
 
 IL_002f:
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (((float)((float)G_B3_0))), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (((float)((float)G_B3_0))), /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -5012,7 +5030,7 @@ IL_002f:
 extern "C" void PauseManager_Restart_m7_130 (PauseManager_t7_35 * __this, const MethodInfo* method)
 {
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
 		Application_LoadLevel_m5_579(NULL /*static, unused*/, 1, /*hidden argument*/NULL);
 		return;
 	}
@@ -5065,13 +5083,13 @@ IL_001b:
 		}
 	}
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (0.0f), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (0.0f), /*hidden argument*/NULL);
 		goto IL_003f;
 	}
 
 IL_0035:
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (1.0f), /*hidden argument*/NULL);
 	}
 
 IL_003f:
@@ -5153,7 +5171,7 @@ IL_0043:
 		PickupSpawner_t7_17 * L_7 = (__this->___U3CU3Ef__this_5);
 		NullCheck(L_7);
 		float L_8 = (L_7->___dropRangeRight_5);
-		float L_9 = Random_Range_m5_840(NULL /*static, unused*/, L_6, L_8, /*hidden argument*/NULL);
+		float L_9 = Random_Range_m5_838(NULL /*static, unused*/, L_6, L_8, /*hidden argument*/NULL);
 		__this->___U3CdropPosXU3E__0_0 = L_9;
 		float L_10 = (__this->___U3CdropPosXU3E__0_0);
 		Vector3_t5_45  L_11 = {0};
@@ -5181,7 +5199,7 @@ IL_0043:
 		int32_t L_19 = 0;
 		Vector3_t5_45  L_20 = (__this->___U3CdropPosU3E__1_1);
 		Quaternion_t5_47  L_21 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_18, L_19, sizeof(GameObject_t5_101 *))), L_20, L_21, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_18, L_19, sizeof(GameObject_t5_101 *))), L_20, L_21, /*hidden argument*/NULL);
 		goto IL_0141;
 	}
 
@@ -5209,7 +5227,7 @@ IL_00c2:
 		int32_t L_29 = 1;
 		Vector3_t5_45  L_30 = (__this->___U3CdropPosU3E__1_1);
 		Quaternion_t5_47  L_31 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_28, L_29, sizeof(GameObject_t5_101 *))), L_30, L_31, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_28, L_29, sizeof(GameObject_t5_101 *))), L_30, L_31, /*hidden argument*/NULL);
 		goto IL_0141;
 	}
 
@@ -5219,7 +5237,7 @@ IL_0105:
 		NullCheck(L_32);
 		GameObjectU5BU5D_t5_327* L_33 = (L_32->___pickups_2);
 		NullCheck(L_33);
-		int32_t L_34 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_33)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_34 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_33)->max_length)))), /*hidden argument*/NULL);
 		__this->___U3CpickupIndexU3E__2_2 = L_34;
 		PickupSpawner_t7_17 * L_35 = (__this->___U3CU3Ef__this_5);
 		NullCheck(L_35);
@@ -5230,7 +5248,7 @@ IL_0105:
 		int32_t L_38 = L_37;
 		Vector3_t5_45  L_39 = (__this->___U3CdropPosU3E__1_1);
 		Quaternion_t5_47  L_40 = Quaternion_get_identity_m5_252(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_36, L_38, sizeof(GameObject_t5_101 *))), L_39, L_40, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_36, L_38, sizeof(GameObject_t5_101 *))), L_39, L_40, /*hidden argument*/NULL);
 	}
 
 IL_0141:
@@ -5285,21 +5303,21 @@ extern "C" void PickupSpawner__ctor_m7_140 (PickupSpawner_t7_17 * __this, const 
 	}
 }
 // System.Void PickupSpawner::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1899_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2776;
+extern const MethodInfo* GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1897_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void PickupSpawner_Awake_m7_141 (PickupSpawner_t7_17 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1899_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484061);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1897_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484061);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		PlayerHealth_t7_38 * L_1 = GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1899(L_0, /*hidden argument*/GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1899_MethodInfo_var);
+		PlayerHealth_t7_38 * L_1 = GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1897(L_0, /*hidden argument*/GameObject_GetComponent_TisPlayerHealth_t7_38_m5_1897_MethodInfo_var);
 		__this->___playerHealth_8 = L_1;
 		return;
 	}
@@ -5361,14 +5379,14 @@ extern "C" Object_t * U3CTauntU3Ec__Iterator5_System_Collections_IEnumerator_get
 }
 // System.Boolean PlayerControl/<Taunt>c__Iterator5::MoveNext()
 extern TypeInfo* WaitForSeconds_t5_10_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var;
 extern "C" bool U3CTauntU3Ec__Iterator5_MoveNext_m7_147 (U3CTauntU3Ec__Iterator5_t7_39 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		WaitForSeconds_t5_10_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1069);
-		Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484057);
+		Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484057);
 		s_Il2CppMethodIntialized = true;
 	}
 	uint32_t V_0 = 0;
@@ -5393,7 +5411,7 @@ extern "C" bool U3CTauntU3Ec__Iterator5_MoveNext_m7_147 (U3CTauntU3Ec__Iterator5
 
 IL_0021:
 	{
-		float L_2 = Random_Range_m5_840(NULL /*static, unused*/, (0.0f), (100.0f), /*hidden argument*/NULL);
+		float L_2 = Random_Range_m5_838(NULL /*static, unused*/, (0.0f), (100.0f), /*hidden argument*/NULL);
 		__this->___U3CtauntChanceU3E__0_0 = L_2;
 		float L_3 = (__this->___U3CtauntChanceU3E__0_0);
 		PlayerControl_t7_30 * L_4 = (__this->___U3CU3Ef__this_3);
@@ -5419,9 +5437,9 @@ IL_006e:
 	{
 		PlayerControl_t7_30 * L_9 = (__this->___U3CU3Ef__this_3);
 		NullCheck(L_9);
-		AudioSource_t5_148 * L_10 = Component_GetComponent_TisAudioSource_t5_148_m5_1895(L_9, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var);
+		AudioSource_t5_148 * L_10 = Component_GetComponent_TisAudioSource_t5_148_m5_1893(L_9, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var);
 		NullCheck(L_10);
-		bool L_11 = AudioSource_get_isPlaying_m5_1081(L_10, /*hidden argument*/NULL);
+		bool L_11 = AudioSource_get_isPlaying_m5_1079(L_10, /*hidden argument*/NULL);
 		if (L_11)
 		{
 			goto IL_00d0;
@@ -5436,7 +5454,7 @@ IL_006e:
 		L_12->___tauntIndex_11 = L_14;
 		PlayerControl_t7_30 * L_15 = (__this->___U3CU3Ef__this_3);
 		NullCheck(L_15);
-		AudioSource_t5_148 * L_16 = Component_GetComponent_TisAudioSource_t5_148_m5_1895(L_15, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var);
+		AudioSource_t5_148 * L_16 = Component_GetComponent_TisAudioSource_t5_148_m5_1893(L_15, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var);
 		PlayerControl_t7_30 * L_17 = (__this->___U3CU3Ef__this_3);
 		NullCheck(L_17);
 		AudioClipU5BU5D_t5_326* L_18 = (L_17->___taunts_8);
@@ -5447,12 +5465,12 @@ IL_006e:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_18, L_20);
 		int32_t L_21 = L_20;
 		NullCheck(L_16);
-		AudioSource_set_clip_m5_1078(L_16, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_18, L_21, sizeof(AudioClip_t5_147 *))), /*hidden argument*/NULL);
+		AudioSource_set_clip_m5_1076(L_16, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_18, L_21, sizeof(AudioClip_t5_147 *))), /*hidden argument*/NULL);
 		PlayerControl_t7_30 * L_22 = (__this->___U3CU3Ef__this_3);
 		NullCheck(L_22);
-		AudioSource_t5_148 * L_23 = Component_GetComponent_TisAudioSource_t5_148_m5_1895(L_22, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1895_MethodInfo_var);
+		AudioSource_t5_148 * L_23 = Component_GetComponent_TisAudioSource_t5_148_m5_1893(L_22, /*hidden argument*/Component_GetComponent_TisAudioSource_t5_148_m5_1893_MethodInfo_var);
 		NullCheck(L_23);
-		AudioSource_Play_m5_1080(L_23, /*hidden argument*/NULL);
+		AudioSource_Play_m5_1078(L_23, /*hidden argument*/NULL);
 	}
 
 IL_00d0:
@@ -5510,23 +5528,23 @@ extern "C" void PlayerControl__ctor_m7_150 (PlayerControl_t7_30 * __this, const 
 	}
 }
 // System.Void PlayerControl::Awake()
-extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2792;
+extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2793;
 extern "C" void PlayerControl_Awake_m7_151 (PlayerControl_t7_30 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
-		_stringLiteral2792 = il2cpp_codegen_string_literal_from_index(2792);
+		Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
+		_stringLiteral2793 = il2cpp_codegen_string_literal_from_index(2793);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_Find_m5_828(L_0, _stringLiteral2792, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_Find_m5_826(L_0, _stringLiteral2793, /*hidden argument*/NULL);
 		__this->___groundCheck_12 = L_1;
-		Animator_t5_156 * L_2 = Component_GetComponent_TisAnimator_t5_156_m5_1856(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var);
+		Animator_t5_156 * L_2 = Component_GetComponent_TisAnimator_t5_156_m5_1854(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var);
 		__this->___anim_14 = L_2;
 		return;
 	}
@@ -5534,8 +5552,8 @@ extern "C" void PlayerControl_Awake_m7_151 (PlayerControl_t7_30 * __this, const 
 // System.Void PlayerControl::Update()
 extern TypeInfo* Physics2D_t5_135_il2cpp_TypeInfo_var;
 extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2793;
 extern Il2CppCodeGenString* _stringLiteral2794;
+extern Il2CppCodeGenString* _stringLiteral2795;
 extern "C" void PlayerControl_Update_m7_152 (PlayerControl_t7_30 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -5543,26 +5561,26 @@ extern "C" void PlayerControl_Update_m7_152 (PlayerControl_t7_30 * __this, const
 	{
 		Physics2D_t5_135_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(893);
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
-		_stringLiteral2793 = il2cpp_codegen_string_literal_from_index(2793);
 		_stringLiteral2794 = il2cpp_codegen_string_literal_from_index(2794);
+		_stringLiteral2795 = il2cpp_codegen_string_literal_from_index(2795);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		Vector2_t5_44  L_2 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		Transform_t5_71 * L_3 = (__this->___groundCheck_12);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		Vector2_t5_44  L_5 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
-		int32_t L_6 = LayerMask_NameToLayer_m5_190(NULL /*static, unused*/, _stringLiteral2793, /*hidden argument*/NULL);
+		int32_t L_6 = LayerMask_NameToLayer_m5_190(NULL /*static, unused*/, _stringLiteral2794, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Physics2D_t5_135_il2cpp_TypeInfo_var);
-		RaycastHit2D_t5_136  L_7 = Physics2D_Linecast_m5_1023(NULL /*static, unused*/, L_2, L_5, ((int32_t)((int32_t)1<<(int32_t)((int32_t)((int32_t)L_6&(int32_t)((int32_t)31))))), /*hidden argument*/NULL);
-		bool L_8 = RaycastHit2D_op_Implicit_m5_1041(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
+		RaycastHit2D_t5_136  L_7 = Physics2D_Linecast_m5_1021(NULL /*static, unused*/, L_2, L_5, ((int32_t)((int32_t)1<<(int32_t)((int32_t)((int32_t)L_6&(int32_t)((int32_t)31))))), /*hidden argument*/NULL);
+		bool L_8 = RaycastHit2D_op_Implicit_m5_1039(NULL /*static, unused*/, L_7, /*hidden argument*/NULL);
 		__this->___grounded_13 = L_8;
 		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
-		bool L_9 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2794, /*hidden argument*/NULL);
+		bool L_9 = Input_GetButtonDown_m5_670(NULL /*static, unused*/, _stringLiteral2795, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0060;
@@ -5587,10 +5605,10 @@ IL_0060:
 // System.Void PlayerControl::FixedUpdate()
 extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2683;
+extern Il2CppCodeGenString* _stringLiteral2796;
 extern Il2CppCodeGenString* _stringLiteral2795;
-extern Il2CppCodeGenString* _stringLiteral2794;
 extern "C" void PlayerControl_FixedUpdate_m7_153 (PlayerControl_t7_30 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -5598,10 +5616,10 @@ extern "C" void PlayerControl_FixedUpdate_m7_153 (PlayerControl_t7_30 * __this, 
 	{
 		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
-		Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
+		Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
 		_stringLiteral2683 = il2cpp_codegen_string_literal_from_index(2683);
+		_stringLiteral2796 = il2cpp_codegen_string_literal_from_index(2796);
 		_stringLiteral2795 = il2cpp_codegen_string_literal_from_index(2795);
-		_stringLiteral2794 = il2cpp_codegen_string_literal_from_index(2794);
 		s_Il2CppMethodIntialized = true;
 	}
 	float V_0 = 0.0f;
@@ -5619,11 +5637,11 @@ extern "C" void PlayerControl_FixedUpdate_m7_153 (PlayerControl_t7_30 * __this, 
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
 		float L_3 = fabsf(L_2);
 		NullCheck(L_1);
-		Animator_SetFloat_m5_1130(L_1, _stringLiteral2795, L_3, /*hidden argument*/NULL);
+		Animator_SetFloat_m5_1128(L_1, _stringLiteral2796, L_3, /*hidden argument*/NULL);
 		float L_4 = V_0;
-		Rigidbody2D_t5_139 * L_5 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_5 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_5);
-		Vector2_t5_44  L_6 = Rigidbody2D_get_velocity_m5_1042(L_5, /*hidden argument*/NULL);
+		Vector2_t5_44  L_6 = Rigidbody2D_get_velocity_m5_1040(L_5, /*hidden argument*/NULL);
 		V_2 = L_6;
 		float L_7 = ((&V_2)->___x_1);
 		float L_8 = (__this->___maxSpeed_5);
@@ -5633,21 +5651,21 @@ extern "C" void PlayerControl_FixedUpdate_m7_153 (PlayerControl_t7_30 * __this, 
 		}
 	}
 	{
-		Rigidbody2D_t5_139 * L_9 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_9 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		Vector2_t5_44  L_10 = Vector2_get_right_m5_207(NULL /*static, unused*/, /*hidden argument*/NULL);
 		float L_11 = V_0;
 		Vector2_t5_44  L_12 = Vector2_op_Multiply_m5_210(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
 		float L_13 = (__this->___moveForce_4);
 		Vector2_t5_44  L_14 = Vector2_op_Multiply_m5_210(NULL /*static, unused*/, L_12, L_13, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Rigidbody2D_AddForce_m5_1047(L_9, L_14, /*hidden argument*/NULL);
+		Rigidbody2D_AddForce_m5_1045(L_9, L_14, /*hidden argument*/NULL);
 	}
 
 IL_0062:
 	{
-		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_15 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_15);
-		Vector2_t5_44  L_16 = Rigidbody2D_get_velocity_m5_1042(L_15, /*hidden argument*/NULL);
+		Vector2_t5_44  L_16 = Rigidbody2D_get_velocity_m5_1040(L_15, /*hidden argument*/NULL);
 		V_3 = L_16;
 		float L_17 = ((&V_3)->___x_1);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
@@ -5659,24 +5677,24 @@ IL_0062:
 		}
 	}
 	{
-		Rigidbody2D_t5_139 * L_20 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
-		Rigidbody2D_t5_139 * L_21 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_20 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_21 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_21);
-		Vector2_t5_44  L_22 = Rigidbody2D_get_velocity_m5_1042(L_21, /*hidden argument*/NULL);
+		Vector2_t5_44  L_22 = Rigidbody2D_get_velocity_m5_1040(L_21, /*hidden argument*/NULL);
 		V_4 = L_22;
 		float L_23 = ((&V_4)->___x_1);
 		IL2CPP_RUNTIME_CLASS_INIT(Mathf_t5_55_il2cpp_TypeInfo_var);
 		float L_24 = Mathf_Sign_m5_352(NULL /*static, unused*/, L_23, /*hidden argument*/NULL);
 		float L_25 = (__this->___maxSpeed_5);
-		Rigidbody2D_t5_139 * L_26 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_26 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		NullCheck(L_26);
-		Vector2_t5_44  L_27 = Rigidbody2D_get_velocity_m5_1042(L_26, /*hidden argument*/NULL);
+		Vector2_t5_44  L_27 = Rigidbody2D_get_velocity_m5_1040(L_26, /*hidden argument*/NULL);
 		V_5 = L_27;
 		float L_28 = ((&V_5)->___y_2);
 		Vector2_t5_44  L_29 = {0};
 		Vector2__ctor_m5_193(&L_29, ((float)((float)L_24*(float)L_25)), L_28, /*hidden argument*/NULL);
 		NullCheck(L_20);
-		Rigidbody2D_set_velocity_m5_1043(L_20, L_29, /*hidden argument*/NULL);
+		Rigidbody2D_set_velocity_m5_1041(L_20, L_29, /*hidden argument*/NULL);
 	}
 
 IL_00c9:
@@ -5729,26 +5747,26 @@ IL_0106:
 	{
 		Animator_t5_156 * L_35 = (__this->___anim_14);
 		NullCheck(L_35);
-		Animator_SetTrigger_m5_1133(L_35, _stringLiteral2794, /*hidden argument*/NULL);
+		Animator_SetTrigger_m5_1131(L_35, _stringLiteral2795, /*hidden argument*/NULL);
 		AudioClipU5BU5D_t5_326* L_36 = (__this->___jumpClips_6);
 		NullCheck(L_36);
-		int32_t L_37 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_36)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_37 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_36)->max_length)))), /*hidden argument*/NULL);
 		V_1 = L_37;
 		AudioClipU5BU5D_t5_326* L_38 = (__this->___jumpClips_6);
 		int32_t L_39 = V_1;
 		NullCheck(L_38);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_38, L_39);
 		int32_t L_40 = L_39;
-		Transform_t5_71 * L_41 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_41 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_41);
-		Vector3_t5_45  L_42 = Transform_get_position_m5_785(L_41, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_38, L_40, sizeof(AudioClip_t5_147 *))), L_42, /*hidden argument*/NULL);
-		Rigidbody2D_t5_139 * L_43 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Vector3_t5_45  L_42 = Transform_get_position_m5_783(L_41, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_38, L_40, sizeof(AudioClip_t5_147 *))), L_42, /*hidden argument*/NULL);
+		Rigidbody2D_t5_139 * L_43 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		float L_44 = (__this->___jumpForce_7);
 		Vector2_t5_44  L_45 = {0};
 		Vector2__ctor_m5_193(&L_45, (0.0f), L_44, /*hidden argument*/NULL);
 		NullCheck(L_43);
-		Rigidbody2D_AddForce_m5_1047(L_43, L_45, /*hidden argument*/NULL);
+		Rigidbody2D_AddForce_m5_1045(L_43, L_45, /*hidden argument*/NULL);
 		__this->___jump_3 = 0;
 	}
 
@@ -5764,17 +5782,17 @@ extern "C" void PlayerControl_Flip_m7_154 (PlayerControl_t7_30 * __this, const M
 	{
 		bool L_0 = (__this->___facingRight_2);
 		__this->___facingRight_2 = ((((int32_t)L_0) == ((int32_t)0))? 1 : 0);
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		Vector3_t5_45  L_2 = Transform_get_localScale_m5_802(L_1, /*hidden argument*/NULL);
+		Vector3_t5_45  L_2 = Transform_get_localScale_m5_800(L_1, /*hidden argument*/NULL);
 		V_0 = L_2;
 		Vector3_t5_45 * L_3 = (&V_0);
 		float L_4 = (L_3->___x_1);
 		L_3->___x_1 = ((float)((float)L_4*(float)(-1.0f)));
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_6 = V_0;
 		NullCheck(L_5);
-		Transform_set_localScale_m5_803(L_5, L_6, /*hidden argument*/NULL);
+		Transform_set_localScale_m5_801(L_5, L_6, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -5807,7 +5825,7 @@ extern "C" int32_t PlayerControl_TauntRandom_m7_156 (PlayerControl_t7_30 * __thi
 	{
 		AudioClipU5BU5D_t5_326* L_0 = (__this->___taunts_8);
 		NullCheck(L_0);
-		int32_t L_1 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_1 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length)))), /*hidden argument*/NULL);
 		V_0 = L_1;
 		int32_t L_2 = V_0;
 		int32_t L_3 = (__this->___tauntIndex_11);
@@ -5840,61 +5858,61 @@ extern "C" void PlayerHealth__ctor_m7_157 (PlayerHealth_t7_38 * __this, const Me
 	}
 }
 // System.Void PlayerHealth::Awake()
-extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2796;
+extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2797;
 extern "C" void PlayerHealth_Awake_m7_158 (PlayerHealth_t7_38 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
-		GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483833);
-		Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
-		_stringLiteral2796 = il2cpp_codegen_string_literal_from_index(2796);
+		Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
+		GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483833);
+		Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483959);
+		_stringLiteral2797 = il2cpp_codegen_string_literal_from_index(2797);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		PlayerControl_t7_30 * L_0 = Component_GetComponent_TisPlayerControl_t7_30_m5_1894(__this, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var);
+		PlayerControl_t7_30 * L_0 = Component_GetComponent_TisPlayerControl_t7_30_m5_1892(__this, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var);
 		__this->___playerControl_10 = L_0;
-		GameObject_t5_101 * L_1 = GameObject_Find_m5_779(NULL /*static, unused*/, _stringLiteral2796, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = GameObject_Find_m5_777(NULL /*static, unused*/, _stringLiteral2797, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		SpriteRenderer_t5_80 * L_2 = GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802(L_1, /*hidden argument*/GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1802_MethodInfo_var);
+		SpriteRenderer_t5_80 * L_2 = GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800(L_1, /*hidden argument*/GameObject_GetComponent_TisSpriteRenderer_t5_80_m5_1800_MethodInfo_var);
 		__this->___healthBar_7 = L_2;
-		Animator_t5_156 * L_3 = Component_GetComponent_TisAnimator_t5_156_m5_1856(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1856_MethodInfo_var);
+		Animator_t5_156 * L_3 = Component_GetComponent_TisAnimator_t5_156_m5_1854(__this, /*hidden argument*/Component_GetComponent_TisAnimator_t5_156_m5_1854_MethodInfo_var);
 		__this->___anim_11 = L_3;
 		SpriteRenderer_t5_80 * L_4 = (__this->___healthBar_7);
 		NullCheck(L_4);
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(L_4, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(L_4, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Vector3_t5_45  L_6 = Transform_get_localScale_m5_802(L_5, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_get_localScale_m5_800(L_5, /*hidden argument*/NULL);
 		__this->___healthScale_9 = L_6;
 		return;
 	}
 }
 // System.Void PlayerHealth::OnCollisionEnter2D(UnityEngine.Collision2D)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var;
-extern const MethodInfo* Component_GetComponentInChildren_TisGun_t7_29_m5_1900_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2778;
-extern Il2CppCodeGenString* _stringLiteral2797;
+extern const MethodInfo* Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentInChildren_TisGun_t7_29_m5_1898_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2779;
 extern Il2CppCodeGenString* _stringLiteral2798;
+extern Il2CppCodeGenString* _stringLiteral2799;
 extern "C" void PlayerHealth_OnCollisionEnter2D_m7_159 (PlayerHealth_t7_38 * __this, Collision2D_t5_141 * ___col, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484054);
-		Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484053);
-		Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
-		Component_GetComponentInChildren_TisGun_t7_29_m5_1900_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484062);
-		_stringLiteral2778 = il2cpp_codegen_string_literal_from_index(2778);
-		_stringLiteral2797 = il2cpp_codegen_string_literal_from_index(2797);
+		Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484054);
+		Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484053);
+		Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484056);
+		Component_GetComponentInChildren_TisGun_t7_29_m5_1898_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484062);
+		_stringLiteral2779 = il2cpp_codegen_string_literal_from_index(2779);
 		_stringLiteral2798 = il2cpp_codegen_string_literal_from_index(2798);
+		_stringLiteral2799 = il2cpp_codegen_string_literal_from_index(2799);
 		s_Il2CppMethodIntialized = true;
 	}
 	Collider2DU5BU5D_t5_298* V_0 = {0};
@@ -5908,18 +5926,18 @@ extern "C" void PlayerHealth_OnCollisionEnter2D_m7_159 (PlayerHealth_t7_38 * __t
 	{
 		Collision2D_t5_141 * L_0 = ___col;
 		NullCheck(L_0);
-		GameObject_t5_101 * L_1 = Collision2D_get_gameObject_m5_1058(L_0, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Collision2D_get_gameObject_m5_1056(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		String_t* L_2 = GameObject_get_tag_m5_772(L_1, /*hidden argument*/NULL);
+		String_t* L_2 = GameObject_get_tag_m5_770(L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2778, /*hidden argument*/NULL);
+		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2779, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_00e5;
 		}
 	}
 	{
-		float L_4 = Time_get_time_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_4 = Time_get_time_m5_830(NULL /*static, unused*/, /*hidden argument*/NULL);
 		float L_5 = (__this->___lastHitTime_8);
 		float L_6 = (__this->___repeatDamagePeriod_3);
 		if ((!(((float)L_4) > ((float)((float)((float)L_5+(float)L_6))))))
@@ -5937,16 +5955,16 @@ extern "C" void PlayerHealth_OnCollisionEnter2D_m7_159 (PlayerHealth_t7_38 * __t
 	{
 		Collision2D_t5_141 * L_8 = ___col;
 		NullCheck(L_8);
-		Transform_t5_71 * L_9 = Collision2D_get_transform_m5_1057(L_8, /*hidden argument*/NULL);
+		Transform_t5_71 * L_9 = Collision2D_get_transform_m5_1055(L_8, /*hidden argument*/NULL);
 		PlayerHealth_TakeDamage_m7_160(__this, L_9, /*hidden argument*/NULL);
-		float L_10 = Time_get_time_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_10 = Time_get_time_m5_830(NULL /*static, unused*/, /*hidden argument*/NULL);
 		__this->___lastHitTime_8 = L_10;
 		goto IL_00e5;
 	}
 
 IL_005d:
 	{
-		Collider2DU5BU5D_t5_298* L_11 = Component_GetComponents_TisCollider2D_t5_137_m5_1892(__this, /*hidden argument*/Component_GetComponents_TisCollider2D_t5_137_m5_1892_MethodInfo_var);
+		Collider2DU5BU5D_t5_298* L_11 = Component_GetComponents_TisCollider2D_t5_137_m5_1890(__this, /*hidden argument*/Component_GetComponents_TisCollider2D_t5_137_m5_1890_MethodInfo_var);
 		V_0 = L_11;
 		Collider2DU5BU5D_t5_298* L_12 = V_0;
 		V_2 = L_12;
@@ -5964,7 +5982,7 @@ IL_006d:
 		V_1 = (*(Collider2D_t5_137 **)(Collider2D_t5_137 **)SZArrayLdElema(L_13, L_15, sizeof(Collider2D_t5_137 *)));
 		Collider2D_t5_137 * L_16 = V_1;
 		NullCheck(L_16);
-		Collider2D_set_isTrigger_m5_1051(L_16, 1, /*hidden argument*/NULL);
+		Collider2D_set_isTrigger_m5_1049(L_16, 1, /*hidden argument*/NULL);
 		int32_t L_17 = V_3;
 		V_3 = ((int32_t)((int32_t)L_17+(int32_t)1));
 	}
@@ -5980,7 +5998,7 @@ IL_007c:
 		}
 	}
 	{
-		SpriteRendererU5BU5D_t5_328* L_20 = Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891(__this, /*hidden argument*/Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1891_MethodInfo_var);
+		SpriteRendererU5BU5D_t5_328* L_20 = Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889(__this, /*hidden argument*/Component_GetComponentsInChildren_TisSpriteRenderer_t5_80_m5_1889_MethodInfo_var);
 		V_4 = L_20;
 		SpriteRendererU5BU5D_t5_328* L_21 = V_4;
 		V_6 = L_21;
@@ -5998,7 +6016,7 @@ IL_0099:
 		V_5 = (*(SpriteRenderer_t5_80 **)(SpriteRenderer_t5_80 **)SZArrayLdElema(L_22, L_24, sizeof(SpriteRenderer_t5_80 *)));
 		SpriteRenderer_t5_80 * L_25 = V_5;
 		NullCheck(L_25);
-		Renderer_set_sortingLayerName_m5_124(L_25, _stringLiteral2797, /*hidden argument*/NULL);
+		Renderer_set_sortingLayerName_m5_124(L_25, _stringLiteral2798, /*hidden argument*/NULL);
 		int32_t L_26 = V_7;
 		V_7 = ((int32_t)((int32_t)L_26+(int32_t)1));
 	}
@@ -6014,15 +6032,15 @@ IL_00b2:
 		}
 	}
 	{
-		PlayerControl_t7_30 * L_29 = Component_GetComponent_TisPlayerControl_t7_30_m5_1894(__this, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1894_MethodInfo_var);
+		PlayerControl_t7_30 * L_29 = Component_GetComponent_TisPlayerControl_t7_30_m5_1892(__this, /*hidden argument*/Component_GetComponent_TisPlayerControl_t7_30_m5_1892_MethodInfo_var);
 		NullCheck(L_29);
 		Behaviour_set_enabled_m5_583(L_29, 0, /*hidden argument*/NULL);
-		Gun_t7_29 * L_30 = Component_GetComponentInChildren_TisGun_t7_29_m5_1900(__this, /*hidden argument*/Component_GetComponentInChildren_TisGun_t7_29_m5_1900_MethodInfo_var);
+		Gun_t7_29 * L_30 = Component_GetComponentInChildren_TisGun_t7_29_m5_1898(__this, /*hidden argument*/Component_GetComponentInChildren_TisGun_t7_29_m5_1898_MethodInfo_var);
 		NullCheck(L_30);
 		Behaviour_set_enabled_m5_583(L_30, 0, /*hidden argument*/NULL);
 		Animator_t5_156 * L_31 = (__this->___anim_11);
 		NullCheck(L_31);
-		Animator_SetTrigger_m5_1133(L_31, _stringLiteral2798, /*hidden argument*/NULL);
+		Animator_SetTrigger_m5_1131(L_31, _stringLiteral2799, /*hidden argument*/NULL);
 	}
 
 IL_00e5:
@@ -6031,13 +6049,13 @@ IL_00e5:
 	}
 }
 // System.Void PlayerHealth::TakeDamage(UnityEngine.Transform)
-extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var;
 extern "C" void PlayerHealth_TakeDamage_m7_160 (PlayerHealth_t7_38 * __this, Transform_t5_71 * ___enemy, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
+		Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484040);
 		s_Il2CppMethodIntialized = true;
 	}
 	Vector3_t5_45  V_0 = {0};
@@ -6046,41 +6064,41 @@ extern "C" void PlayerHealth_TakeDamage_m7_160 (PlayerHealth_t7_38 * __this, Tra
 		PlayerControl_t7_30 * L_0 = (__this->___playerControl_10);
 		NullCheck(L_0);
 		L_0->___jump_3 = 0;
-		Transform_t5_71 * L_1 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		Vector3_t5_45  L_2 = Transform_get_position_m5_785(L_1, /*hidden argument*/NULL);
+		Vector3_t5_45  L_2 = Transform_get_position_m5_783(L_1, /*hidden argument*/NULL);
 		Transform_t5_71 * L_3 = ___enemy;
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		Vector3_t5_45  L_5 = Vector3_op_Subtraction_m5_242(NULL /*static, unused*/, L_2, L_4, /*hidden argument*/NULL);
 		Vector3_t5_45  L_6 = Vector3_get_up_m5_237(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_7 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_6, (5.0f), /*hidden argument*/NULL);
 		Vector3_t5_45  L_8 = Vector3_op_Addition_m5_241(NULL /*static, unused*/, L_5, L_7, /*hidden argument*/NULL);
 		V_0 = L_8;
-		Rigidbody2D_t5_139 * L_9 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1881(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1881_MethodInfo_var);
+		Rigidbody2D_t5_139 * L_9 = Component_GetComponent_TisRigidbody2D_t5_139_m5_1879(__this, /*hidden argument*/Component_GetComponent_TisRigidbody2D_t5_139_m5_1879_MethodInfo_var);
 		Vector3_t5_45  L_10 = V_0;
 		float L_11 = (__this->___hurtForce_5);
 		Vector3_t5_45  L_12 = Vector3_op_Multiply_m5_243(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
 		Vector2_t5_44  L_13 = Vector2_op_Implicit_m5_214(NULL /*static, unused*/, L_12, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Rigidbody2D_AddForce_m5_1047(L_9, L_13, /*hidden argument*/NULL);
+		Rigidbody2D_AddForce_m5_1045(L_9, L_13, /*hidden argument*/NULL);
 		float L_14 = (__this->___health_2);
 		float L_15 = (__this->___damageAmount_6);
 		__this->___health_2 = ((float)((float)L_14-(float)L_15));
 		PlayerHealth_UpdateHealthBar_m7_161(__this, /*hidden argument*/NULL);
 		AudioClipU5BU5D_t5_326* L_16 = (__this->___ouchClips_4);
 		NullCheck(L_16);
-		int32_t L_17 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_16)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_17 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_16)->max_length)))), /*hidden argument*/NULL);
 		V_1 = L_17;
 		AudioClipU5BU5D_t5_326* L_18 = (__this->___ouchClips_4);
 		int32_t L_19 = V_1;
 		NullCheck(L_18);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_18, L_19);
 		int32_t L_20 = L_19;
-		Transform_t5_71 * L_21 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_21 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		Vector3_t5_45  L_22 = Transform_get_position_m5_785(L_21, /*hidden argument*/NULL);
-		AudioSource_PlayClipAtPoint_m5_1084(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_18, L_20, sizeof(AudioClip_t5_147 *))), L_22, /*hidden argument*/NULL);
+		Vector3_t5_45  L_22 = Transform_get_position_m5_783(L_21, /*hidden argument*/NULL);
+		AudioSource_PlayClipAtPoint_m5_1082(NULL /*static, unused*/, (*(AudioClip_t5_147 **)(AudioClip_t5_147 **)SZArrayLdElema(L_18, L_20, sizeof(AudioClip_t5_147 *))), L_22, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -6091,22 +6109,22 @@ extern "C" void PlayerHealth_UpdateHealthBar_m7_161 (PlayerHealth_t7_38 * __this
 		SpriteRenderer_t5_80 * L_0 = (__this->___healthBar_7);
 		NullCheck(L_0);
 		Material_t5_77 * L_1 = Renderer_get_material_m5_122(L_0, /*hidden argument*/NULL);
-		Color_t5_165  L_2 = Color_get_green_m5_1586(NULL /*static, unused*/, /*hidden argument*/NULL);
-		Color_t5_165  L_3 = Color_get_red_m5_1585(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_2 = Color_get_green_m5_1584(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Color_t5_165  L_3 = Color_get_red_m5_1583(NULL /*static, unused*/, /*hidden argument*/NULL);
 		float L_4 = (__this->___health_2);
-		Color_t5_165  L_5 = Color_Lerp_m5_1584(NULL /*static, unused*/, L_2, L_3, ((float)((float)(1.0f)-(float)((float)((float)L_4*(float)(0.01f))))), /*hidden argument*/NULL);
+		Color_t5_165  L_5 = Color_Lerp_m5_1582(NULL /*static, unused*/, L_2, L_3, ((float)((float)(1.0f)-(float)((float)((float)L_4*(float)(0.01f))))), /*hidden argument*/NULL);
 		NullCheck(L_1);
 		Material_set_color_m5_519(L_1, L_5, /*hidden argument*/NULL);
 		SpriteRenderer_t5_80 * L_6 = (__this->___healthBar_7);
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(L_6, /*hidden argument*/NULL);
 		Vector3_t5_45 * L_8 = &(__this->___healthScale_9);
 		float L_9 = (L_8->___x_1);
 		float L_10 = (__this->___health_2);
 		Vector3_t5_45  L_11 = {0};
 		Vector3__ctor_m5_216(&L_11, ((float)((float)((float)((float)L_9*(float)L_10))*(float)(0.01f))), (1.0f), (1.0f), /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Transform_set_localScale_m5_803(L_7, L_11, /*hidden argument*/NULL);
+		Transform_set_localScale_m5_801(L_7, L_11, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -6225,55 +6243,55 @@ extern "C" void Remover__ctor_m7_168 (Remover_t7_41 * __this, const MethodInfo* 
 }
 // System.Void Remover::OnTriggerEnter2D(UnityEngine.Collider2D)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisCameraFollow_t7_19_m5_1901_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2776;
-extern Il2CppCodeGenString* _stringLiteral2799;
-extern Il2CppCodeGenString* _stringLiteral2796;
+extern const MethodInfo* GameObject_GetComponent_TisCameraFollow_t7_19_m5_1899_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern Il2CppCodeGenString* _stringLiteral2800;
+extern Il2CppCodeGenString* _stringLiteral2797;
+extern Il2CppCodeGenString* _stringLiteral2801;
 extern "C" void Remover_OnTriggerEnter2D_m7_169 (Remover_t7_41 * __this, Collider2D_t5_137 * ___col, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		GameObject_GetComponent_TisCameraFollow_t7_19_m5_1901_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484063);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
-		_stringLiteral2799 = il2cpp_codegen_string_literal_from_index(2799);
-		_stringLiteral2796 = il2cpp_codegen_string_literal_from_index(2796);
+		GameObject_GetComponent_TisCameraFollow_t7_19_m5_1899_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484063);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		_stringLiteral2800 = il2cpp_codegen_string_literal_from_index(2800);
+		_stringLiteral2797 = il2cpp_codegen_string_literal_from_index(2797);
+		_stringLiteral2801 = il2cpp_codegen_string_literal_from_index(2801);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Collider2D_t5_137 * L_0 = ___col;
 		NullCheck(L_0);
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(L_0, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		String_t* L_2 = GameObject_get_tag_m5_772(L_1, /*hidden argument*/NULL);
+		String_t* L_2 = GameObject_get_tag_m5_770(L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2776, /*hidden argument*/NULL);
+		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2777, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0091;
 		}
 	}
 	{
-		GameObject_t5_101 * L_4 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2799, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_4 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2800, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		CameraFollow_t7_19 * L_5 = GameObject_GetComponent_TisCameraFollow_t7_19_m5_1901(L_4, /*hidden argument*/GameObject_GetComponent_TisCameraFollow_t7_19_m5_1901_MethodInfo_var);
+		CameraFollow_t7_19 * L_5 = GameObject_GetComponent_TisCameraFollow_t7_19_m5_1899(L_4, /*hidden argument*/GameObject_GetComponent_TisCameraFollow_t7_19_m5_1899_MethodInfo_var);
 		NullCheck(L_5);
 		Behaviour_set_enabled_m5_583(L_5, 0, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_6 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2796, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2797, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		bool L_7 = GameObject_get_activeSelf_m5_770(L_6, /*hidden argument*/NULL);
+		bool L_7 = GameObject_get_activeSelf_m5_768(L_6, /*hidden argument*/NULL);
 		if (!L_7)
 		{
 			goto IL_0053;
 		}
 	}
 	{
-		GameObject_t5_101 * L_8 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2796, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_8 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2797, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		GameObject_SetActive_m5_769(L_8, 0, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_8, 0, /*hidden argument*/NULL);
 	}
 
 IL_0053:
@@ -6281,18 +6299,18 @@ IL_0053:
 		GameObject_t5_101 * L_9 = (__this->___splash_2);
 		Collider2D_t5_137 * L_10 = ___col;
 		NullCheck(L_10);
-		Transform_t5_71 * L_11 = Component_get_transform_m5_723(L_10, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = Component_get_transform_m5_721(L_10, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Vector3_t5_45  L_12 = Transform_get_position_m5_785(L_11, /*hidden argument*/NULL);
-		Transform_t5_71 * L_13 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_12 = Transform_get_position_m5_783(L_11, /*hidden argument*/NULL);
+		Transform_t5_71 * L_13 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		Quaternion_t5_47  L_14 = Transform_get_rotation_m5_794(L_13, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_9, L_12, L_14, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_14 = Transform_get_rotation_m5_792(L_13, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_9, L_12, L_14, /*hidden argument*/NULL);
 		Collider2D_t5_137 * L_15 = ___col;
 		NullCheck(L_15);
-		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_724(L_15, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_16, /*hidden argument*/NULL);
-		MonoBehaviour_StartCoroutine_m5_653(__this, _stringLiteral2800, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_722(L_15, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_16, /*hidden argument*/NULL);
+		MonoBehaviour_StartCoroutine_m5_653(__this, _stringLiteral2801, /*hidden argument*/NULL);
 		goto IL_00be;
 	}
 
@@ -6301,17 +6319,17 @@ IL_0091:
 		GameObject_t5_101 * L_17 = (__this->___splash_2);
 		Collider2D_t5_137 * L_18 = ___col;
 		NullCheck(L_18);
-		Transform_t5_71 * L_19 = Component_get_transform_m5_723(L_18, /*hidden argument*/NULL);
+		Transform_t5_71 * L_19 = Component_get_transform_m5_721(L_18, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		Vector3_t5_45  L_20 = Transform_get_position_m5_785(L_19, /*hidden argument*/NULL);
-		Transform_t5_71 * L_21 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_20 = Transform_get_position_m5_783(L_19, /*hidden argument*/NULL);
+		Transform_t5_71 * L_21 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		Quaternion_t5_47  L_22 = Transform_get_rotation_m5_794(L_21, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_17, L_20, L_22, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_22 = Transform_get_rotation_m5_792(L_21, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_17, L_20, L_22, /*hidden argument*/NULL);
 		Collider2D_t5_137 * L_23 = ___col;
 		NullCheck(L_23);
-		GameObject_t5_101 * L_24 = Component_get_gameObject_m5_724(L_23, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_24, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_24 = Component_get_gameObject_m5_722(L_23, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_24, /*hidden argument*/NULL);
 	}
 
 IL_00be:
@@ -6353,21 +6371,21 @@ extern "C" void ResizePanel__ctor_m7_171 (ResizePanel_t7_42 * __this, const Meth
 	}
 }
 // System.Void ResizePanel::Awake()
-extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var;
 extern "C" void ResizePanel_Awake_m7_172 (ResizePanel_t7_42 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
+		Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483899);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Transform_t5_71 * L_1 = Transform_get_parent_m5_806(L_0, /*hidden argument*/NULL);
+		Transform_t5_71 * L_1 = Transform_get_parent_m5_804(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1839(L_1, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1839_MethodInfo_var);
+		RectTransform_t5_70 * L_2 = Component_GetComponent_TisRectTransform_t5_70_m5_1837(L_1, /*hidden argument*/Component_GetComponent_TisRectTransform_t5_70_m5_1837_MethodInfo_var);
 		__this->___panelRectTransform_4 = L_2;
 		return;
 	}
@@ -6396,7 +6414,7 @@ extern "C" void ResizePanel_OnPointerDown_m7_173 (ResizePanel_t7_42 * __this, Po
 		Camera_t5_86 * L_6 = PointerEventData_get_pressEventCamera_m6_166(L_5, /*hidden argument*/NULL);
 		Vector2_t5_44 * L_7 = &(__this->___originalLocalPointerPosition_5);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_2, L_4, L_6, L_7, /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_2, L_4, L_6, L_7, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -6417,7 +6435,7 @@ extern "C" void ResizePanel_OnDrag_m7_174 (ResizePanel_t7_42 * __this, PointerEv
 	Vector2_t5_44  V_2 = {0};
 	{
 		RectTransform_t5_70 * L_0 = (__this->___panelRectTransform_4);
-		bool L_1 = Object_op_Equality_m5_720(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Equality_m5_718(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_0012;
@@ -6437,7 +6455,7 @@ IL_0012:
 		NullCheck(L_5);
 		Camera_t5_86 * L_6 = PointerEventData_get_pressEventCamera_m6_166(L_5, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(RectTransformUtility_t5_180_il2cpp_TypeInfo_var);
-		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1265(NULL /*static, unused*/, L_2, L_4, L_6, (&V_0), /*hidden argument*/NULL);
+		RectTransformUtility_ScreenPointToLocalPointInRectangle_m5_1263(NULL /*static, unused*/, L_2, L_4, L_6, (&V_0), /*hidden argument*/NULL);
 		Vector2_t5_44  L_7 = V_0;
 		Vector2_t5_44  L_8 = (__this->___originalLocalPointerPosition_5);
 		Vector2_t5_44  L_9 = Vector2_op_Subtraction_m5_209(NULL /*static, unused*/, L_7, L_8, /*hidden argument*/NULL);
@@ -6483,8 +6501,8 @@ extern "C" void Rocket__ctor_m7_175 (Rocket_t7_43 * __this, const MethodInfo* me
 extern "C" void Rocket_Start_m7_176 (Rocket_t7_43 * __this, const MethodInfo* method)
 {
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_693(NULL /*static, unused*/, L_0, (2.0f), /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_691(NULL /*static, unused*/, L_0, (2.0f), /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -6493,44 +6511,44 @@ extern "C" void Rocket_OnExplode_m7_177 (Rocket_t7_43 * __this, const MethodInfo
 {
 	Quaternion_t5_47  V_0 = {0};
 	{
-		float L_0 = Random_Range_m5_840(NULL /*static, unused*/, (0.0f), (360.0f), /*hidden argument*/NULL);
+		float L_0 = Random_Range_m5_838(NULL /*static, unused*/, (0.0f), (360.0f), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_1 = Quaternion_Euler_m5_257(NULL /*static, unused*/, (0.0f), (0.0f), L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = (__this->___explosion_2);
-		Transform_t5_71 * L_3 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_5 = V_0;
-		Object_Instantiate_m5_715(NULL /*static, unused*/, L_2, L_4, L_5, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, L_2, L_4, L_5, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void Rocket::OnTriggerEnter2D(UnityEngine.Collider2D)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisBomb_t7_15_m5_1902_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2778;
-extern Il2CppCodeGenString* _stringLiteral2801;
-extern Il2CppCodeGenString* _stringLiteral2776;
+extern const MethodInfo* GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisBomb_t7_15_m5_1900_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2779;
+extern Il2CppCodeGenString* _stringLiteral2802;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void Rocket_OnTriggerEnter2D_m7_178 (Rocket_t7_43 * __this, Collider2D_t5_137 * ___col, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484041);
-		GameObject_GetComponent_TisBomb_t7_15_m5_1902_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484064);
-		_stringLiteral2778 = il2cpp_codegen_string_literal_from_index(2778);
-		_stringLiteral2801 = il2cpp_codegen_string_literal_from_index(2801);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484041);
+		GameObject_GetComponent_TisBomb_t7_15_m5_1900_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484064);
+		_stringLiteral2779 = il2cpp_codegen_string_literal_from_index(2779);
+		_stringLiteral2802 = il2cpp_codegen_string_literal_from_index(2802);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Collider2D_t5_137 * L_0 = ___col;
 		NullCheck(L_0);
-		String_t* L_1 = Component_get_tag_m5_738(L_0, /*hidden argument*/NULL);
+		String_t* L_1 = Component_get_tag_m5_736(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2778, /*hidden argument*/NULL);
+		bool L_2 = String_op_Equality_m1_456(NULL /*static, unused*/, L_1, _stringLiteral2779, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_003b;
@@ -6539,14 +6557,14 @@ extern "C" void Rocket_OnTriggerEnter2D_m7_178 (Rocket_t7_43 * __this, Collider2
 	{
 		Collider2D_t5_137 * L_3 = ___col;
 		NullCheck(L_3);
-		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_724(L_3, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_4 = Component_get_gameObject_m5_722(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		Enemy_t7_26 * L_5 = GameObject_GetComponent_TisEnemy_t7_26_m5_1882(L_4, /*hidden argument*/GameObject_GetComponent_TisEnemy_t7_26_m5_1882_MethodInfo_var);
+		Enemy_t7_26 * L_5 = GameObject_GetComponent_TisEnemy_t7_26_m5_1880(L_4, /*hidden argument*/GameObject_GetComponent_TisEnemy_t7_26_m5_1880_MethodInfo_var);
 		NullCheck(L_5);
 		Enemy_Hurt_m7_96(L_5, /*hidden argument*/NULL);
 		Rocket_OnExplode_m7_177(__this, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 		goto IL_00b0;
 	}
 
@@ -6554,9 +6572,9 @@ IL_003b:
 	{
 		Collider2D_t5_137 * L_7 = ___col;
 		NullCheck(L_7);
-		String_t* L_8 = Component_get_tag_m5_738(L_7, /*hidden argument*/NULL);
+		String_t* L_8 = Component_get_tag_m5_736(L_7, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_9 = String_op_Equality_m1_456(NULL /*static, unused*/, L_8, _stringLiteral2801, /*hidden argument*/NULL);
+		bool L_9 = String_op_Equality_m1_456(NULL /*static, unused*/, L_8, _stringLiteral2802, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0085;
@@ -6565,21 +6583,21 @@ IL_003b:
 	{
 		Collider2D_t5_137 * L_10 = ___col;
 		NullCheck(L_10);
-		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_724(L_10, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_11 = Component_get_gameObject_m5_722(L_10, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Bomb_t7_15 * L_12 = GameObject_GetComponent_TisBomb_t7_15_m5_1902(L_11, /*hidden argument*/GameObject_GetComponent_TisBomb_t7_15_m5_1902_MethodInfo_var);
+		Bomb_t7_15 * L_12 = GameObject_GetComponent_TisBomb_t7_15_m5_1900(L_11, /*hidden argument*/GameObject_GetComponent_TisBomb_t7_15_m5_1900_MethodInfo_var);
 		NullCheck(L_12);
 		Bomb_Explode_m7_53(L_12, /*hidden argument*/NULL);
 		Collider2D_t5_137 * L_13 = ___col;
 		NullCheck(L_13);
-		Transform_t5_71 * L_14 = Component_get_transform_m5_723(L_13, /*hidden argument*/NULL);
+		Transform_t5_71 * L_14 = Component_get_transform_m5_721(L_13, /*hidden argument*/NULL);
 		NullCheck(L_14);
-		Transform_t5_71 * L_15 = Transform_get_root_m5_824(L_14, /*hidden argument*/NULL);
+		Transform_t5_71 * L_15 = Transform_get_root_m5_822(L_14, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_724(L_15, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_16, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_16 = Component_get_gameObject_m5_722(L_15, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_16, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_17, /*hidden argument*/NULL);
 		goto IL_00b0;
 	}
 
@@ -6587,11 +6605,11 @@ IL_0085:
 	{
 		Collider2D_t5_137 * L_18 = ___col;
 		NullCheck(L_18);
-		GameObject_t5_101 * L_19 = Component_get_gameObject_m5_724(L_18, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_19 = Component_get_gameObject_m5_722(L_18, /*hidden argument*/NULL);
 		NullCheck(L_19);
-		String_t* L_20 = GameObject_get_tag_m5_772(L_19, /*hidden argument*/NULL);
+		String_t* L_20 = GameObject_get_tag_m5_770(L_19, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_21 = String_op_Inequality_m1_457(NULL /*static, unused*/, L_20, _stringLiteral2776, /*hidden argument*/NULL);
+		bool L_21 = String_op_Inequality_m1_457(NULL /*static, unused*/, L_20, _stringLiteral2777, /*hidden argument*/NULL);
 		if (!L_21)
 		{
 			goto IL_00b0;
@@ -6599,8 +6617,8 @@ IL_0085:
 	}
 	{
 		Rocket_OnExplode_m7_177(__this, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_22, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_22 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_22, /*hidden argument*/NULL);
 	}
 
 IL_00b0:
@@ -6617,21 +6635,21 @@ extern "C" void Score__ctor_m7_179 (Score_t7_27 * __this, const MethodInfo* meth
 	}
 }
 // System.Void Score::Awake()
-extern const MethodInfo* GameObject_GetComponent_TisPlayerControl_t7_30_m5_1903_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2776;
+extern const MethodInfo* GameObject_GetComponent_TisPlayerControl_t7_30_m5_1901_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2777;
 extern "C" void Score_Awake_m7_180 (Score_t7_27 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisPlayerControl_t7_30_m5_1903_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484065);
-		_stringLiteral2776 = il2cpp_codegen_string_literal_from_index(2776);
+		GameObject_GetComponent_TisPlayerControl_t7_30_m5_1901_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484065);
+		_stringLiteral2777 = il2cpp_codegen_string_literal_from_index(2777);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_774(NULL /*static, unused*/, _stringLiteral2776, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = GameObject_FindGameObjectWithTag_m5_772(NULL /*static, unused*/, _stringLiteral2777, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		PlayerControl_t7_30 * L_1 = GameObject_GetComponent_TisPlayerControl_t7_30_m5_1903(L_0, /*hidden argument*/GameObject_GetComponent_TisPlayerControl_t7_30_m5_1903_MethodInfo_var);
+		PlayerControl_t7_30 * L_1 = GameObject_GetComponent_TisPlayerControl_t7_30_m5_1901(L_0, /*hidden argument*/GameObject_GetComponent_TisPlayerControl_t7_30_m5_1901_MethodInfo_var);
 		__this->___playerControl_3 = L_1;
 		return;
 	}
@@ -6639,8 +6657,8 @@ extern "C" void Score_Awake_m7_180 (Score_t7_27 * __this, const MethodInfo* meth
 // System.Void Score::Update()
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2802;
+extern const MethodInfo* Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2803;
 extern "C" void Score_Update_m7_181 (Score_t7_27 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -6648,19 +6666,19 @@ extern "C" void Score_Update_m7_181 (Score_t7_27 * __this, const MethodInfo* met
 	{
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484066);
-		_stringLiteral2802 = il2cpp_codegen_string_literal_from_index(2802);
+		Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484066);
+		_stringLiteral2803 = il2cpp_codegen_string_literal_from_index(2803);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GUIText_t5_170 * L_0 = Component_GetComponent_TisGUIText_t5_170_m5_1904(__this, /*hidden argument*/Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var);
+		GUIText_t5_170 * L_0 = Component_GetComponent_TisGUIText_t5_170_m5_1902(__this, /*hidden argument*/Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var);
 		int32_t L_1 = (__this->___score_2);
 		int32_t L_2 = L_1;
 		Object_t * L_3 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_4 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2802, L_3, /*hidden argument*/NULL);
+		String_t* L_4 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2803, L_3, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		GUIText_set_text_m5_1184(L_0, L_4, /*hidden argument*/NULL);
+		GUIText_set_text_m5_1182(L_0, L_4, /*hidden argument*/NULL);
 		int32_t L_5 = (__this->___previousScore_4);
 		int32_t L_6 = (__this->___score_2);
 		if ((((int32_t)L_5) == ((int32_t)L_6)))
@@ -6700,60 +6718,60 @@ extern "C" void ScoreShadow_Awake_m7_183 (ScoreShadow_t7_44 * __this, const Meth
 	Vector3_t5_45  V_2 = {0};
 	Vector3_t5_45  V_3 = {0};
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		Vector3_t5_45  L_1 = Transform_get_position_m5_785(L_0, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_783(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObject_t5_101 * L_2 = (__this->___guiCopy_2);
 		NullCheck(L_2);
-		Transform_t5_71 * L_3 = GameObject_get_transform_m5_766(L_2, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = GameObject_get_transform_m5_764(L_2, /*hidden argument*/NULL);
 		NullCheck(L_3);
-		Vector3_t5_45  L_4 = Transform_get_position_m5_785(L_3, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_783(L_3, /*hidden argument*/NULL);
 		V_1 = L_4;
 		float L_5 = ((&V_1)->___x_1);
 		GameObject_t5_101 * L_6 = (__this->___guiCopy_2);
 		NullCheck(L_6);
-		Transform_t5_71 * L_7 = GameObject_get_transform_m5_766(L_6, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = GameObject_get_transform_m5_764(L_6, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Vector3_t5_45  L_8 = Transform_get_position_m5_785(L_7, /*hidden argument*/NULL);
+		Vector3_t5_45  L_8 = Transform_get_position_m5_783(L_7, /*hidden argument*/NULL);
 		V_2 = L_8;
 		float L_9 = ((&V_2)->___y_2);
 		GameObject_t5_101 * L_10 = (__this->___guiCopy_2);
 		NullCheck(L_10);
-		Transform_t5_71 * L_11 = GameObject_get_transform_m5_766(L_10, /*hidden argument*/NULL);
+		Transform_t5_71 * L_11 = GameObject_get_transform_m5_764(L_10, /*hidden argument*/NULL);
 		NullCheck(L_11);
-		Vector3_t5_45  L_12 = Transform_get_position_m5_785(L_11, /*hidden argument*/NULL);
+		Vector3_t5_45  L_12 = Transform_get_position_m5_783(L_11, /*hidden argument*/NULL);
 		V_3 = L_12;
 		float L_13 = ((&V_3)->___z_3);
 		Vector3__ctor_m5_216((&V_0), L_5, ((float)((float)L_9-(float)(0.005f))), ((float)((float)L_13-(float)(1.0f))), /*hidden argument*/NULL);
-		Transform_t5_71 * L_14 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_14 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_15 = V_0;
 		NullCheck(L_14);
-		Transform_set_position_m5_786(L_14, L_15, /*hidden argument*/NULL);
+		Transform_set_position_m5_784(L_14, L_15, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void ScoreShadow::Update()
-extern const MethodInfo* Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisGUIText_t5_170_m5_1905_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisGUIText_t5_170_m5_1903_MethodInfo_var;
 extern "C" void ScoreShadow_Update_m7_184 (ScoreShadow_t7_44 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484066);
-		GameObject_GetComponent_TisGUIText_t5_170_m5_1905_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484067);
+		Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484066);
+		GameObject_GetComponent_TisGUIText_t5_170_m5_1903_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484067);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GUIText_t5_170 * L_0 = Component_GetComponent_TisGUIText_t5_170_m5_1904(__this, /*hidden argument*/Component_GetComponent_TisGUIText_t5_170_m5_1904_MethodInfo_var);
+		GUIText_t5_170 * L_0 = Component_GetComponent_TisGUIText_t5_170_m5_1902(__this, /*hidden argument*/Component_GetComponent_TisGUIText_t5_170_m5_1902_MethodInfo_var);
 		GameObject_t5_101 * L_1 = (__this->___guiCopy_2);
 		NullCheck(L_1);
-		GUIText_t5_170 * L_2 = GameObject_GetComponent_TisGUIText_t5_170_m5_1905(L_1, /*hidden argument*/GameObject_GetComponent_TisGUIText_t5_170_m5_1905_MethodInfo_var);
+		GUIText_t5_170 * L_2 = GameObject_GetComponent_TisGUIText_t5_170_m5_1903(L_1, /*hidden argument*/GameObject_GetComponent_TisGUIText_t5_170_m5_1903_MethodInfo_var);
 		NullCheck(L_2);
-		String_t* L_3 = GUIText_get_text_m5_1183(L_2, /*hidden argument*/NULL);
+		String_t* L_3 = GUIText_get_text_m5_1181(L_2, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		GUIText_set_text_m5_1184(L_0, L_3, /*hidden argument*/NULL);
+		GUIText_set_text_m5_1182(L_0, L_3, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -6770,8 +6788,8 @@ extern "C" void ScrollDetailTexture__ctor_m7_185 (ScrollDetailTexture_t7_45 * __
 // System.Void ScrollDetailTexture::OnEnable()
 extern TypeInfo* Material_t5_77_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2803;
+extern const MethodInfo* Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2804;
 extern "C" void ScrollDetailTexture_OnEnable_m7_186 (ScrollDetailTexture_t7_45 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -6779,12 +6797,12 @@ extern "C" void ScrollDetailTexture_OnEnable_m7_186 (ScrollDetailTexture_t7_45 *
 	{
 		Material_t5_77_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1152);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
-		_stringLiteral2803 = il2cpp_codegen_string_literal_from_index(2803);
+		Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483962);
+		_stringLiteral2804 = il2cpp_codegen_string_literal_from_index(2804);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Image_t6_65 * L_0 = Component_GetComponent_TisImage_t6_65_m5_1866(__this, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1866_MethodInfo_var);
+		Image_t6_65 * L_0 = Component_GetComponent_TisImage_t6_65_m5_1864(__this, /*hidden argument*/Component_GetComponent_TisImage_t6_65_m5_1864_MethodInfo_var);
 		__this->___mSprite_7 = L_0;
 		Image_t6_65 * L_1 = (__this->___mSprite_7);
 		NullCheck(L_1);
@@ -6800,7 +6818,7 @@ extern "C" void ScrollDetailTexture_OnEnable_m7_186 (ScrollDetailTexture_t7_45 *
 		Image_t6_65 * L_4 = (__this->___mSprite_7);
 		NullCheck(L_4);
 		Material_t5_77 * L_5 = (Material_t5_77 *)VirtFuncInvoker0< Material_t5_77 * >::Invoke(26 /* UnityEngine.Material UnityEngine.UI.Graphic::get_material() */, L_4);
-		bool L_6 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_6 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_5, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_6)
 		{
 			goto IL_008d;
@@ -6814,14 +6832,14 @@ extern "C" void ScrollDetailTexture_OnEnable_m7_186 (ScrollDetailTexture_t7_45 *
 		Material_t5_77 * L_9 = (__this->___mCopy_5);
 		Material_t5_77 * L_10 = (__this->___mOriginal_6);
 		NullCheck(L_10);
-		String_t* L_11 = Object_get_name_m5_698(L_10, /*hidden argument*/NULL);
+		String_t* L_11 = Object_get_name_m5_696(L_10, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_12 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2803, L_11, /*hidden argument*/NULL);
+		String_t* L_12 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2804, L_11, /*hidden argument*/NULL);
 		NullCheck(L_9);
-		Object_set_name_m5_699(L_9, L_12, /*hidden argument*/NULL);
+		Object_set_name_m5_697(L_9, L_12, /*hidden argument*/NULL);
 		Material_t5_77 * L_13 = (__this->___mCopy_5);
 		NullCheck(L_13);
-		Object_set_hideFlags_m5_702(L_13, ((int32_t)52), /*hidden argument*/NULL);
+		Object_set_hideFlags_m5_700(L_13, ((int32_t)52), /*hidden argument*/NULL);
 		Image_t6_65 * L_14 = (__this->___mSprite_7);
 		Material_t5_77 * L_15 = (__this->___mCopy_5);
 		NullCheck(L_14);
@@ -6838,7 +6856,7 @@ extern "C" void ScrollDetailTexture_OnDisable_m7_187 (ScrollDetailTexture_t7_45 
 {
 	{
 		Material_t5_77 * L_0 = (__this->___mCopy_5);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_004e;
@@ -6857,14 +6875,14 @@ extern "C" void ScrollDetailTexture_OnDisable_m7_187 (ScrollDetailTexture_t7_45 
 	}
 	{
 		Material_t5_77 * L_5 = (__this->___mCopy_5);
-		Object_DestroyImmediate_m5_696(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
+		Object_DestroyImmediate_m5_694(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		goto IL_0047;
 	}
 
 IL_003c:
 	{
 		Material_t5_77 * L_6 = (__this->___mCopy_5);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 	}
 
 IL_0047:
@@ -6879,13 +6897,13 @@ IL_004e:
 	}
 }
 // System.Void ScrollDetailTexture::Update()
-extern Il2CppCodeGenString* _stringLiteral2804;
+extern Il2CppCodeGenString* _stringLiteral2805;
 extern "C" void ScrollDetailTexture_Update_m7_188 (ScrollDetailTexture_t7_45 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		_stringLiteral2804 = il2cpp_codegen_string_literal_from_index(2804);
+		_stringLiteral2805 = il2cpp_codegen_string_literal_from_index(2805);
 		s_Il2CppMethodIntialized = true;
 	}
 	Material_t5_77 * V_0 = {0};
@@ -6893,7 +6911,7 @@ extern "C" void ScrollDetailTexture_Update_m7_188 (ScrollDetailTexture_t7_45 * _
 	Material_t5_77 * G_B3_0 = {0};
 	{
 		Material_t5_77 * L_0 = (__this->___mCopy_5);
-		bool L_1 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_1)
 		{
 			goto IL_001c;
@@ -6915,7 +6933,7 @@ IL_0022:
 	{
 		V_0 = G_B3_0;
 		Material_t5_77 * L_4 = V_0;
-		bool L_5 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_5 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_4, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_5)
 		{
 			goto IL_0062;
@@ -6924,10 +6942,10 @@ IL_0022:
 	{
 		Material_t5_77 * L_6 = V_0;
 		NullCheck(L_6);
-		Texture_t5_33 * L_7 = Material_GetTexture_m5_527(L_6, _stringLiteral2804, /*hidden argument*/NULL);
+		Texture_t5_33 * L_7 = Material_GetTexture_m5_527(L_6, _stringLiteral2805, /*hidden argument*/NULL);
 		V_1 = L_7;
 		Texture_t5_33 * L_8 = V_1;
-		bool L_9 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_9 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_8, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_9)
 		{
 			goto IL_0062;
@@ -6936,10 +6954,10 @@ IL_0022:
 	{
 		Material_t5_77 * L_10 = V_0;
 		Vector2_t5_44  L_11 = (__this->___scrollPerSecond_3);
-		float L_12 = Time_get_time_m5_832(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_12 = Time_get_time_m5_830(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector2_t5_44  L_13 = Vector2_op_Multiply_m5_210(NULL /*static, unused*/, L_11, L_12, /*hidden argument*/NULL);
 		NullCheck(L_10);
-		Material_SetTextureOffset_m5_529(L_10, _stringLiteral2804, L_13, /*hidden argument*/NULL);
+		Material_SetTextureOffset_m5_529(L_10, _stringLiteral2805, L_13, /*hidden argument*/NULL);
 	}
 
 IL_0062:
@@ -6956,21 +6974,21 @@ extern "C" void SetParticleSortingLayer__ctor_m7_189 (SetParticleSortingLayer_t7
 	}
 }
 // System.Void SetParticleSortingLayer::Start()
-extern const MethodInfo* Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var;
-extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var;
 extern "C" void SetParticleSortingLayer_Start_m7_190 (SetParticleSortingLayer_t7_46 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484035);
-		Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
+		Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484035);
+		Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484032);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		ParticleSystem_t5_123 * L_0 = Component_GetComponent_TisParticleSystem_t5_123_m5_1876(__this, /*hidden argument*/Component_GetComponent_TisParticleSystem_t5_123_m5_1876_MethodInfo_var);
+		ParticleSystem_t5_123 * L_0 = Component_GetComponent_TisParticleSystem_t5_123_m5_1874(__this, /*hidden argument*/Component_GetComponent_TisParticleSystem_t5_123_m5_1874_MethodInfo_var);
 		NullCheck(L_0);
-		Renderer_t5_24 * L_1 = Component_GetComponent_TisRenderer_t5_24_m5_1873(L_0, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1873_MethodInfo_var);
+		Renderer_t5_24 * L_1 = Component_GetComponent_TisRenderer_t5_24_m5_1871(L_0, /*hidden argument*/Component_GetComponent_TisRenderer_t5_24_m5_1871_MethodInfo_var);
 		String_t* L_2 = (__this->___sortingLayerName_2);
 		NullCheck(L_1);
 		Renderer_set_sortingLayerName_m5_124(L_1, L_2, /*hidden argument*/NULL);
@@ -6989,7 +7007,7 @@ extern "C" void ShowSliderValue__ctor_m7_191 (ShowSliderValue_t7_47 * __this, co
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern const MethodInfo* Component_GetComponent_TisText_t6_64_m5_1906_MethodInfo_var;
+extern const MethodInfo* Component_GetComponent_TisText_t6_64_m5_1904_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral692;
 extern "C" void ShowSliderValue_UpdateLabel_m7_192 (ShowSliderValue_t7_47 * __this, float ___value, const MethodInfo* method)
 {
@@ -6999,16 +7017,16 @@ extern "C" void ShowSliderValue_UpdateLabel_m7_192 (ShowSliderValue_t7_47 * __th
 		Mathf_t5_55_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(856);
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Component_GetComponent_TisText_t6_64_m5_1906_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484068);
+		Component_GetComponent_TisText_t6_64_m5_1904_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484068);
 		_stringLiteral692 = il2cpp_codegen_string_literal_from_index(692);
 		s_Il2CppMethodIntialized = true;
 	}
 	Text_t6_64 * V_0 = {0};
 	{
-		Text_t6_64 * L_0 = Component_GetComponent_TisText_t6_64_m5_1906(__this, /*hidden argument*/Component_GetComponent_TisText_t6_64_m5_1906_MethodInfo_var);
+		Text_t6_64 * L_0 = Component_GetComponent_TisText_t6_64_m5_1904(__this, /*hidden argument*/Component_GetComponent_TisText_t6_64_m5_1904_MethodInfo_var);
 		V_0 = L_0;
 		Text_t6_64 * L_1 = V_0;
-		bool L_2 = Object_op_Inequality_m5_721(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Inequality_m5_719(NULL /*static, unused*/, L_1, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		if (!L_2)
 		{
 			goto IL_0034;
@@ -7043,30 +7061,30 @@ extern "C" void Spawner__ctor_m7_193 (Spawner_t7_48 * __this, const MethodInfo* 
 	}
 }
 // System.Void Spawner::Start()
-extern Il2CppCodeGenString* _stringLiteral2773;
+extern Il2CppCodeGenString* _stringLiteral2774;
 extern "C" void Spawner_Start_m7_194 (Spawner_t7_48 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		_stringLiteral2773 = il2cpp_codegen_string_literal_from_index(2773);
+		_stringLiteral2774 = il2cpp_codegen_string_literal_from_index(2774);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		float L_0 = (__this->___spawnDelay_3);
 		float L_1 = (__this->___spawnTime_2);
-		MonoBehaviour_InvokeRepeating_m5_645(__this, _stringLiteral2773, L_0, L_1, /*hidden argument*/NULL);
+		MonoBehaviour_InvokeRepeating_m5_645(__this, _stringLiteral2774, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void Spawner::Spawn()
-extern const MethodInfo* Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1907_MethodInfo_var;
+extern const MethodInfo* Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1905_MethodInfo_var;
 extern "C" void Spawner_Spawn_m7_195 (Spawner_t7_48 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1907_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484069);
+		Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1905_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484069);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -7076,21 +7094,21 @@ extern "C" void Spawner_Spawn_m7_195 (Spawner_t7_48 * __this, const MethodInfo* 
 	{
 		GameObjectU5BU5D_t5_327* L_0 = (__this->___enemies_4);
 		NullCheck(L_0);
-		int32_t L_1 = Random_Range_m5_841(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length)))), /*hidden argument*/NULL);
+		int32_t L_1 = Random_Range_m5_839(NULL /*static, unused*/, 0, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length)))), /*hidden argument*/NULL);
 		V_0 = L_1;
 		GameObjectU5BU5D_t5_327* L_2 = (__this->___enemies_4);
 		int32_t L_3 = V_0;
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, L_3);
 		int32_t L_4 = L_3;
-		Transform_t5_71 * L_5 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_5 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_5);
-		Vector3_t5_45  L_6 = Transform_get_position_m5_785(L_5, /*hidden argument*/NULL);
-		Transform_t5_71 * L_7 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_get_position_m5_783(L_5, /*hidden argument*/NULL);
+		Transform_t5_71 * L_7 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		NullCheck(L_7);
-		Quaternion_t5_47  L_8 = Transform_get_rotation_m5_794(L_7, /*hidden argument*/NULL);
-		Object_Instantiate_m5_715(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_2, L_4, sizeof(GameObject_t5_101 *))), L_6, L_8, /*hidden argument*/NULL);
-		ParticleSystemU5BU5D_t5_329* L_9 = Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1907(__this, /*hidden argument*/Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1907_MethodInfo_var);
+		Quaternion_t5_47  L_8 = Transform_get_rotation_m5_792(L_7, /*hidden argument*/NULL);
+		Object_Instantiate_m5_713(NULL /*static, unused*/, (*(GameObject_t5_101 **)(GameObject_t5_101 **)SZArrayLdElema(L_2, L_4, sizeof(GameObject_t5_101 *))), L_6, L_8, /*hidden argument*/NULL);
+		ParticleSystemU5BU5D_t5_329* L_9 = Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1905(__this, /*hidden argument*/Component_GetComponentsInChildren_TisParticleSystem_t5_123_m5_1905_MethodInfo_var);
 		V_2 = L_9;
 		V_3 = 0;
 		goto IL_004f;
@@ -7106,7 +7124,7 @@ IL_0041:
 		V_1 = (*(ParticleSystem_t5_123 **)(ParticleSystem_t5_123 **)SZArrayLdElema(L_10, L_12, sizeof(ParticleSystem_t5_123 *)));
 		ParticleSystem_t5_123 * L_13 = V_1;
 		NullCheck(L_13);
-		ParticleSystem_Play_m5_976(L_13, /*hidden argument*/NULL);
+		ParticleSystem_Play_m5_974(L_13, /*hidden argument*/NULL);
 		int32_t L_14 = V_3;
 		V_3 = ((int32_t)((int32_t)L_14+(int32_t)1));
 	}
@@ -7142,11 +7160,11 @@ extern "C" void TiltWindow__ctor_m7_196 (TiltWindow_t7_49 * __this, const Method
 extern "C" void TiltWindow_Start_m7_197 (TiltWindow_t7_49 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Component_get_transform_m5_721(__this, /*hidden argument*/NULL);
 		__this->___mTrans_3 = L_0;
 		Transform_t5_71 * L_1 = (__this->___mTrans_3);
 		NullCheck(L_1);
-		Quaternion_t5_47  L_2 = Transform_get_localRotation_m5_798(L_1, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_2 = Transform_get_localRotation_m5_796(L_1, /*hidden argument*/NULL);
 		__this->___mStart_4 = L_2;
 		return;
 	}
@@ -7192,7 +7210,7 @@ extern "C" void TiltWindow_Update_m7_198 (TiltWindow_t7_49 * __this, const Metho
 		float L_13 = V_4;
 		Vector2_t5_44  L_14 = {0};
 		Vector2__ctor_m5_193(&L_14, L_12, L_13, /*hidden argument*/NULL);
-		float L_15 = Time_get_deltaTime_m5_833(NULL /*static, unused*/, /*hidden argument*/NULL);
+		float L_15 = Time_get_deltaTime_m5_831(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector2_t5_44  L_16 = Vector2_Lerp_m5_196(NULL /*static, unused*/, L_11, L_14, ((float)((float)L_15*(float)(5.0f))), /*hidden argument*/NULL);
 		__this->___mRot_5 = L_16;
 		Transform_t5_71 * L_17 = (__this->___mTrans_3);
@@ -7208,7 +7226,7 @@ extern "C" void TiltWindow_Update_m7_198 (TiltWindow_t7_49 * __this, const Metho
 		Quaternion_t5_47  L_27 = Quaternion_Euler_m5_257(NULL /*static, unused*/, ((float)((float)((-L_20))*(float)L_22)), ((float)((float)L_24*(float)L_26)), (0.0f), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_28 = Quaternion_op_Multiply_m5_263(NULL /*static, unused*/, L_18, L_27, /*hidden argument*/NULL);
 		NullCheck(L_17);
-		Transform_set_localRotation_m5_799(L_17, L_28, /*hidden argument*/NULL);
+		Transform_set_localRotation_m5_797(L_17, L_28, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -7226,8 +7244,8 @@ extern "C" void TriggerDestroy_OnTriggerEnter_m7_200 (TriggerDestroy_t7_50 * __t
 	{
 		Collider_t5_127 * L_0 = ___other;
 		NullCheck(L_0);
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(L_0, /*hidden argument*/NULL);
-		Object_Destroy_m5_694(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(L_0, /*hidden argument*/NULL);
+		Object_Destroy_m5_692(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -7257,20 +7275,20 @@ extern "C" void WordManager__ctor_m7_201 (WordManager_t7_51 * __this, const Meth
 	}
 }
 // System.Void WordManager::Start()
-extern const MethodInfo* GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var;
 extern "C" void WordManager_Start_m7_202 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484037);
+		GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484037);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_722(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		AudioSource_t5_148 * L_1 = GameObject_GetComponent_TisAudioSource_t5_148_m5_1878(L_0, /*hidden argument*/GameObject_GetComponent_TisAudioSource_t5_148_m5_1878_MethodInfo_var);
-		__this->___audio_16 = L_1;
+		AudioSource_t5_148 * L_1 = GameObject_GetComponent_TisAudioSource_t5_148_m5_1876(L_0, /*hidden argument*/GameObject_GetComponent_TisAudioSource_t5_148_m5_1876_MethodInfo_var);
+		__this->___audio_17 = L_1;
 		WordManager_SetCountText_m7_205(__this, /*hidden argument*/NULL);
 		WordManager_SetWordText_m7_207(__this, /*hidden argument*/NULL);
 		WordManager_SetScoreText_m7_206(__this, /*hidden argument*/NULL);
@@ -7279,7 +7297,7 @@ extern "C" void WordManager_Start_m7_202 (WordManager_t7_51 * __this, const Meth
 		StringU5BU5D_t1_198* L_3 = (__this->___matchingWords_2);
 		StringU5BU5D_t1_198* L_4 = (__this->___matchingWords_2);
 		NullCheck(L_4);
-		float L_5 = Random_Range_m5_840(NULL /*static, unused*/, (0.0f), (((float)((float)(((int32_t)((int32_t)(((Array_t *)L_4)->max_length))))))), /*hidden argument*/NULL);
+		float L_5 = Random_Range_m5_838(NULL /*static, unused*/, (0.0f), (((float)((float)(((int32_t)((int32_t)(((Array_t *)L_4)->max_length))))))), /*hidden argument*/NULL);
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, (((int32_t)((int32_t)L_5))));
 		int32_t L_6 = (((int32_t)((int32_t)L_5)));
@@ -7289,34 +7307,52 @@ extern "C" void WordManager_Start_m7_202 (WordManager_t7_51 * __this, const Meth
 }
 // System.Void WordManager::nextLevel()
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
+extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2806;
 extern "C" void WordManager_nextLevel_m7_203 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
+		GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
+		_stringLiteral2806 = il2cpp_codegen_string_literal_from_index(2806);
 		s_Il2CppMethodIntialized = true;
 	}
+	Animator_t5_156 * V_0 = {0};
 	{
-		int32_t L_0 = (__this->___wordCount_9);
-		__this->___wordCount_9 = ((int32_t)((int32_t)L_0+(int32_t)1));
-		int32_t L_1 = (__this->___wordLength_7);
-		__this->___wordLength_7 = ((int32_t)((int32_t)L_1+(int32_t)1));
+		Text_t6_64 * L_0 = (__this->___finalWord_15);
+		String_t* L_1 = (__this->___wordCurrent_10);
+		NullCheck(L_0);
+		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_0, L_1);
+		Text_t6_64 * L_2 = (__this->___finalWord_15);
+		NullCheck(L_2);
+		GameObject_t5_101 * L_3 = Component_get_gameObject_m5_722(L_2, /*hidden argument*/NULL);
+		NullCheck(L_3);
+		Animator_t5_156 * L_4 = GameObject_GetComponent_TisAnimator_t5_156_m5_1891(L_3, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var);
+		V_0 = L_4;
+		Animator_t5_156 * L_5 = V_0;
+		NullCheck(L_5);
+		Animator_Play_m5_1135(L_5, _stringLiteral2806, /*hidden argument*/NULL);
+		int32_t L_6 = (__this->___wordCount_9);
+		__this->___wordCount_9 = ((int32_t)((int32_t)L_6+(int32_t)1));
+		int32_t L_7 = (__this->___wordLength_7);
+		__this->___wordLength_7 = ((int32_t)((int32_t)L_7+(int32_t)1));
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_2 = ((String_t_StaticFields*)String_t_il2cpp_TypeInfo_var->static_fields)->___Empty_2;
-		__this->___wordCurrent_10 = L_2;
+		String_t* L_8 = ((String_t_StaticFields*)String_t_il2cpp_TypeInfo_var->static_fields)->___Empty_2;
+		__this->___wordCurrent_10 = L_8;
 		__this->___nextLetterIndex_4 = 0;
 		__this->___lettersGotten_8 = 0;
-		int32_t L_3 = (__this->___wordLength_7);
-		WordManager_setPossibleWords_m7_212(__this, L_3, /*hidden argument*/NULL);
-		StringU5BU5D_t1_198* L_4 = (__this->___matchingWords_2);
-		StringU5BU5D_t1_198* L_5 = (__this->___matchingWords_2);
-		NullCheck(L_5);
-		float L_6 = Random_Range_m5_840(NULL /*static, unused*/, (0.0f), (((float)((float)(((int32_t)((int32_t)(((Array_t *)L_5)->max_length))))))), /*hidden argument*/NULL);
-		NullCheck(L_4);
-		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, (((int32_t)((int32_t)L_6))));
-		int32_t L_7 = (((int32_t)((int32_t)L_6)));
-		__this->___wordFinal_3 = (*(String_t**)(String_t**)SZArrayLdElema(L_4, L_7, sizeof(String_t*)));
+		int32_t L_9 = (__this->___wordLength_7);
+		WordManager_setPossibleWords_m7_212(__this, L_9, /*hidden argument*/NULL);
+		StringU5BU5D_t1_198* L_10 = (__this->___matchingWords_2);
+		StringU5BU5D_t1_198* L_11 = (__this->___matchingWords_2);
+		NullCheck(L_11);
+		float L_12 = Random_Range_m5_838(NULL /*static, unused*/, (0.0f), (((float)((float)(((int32_t)((int32_t)(((Array_t *)L_11)->max_length))))))), /*hidden argument*/NULL);
+		NullCheck(L_10);
+		IL2CPP_ARRAY_BOUNDS_CHECK(L_10, (((int32_t)((int32_t)L_12))));
+		int32_t L_13 = (((int32_t)((int32_t)L_12)));
+		__this->___wordFinal_3 = (*(String_t**)(String_t**)SZArrayLdElema(L_10, L_13, sizeof(String_t*)));
 		WordManager_SetCountText_m7_205(__this, /*hidden argument*/NULL);
 		WordManager_SetScoreText_m7_206(__this, /*hidden argument*/NULL);
 		WordManager_SetWordText_m7_207(__this, /*hidden argument*/NULL);
@@ -7336,14 +7372,14 @@ extern "C" uint16_t WordManager_getNextLetter_m7_204 (WordManager_t7_51 * __this
 }
 // System.Void WordManager::SetCountText()
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2805;
+extern Il2CppCodeGenString* _stringLiteral2807;
 extern "C" void WordManager_SetCountText_m7_205 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		_stringLiteral2805 = il2cpp_codegen_string_literal_from_index(2805);
+		_stringLiteral2807 = il2cpp_codegen_string_literal_from_index(2807);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -7351,7 +7387,7 @@ extern "C" void WordManager_SetCountText_m7_205 (WordManager_t7_51 * __this, con
 		int32_t* L_1 = &(__this->___lifeCount_5);
 		String_t* L_2 = Int32_ToString_m1_63(L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_3 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2805, L_2, /*hidden argument*/NULL);
+		String_t* L_3 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2807, L_2, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_0, L_3);
 		return;
@@ -7360,7 +7396,7 @@ extern "C" void WordManager_SetCountText_m7_205 (WordManager_t7_51 * __this, con
 // System.Void WordManager::SetScoreText()
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2802;
+extern Il2CppCodeGenString* _stringLiteral2803;
 extern "C" void WordManager_SetScoreText_m7_206 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -7368,7 +7404,7 @@ extern "C" void WordManager_SetScoreText_m7_206 (WordManager_t7_51 * __this, con
 	{
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		_stringLiteral2802 = il2cpp_codegen_string_literal_from_index(2802);
+		_stringLiteral2803 = il2cpp_codegen_string_literal_from_index(2803);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -7377,7 +7413,7 @@ extern "C" void WordManager_SetScoreText_m7_206 (WordManager_t7_51 * __this, con
 		int32_t L_2 = L_1;
 		Object_t * L_3 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_2);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_4 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2802, L_3, /*hidden argument*/NULL);
+		String_t* L_4 = String_Concat_m1_418(NULL /*static, unused*/, _stringLiteral2803, L_3, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_0, L_4);
 		return;
@@ -7385,20 +7421,16 @@ extern "C" void WordManager_SetScoreText_m7_206 (WordManager_t7_51 * __this, con
 }
 // System.Void WordManager::SetWordText()
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2806;
-extern Il2CppCodeGenString* _stringLiteral2807;
+extern Il2CppCodeGenString* _stringLiteral2808;
+extern Il2CppCodeGenString* _stringLiteral2809;
 extern "C" void WordManager_SetWordText_m7_207 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
-		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		_stringLiteral2806 = il2cpp_codegen_string_literal_from_index(2806);
-		_stringLiteral2807 = il2cpp_codegen_string_literal_from_index(2807);
+		_stringLiteral2808 = il2cpp_codegen_string_literal_from_index(2808);
+		_stringLiteral2809 = il2cpp_codegen_string_literal_from_index(2809);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -7406,49 +7438,38 @@ extern "C" void WordManager_SetWordText_m7_207 (WordManager_t7_51 * __this, cons
 		Text_t6_64 * L_0 = (__this->___wordCurrentText_11);
 		String_t* L_1 = (__this->___wordCurrent_10);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_2 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2806, L_1, /*hidden argument*/NULL);
+		String_t* L_2 = String_Concat_m1_420(NULL /*static, unused*/, _stringLiteral2808, L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_0, L_2);
-		int32_t L_3 = (__this->___wordLength_7);
-		int32_t L_4 = (__this->___lettersGotten_8);
-		int32_t L_5 = ((int32_t)((int32_t)L_3-(int32_t)L_4));
-		Object_t * L_6 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_5);
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 		V_0 = 0;
-		goto IL_0058;
+		goto IL_0041;
 	}
 
-IL_0039:
+IL_0022:
 	{
-		Text_t6_64 * L_7 = (__this->___wordCurrentText_11);
-		Text_t6_64 * L_8 = L_7;
-		NullCheck(L_8);
-		String_t* L_9 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(64 /* System.String UnityEngine.UI.Text::get_text() */, L_8);
+		Text_t6_64 * L_3 = (__this->___wordCurrentText_11);
+		Text_t6_64 * L_4 = L_3;
+		NullCheck(L_4);
+		String_t* L_5 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(64 /* System.String UnityEngine.UI.Text::get_text() */, L_4);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_10 = String_Concat_m1_420(NULL /*static, unused*/, L_9, _stringLiteral2807, /*hidden argument*/NULL);
-		NullCheck(L_8);
-		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_8, L_10);
-		int32_t L_11 = V_0;
-		V_0 = ((int32_t)((int32_t)L_11+(int32_t)1));
+		String_t* L_6 = String_Concat_m1_420(NULL /*static, unused*/, L_5, _stringLiteral2809, /*hidden argument*/NULL);
+		NullCheck(L_4);
+		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_4, L_6);
+		int32_t L_7 = V_0;
+		V_0 = ((int32_t)((int32_t)L_7+(int32_t)1));
 	}
 
-IL_0058:
+IL_0041:
 	{
-		int32_t L_12 = V_0;
-		int32_t L_13 = (__this->___wordLength_7);
-		int32_t L_14 = (__this->___lettersGotten_8);
-		if ((((int32_t)L_12) < ((int32_t)((int32_t)((int32_t)L_13-(int32_t)L_14)))))
+		int32_t L_8 = V_0;
+		int32_t L_9 = (__this->___wordLength_7);
+		int32_t L_10 = (__this->___lettersGotten_8);
+		if ((((int32_t)L_8) < ((int32_t)((int32_t)((int32_t)L_9-(int32_t)L_10)))))
 		{
-			goto IL_0039;
+			goto IL_0022;
 		}
 	}
 	{
-		Text_t6_64 * L_15 = (__this->___wordCurrentText_11);
-		NullCheck(L_15);
-		String_t* L_16 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(64 /* System.String UnityEngine.UI.Text::get_text() */, L_15);
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, L_16, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -7456,9 +7477,9 @@ IL_0058:
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2785;
-extern Il2CppCodeGenString* _stringLiteral2808;
+extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2786;
+extern Il2CppCodeGenString* _stringLiteral2810;
 extern Il2CppCodeGenString* _stringLiteral2772;
 extern "C" void WordManager_OnTriggerEnter_m7_208 (WordManager_t7_51 * __this, Collider_t5_127 * ___other, const MethodInfo* method)
 {
@@ -7468,9 +7489,9 @@ extern "C" void WordManager_OnTriggerEnter_m7_208 (WordManager_t7_51 * __this, C
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
-		_stringLiteral2785 = il2cpp_codegen_string_literal_from_index(2785);
-		_stringLiteral2808 = il2cpp_codegen_string_literal_from_index(2808);
+		GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
+		_stringLiteral2786 = il2cpp_codegen_string_literal_from_index(2786);
+		_stringLiteral2810 = il2cpp_codegen_string_literal_from_index(2810);
 		_stringLiteral2772 = il2cpp_codegen_string_literal_from_index(2772);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -7479,11 +7500,11 @@ extern "C" void WordManager_OnTriggerEnter_m7_208 (WordManager_t7_51 * __this, C
 	{
 		Collider_t5_127 * L_0 = ___other;
 		NullCheck(L_0);
-		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_724(L_0, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_1 = Component_get_gameObject_m5_722(L_0, /*hidden argument*/NULL);
 		NullCheck(L_1);
-		String_t* L_2 = GameObject_get_tag_m5_772(L_1, /*hidden argument*/NULL);
+		String_t* L_2 = GameObject_get_tag_m5_770(L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2785, /*hidden argument*/NULL);
+		bool L_3 = String_op_Equality_m1_456(NULL /*static, unused*/, L_2, _stringLiteral2786, /*hidden argument*/NULL);
 		if (!L_3)
 		{
 			goto IL_0062;
@@ -7494,20 +7515,20 @@ extern "C" void WordManager_OnTriggerEnter_m7_208 (WordManager_t7_51 * __this, C
 		__this->___lifeCount_5 = ((int32_t)((int32_t)L_4-(int32_t)1));
 		Collider_t5_127 * L_5 = ___other;
 		NullCheck(L_5);
-		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_724(L_5, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_6 = Component_get_gameObject_m5_722(L_5, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		Animator_t5_156 * L_7 = GameObject_GetComponent_TisAnimator_t5_156_m5_1893(L_6, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var);
+		Animator_t5_156 * L_7 = GameObject_GetComponent_TisAnimator_t5_156_m5_1891(L_6, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var);
 		V_0 = L_7;
 		Animator_t5_156 * L_8 = V_0;
 		NullCheck(L_8);
 		Behaviour_set_enabled_m5_583(L_8, 1, /*hidden argument*/NULL);
 		Animator_t5_156 * L_9 = V_0;
 		NullCheck(L_9);
-		Animator_Play_m5_1137(L_9, _stringLiteral2808, /*hidden argument*/NULL);
-		AudioSource_t5_148 * L_10 = (__this->___audio_16);
-		AudioClip_t5_147 * L_11 = (__this->___obstacleSound_19);
+		Animator_Play_m5_1135(L_9, _stringLiteral2810, /*hidden argument*/NULL);
+		AudioSource_t5_148 * L_10 = (__this->___audio_17);
+		AudioClip_t5_147 * L_11 = (__this->___obstacleSound_20);
 		NullCheck(L_10);
-		AudioSource_PlayOneShot_m5_1083(L_10, L_11, /*hidden argument*/NULL);
+		AudioSource_PlayOneShot_m5_1081(L_10, L_11, /*hidden argument*/NULL);
 		WordManager_SetCountText_m7_205(__this, /*hidden argument*/NULL);
 		goto IL_0095;
 	}
@@ -7516,9 +7537,9 @@ IL_0062:
 	{
 		Collider_t5_127 * L_12 = ___other;
 		NullCheck(L_12);
-		GameObject_t5_101 * L_13 = Component_get_gameObject_m5_724(L_12, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_13 = Component_get_gameObject_m5_722(L_12, /*hidden argument*/NULL);
 		NullCheck(L_13);
-		String_t* L_14 = GameObject_get_tag_m5_772(L_13, /*hidden argument*/NULL);
+		String_t* L_14 = GameObject_get_tag_m5_770(L_13, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		bool L_15 = String_op_Equality_m1_456(NULL /*static, unused*/, L_14, _stringLiteral2772, /*hidden argument*/NULL);
 		if (!L_15)
@@ -7529,14 +7550,14 @@ IL_0062:
 	{
 		Collider_t5_127 * L_16 = ___other;
 		NullCheck(L_16);
-		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_724(L_16, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_17 = Component_get_gameObject_m5_722(L_16, /*hidden argument*/NULL);
 		NullCheck(L_17);
-		String_t* L_18 = Object_get_name_m5_698(L_17, /*hidden argument*/NULL);
+		String_t* L_18 = Object_get_name_m5_696(L_17, /*hidden argument*/NULL);
 		V_1 = L_18;
 		String_t* L_19 = V_1;
 		Collider_t5_127 * L_20 = ___other;
 		NullCheck(L_20);
-		GameObject_t5_101 * L_21 = Component_get_gameObject_m5_724(L_20, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_21 = Component_get_gameObject_m5_722(L_20, /*hidden argument*/NULL);
 		WordManager_LetterHandler_m7_211(__this, L_19, L_21, /*hidden argument*/NULL);
 	}
 
@@ -7566,9 +7587,9 @@ IL_00b7:
 extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern TypeInfo* Int32_t1_3_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2809;
-extern Il2CppCodeGenString* _stringLiteral2810;
 extern Il2CppCodeGenString* _stringLiteral2811;
+extern Il2CppCodeGenString* _stringLiteral2812;
+extern Il2CppCodeGenString* _stringLiteral2813;
 extern "C" void WordManager_OnDeath_m7_209 (WordManager_t7_51 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -7577,24 +7598,24 @@ extern "C" void WordManager_OnDeath_m7_209 (WordManager_t7_51 * __this, const Me
 		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		Int32_t1_3_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(8);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		_stringLiteral2809 = il2cpp_codegen_string_literal_from_index(2809);
-		_stringLiteral2810 = il2cpp_codegen_string_literal_from_index(2810);
 		_stringLiteral2811 = il2cpp_codegen_string_literal_from_index(2811);
+		_stringLiteral2812 = il2cpp_codegen_string_literal_from_index(2812);
+		_stringLiteral2813 = il2cpp_codegen_string_literal_from_index(2813);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Time_set_timeScale_m5_837(NULL /*static, unused*/, (0.0f), /*hidden argument*/NULL);
+		Time_set_timeScale_m5_835(NULL /*static, unused*/, (0.0f), /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2809, /*hidden argument*/NULL);
-		GameObject_t5_101 * L_0 = (__this->___EndScreen_15);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2811, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = (__this->___EndScreen_16);
 		NullCheck(L_0);
-		GameObject_SetActive_m5_769(L_0, 1, /*hidden argument*/NULL);
+		GameObject_SetActive_m5_767(L_0, 1, /*hidden argument*/NULL);
 		Text_t6_64 * L_1 = (__this->___endScore_14);
 		int32_t L_2 = (__this->___wordCount_9);
 		int32_t L_3 = L_2;
 		Object_t * L_4 = Box(Int32_t1_3_il2cpp_TypeInfo_var, &L_3);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_5 = String_Concat_m1_419(NULL /*static, unused*/, _stringLiteral2810, L_4, _stringLiteral2811, /*hidden argument*/NULL);
+		String_t* L_5 = String_Concat_m1_419(NULL /*static, unused*/, _stringLiteral2812, L_4, _stringLiteral2813, /*hidden argument*/NULL);
 		NullCheck(L_1);
 		VirtActionInvoker1< String_t* >::Invoke(65 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_1, L_5);
 		return;
@@ -7603,7 +7624,6 @@ extern "C" void WordManager_OnDeath_m7_209 (WordManager_t7_51 * __this, const Me
 // System.String WordManager::getNewLetters(System.Int32)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* Char_t1_15_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern "C" String_t* WordManager_getNewLetters_m7_210 (WordManager_t7_51 * __this, int32_t ___numLetters, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -7611,7 +7631,6 @@ extern "C" String_t* WordManager_getNewLetters_m7_210 (WordManager_t7_51 * __thi
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
 		Char_t1_15_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(9);
-		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		s_Il2CppMethodIntialized = true;
 	}
 	String_t* V_0 = {0};
@@ -7623,7 +7642,7 @@ extern "C" String_t* WordManager_getNewLetters_m7_210 (WordManager_t7_51 * __thi
 		V_0 = L_0;
 		V_1 = 0;
 		V_2 = 0;
-		goto IL_0065;
+		goto IL_0055;
 	}
 
 IL_000f:
@@ -7631,15 +7650,15 @@ IL_000f:
 		bool L_1 = V_1;
 		if (L_1)
 		{
-			goto IL_004b;
+			goto IL_003b;
 		}
 	}
 	{
 		int32_t L_2 = ___numLetters;
-		int32_t L_3 = Random_Range_m5_841(NULL /*static, unused*/, 0, L_2, /*hidden argument*/NULL);
+		int32_t L_3 = Random_Range_m5_839(NULL /*static, unused*/, 0, L_2, /*hidden argument*/NULL);
 		if ((!(((uint32_t)L_3) == ((uint32_t)1))))
 		{
-			goto IL_004b;
+			goto IL_003b;
 		}
 	}
 	{
@@ -7650,53 +7669,48 @@ IL_000f:
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_8 = String_Concat_m1_418(NULL /*static, unused*/, L_4, L_7, /*hidden argument*/NULL);
 		V_0 = L_8;
-		uint16_t L_9 = WordManager_getNextLetter_m7_204(__this, /*hidden argument*/NULL);
-		uint16_t L_10 = L_9;
-		Object_t * L_11 = Box(Char_t1_15_il2cpp_TypeInfo_var, &L_10);
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, L_11, /*hidden argument*/NULL);
 		V_1 = 1;
-		goto IL_0061;
+		goto IL_0051;
 	}
 
-IL_004b:
+IL_003b:
 	{
-		String_t* L_12 = V_0;
-		int32_t L_13 = Random_Range_m5_841(NULL /*static, unused*/, ((int32_t)65), ((int32_t)90), /*hidden argument*/NULL);
-		uint16_t L_14 = (((int32_t)((uint16_t)L_13)));
-		Object_t * L_15 = Box(Char_t1_15_il2cpp_TypeInfo_var, &L_14);
+		String_t* L_9 = V_0;
+		int32_t L_10 = Random_Range_m5_839(NULL /*static, unused*/, ((int32_t)65), ((int32_t)90), /*hidden argument*/NULL);
+		uint16_t L_11 = (((int32_t)((uint16_t)L_10)));
+		Object_t * L_12 = Box(Char_t1_15_il2cpp_TypeInfo_var, &L_11);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
-		String_t* L_16 = String_Concat_m1_418(NULL /*static, unused*/, L_12, L_15, /*hidden argument*/NULL);
-		V_0 = L_16;
+		String_t* L_13 = String_Concat_m1_418(NULL /*static, unused*/, L_9, L_12, /*hidden argument*/NULL);
+		V_0 = L_13;
 	}
 
-IL_0061:
+IL_0051:
 	{
-		int32_t L_17 = V_2;
-		V_2 = ((int32_t)((int32_t)L_17+(int32_t)1));
+		int32_t L_14 = V_2;
+		V_2 = ((int32_t)((int32_t)L_14+(int32_t)1));
 	}
 
-IL_0065:
+IL_0055:
 	{
-		int32_t L_18 = V_2;
-		int32_t L_19 = ___numLetters;
-		if ((((int32_t)L_18) < ((int32_t)L_19)))
+		int32_t L_15 = V_2;
+		int32_t L_16 = ___numLetters;
+		if ((((int32_t)L_15) < ((int32_t)L_16)))
 		{
 			goto IL_000f;
 		}
 	}
 	{
-		String_t* L_20 = V_0;
-		return L_20;
+		String_t* L_17 = V_0;
+		return L_17;
 	}
 }
 // System.Void WordManager::LetterHandler(System.String,UnityEngine.GameObject)
 extern TypeInfo* Char_t1_15_il2cpp_TypeInfo_var;
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
 extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
-extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2812;
-extern Il2CppCodeGenString* _stringLiteral2808;
+extern const MethodInfo* GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var;
+extern Il2CppCodeGenString* _stringLiteral2814;
+extern Il2CppCodeGenString* _stringLiteral2810;
 extern "C" void WordManager_LetterHandler_m7_211 (WordManager_t7_51 * __this, String_t* ___name, GameObject_t5_101 * ___go, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -7705,9 +7719,9 @@ extern "C" void WordManager_LetterHandler_m7_211 (WordManager_t7_51 * __this, St
 		Char_t1_15_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(9);
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
 		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
-		_stringLiteral2812 = il2cpp_codegen_string_literal_from_index(2812);
-		_stringLiteral2808 = il2cpp_codegen_string_literal_from_index(2808);
+		GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147484055);
+		_stringLiteral2814 = il2cpp_codegen_string_literal_from_index(2814);
+		_stringLiteral2810 = il2cpp_codegen_string_literal_from_index(2810);
 		s_Il2CppMethodIntialized = true;
 	}
 	uint16_t V_0 = 0x0;
@@ -7740,11 +7754,11 @@ extern "C" void WordManager_LetterHandler_m7_211 (WordManager_t7_51 * __this, St
 		int32_t L_12 = (__this->___lettersGotten_8);
 		__this->___lettersGotten_8 = ((int32_t)((int32_t)L_12+(int32_t)1));
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
-		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2812, /*hidden argument*/NULL);
-		AudioSource_t5_148 * L_13 = (__this->___audio_16);
-		AudioClip_t5_147 * L_14 = (__this->___pickup_17);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2814, /*hidden argument*/NULL);
+		AudioSource_t5_148 * L_13 = (__this->___audio_17);
+		AudioClip_t5_147 * L_14 = (__this->___pickup_18);
 		NullCheck(L_13);
-		AudioSource_PlayOneShot_m5_1083(L_13, L_14, /*hidden argument*/NULL);
+		AudioSource_PlayOneShot_m5_1081(L_13, L_14, /*hidden argument*/NULL);
 		WordManager_SetWordText_m7_207(__this, /*hidden argument*/NULL);
 		String_t* L_15 = (__this->___wordCurrent_10);
 		String_t* L_16 = (__this->___wordFinal_3);
@@ -7765,40 +7779,40 @@ IL_008f:
 
 IL_0094:
 	{
-		AudioSource_t5_148 * L_18 = (__this->___audio_16);
-		AudioClip_t5_147 * L_19 = (__this->___wrongLetter_18);
+		AudioSource_t5_148 * L_18 = (__this->___audio_17);
+		AudioClip_t5_147 * L_19 = (__this->___wrongLetter_19);
 		NullCheck(L_18);
-		AudioSource_PlayOneShot_m5_1083(L_18, L_19, /*hidden argument*/NULL);
+		AudioSource_PlayOneShot_m5_1081(L_18, L_19, /*hidden argument*/NULL);
 	}
 
 IL_00a5:
 	{
 		GameObject_t5_101 * L_20 = ___go;
 		NullCheck(L_20);
-		GameObject_t5_101 * L_21 = GameObject_get_gameObject_m5_780(L_20, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_21 = GameObject_get_gameObject_m5_778(L_20, /*hidden argument*/NULL);
 		NullCheck(L_21);
-		Animator_t5_156 * L_22 = GameObject_GetComponent_TisAnimator_t5_156_m5_1893(L_21, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1893_MethodInfo_var);
+		Animator_t5_156 * L_22 = GameObject_GetComponent_TisAnimator_t5_156_m5_1891(L_21, /*hidden argument*/GameObject_GetComponent_TisAnimator_t5_156_m5_1891_MethodInfo_var);
 		V_1 = L_22;
 		Animator_t5_156 * L_23 = V_1;
 		NullCheck(L_23);
 		Behaviour_set_enabled_m5_583(L_23, 1, /*hidden argument*/NULL);
 		Animator_t5_156 * L_24 = V_1;
 		NullCheck(L_24);
-		Animator_Play_m5_1137(L_24, _stringLiteral2808, /*hidden argument*/NULL);
+		Animator_Play_m5_1135(L_24, _stringLiteral2810, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void WordManager::setPossibleWords(System.Int32)
 extern TypeInfo* TextAsset_t5_74_il2cpp_TypeInfo_var;
 extern TypeInfo* CharU5BU5D_t1_16_il2cpp_TypeInfo_var;
-extern Il2CppCodeGenString* _stringLiteral2813;
-extern Il2CppCodeGenString* _stringLiteral2814;
 extern Il2CppCodeGenString* _stringLiteral2815;
 extern Il2CppCodeGenString* _stringLiteral2816;
 extern Il2CppCodeGenString* _stringLiteral2817;
 extern Il2CppCodeGenString* _stringLiteral2818;
 extern Il2CppCodeGenString* _stringLiteral2819;
 extern Il2CppCodeGenString* _stringLiteral2820;
+extern Il2CppCodeGenString* _stringLiteral2821;
+extern Il2CppCodeGenString* _stringLiteral2822;
 extern "C" void WordManager_setPossibleWords_m7_212 (WordManager_t7_51 * __this, int32_t ___wordCount, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -7806,14 +7820,14 @@ extern "C" void WordManager_setPossibleWords_m7_212 (WordManager_t7_51 * __this,
 	{
 		TextAsset_t5_74_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(1221);
 		CharU5BU5D_t1_16_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(12);
-		_stringLiteral2813 = il2cpp_codegen_string_literal_from_index(2813);
-		_stringLiteral2814 = il2cpp_codegen_string_literal_from_index(2814);
 		_stringLiteral2815 = il2cpp_codegen_string_literal_from_index(2815);
 		_stringLiteral2816 = il2cpp_codegen_string_literal_from_index(2816);
 		_stringLiteral2817 = il2cpp_codegen_string_literal_from_index(2817);
 		_stringLiteral2818 = il2cpp_codegen_string_literal_from_index(2818);
 		_stringLiteral2819 = il2cpp_codegen_string_literal_from_index(2819);
 		_stringLiteral2820 = il2cpp_codegen_string_literal_from_index(2820);
+		_stringLiteral2821 = il2cpp_codegen_string_literal_from_index(2821);
+		_stringLiteral2822 = il2cpp_codegen_string_literal_from_index(2822);
 		s_Il2CppMethodIntialized = true;
 	}
 	String_t* V_0 = {0};
@@ -7827,7 +7841,7 @@ extern "C" void WordManager_setPossibleWords_m7_212 (WordManager_t7_51 * __this,
 		}
 	}
 	{
-		V_0 = _stringLiteral2813;
+		V_0 = _stringLiteral2815;
 		goto IL_0085;
 	}
 
@@ -7840,7 +7854,7 @@ IL_0012:
 		}
 	}
 	{
-		V_0 = _stringLiteral2814;
+		V_0 = _stringLiteral2816;
 		goto IL_0085;
 	}
 
@@ -7853,7 +7867,7 @@ IL_0024:
 		}
 	}
 	{
-		V_0 = _stringLiteral2815;
+		V_0 = _stringLiteral2817;
 		goto IL_0085;
 	}
 
@@ -7866,7 +7880,7 @@ IL_0036:
 		}
 	}
 	{
-		V_0 = _stringLiteral2816;
+		V_0 = _stringLiteral2818;
 		goto IL_0085;
 	}
 
@@ -7879,7 +7893,7 @@ IL_0048:
 		}
 	}
 	{
-		V_0 = _stringLiteral2817;
+		V_0 = _stringLiteral2819;
 		goto IL_0085;
 	}
 
@@ -7892,7 +7906,7 @@ IL_005a:
 		}
 	}
 	{
-		V_0 = _stringLiteral2818;
+		V_0 = _stringLiteral2820;
 		goto IL_0085;
 	}
 
@@ -7905,13 +7919,13 @@ IL_006c:
 		}
 	}
 	{
-		V_0 = _stringLiteral2819;
+		V_0 = _stringLiteral2821;
 		goto IL_0085;
 	}
 
 IL_007f:
 	{
-		V_0 = _stringLiteral2820;
+		V_0 = _stringLiteral2822;
 	}
 
 IL_0085:

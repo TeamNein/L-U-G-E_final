@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Int32 UnityEngine.GUITargetAttribute::GetGUITargetAttrValue(System.Type,System.String)
-extern "C" int32_t GUITargetAttribute_GetGUITargetAttrValue_m5_1565 (Object_t * __this /* static, unused */, Type_t * ___klass, String_t* ___methodName, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t GUITargetAttribute_GetGUITargetAttrValue_m5_1563 (Object_t * __this /* static, unused */, Type_t * ___klass, String_t* ___methodName, const MethodInfo* method) IL2CPP_METHOD_ATTR;

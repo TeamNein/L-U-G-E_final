@@ -18,4 +18,4 @@ struct SelectionBaseAttribute_t5_257;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.SelectionBaseAttribute::.ctor()
-extern "C" void SelectionBaseAttribute__ctor_m5_1674 (SelectionBaseAttribute_t5_257 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SelectionBaseAttribute__ctor_m5_1672 (SelectionBaseAttribute_t5_257 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

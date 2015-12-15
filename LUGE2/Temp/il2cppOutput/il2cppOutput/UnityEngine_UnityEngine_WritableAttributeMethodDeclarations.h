@@ -18,4 +18,4 @@ struct WritableAttribute_t5_226;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.WritableAttribute::.ctor()
-extern "C" void WritableAttribute__ctor_m5_1595 (WritableAttribute_t5_226 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void WritableAttribute__ctor_m5_1593 (WritableAttribute_t5_226 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

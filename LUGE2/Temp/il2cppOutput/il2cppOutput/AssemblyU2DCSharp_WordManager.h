@@ -54,14 +54,16 @@ struct  WordManager_t7_51  : public MonoBehaviour_t5_93
 	Text_t6_64 * ___score_13;
 	// UnityEngine.UI.Text WordManager::endScore
 	Text_t6_64 * ___endScore_14;
+	// UnityEngine.UI.Text WordManager::finalWord
+	Text_t6_64 * ___finalWord_15;
 	// UnityEngine.GameObject WordManager::EndScreen
-	GameObject_t5_101 * ___EndScreen_15;
+	GameObject_t5_101 * ___EndScreen_16;
 	// UnityEngine.AudioSource WordManager::audio
-	AudioSource_t5_148 * ___audio_16;
+	AudioSource_t5_148 * ___audio_17;
 	// UnityEngine.AudioClip WordManager::pickup
-	AudioClip_t5_147 * ___pickup_17;
+	AudioClip_t5_147 * ___pickup_18;
 	// UnityEngine.AudioClip WordManager::wrongLetter
-	AudioClip_t5_147 * ___wrongLetter_18;
+	AudioClip_t5_147 * ___wrongLetter_19;
 	// UnityEngine.AudioClip WordManager::obstacleSound
-	AudioClip_t5_147 * ___obstacleSound_19;
+	AudioClip_t5_147 * ___obstacleSound_20;
 };
