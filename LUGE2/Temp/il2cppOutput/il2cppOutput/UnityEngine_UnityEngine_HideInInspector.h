@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.HideInInspector
-struct  HideInInspector_t5_223  : public Attribute_t1_2
+struct  HideInInspector_t5_224  : public Attribute_t1_2
 {
 };

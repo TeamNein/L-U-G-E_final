@@ -14,7 +14,7 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.GUITargetAttribute
-struct  GUITargetAttribute_t5_209  : public Attribute_t1_2
+struct  GUITargetAttribute_t5_210  : public Attribute_t1_2
 {
 	// System.Int32 UnityEngine.GUITargetAttribute::displayMask
 	int32_t ___displayMask_0;

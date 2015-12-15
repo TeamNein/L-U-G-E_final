@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Rigidbody2D
-struct Rigidbody2D_t5_138;
+struct Rigidbody2D_t5_139;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

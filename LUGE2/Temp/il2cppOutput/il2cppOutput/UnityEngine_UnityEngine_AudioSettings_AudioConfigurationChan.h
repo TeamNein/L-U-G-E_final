@@ -22,6 +22,6 @@ struct Object_t;
 #include "mscorlib_System_Boolean.h"
 
 // UnityEngine.AudioSettings/AudioConfigurationChangeHandler
-struct  AudioConfigurationChangeHandler_t5_142  : public MulticastDelegate_t1_21
+struct  AudioConfigurationChangeHandler_t5_143  : public MulticastDelegate_t1_21
 {
 };

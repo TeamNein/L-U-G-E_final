@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.Events.PersistentCall>
 struct List_1_t1_887;
 // UnityEngine.Events.PersistentCall
-struct PersistentCall_t5_267;
+struct PersistentCall_t5_268;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_904
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	PersistentCall_t5_267 * ___current_3;
+	PersistentCall_t5_268 * ___current_3;
 };

@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GUILayoutEntry[]
-struct GUILayoutEntryU5BU5D_t5_335;
+struct GUILayoutEntryU5BU5D_t5_336;
 
 #include "mscorlib_System_Object.h"
 
@@ -19,7 +19,7 @@ struct GUILayoutEntryU5BU5D_t5_335;
 struct  List_1_t1_885  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1::_items
-	GUILayoutEntryU5BU5D_t5_335* ____items_1;
+	GUILayoutEntryU5BU5D_t5_336* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
@@ -27,5 +27,5 @@ struct  List_1_t1_885  : public Object_t
 };
 struct List_1_t1_885_StaticFields{
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	GUILayoutEntryU5BU5D_t5_335* ___EmptyArray_4;
+	GUILayoutEntryU5BU5D_t5_336* ___EmptyArray_4;
 };

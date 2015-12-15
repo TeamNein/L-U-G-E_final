@@ -19,8 +19,8 @@ struct DefaultComparer_t1_1072;
 #include "mscorlib_System_Reflection_CustomAttributeNamedArgument.h"
 
 // System.Void System.Collections.Generic.Comparer`1/DefaultComparer<System.Reflection.CustomAttributeNamedArgument>::.ctor()
-extern "C" void DefaultComparer__ctor_m1_6750_gshared (DefaultComparer_t1_1072 * __this, const MethodInfo* method);
-#define DefaultComparer__ctor_m1_6750(__this, method) (( void (*) (DefaultComparer_t1_1072 *, const MethodInfo*))DefaultComparer__ctor_m1_6750_gshared)(__this, method)
+extern "C" void DefaultComparer__ctor_m1_6745_gshared (DefaultComparer_t1_1072 * __this, const MethodInfo* method);
+#define DefaultComparer__ctor_m1_6745(__this, method) (( void (*) (DefaultComparer_t1_1072 *, const MethodInfo*))DefaultComparer__ctor_m1_6745_gshared)(__this, method)
 // System.Int32 System.Collections.Generic.Comparer`1/DefaultComparer<System.Reflection.CustomAttributeNamedArgument>::Compare(T,T)
-extern "C" int32_t DefaultComparer_Compare_m1_6751_gshared (DefaultComparer_t1_1072 * __this, CustomAttributeNamedArgument_t1_326  ___x, CustomAttributeNamedArgument_t1_326  ___y, const MethodInfo* method);
-#define DefaultComparer_Compare_m1_6751(__this, ___x, ___y, method) (( int32_t (*) (DefaultComparer_t1_1072 *, CustomAttributeNamedArgument_t1_326 , CustomAttributeNamedArgument_t1_326 , const MethodInfo*))DefaultComparer_Compare_m1_6751_gshared)(__this, ___x, ___y, method)
+extern "C" int32_t DefaultComparer_Compare_m1_6746_gshared (DefaultComparer_t1_1072 * __this, CustomAttributeNamedArgument_t1_326  ___x, CustomAttributeNamedArgument_t1_326  ___y, const MethodInfo* method);
+#define DefaultComparer_Compare_m1_6746(__this, ___x, ___y, method) (( int32_t (*) (DefaultComparer_t1_1072 *, CustomAttributeNamedArgument_t1_326 , CustomAttributeNamedArgument_t1_326 , const MethodInfo*))DefaultComparer_Compare_m1_6746_gshared)(__this, ___x, ___y, method)

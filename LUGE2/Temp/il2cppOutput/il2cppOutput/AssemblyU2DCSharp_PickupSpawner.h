@@ -11,17 +11,17 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject[]
-struct GameObjectU5BU5D_t5_326;
+struct GameObjectU5BU5D_t5_327;
 // PlayerHealth
-struct PlayerHealth_t7_37;
+struct PlayerHealth_t7_38;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // PickupSpawner
-struct  PickupSpawner_t7_16  : public MonoBehaviour_t5_92
+struct  PickupSpawner_t7_17  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.GameObject[] PickupSpawner::pickups
-	GameObjectU5BU5D_t5_326* ___pickups_2;
+	GameObjectU5BU5D_t5_327* ___pickups_2;
 	// System.Single PickupSpawner::pickupDeliveryTime
 	float ___pickupDeliveryTime_3;
 	// System.Single PickupSpawner::dropRangeLeft
@@ -33,5 +33,5 @@ struct  PickupSpawner_t7_16  : public MonoBehaviour_t5_92
 	// System.Single PickupSpawner::lowHealthThreshold
 	float ___lowHealthThreshold_7;
 	// PlayerHealth PickupSpawner::playerHealth
-	PlayerHealth_t7_37 * ___playerHealth_8;
+	PlayerHealth_t7_38 * ___playerHealth_8;
 };

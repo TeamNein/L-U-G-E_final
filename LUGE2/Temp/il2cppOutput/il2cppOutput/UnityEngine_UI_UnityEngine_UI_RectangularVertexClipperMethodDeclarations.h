@@ -17,7 +17,7 @@ struct RectangularVertexClipper_t6_109;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 
 #include "codegen/il2cpp-codegen.h"
 #include "UnityEngine_UnityEngine_Rect.h"
@@ -25,4 +25,4 @@ struct Canvas_t5_176;
 // System.Void UnityEngine.UI.RectangularVertexClipper::.ctor()
 extern "C" void RectangularVertexClipper__ctor_m6_1189 (RectangularVertexClipper_t6_109 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Rect UnityEngine.UI.RectangularVertexClipper::GetCanvasRect(UnityEngine.RectTransform,UnityEngine.Canvas)
-extern "C" Rect_t5_48  RectangularVertexClipper_GetCanvasRect_m6_1190 (RectangularVertexClipper_t6_109 * __this, RectTransform_t5_70 * ___t, Canvas_t5_176 * ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Rect_t5_48  RectangularVertexClipper_GetCanvasRect_m6_1190 (RectangularVertexClipper_t6_109 * __this, RectTransform_t5_70 * ___t, Canvas_t5_177 * ___c, const MethodInfo* method) IL2CPP_METHOD_ATTR;

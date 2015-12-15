@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 // System.Collections.Generic.List`1<UnityEngine.UI.Text>
 struct List_1_t1_943;
 
@@ -21,7 +21,7 @@ struct List_1_t1_943;
 struct  KeyValuePair_2_t1_1381 
 {
 	// TKey System.Collections.Generic.KeyValuePair`2::key
-	Font_t5_163 * ___key_0;
+	Font_t5_164 * ___key_0;
 	// TValue System.Collections.Generic.KeyValuePair`2::value
 	List_1_t1_943 * ___value_1;
 };

@@ -27,11 +27,11 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void System.Reflection.TypeFilter::.ctor(System.Object,System.IntPtr)
-extern "C" void TypeFilter__ctor_m1_5421 (TypeFilter_t1_336 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void TypeFilter__ctor_m1_5416 (TypeFilter_t1_336 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Reflection.TypeFilter::Invoke(System.Type,System.Object)
-extern "C" bool TypeFilter_Invoke_m1_5422 (TypeFilter_t1_336 * __this, Type_t * ___m, Object_t * ___filterCriteria, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool TypeFilter_Invoke_m1_5417 (TypeFilter_t1_336 * __this, Type_t * ___m, Object_t * ___filterCriteria, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 extern "C" bool pinvoke_delegate_wrapper_TypeFilter_t1_336(Il2CppObject* delegate, Type_t * ___m, Object_t * ___filterCriteria);
 // System.IAsyncResult System.Reflection.TypeFilter::BeginInvoke(System.Type,System.Object,System.AsyncCallback,System.Object)
-extern "C" Object_t * TypeFilter_BeginInvoke_m1_5423 (TypeFilter_t1_336 * __this, Type_t * ___m, Object_t * ___filterCriteria, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * TypeFilter_BeginInvoke_m1_5418 (TypeFilter_t1_336 * __this, Type_t * ___m, Object_t * ___filterCriteria, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean System.Reflection.TypeFilter::EndInvoke(System.IAsyncResult)
-extern "C" bool TypeFilter_EndInvoke_m1_5424 (TypeFilter_t1_336 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool TypeFilter_EndInvoke_m1_5419 (TypeFilter_t1_336 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;

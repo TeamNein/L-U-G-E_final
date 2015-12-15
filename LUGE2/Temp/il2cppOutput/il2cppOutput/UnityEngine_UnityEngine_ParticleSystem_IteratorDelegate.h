@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.ParticleSystem
-struct ParticleSystem_t5_122;
+struct ParticleSystem_t5_123;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback
@@ -22,6 +22,6 @@ struct Object_t;
 #include "mscorlib_System_MulticastDelegate.h"
 
 // UnityEngine.ParticleSystem/IteratorDelegate
-struct  IteratorDelegate_t5_121  : public MulticastDelegate_t1_21
+struct  IteratorDelegate_t5_122  : public MulticastDelegate_t1_21
 {
 };

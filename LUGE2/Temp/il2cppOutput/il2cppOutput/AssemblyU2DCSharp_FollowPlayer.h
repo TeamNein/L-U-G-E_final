@@ -17,7 +17,7 @@ struct Transform_t5_71;
 #include "UnityEngine_UnityEngine_Vector3.h"
 
 // FollowPlayer
-struct  FollowPlayer_t7_27  : public MonoBehaviour_t5_92
+struct  FollowPlayer_t7_28  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Vector3 FollowPlayer::offset
 	Vector3_t5_45  ___offset_2;

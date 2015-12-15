@@ -16,7 +16,7 @@ struct List_1_t1_908;
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // UnityEngine.EventSystems.EventTrigger
-struct  EventTrigger_t6_8  : public MonoBehaviour_t5_92
+struct  EventTrigger_t6_8  : public MonoBehaviour_t5_93
 {
 	// System.Collections.Generic.List`1<UnityEngine.EventSystems.EventTrigger/Entry> UnityEngine.EventSystems.EventTrigger::m_Delegates
 	List_1_t1_908 * ___m_Delegates_2;

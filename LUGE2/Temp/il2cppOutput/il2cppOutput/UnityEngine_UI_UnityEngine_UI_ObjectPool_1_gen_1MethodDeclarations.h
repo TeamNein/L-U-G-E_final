@@ -15,15 +15,15 @@
 // UnityEngine.UI.ObjectPool`1<System.Object>
 struct ObjectPool_1_t6_203;
 // UnityEngine.Events.UnityAction`1<System.Object>
-struct UnityAction_1_t5_337;
+struct UnityAction_1_t5_338;
 // System.Object
 struct Object_t;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.UI.ObjectPool`1<System.Object>::.ctor(UnityEngine.Events.UnityAction`1<T>,UnityEngine.Events.UnityAction`1<T>)
-extern "C" void ObjectPool_1__ctor_m6_1551_gshared (ObjectPool_1_t6_203 * __this, UnityAction_1_t5_337 * ___actionOnGet, UnityAction_1_t5_337 * ___actionOnRelease, const MethodInfo* method);
-#define ObjectPool_1__ctor_m6_1551(__this, ___actionOnGet, ___actionOnRelease, method) (( void (*) (ObjectPool_1_t6_203 *, UnityAction_1_t5_337 *, UnityAction_1_t5_337 *, const MethodInfo*))ObjectPool_1__ctor_m6_1551_gshared)(__this, ___actionOnGet, ___actionOnRelease, method)
+extern "C" void ObjectPool_1__ctor_m6_1551_gshared (ObjectPool_1_t6_203 * __this, UnityAction_1_t5_338 * ___actionOnGet, UnityAction_1_t5_338 * ___actionOnRelease, const MethodInfo* method);
+#define ObjectPool_1__ctor_m6_1551(__this, ___actionOnGet, ___actionOnRelease, method) (( void (*) (ObjectPool_1_t6_203 *, UnityAction_1_t5_338 *, UnityAction_1_t5_338 *, const MethodInfo*))ObjectPool_1__ctor_m6_1551_gshared)(__this, ___actionOnGet, ___actionOnRelease, method)
 // System.Int32 UnityEngine.UI.ObjectPool`1<System.Object>::get_countAll()
 extern "C" int32_t ObjectPool_1_get_countAll_m6_1553_gshared (ObjectPool_1_t6_203 * __this, const MethodInfo* method);
 #define ObjectPool_1_get_countAll_m6_1553(__this, method) (( int32_t (*) (ObjectPool_1_t6_203 *, const MethodInfo*))ObjectPool_1_get_countAll_m6_1553_gshared)(__this, method)

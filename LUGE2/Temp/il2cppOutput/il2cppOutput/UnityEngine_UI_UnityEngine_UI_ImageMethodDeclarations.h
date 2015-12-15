@@ -15,15 +15,15 @@
 // UnityEngine.UI.Image
 struct Image_t6_65;
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 // UnityEngine.Texture
 struct Texture_t5_33;
 // UnityEngine.UI.VertexHelper
 struct VertexHelper_t6_78;
 // UnityEngine.Vector3[]
-struct Vector3U5BU5D_t5_180;
+struct Vector3U5BU5D_t5_181;
 // UnityEngine.Camera
-struct Camera_t5_85;
+struct Camera_t5_86;
 
 #include "codegen/il2cpp-codegen.h"
 #include "UnityEngine_UI_UnityEngine_UI_Image_Type.h"
@@ -38,13 +38,13 @@ extern "C" void Image__ctor_m6_565 (Image_t6_65 * __this, const MethodInfo* meth
 // System.Void UnityEngine.UI.Image::.cctor()
 extern "C" void Image__cctor_m6_566 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Sprite UnityEngine.UI.Image::get_sprite()
-extern "C" Sprite_t5_78 * Image_get_sprite_m6_567 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Sprite_t5_79 * Image_get_sprite_m6_567 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::set_sprite(UnityEngine.Sprite)
-extern "C" void Image_set_sprite_m6_568 (Image_t6_65 * __this, Sprite_t5_78 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Image_set_sprite_m6_568 (Image_t6_65 * __this, Sprite_t5_79 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Sprite UnityEngine.UI.Image::get_overrideSprite()
-extern "C" Sprite_t5_78 * Image_get_overrideSprite_m6_569 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Sprite_t5_79 * Image_get_overrideSprite_m6_569 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::set_overrideSprite(UnityEngine.Sprite)
-extern "C" void Image_set_overrideSprite_m6_570 (Image_t6_65 * __this, Sprite_t5_78 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Image_set_overrideSprite_m6_570 (Image_t6_65 * __this, Sprite_t5_79 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.UI.Image/Type UnityEngine.UI.Image::get_type()
 extern "C" int32_t Image_get_type_m6_571 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::set_type(UnityEngine.UI.Image/Type)
@@ -100,7 +100,7 @@ extern "C" void Image_GenerateSlicedSprite_m6_596 (Image_t6_65 * __this, VertexH
 // System.Void UnityEngine.UI.Image::GenerateTiledSprite(UnityEngine.UI.VertexHelper)
 extern "C" void Image_GenerateTiledSprite_m6_597 (Image_t6_65 * __this, VertexHelper_t6_78 * ___toFill, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::AddQuad(UnityEngine.UI.VertexHelper,UnityEngine.Vector3[],UnityEngine.Color32,UnityEngine.Vector3[])
-extern "C" void Image_AddQuad_m6_598 (Object_t * __this /* static, unused */, VertexHelper_t6_78 * ___vertexHelper, Vector3U5BU5D_t5_180* ___quadPositions, Color32_t5_46  ___color, Vector3U5BU5D_t5_180* ___quadUVs, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Image_AddQuad_m6_598 (Object_t * __this /* static, unused */, VertexHelper_t6_78 * ___vertexHelper, Vector3U5BU5D_t5_181* ___quadPositions, Color32_t5_46  ___color, Vector3U5BU5D_t5_181* ___quadUVs, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::AddQuad(UnityEngine.UI.VertexHelper,UnityEngine.Vector2,UnityEngine.Vector2,UnityEngine.Color32,UnityEngine.Vector2,UnityEngine.Vector2)
 extern "C" void Image_AddQuad_m6_599 (Object_t * __this /* static, unused */, VertexHelper_t6_78 * ___vertexHelper, Vector2_t5_44  ___posMin, Vector2_t5_44  ___posMax, Color32_t5_46  ___color, Vector2_t5_44  ___uvMin, Vector2_t5_44  ___uvMax, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Vector4 UnityEngine.UI.Image::GetAdjustedBorders(UnityEngine.Vector4,UnityEngine.Rect)
@@ -108,9 +108,9 @@ extern "C" Vector4_t5_51  Image_GetAdjustedBorders_m6_600 (Image_t6_65 * __this,
 // System.Void UnityEngine.UI.Image::GenerateFilledSprite(UnityEngine.UI.VertexHelper,System.Boolean)
 extern "C" void Image_GenerateFilledSprite_m6_601 (Image_t6_65 * __this, VertexHelper_t6_78 * ___toFill, bool ___preserveAspect, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Image::RadialCut(UnityEngine.Vector3[],UnityEngine.Vector3[],System.Single,System.Boolean,System.Int32)
-extern "C" bool Image_RadialCut_m6_602 (Object_t * __this /* static, unused */, Vector3U5BU5D_t5_180* ___xy, Vector3U5BU5D_t5_180* ___uv, float ___fill, bool ___invert, int32_t ___corner, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool Image_RadialCut_m6_602 (Object_t * __this /* static, unused */, Vector3U5BU5D_t5_181* ___xy, Vector3U5BU5D_t5_181* ___uv, float ___fill, bool ___invert, int32_t ___corner, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::RadialCut(UnityEngine.Vector3[],System.Single,System.Single,System.Boolean,System.Int32)
-extern "C" void Image_RadialCut_m6_603 (Object_t * __this /* static, unused */, Vector3U5BU5D_t5_180* ___xy, float ___cos, float ___sin, bool ___invert, int32_t ___corner, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Image_RadialCut_m6_603 (Object_t * __this /* static, unused */, Vector3U5BU5D_t5_181* ___xy, float ___cos, float ___sin, bool ___invert, int32_t ___corner, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::CalculateLayoutInputHorizontal()
 extern "C" void Image_CalculateLayoutInputHorizontal_m6_604 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Image::CalculateLayoutInputVertical()
@@ -130,6 +130,6 @@ extern "C" float Image_get_flexibleHeight_m6_611 (Image_t6_65 * __this, const Me
 // System.Int32 UnityEngine.UI.Image::get_layoutPriority()
 extern "C" int32_t Image_get_layoutPriority_m6_612 (Image_t6_65 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Image::IsRaycastLocationValid(UnityEngine.Vector2,UnityEngine.Camera)
-extern "C" bool Image_IsRaycastLocationValid_m6_613 (Image_t6_65 * __this, Vector2_t5_44  ___screenPoint, Camera_t5_85 * ___eventCamera, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool Image_IsRaycastLocationValid_m6_613 (Image_t6_65 * __this, Vector2_t5_44  ___screenPoint, Camera_t5_86 * ___eventCamera, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Vector2 UnityEngine.UI.Image::MapCoordinate(UnityEngine.Vector2,UnityEngine.Rect)
 extern "C" Vector2_t5_44  Image_MapCoordinate_m6_614 (Image_t6_65 * __this, Vector2_t5_44  ___local, Rect_t5_48  ___rect, const MethodInfo* method) IL2CPP_METHOD_ATTR;

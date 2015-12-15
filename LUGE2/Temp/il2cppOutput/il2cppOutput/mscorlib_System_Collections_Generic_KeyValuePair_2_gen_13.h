@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -21,5 +21,5 @@ struct  KeyValuePair_2_t1_1451
 	// TKey System.Collections.Generic.KeyValuePair`2::key
 	int32_t ___key_0;
 	// TValue System.Collections.Generic.KeyValuePair`2::value
-	GameObject_t5_100 * ___value_1;
+	GameObject_t5_101 * ___value_1;
 };

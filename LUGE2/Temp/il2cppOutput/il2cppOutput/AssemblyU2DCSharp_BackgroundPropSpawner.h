@@ -11,15 +11,15 @@
 #include <stdint.h>
 
 // UnityEngine.Rigidbody2D
-struct Rigidbody2D_t5_138;
+struct Rigidbody2D_t5_139;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // BackgroundPropSpawner
-struct  BackgroundPropSpawner_t7_12  : public MonoBehaviour_t5_92
+struct  BackgroundPropSpawner_t7_13  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Rigidbody2D BackgroundPropSpawner::backgroundProp
-	Rigidbody2D_t5_138 * ___backgroundProp_2;
+	Rigidbody2D_t5_139 * ___backgroundProp_2;
 	// System.Single BackgroundPropSpawner::leftSpawnPosX
 	float ___leftSpawnPosX_3;
 	// System.Single BackgroundPropSpawner::rightSpawnPosX

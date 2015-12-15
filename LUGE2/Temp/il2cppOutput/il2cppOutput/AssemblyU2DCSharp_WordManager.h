@@ -17,16 +17,16 @@ struct String_t;
 // UnityEngine.UI.Text
 struct Text_t6_64;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.AudioSource
-struct AudioSource_t5_147;
+struct AudioSource_t5_148;
 // UnityEngine.AudioClip
-struct AudioClip_t5_146;
+struct AudioClip_t5_147;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // WordManager
-struct  WordManager_t7_50  : public MonoBehaviour_t5_92
+struct  WordManager_t7_51  : public MonoBehaviour_t5_93
 {
 	// System.String[] WordManager::matchingWords
 	StringU5BU5D_t1_198* ___matchingWords_2;
@@ -55,13 +55,13 @@ struct  WordManager_t7_50  : public MonoBehaviour_t5_92
 	// UnityEngine.UI.Text WordManager::endScore
 	Text_t6_64 * ___endScore_14;
 	// UnityEngine.GameObject WordManager::EndScreen
-	GameObject_t5_100 * ___EndScreen_15;
+	GameObject_t5_101 * ___EndScreen_15;
 	// UnityEngine.AudioSource WordManager::audio
-	AudioSource_t5_147 * ___audio_16;
+	AudioSource_t5_148 * ___audio_16;
 	// UnityEngine.AudioClip WordManager::pickup
-	AudioClip_t5_146 * ___pickup_17;
+	AudioClip_t5_147 * ___pickup_17;
 	// UnityEngine.AudioClip WordManager::wrongLetter
-	AudioClip_t5_146 * ___wrongLetter_18;
+	AudioClip_t5_147 * ___wrongLetter_18;
 	// UnityEngine.AudioClip WordManager::obstacleSound
-	AudioClip_t5_146 * ___obstacleSound_19;
+	AudioClip_t5_147 * ___obstacleSound_19;
 };

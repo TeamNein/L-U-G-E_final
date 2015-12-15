@@ -24,12 +24,12 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.ActivatedClientTypeEntry::.ctor(System.String,System.String,System.String)
-extern "C" void ActivatedClientTypeEntry__ctor_m1_3355 (ActivatedClientTypeEntry_t1_470 * __this, String_t* ___typeName, String_t* ___assemblyName, String_t* ___appUrl, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ActivatedClientTypeEntry__ctor_m1_3350 (ActivatedClientTypeEntry_t1_470 * __this, String_t* ___typeName, String_t* ___assemblyName, String_t* ___appUrl, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Remoting.ActivatedClientTypeEntry::get_ApplicationUrl()
-extern "C" String_t* ActivatedClientTypeEntry_get_ApplicationUrl_m1_3356 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* ActivatedClientTypeEntry_get_ApplicationUrl_m1_3351 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Runtime.Remoting.Contexts.IContextAttribute[] System.Runtime.Remoting.ActivatedClientTypeEntry::get_ContextAttributes()
-extern "C" IContextAttributeU5BU5D_t1_814* ActivatedClientTypeEntry_get_ContextAttributes_m1_3357 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" IContextAttributeU5BU5D_t1_814* ActivatedClientTypeEntry_get_ContextAttributes_m1_3352 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Type System.Runtime.Remoting.ActivatedClientTypeEntry::get_ObjectType()
-extern "C" Type_t * ActivatedClientTypeEntry_get_ObjectType_m1_3358 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Type_t * ActivatedClientTypeEntry_get_ObjectType_m1_3353 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Runtime.Remoting.ActivatedClientTypeEntry::ToString()
-extern "C" String_t* ActivatedClientTypeEntry_ToString_m1_3359 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* ActivatedClientTypeEntry_ToString_m1_3354 (ActivatedClientTypeEntry_t1_470 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -14,7 +14,7 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Pauser
-struct  Pauser_t7_35  : public MonoBehaviour_t5_92
+struct  Pauser_t7_36  : public MonoBehaviour_t5_93
 {
 	// System.Boolean Pauser::paused
 	bool ___paused_2;

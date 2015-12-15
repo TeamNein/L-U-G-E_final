@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.Display/DisplaysUpdatedDelegate
-struct  DisplaysUpdatedDelegate_t5_89  : public MulticastDelegate_t1_21
+struct  DisplaysUpdatedDelegate_t5_90  : public MulticastDelegate_t1_21
 {
 };

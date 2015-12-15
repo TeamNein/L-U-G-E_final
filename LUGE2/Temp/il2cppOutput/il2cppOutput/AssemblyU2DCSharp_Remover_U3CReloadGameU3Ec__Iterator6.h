@@ -16,7 +16,7 @@ struct Object_t;
 #include "mscorlib_System_Object.h"
 
 // Remover/<ReloadGame>c__Iterator6
-struct  U3CReloadGameU3Ec__Iterator6_t7_39  : public Object_t
+struct  U3CReloadGameU3Ec__Iterator6_t7_40  : public Object_t
 {
 	// System.Int32 Remover/<ReloadGame>c__Iterator6::$PC
 	int32_t ___U24PC_0;

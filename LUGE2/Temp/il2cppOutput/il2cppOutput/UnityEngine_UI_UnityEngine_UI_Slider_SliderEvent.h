@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Events_UnityEvent_1_gen_1.h"
 
 // UnityEngine.UI.Slider/SliderEvent
-struct  SliderEvent_t6_124  : public UnityEvent_1_t5_311
+struct  SliderEvent_t6_124  : public UnityEvent_1_t5_312
 {
 };

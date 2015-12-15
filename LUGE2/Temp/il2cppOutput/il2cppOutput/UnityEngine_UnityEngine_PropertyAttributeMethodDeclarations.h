@@ -13,9 +13,9 @@
 #include <exception>
 
 // UnityEngine.PropertyAttribute
-struct PropertyAttribute_t5_251;
+struct PropertyAttribute_t5_252;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.PropertyAttribute::.ctor()
-extern "C" void PropertyAttribute__ctor_m5_1665 (PropertyAttribute_t5_251 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PropertyAttribute__ctor_m5_1668 (PropertyAttribute_t5_252 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

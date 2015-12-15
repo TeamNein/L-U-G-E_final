@@ -13,13 +13,13 @@
 #include <exception>
 
 // PlayerCollision
-struct PlayerCollision_t7_7;
+struct PlayerCollision_t7_8;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void PlayerCollision::.ctor()
-extern "C" void PlayerCollision__ctor_m7_20 (PlayerCollision_t7_7 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PlayerCollision__ctor_m7_23 (PlayerCollision_t7_8 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void PlayerCollision::Start()
-extern "C" void PlayerCollision_Start_m7_21 (PlayerCollision_t7_7 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PlayerCollision_Start_m7_24 (PlayerCollision_t7_8 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void PlayerCollision::Update()
-extern "C" void PlayerCollision_Update_m7_22 (PlayerCollision_t7_7 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void PlayerCollision_Update_m7_25 (PlayerCollision_t7_8 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 // System.Collections.Generic.List`1<UnityEngine.UI.Text>
 struct List_1_t1_943;
 // System.IAsyncResult

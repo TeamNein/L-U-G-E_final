@@ -11,17 +11,17 @@
 #include <stdint.h>
 
 // UnityEngine.Rigidbody2D
-struct Rigidbody2D_t5_138;
+struct Rigidbody2D_t5_139;
 // System.Object
 struct Object_t;
 // BackgroundPropSpawner
-struct BackgroundPropSpawner_t7_12;
+struct BackgroundPropSpawner_t7_13;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_Vector3.h"
 
 // BackgroundPropSpawner/<Spawn>c__Iterator1
-struct  U3CSpawnU3Ec__Iterator1_t7_11  : public Object_t
+struct  U3CSpawnU3Ec__Iterator1_t7_12  : public Object_t
 {
 	// System.Single BackgroundPropSpawner/<Spawn>c__Iterator1::<waitTime>__0
 	float ___U3CwaitTimeU3E__0_0;
@@ -34,7 +34,7 @@ struct  U3CSpawnU3Ec__Iterator1_t7_11  : public Object_t
 	// UnityEngine.Vector3 BackgroundPropSpawner/<Spawn>c__Iterator1::<spawnPos>__4
 	Vector3_t5_45  ___U3CspawnPosU3E__4_4;
 	// UnityEngine.Rigidbody2D BackgroundPropSpawner/<Spawn>c__Iterator1::<propInstance>__5
-	Rigidbody2D_t5_138 * ___U3CpropInstanceU3E__5_5;
+	Rigidbody2D_t5_139 * ___U3CpropInstanceU3E__5_5;
 	// UnityEngine.Vector3 BackgroundPropSpawner/<Spawn>c__Iterator1::<scale>__6
 	Vector3_t5_45  ___U3CscaleU3E__6_6;
 	// System.Single BackgroundPropSpawner/<Spawn>c__Iterator1::<speed>__7
@@ -44,5 +44,5 @@ struct  U3CSpawnU3Ec__Iterator1_t7_11  : public Object_t
 	// System.Object BackgroundPropSpawner/<Spawn>c__Iterator1::$current
 	Object_t * ___U24current_9;
 	// BackgroundPropSpawner BackgroundPropSpawner/<Spawn>c__Iterator1::<>f__this
-	BackgroundPropSpawner_t7_12 * ___U3CU3Ef__this_10;
+	BackgroundPropSpawner_t7_13 * ___U3CU3Ef__this_10;
 };

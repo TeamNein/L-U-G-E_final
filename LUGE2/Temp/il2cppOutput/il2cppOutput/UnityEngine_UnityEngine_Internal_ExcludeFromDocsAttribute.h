@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.Internal.ExcludeFromDocsAttribute
-struct  ExcludeFromDocsAttribute_t5_274  : public Attribute_t1_2
+struct  ExcludeFromDocsAttribute_t5_275  : public Attribute_t1_2
 {
 };

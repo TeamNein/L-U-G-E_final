@@ -20,6 +20,6 @@ struct IMethodMessage_t1_449;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Messaging.MethodCallDictionary::.ctor(System.Runtime.Remoting.Messaging.IMethodMessage)
-extern "C" void MethodCallDictionary__ctor_m1_3246 (MethodCallDictionary_t1_446 * __this, Object_t * ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MethodCallDictionary__ctor_m1_3241 (MethodCallDictionary_t1_446 * __this, Object_t * ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.Remoting.Messaging.MethodCallDictionary::.cctor()
-extern "C" void MethodCallDictionary__cctor_m1_3247 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MethodCallDictionary__cctor_m1_3242 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;

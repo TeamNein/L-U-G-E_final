@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.GameObject>
 struct List_1_t1_911;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_1340
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	GameObject_t5_100 * ___current_3;
+	GameObject_t5_101 * ___current_3;
 };

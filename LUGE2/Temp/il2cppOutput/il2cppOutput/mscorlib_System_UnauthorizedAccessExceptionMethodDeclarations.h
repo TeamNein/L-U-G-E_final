@@ -23,8 +23,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.UnauthorizedAccessException::.ctor()
-extern "C" void UnauthorizedAccessException__ctor_m1_5372 (UnauthorizedAccessException_t1_760 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void UnauthorizedAccessException__ctor_m1_5367 (UnauthorizedAccessException_t1_760 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.UnauthorizedAccessException::.ctor(System.String)
-extern "C" void UnauthorizedAccessException__ctor_m1_5373 (UnauthorizedAccessException_t1_760 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void UnauthorizedAccessException__ctor_m1_5368 (UnauthorizedAccessException_t1_760 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.UnauthorizedAccessException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void UnauthorizedAccessException__ctor_m1_5374 (UnauthorizedAccessException_t1_760 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void UnauthorizedAccessException__ctor_m1_5369 (UnauthorizedAccessException_t1_760 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

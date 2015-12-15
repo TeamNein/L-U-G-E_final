@@ -14,7 +14,7 @@
 #include "mscorlib_System_ValueType.h"
 
 // UnityEngine.SocialPlatforms.Range
-struct  Range_t5_242 
+struct  Range_t5_243 
 {
 	// System.Int32 UnityEngine.SocialPlatforms.Range::from
 	int32_t ___from_0;

@@ -16,7 +16,7 @@ struct String_t;
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Destroyer
-struct  Destroyer_t7_20  : public MonoBehaviour_t5_92
+struct  Destroyer_t7_21  : public MonoBehaviour_t5_93
 {
 	// System.Boolean Destroyer::destroyOnAwake
 	bool ___destroyOnAwake_2;

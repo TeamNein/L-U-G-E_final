@@ -20,8 +20,8 @@ struct AttributeUsageAttribute_t1_5;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.MonoCustomAttrs/AttributeInfo::.ctor(System.AttributeUsageAttribute,System.Int32)
-extern "C" void AttributeInfo__ctor_m1_5082 (AttributeInfo_t1_732 * __this, AttributeUsageAttribute_t1_5 * ___usage, int32_t ___inheritanceLevel, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AttributeInfo__ctor_m1_5077 (AttributeInfo_t1_732 * __this, AttributeUsageAttribute_t1_5 * ___usage, int32_t ___inheritanceLevel, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.AttributeUsageAttribute System.MonoCustomAttrs/AttributeInfo::get_Usage()
-extern "C" AttributeUsageAttribute_t1_5 * AttributeInfo_get_Usage_m1_5083 (AttributeInfo_t1_732 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" AttributeUsageAttribute_t1_5 * AttributeInfo_get_Usage_m1_5078 (AttributeInfo_t1_732 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 System.MonoCustomAttrs/AttributeInfo::get_InheritanceLevel()
-extern "C" int32_t AttributeInfo_get_InheritanceLevel_m1_5084 (AttributeInfo_t1_732 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t AttributeInfo_get_InheritanceLevel_m1_5079 (AttributeInfo_t1_732 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

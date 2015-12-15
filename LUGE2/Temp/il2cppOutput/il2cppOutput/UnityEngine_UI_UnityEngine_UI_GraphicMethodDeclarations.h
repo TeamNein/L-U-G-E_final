@@ -15,13 +15,13 @@
 // UnityEngine.UI.Graphic
 struct Graphic_t6_76;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 // UnityEngine.CanvasRenderer
-struct CanvasRenderer_t5_178;
+struct CanvasRenderer_t5_179;
 // UnityEngine.Texture
 struct Texture_t5_33;
 // UnityEngine.Mesh
@@ -31,9 +31,9 @@ struct List_1_t1_880;
 // UnityEngine.UI.VertexHelper
 struct VertexHelper_t6_78;
 // UnityEngine.Camera
-struct Camera_t5_85;
+struct Camera_t5_86;
 // UnityEngine.Events.UnityAction
-struct UnityAction_t5_265;
+struct UnityAction_t5_266;
 // UnityEngine.Transform
 struct Transform_t5_71;
 
@@ -48,11 +48,11 @@ extern "C" void Graphic__ctor_m6_489 (Graphic_t6_76 * __this, const MethodInfo* 
 // System.Void UnityEngine.UI.Graphic::.cctor()
 extern "C" void Graphic__cctor_m6_490 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.UI.Graphic::get_defaultGraphicMaterial()
-extern "C" Material_t5_76 * Graphic_get_defaultGraphicMaterial_m6_491 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * Graphic_get_defaultGraphicMaterial_m6_491 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color UnityEngine.UI.Graphic::get_color()
-extern "C" Color_t5_164  Graphic_get_color_m6_492 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color_t5_165  Graphic_get_color_m6_492 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::set_color(UnityEngine.Color)
-extern "C" void Graphic_set_color_m6_493 (Graphic_t6_76 * __this, Color_t5_164  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_set_color_m6_493 (Graphic_t6_76 * __this, Color_t5_165  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Graphic::get_raycastTarget()
 extern "C" bool Graphic_get_raycastTarget_m6_494 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::set_raycastTarget(System.Boolean)
@@ -80,19 +80,19 @@ extern "C" int32_t Graphic_get_depth_m6_505 (Graphic_t6_76 * __this, const Metho
 // UnityEngine.RectTransform UnityEngine.UI.Graphic::get_rectTransform()
 extern "C" RectTransform_t5_70 * Graphic_get_rectTransform_m6_506 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Canvas UnityEngine.UI.Graphic::get_canvas()
-extern "C" Canvas_t5_176 * Graphic_get_canvas_m6_507 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Canvas_t5_177 * Graphic_get_canvas_m6_507 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::CacheCanvas()
 extern "C" void Graphic_CacheCanvas_m6_508 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.CanvasRenderer UnityEngine.UI.Graphic::get_canvasRenderer()
-extern "C" CanvasRenderer_t5_178 * Graphic_get_canvasRenderer_m6_509 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" CanvasRenderer_t5_179 * Graphic_get_canvasRenderer_m6_509 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.UI.Graphic::get_defaultMaterial()
-extern "C" Material_t5_76 * Graphic_get_defaultMaterial_m6_510 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * Graphic_get_defaultMaterial_m6_510 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.UI.Graphic::get_material()
-extern "C" Material_t5_76 * Graphic_get_material_m6_511 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * Graphic_get_material_m6_511 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::set_material(UnityEngine.Material)
-extern "C" void Graphic_set_material_m6_512 (Graphic_t6_76 * __this, Material_t5_76 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_set_material_m6_512 (Graphic_t6_76 * __this, Material_t5_77 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Material UnityEngine.UI.Graphic::get_materialForRendering()
-extern "C" Material_t5_76 * Graphic_get_materialForRendering_m6_513 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Material_t5_77 * Graphic_get_materialForRendering_m6_513 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Texture UnityEngine.UI.Graphic::get_mainTexture()
 extern "C" Texture_t5_33 * Graphic_get_mainTexture_m6_514 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::OnEnable()
@@ -128,31 +128,31 @@ extern "C" void Graphic_OnDidApplyAnimationProperties_m6_529 (Graphic_t6_76 * __
 // System.Void UnityEngine.UI.Graphic::SetNativeSize()
 extern "C" void Graphic_SetNativeSize_m6_530 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Graphic::Raycast(UnityEngine.Vector2,UnityEngine.Camera)
-extern "C" bool Graphic_Raycast_m6_531 (Graphic_t6_76 * __this, Vector2_t5_44  ___sp, Camera_t5_85 * ___eventCamera, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" bool Graphic_Raycast_m6_531 (Graphic_t6_76 * __this, Vector2_t5_44  ___sp, Camera_t5_86 * ___eventCamera, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Vector2 UnityEngine.UI.Graphic::PixelAdjustPoint(UnityEngine.Vector2)
 extern "C" Vector2_t5_44  Graphic_PixelAdjustPoint_m6_532 (Graphic_t6_76 * __this, Vector2_t5_44  ___point, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Rect UnityEngine.UI.Graphic::GetPixelAdjustedRect()
 extern "C" Rect_t5_48  Graphic_GetPixelAdjustedRect_m6_533 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::CrossFadeColor(UnityEngine.Color,System.Single,System.Boolean,System.Boolean)
-extern "C" void Graphic_CrossFadeColor_m6_534 (Graphic_t6_76 * __this, Color_t5_164  ___targetColor, float ___duration, bool ___ignoreTimeScale, bool ___useAlpha, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_CrossFadeColor_m6_534 (Graphic_t6_76 * __this, Color_t5_165  ___targetColor, float ___duration, bool ___ignoreTimeScale, bool ___useAlpha, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::CrossFadeColor(UnityEngine.Color,System.Single,System.Boolean,System.Boolean,System.Boolean)
-extern "C" void Graphic_CrossFadeColor_m6_535 (Graphic_t6_76 * __this, Color_t5_164  ___targetColor, float ___duration, bool ___ignoreTimeScale, bool ___useAlpha, bool ___useRGB, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_CrossFadeColor_m6_535 (Graphic_t6_76 * __this, Color_t5_165  ___targetColor, float ___duration, bool ___ignoreTimeScale, bool ___useAlpha, bool ___useRGB, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color UnityEngine.UI.Graphic::CreateColorFromAlpha(System.Single)
-extern "C" Color_t5_164  Graphic_CreateColorFromAlpha_m6_536 (Object_t * __this /* static, unused */, float ___alpha, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color_t5_165  Graphic_CreateColorFromAlpha_m6_536 (Object_t * __this /* static, unused */, float ___alpha, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::CrossFadeAlpha(System.Single,System.Single,System.Boolean)
 extern "C" void Graphic_CrossFadeAlpha_m6_537 (Graphic_t6_76 * __this, float ___alpha, float ___duration, bool ___ignoreTimeScale, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::RegisterDirtyLayoutCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_RegisterDirtyLayoutCallback_m6_538 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_RegisterDirtyLayoutCallback_m6_538 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::UnregisterDirtyLayoutCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_UnregisterDirtyLayoutCallback_m6_539 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_UnregisterDirtyLayoutCallback_m6_539 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::RegisterDirtyVerticesCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_RegisterDirtyVerticesCallback_m6_540 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_RegisterDirtyVerticesCallback_m6_540 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::UnregisterDirtyVerticesCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_UnregisterDirtyVerticesCallback_m6_541 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_UnregisterDirtyVerticesCallback_m6_541 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::RegisterDirtyMaterialCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_RegisterDirtyMaterialCallback_m6_542 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_RegisterDirtyMaterialCallback_m6_542 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Graphic::UnregisterDirtyMaterialCallback(UnityEngine.Events.UnityAction)
-extern "C" void Graphic_UnregisterDirtyMaterialCallback_m6_543 (Graphic_t6_76 * __this, UnityAction_t5_265 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Graphic_UnregisterDirtyMaterialCallback_m6_543 (Graphic_t6_76 * __this, UnityAction_t5_266 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Graphic::UnityEngine.UI.ICanvasElement.IsDestroyed()
 extern "C" bool Graphic_UnityEngine_UI_ICanvasElement_IsDestroyed_m6_544 (Graphic_t6_76 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Transform UnityEngine.UI.Graphic::UnityEngine.UI.ICanvasElement.get_transform()

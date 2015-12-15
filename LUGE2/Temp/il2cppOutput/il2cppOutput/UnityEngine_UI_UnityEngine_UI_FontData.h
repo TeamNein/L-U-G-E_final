@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_FontStyle.h"
@@ -23,7 +23,7 @@ struct Font_t5_163;
 struct  FontData_t6_74  : public Object_t
 {
 	// UnityEngine.Font UnityEngine.UI.FontData::m_Font
-	Font_t5_163 * ___m_Font_0;
+	Font_t5_164 * ___m_Font_0;
 	// System.Int32 UnityEngine.UI.FontData::m_FontSize
 	int32_t ___m_FontSize_1;
 	// UnityEngine.FontStyle UnityEngine.UI.FontData::m_FontStyle

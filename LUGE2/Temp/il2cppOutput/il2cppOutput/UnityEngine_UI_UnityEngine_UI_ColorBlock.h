@@ -18,13 +18,13 @@
 struct  ColorBlock_t6_60 
 {
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_NormalColor
-	Color_t5_164  ___m_NormalColor_0;
+	Color_t5_165  ___m_NormalColor_0;
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_HighlightedColor
-	Color_t5_164  ___m_HighlightedColor_1;
+	Color_t5_165  ___m_HighlightedColor_1;
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_PressedColor
-	Color_t5_164  ___m_PressedColor_2;
+	Color_t5_165  ___m_PressedColor_2;
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_DisabledColor
-	Color_t5_164  ___m_DisabledColor_3;
+	Color_t5_165  ___m_DisabledColor_3;
 	// System.Single UnityEngine.UI.ColorBlock::m_ColorMultiplier
 	float ___m_ColorMultiplier_4;
 	// System.Single UnityEngine.UI.ColorBlock::m_FadeDuration

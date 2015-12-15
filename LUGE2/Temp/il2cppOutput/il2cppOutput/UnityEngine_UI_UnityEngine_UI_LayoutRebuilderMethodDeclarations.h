@@ -21,7 +21,7 @@ struct Transform_t5_71;
 // System.Collections.Generic.List`1<UnityEngine.Component>
 struct List_1_t1_894;
 // UnityEngine.Events.UnityAction`1<UnityEngine.Component>
-struct UnityAction_1_t5_318;
+struct UnityAction_1_t5_319;
 // System.Object
 struct Object_t;
 // System.String
@@ -53,9 +53,9 @@ extern "C" void LayoutRebuilder_ForceRebuildLayoutImmediate_m6_1342 (Object_t * 
 // System.Void UnityEngine.UI.LayoutRebuilder::Rebuild(UnityEngine.UI.CanvasUpdate)
 extern "C" void LayoutRebuilder_Rebuild_m6_1343 (LayoutRebuilder_t6_151 * __this, int32_t ___executing, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.LayoutRebuilder::PerformLayoutControl(UnityEngine.RectTransform,UnityEngine.Events.UnityAction`1<UnityEngine.Component>)
-extern "C" void LayoutRebuilder_PerformLayoutControl_m6_1344 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_318 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LayoutRebuilder_PerformLayoutControl_m6_1344 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_319 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.LayoutRebuilder::PerformLayoutCalculation(UnityEngine.RectTransform,UnityEngine.Events.UnityAction`1<UnityEngine.Component>)
-extern "C" void LayoutRebuilder_PerformLayoutCalculation_m6_1345 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_318 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void LayoutRebuilder_PerformLayoutCalculation_m6_1345 (LayoutRebuilder_t6_151 * __this, RectTransform_t5_70 * ___rect, UnityAction_1_t5_319 * ___action, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.LayoutRebuilder::MarkLayoutForRebuild(UnityEngine.RectTransform)
 extern "C" void LayoutRebuilder_MarkLayoutForRebuild_m6_1346 (Object_t * __this /* static, unused */, RectTransform_t5_70 * ___rect, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.LayoutRebuilder::ValidLayoutGroup(UnityEngine.RectTransform,System.Collections.Generic.List`1<UnityEngine.Component>)

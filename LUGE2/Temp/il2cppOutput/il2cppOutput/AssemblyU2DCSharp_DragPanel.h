@@ -18,7 +18,7 @@ struct RectTransform_t5_70;
 #include "UnityEngine_UnityEngine_Vector3.h"
 
 // DragPanel
-struct  DragPanel_t7_23  : public MonoBehaviour_t5_92
+struct  DragPanel_t7_24  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Vector2 DragPanel::originalLocalPointerPosition
 	Vector2_t5_44  ___originalLocalPointerPosition_2;

@@ -22,8 +22,8 @@ struct ByteU5BU5D_t1_70;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter::.ctor(System.Security.Cryptography.AsymmetricAlgorithm)
-extern "C" void RSAPKCS1KeyExchangeFormatter__ctor_m1_3900 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, AsymmetricAlgorithm_t1_537 * ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RSAPKCS1KeyExchangeFormatter__ctor_m1_3895 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, AsymmetricAlgorithm_t1_537 * ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Byte[] System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter::CreateKeyExchange(System.Byte[])
-extern "C" ByteU5BU5D_t1_70* RSAPKCS1KeyExchangeFormatter_CreateKeyExchange_m1_3901 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, ByteU5BU5D_t1_70* ___rgbData, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" ByteU5BU5D_t1_70* RSAPKCS1KeyExchangeFormatter_CreateKeyExchange_m1_3896 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, ByteU5BU5D_t1_70* ___rgbData, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Security.Cryptography.RSAPKCS1KeyExchangeFormatter::SetRSAKey(System.Security.Cryptography.AsymmetricAlgorithm)
-extern "C" void RSAPKCS1KeyExchangeFormatter_SetRSAKey_m1_3902 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, AsymmetricAlgorithm_t1_537 * ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void RSAPKCS1KeyExchangeFormatter_SetRSAKey_m1_3897 (RSAPKCS1KeyExchangeFormatter_t1_579 * __this, AsymmetricAlgorithm_t1_537 * ___key, const MethodInfo* method) IL2CPP_METHOD_ATTR;

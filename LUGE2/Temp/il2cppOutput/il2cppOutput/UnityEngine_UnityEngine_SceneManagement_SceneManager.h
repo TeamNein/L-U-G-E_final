@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.SceneManagement.SceneManager
-struct  SceneManager_t5_119  : public Object_t
+struct  SceneManager_t5_120  : public Object_t
 {
 };

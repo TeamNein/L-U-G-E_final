@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Reflection.AssemblyCopyrightAttribute::.ctor(System.String)
-extern "C" void AssemblyCopyrightAttribute__ctor_m1_2691 (AssemblyCopyrightAttribute_t1_305 * __this, String_t* ___copyright, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyCopyrightAttribute__ctor_m1_2686 (AssemblyCopyrightAttribute_t1_305 * __this, String_t* ___copyright, const MethodInfo* method) IL2CPP_METHOD_ATTR;

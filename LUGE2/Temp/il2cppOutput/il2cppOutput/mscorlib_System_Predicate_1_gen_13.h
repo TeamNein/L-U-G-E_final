@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Experimental.Director.Playable
-struct Playable_t5_117;
+struct Playable_t5_118;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

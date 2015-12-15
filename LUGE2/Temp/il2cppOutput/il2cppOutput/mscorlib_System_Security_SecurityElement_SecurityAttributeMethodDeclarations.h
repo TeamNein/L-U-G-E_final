@@ -20,8 +20,8 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.SecurityElement/SecurityAttribute::.ctor(System.String,System.String)
-extern "C" void SecurityAttribute__ctor_m1_4114 (SecurityAttribute_t1_619 * __this, String_t* ___name, String_t* ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SecurityAttribute__ctor_m1_4109 (SecurityAttribute_t1_619 * __this, String_t* ___name, String_t* ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Security.SecurityElement/SecurityAttribute::get_Name()
-extern "C" String_t* SecurityAttribute_get_Name_m1_4115 (SecurityAttribute_t1_619 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* SecurityAttribute_get_Name_m1_4110 (SecurityAttribute_t1_619 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.Security.SecurityElement/SecurityAttribute::get_Value()
-extern "C" String_t* SecurityAttribute_get_Value_m1_4116 (SecurityAttribute_t1_619 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* SecurityAttribute_get_Value_m1_4111 (SecurityAttribute_t1_619 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

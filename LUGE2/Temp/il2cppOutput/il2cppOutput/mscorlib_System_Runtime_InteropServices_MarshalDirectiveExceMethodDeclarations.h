@@ -21,6 +21,6 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Runtime.InteropServices.MarshalDirectiveException::.ctor()
-extern "C" void MarshalDirectiveException__ctor_m1_3049 (MarshalDirectiveException_t1_391 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MarshalDirectiveException__ctor_m1_3044 (MarshalDirectiveException_t1_391 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Runtime.InteropServices.MarshalDirectiveException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void MarshalDirectiveException__ctor_m1_3050 (MarshalDirectiveException_t1_391 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MarshalDirectiveException__ctor_m1_3045 (MarshalDirectiveException_t1_391 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

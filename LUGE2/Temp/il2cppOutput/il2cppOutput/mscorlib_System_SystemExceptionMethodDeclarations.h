@@ -25,10 +25,10 @@ struct Exception_t1_33;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.SystemException::.ctor()
-extern "C" void SystemException__ctor_m1_5302 (SystemException_t1_147 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SystemException__ctor_m1_5297 (SystemException_t1_147 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.SystemException::.ctor(System.String)
-extern "C" void SystemException__ctor_m1_5303 (SystemException_t1_147 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SystemException__ctor_m1_5298 (SystemException_t1_147 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.SystemException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void SystemException__ctor_m1_5304 (SystemException_t1_147 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SystemException__ctor_m1_5299 (SystemException_t1_147 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.SystemException::.ctor(System.String,System.Exception)
-extern "C" void SystemException__ctor_m1_5305 (SystemException_t1_147 * __this, String_t* ___message, Exception_t1_33 * ___innerException, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SystemException__ctor_m1_5300 (SystemException_t1_147 * __this, String_t* ___message, Exception_t1_33 * ___innerException, const MethodInfo* method) IL2CPP_METHOD_ATTR;

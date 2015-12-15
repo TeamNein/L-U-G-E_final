@@ -11,37 +11,37 @@
 #include <stdint.h>
 
 // UnityEngine.AudioClip
-struct AudioClip_t5_146;
+struct AudioClip_t5_147;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // LayBombs
-struct LayBombs_t7_15;
+struct LayBombs_t7_16;
 // PickupSpawner
-struct PickupSpawner_t7_16;
+struct PickupSpawner_t7_17;
 // UnityEngine.ParticleSystem
-struct ParticleSystem_t5_122;
+struct ParticleSystem_t5_123;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Bomb
-struct  Bomb_t7_14  : public MonoBehaviour_t5_92
+struct  Bomb_t7_15  : public MonoBehaviour_t5_93
 {
 	// System.Single Bomb::bombRadius
 	float ___bombRadius_2;
 	// System.Single Bomb::bombForce
 	float ___bombForce_3;
 	// UnityEngine.AudioClip Bomb::boom
-	AudioClip_t5_146 * ___boom_4;
+	AudioClip_t5_147 * ___boom_4;
 	// UnityEngine.AudioClip Bomb::fuse
-	AudioClip_t5_146 * ___fuse_5;
+	AudioClip_t5_147 * ___fuse_5;
 	// System.Single Bomb::fuseTime
 	float ___fuseTime_6;
 	// UnityEngine.GameObject Bomb::explosion
-	GameObject_t5_100 * ___explosion_7;
+	GameObject_t5_101 * ___explosion_7;
 	// LayBombs Bomb::layBombs
-	LayBombs_t7_15 * ___layBombs_8;
+	LayBombs_t7_16 * ___layBombs_8;
 	// PickupSpawner Bomb::pickupSpawner
-	PickupSpawner_t7_16 * ___pickupSpawner_9;
+	PickupSpawner_t7_17 * ___pickupSpawner_9;
 	// UnityEngine.ParticleSystem Bomb::explosionFX
-	ParticleSystem_t5_122 * ___explosionFX_10;
+	ParticleSystem_t5_123 * ___explosionFX_10;
 };

@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.Events.UnityAction
-struct  UnityAction_t5_265  : public MulticastDelegate_t1_21
+struct  UnityAction_t5_266  : public MulticastDelegate_t1_21
 {
 };

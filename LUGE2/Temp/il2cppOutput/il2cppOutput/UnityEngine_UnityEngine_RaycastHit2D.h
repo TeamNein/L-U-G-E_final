@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.Collider2D
-struct Collider2D_t5_136;
+struct Collider2D_t5_137;
 
 #include "mscorlib_System_ValueType.h"
 #include "UnityEngine_UnityEngine_Vector2.h"
 
 // UnityEngine.RaycastHit2D
-struct  RaycastHit2D_t5_135 
+struct  RaycastHit2D_t5_136 
 {
 	// UnityEngine.Vector2 UnityEngine.RaycastHit2D::m_Centroid
 	Vector2_t5_44  ___m_Centroid_0;
@@ -30,5 +30,5 @@ struct  RaycastHit2D_t5_135
 	// System.Single UnityEngine.RaycastHit2D::m_Fraction
 	float ___m_Fraction_4;
 	// UnityEngine.Collider2D UnityEngine.RaycastHit2D::m_Collider
-	Collider2D_t5_136 * ___m_Collider_5;
+	Collider2D_t5_137 * ___m_Collider_5;
 };

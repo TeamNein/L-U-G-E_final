@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.CanvasGroup
-struct CanvasGroup_t5_177;
+struct CanvasGroup_t5_178;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

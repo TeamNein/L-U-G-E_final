@@ -19,4 +19,4 @@ struct DefaultDependencyAttribute_t1_371;
 #include "mscorlib_System_Runtime_CompilerServices_LoadHint.h"
 
 // System.Void System.Runtime.CompilerServices.DefaultDependencyAttribute::.ctor(System.Runtime.CompilerServices.LoadHint)
-extern "C" void DefaultDependencyAttribute__ctor_m1_3024 (DefaultDependencyAttribute_t1_371 * __this, int32_t ___loadHintArgument, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DefaultDependencyAttribute__ctor_m1_3019 (DefaultDependencyAttribute_t1_371 * __this, int32_t ___loadHintArgument, const MethodInfo* method) IL2CPP_METHOD_ATTR;

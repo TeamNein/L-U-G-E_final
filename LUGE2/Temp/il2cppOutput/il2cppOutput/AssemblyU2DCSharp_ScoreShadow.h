@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ScoreShadow
-struct  ScoreShadow_t7_43  : public MonoBehaviour_t5_92
+struct  ScoreShadow_t7_44  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.GameObject ScoreShadow::guiCopy
-	GameObject_t5_100 * ___guiCopy_2;
+	GameObject_t5_101 * ___guiCopy_2;
 };

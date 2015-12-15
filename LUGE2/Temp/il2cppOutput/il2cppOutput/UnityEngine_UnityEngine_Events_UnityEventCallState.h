@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_Events_UnityEventCallState.h"
 
 // UnityEngine.Events.UnityEventCallState
-struct  UnityEventCallState_t5_266 
+struct  UnityEventCallState_t5_267 
 {
 	// System.Int32 UnityEngine.Events.UnityEventCallState::value__
 	int32_t ___value___1;

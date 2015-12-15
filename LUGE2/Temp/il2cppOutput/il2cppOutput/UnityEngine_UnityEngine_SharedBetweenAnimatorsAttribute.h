@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.SharedBetweenAnimatorsAttribute
-struct  SharedBetweenAnimatorsAttribute_t5_259  : public Attribute_t1_2
+struct  SharedBetweenAnimatorsAttribute_t5_260  : public Attribute_t1_2
 {
 };

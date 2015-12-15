@@ -11,18 +11,18 @@
 #include <stdint.h>
 
 // UnityEngine.GUISkin
-struct GUISkin_t5_188;
+struct GUISkin_t5_189;
 // UnityEngineInternal.GenericStack
-struct GenericStack_t5_189;
+struct GenericStack_t5_190;
 
 #include "mscorlib_System_Object.h"
 #include "mscorlib_System_DateTime.h"
 
 // UnityEngine.GUI
-struct  GUI_t5_187  : public Object_t
+struct  GUI_t5_188  : public Object_t
 {
 };
-struct GUI_t5_187_StaticFields{
+struct GUI_t5_188_StaticFields{
 	// System.Single UnityEngine.GUI::s_ScrollStepSize
 	float ___s_ScrollStepSize_0;
 	// System.Int32 UnityEngine.GUI::s_HotTextField
@@ -42,9 +42,9 @@ struct GUI_t5_187_StaticFields{
 	// System.Int32 UnityEngine.GUI::s_ScrollviewHash
 	int32_t ___s_ScrollviewHash_8;
 	// UnityEngine.GUISkin UnityEngine.GUI::s_Skin
-	GUISkin_t5_188 * ___s_Skin_9;
+	GUISkin_t5_189 * ___s_Skin_9;
 	// UnityEngineInternal.GenericStack UnityEngine.GUI::s_ScrollViewStates
-	GenericStack_t5_189 * ___s_ScrollViewStates_10;
+	GenericStack_t5_190 * ___s_ScrollViewStates_10;
 	// System.DateTime UnityEngine.GUI::<nextScrollStepTime>k__BackingField
 	DateTime_t1_126  ___U3CnextScrollStepTimeU3Ek__BackingField_11;
 };

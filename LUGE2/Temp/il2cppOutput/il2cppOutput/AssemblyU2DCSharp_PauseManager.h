@@ -11,15 +11,15 @@
 #include <stdint.h>
 
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // PauseManager
-struct  PauseManager_t7_34  : public MonoBehaviour_t5_92
+struct  PauseManager_t7_35  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.Canvas PauseManager::canvas
-	Canvas_t5_176 * ___canvas_2;
+	Canvas_t5_177 * ___canvas_2;
 	// System.Boolean PauseManager::en
 	bool ___en_3;
 };

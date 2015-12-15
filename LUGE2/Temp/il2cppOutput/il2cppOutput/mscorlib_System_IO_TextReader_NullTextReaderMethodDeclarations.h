@@ -20,6 +20,6 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.IO.TextReader/NullTextReader::.ctor()
-extern "C" void NullTextReader__ctor_m1_2333 (NullTextReader_t1_254 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NullTextReader__ctor_m1_2330 (NullTextReader_t1_254 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.String System.IO.TextReader/NullTextReader::ReadLine()
-extern "C" String_t* NullTextReader_ReadLine_m1_2334 (NullTextReader_t1_254 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" String_t* NullTextReader_ReadLine_m1_2331 (NullTextReader_t1_254 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

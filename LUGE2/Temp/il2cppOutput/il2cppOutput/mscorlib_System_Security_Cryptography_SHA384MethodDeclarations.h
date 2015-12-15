@@ -18,4 +18,4 @@ struct SHA384_t1_593;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.SHA384::.ctor()
-extern "C" void SHA384__ctor_m1_3971 (SHA384_t1_593 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SHA384__ctor_m1_3966 (SHA384_t1_593 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

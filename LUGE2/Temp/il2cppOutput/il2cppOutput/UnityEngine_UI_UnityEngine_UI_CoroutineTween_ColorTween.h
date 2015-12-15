@@ -23,9 +23,9 @@ struct  ColorTween_t6_49
 	// UnityEngine.UI.CoroutineTween.ColorTween/ColorTweenCallback UnityEngine.UI.CoroutineTween.ColorTween::m_Target
 	ColorTweenCallback_t6_48 * ___m_Target_0;
 	// UnityEngine.Color UnityEngine.UI.CoroutineTween.ColorTween::m_StartColor
-	Color_t5_164  ___m_StartColor_1;
+	Color_t5_165  ___m_StartColor_1;
 	// UnityEngine.Color UnityEngine.UI.CoroutineTween.ColorTween::m_TargetColor
-	Color_t5_164  ___m_TargetColor_2;
+	Color_t5_165  ___m_TargetColor_2;
 	// UnityEngine.UI.CoroutineTween.ColorTween/ColorTweenMode UnityEngine.UI.CoroutineTween.ColorTween::m_TweenMode
 	int32_t ___m_TweenMode_3;
 	// System.Single UnityEngine.UI.CoroutineTween.ColorTween::m_Duration

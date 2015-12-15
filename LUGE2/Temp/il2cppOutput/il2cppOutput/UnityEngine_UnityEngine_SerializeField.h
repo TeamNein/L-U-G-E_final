@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.SerializeField
-struct  SerializeField_t5_74  : public Attribute_t1_2
+struct  SerializeField_t5_75  : public Attribute_t1_2
 {
 };

@@ -11,19 +11,19 @@
 #include <stdint.h>
 
 // UnityEngine.Camera/CameraCallback
-struct CameraCallback_t5_84;
+struct CameraCallback_t5_85;
 
 #include "UnityEngine_UnityEngine_Behaviour.h"
 
 // UnityEngine.Camera
-struct  Camera_t5_85  : public Behaviour_t5_30
+struct  Camera_t5_86  : public Behaviour_t5_30
 {
 };
-struct Camera_t5_85_StaticFields{
+struct Camera_t5_86_StaticFields{
 	// UnityEngine.Camera/CameraCallback UnityEngine.Camera::onPreCull
-	CameraCallback_t5_84 * ___onPreCull_2;
+	CameraCallback_t5_85 * ___onPreCull_2;
 	// UnityEngine.Camera/CameraCallback UnityEngine.Camera::onPreRender
-	CameraCallback_t5_84 * ___onPreRender_3;
+	CameraCallback_t5_85 * ___onPreRender_3;
 	// UnityEngine.Camera/CameraCallback UnityEngine.Camera::onPostRender
-	CameraCallback_t5_84 * ___onPostRender_4;
+	CameraCallback_t5_85 * ___onPostRender_4;
 };

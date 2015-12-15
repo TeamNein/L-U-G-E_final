@@ -22,8 +22,8 @@ struct DecoderFallbackBuffer_t1_632;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Text.Decoder::.ctor()
-extern "C" void Decoder__ctor_m1_4176 (Decoder_t1_219 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Decoder__ctor_m1_4171 (Decoder_t1_219 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Text.Decoder::set_Fallback(System.Text.DecoderFallback)
-extern "C" void Decoder_set_Fallback_m1_4177 (Decoder_t1_219 * __this, DecoderFallback_t1_631 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Decoder_set_Fallback_m1_4172 (Decoder_t1_219 * __this, DecoderFallback_t1_631 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Text.DecoderFallbackBuffer System.Text.Decoder::get_FallbackBuffer()
-extern "C" DecoderFallbackBuffer_t1_632 * Decoder_get_FallbackBuffer_m1_4178 (Decoder_t1_219 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" DecoderFallbackBuffer_t1_632 * Decoder_get_FallbackBuffer_m1_4173 (Decoder_t1_219 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

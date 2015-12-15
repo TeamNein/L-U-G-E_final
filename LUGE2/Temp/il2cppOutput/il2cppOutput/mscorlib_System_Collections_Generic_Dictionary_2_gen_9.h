@@ -15,7 +15,7 @@ struct Int32U5BU5D_t1_159;
 // System.Collections.Generic.Link[]
 struct LinkU5BU5D_t1_995;
 // UnityEngine.GameObject[]
-struct GameObjectU5BU5D_t5_326;
+struct GameObjectU5BU5D_t5_327;
 // System.Collections.Generic.IEqualityComparer`1<System.Int32>
 struct IEqualityComparer_1_t1_1261;
 // System.Runtime.Serialization.SerializationInfo
@@ -35,7 +35,7 @@ struct  Dictionary_2_t1_952  : public Object_t
 	// TKey[] System.Collections.Generic.Dictionary`2::keySlots
 	Int32U5BU5D_t1_159* ___keySlots_6;
 	// TValue[] System.Collections.Generic.Dictionary`2::valueSlots
-	GameObjectU5BU5D_t5_326* ___valueSlots_7;
+	GameObjectU5BU5D_t5_327* ___valueSlots_7;
 	// System.Int32 System.Collections.Generic.Dictionary`2::touchedSlots
 	int32_t ___touchedSlots_8;
 	// System.Int32 System.Collections.Generic.Dictionary`2::emptySlot

@@ -17,7 +17,7 @@ struct Transform_t5_71;
 #include "UnityEngine_UnityEngine_Vector2.h"
 
 // CameraFollow
-struct  CameraFollow_t7_18  : public MonoBehaviour_t5_92
+struct  CameraFollow_t7_19  : public MonoBehaviour_t5_93
 {
 	// System.Single CameraFollow::xMargin
 	float ___xMargin_2;

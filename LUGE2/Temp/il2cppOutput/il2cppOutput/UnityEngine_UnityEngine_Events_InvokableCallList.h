@@ -16,7 +16,7 @@ struct List_1_t1_888;
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.Events.InvokableCallList
-struct  InvokableCallList_t5_269  : public Object_t
+struct  InvokableCallList_t5_270  : public Object_t
 {
 	// System.Collections.Generic.List`1<UnityEngine.Events.BaseInvokableCall> UnityEngine.Events.InvokableCallList::m_PersistentCalls
 	List_1_t1_888 * ___m_PersistentCalls_0;

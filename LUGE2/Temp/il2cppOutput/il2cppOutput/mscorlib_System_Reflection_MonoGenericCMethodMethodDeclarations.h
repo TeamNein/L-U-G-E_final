@@ -20,6 +20,6 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Reflection.MonoGenericCMethod::.ctor()
-extern "C" void MonoGenericCMethod__ctor_m1_2858 (MonoGenericCMethod_t1_339 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MonoGenericCMethod__ctor_m1_2853 (MonoGenericCMethod_t1_339 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Type System.Reflection.MonoGenericCMethod::get_ReflectedType()
-extern "C" Type_t * MonoGenericCMethod_get_ReflectedType_m1_2859 (MonoGenericCMethod_t1_339 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Type_t * MonoGenericCMethod_get_ReflectedType_m1_2854 (MonoGenericCMethod_t1_339 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

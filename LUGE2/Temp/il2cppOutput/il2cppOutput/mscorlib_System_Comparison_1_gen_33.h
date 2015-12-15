@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 // System.IAsyncResult
 struct IAsyncResult_t1_27;
 // System.AsyncCallback

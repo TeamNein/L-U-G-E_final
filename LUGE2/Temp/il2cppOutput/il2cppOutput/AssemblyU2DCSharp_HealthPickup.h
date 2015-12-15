@@ -11,25 +11,25 @@
 #include <stdint.h>
 
 // UnityEngine.AudioClip
-struct AudioClip_t5_146;
+struct AudioClip_t5_147;
 // PickupSpawner
-struct PickupSpawner_t7_16;
+struct PickupSpawner_t7_17;
 // UnityEngine.Animator
-struct Animator_t5_155;
+struct Animator_t5_156;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // HealthPickup
-struct  HealthPickup_t7_30  : public MonoBehaviour_t5_92
+struct  HealthPickup_t7_31  : public MonoBehaviour_t5_93
 {
 	// System.Single HealthPickup::healthBonus
 	float ___healthBonus_2;
 	// UnityEngine.AudioClip HealthPickup::collect
-	AudioClip_t5_146 * ___collect_3;
+	AudioClip_t5_147 * ___collect_3;
 	// PickupSpawner HealthPickup::pickupSpawner
-	PickupSpawner_t7_16 * ___pickupSpawner_4;
+	PickupSpawner_t7_17 * ___pickupSpawner_4;
 	// UnityEngine.Animator HealthPickup::anim
-	Animator_t5_155 * ___anim_5;
+	Animator_t5_156 * ___anim_5;
 	// System.Boolean HealthPickup::landed
 	bool ___landed_6;
 };

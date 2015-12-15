@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.Sprite>
 struct List_1_t1_934;
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_1365
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	Sprite_t5_78 * ___current_3;
+	Sprite_t5_79 * ___current_3;
 };

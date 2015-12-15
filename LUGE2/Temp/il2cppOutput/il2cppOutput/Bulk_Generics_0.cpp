@@ -142,60 +142,60 @@ struct DefaultComparer_t1_965;
 #include "mscorlib_System_SByte.h"
 
 // !!0 System.Array::InternalArray__get_Item<System.Object>(System.Int32)
-extern "C" Object_t * Array_InternalArray__get_Item_TisObject_t_m1_12463_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisObject_t_m1_12463(__this, p0, method) (( Object_t * (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisObject_t_m1_12463_gshared)(__this, p0, method)
+extern "C" Object_t * Array_InternalArray__get_Item_TisObject_t_m1_12458_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisObject_t_m1_12458(__this, p0, method) (( Object_t * (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisObject_t_m1_12458_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Char>(System.Int32)
-extern "C" uint16_t Array_InternalArray__get_Item_TisChar_t1_15_m1_12472_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisChar_t1_15_m1_12472(__this, p0, method) (( uint16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisChar_t1_15_m1_12472_gshared)(__this, p0, method)
+extern "C" uint16_t Array_InternalArray__get_Item_TisChar_t1_15_m1_12467_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisChar_t1_15_m1_12467(__this, p0, method) (( uint16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisChar_t1_15_m1_12467_gshared)(__this, p0, method)
 // System.Int32 System.Array::IndexOf<System.Object>(!!0[],!!0,System.Int32,System.Int32)
-extern "C" int32_t Array_IndexOf_TisObject_t_m1_5468_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, Object_t * p1, int32_t p2, int32_t p3, const MethodInfo* method);
-#define Array_IndexOf_TisObject_t_m1_5468(__this /* static, unused */, p0, p1, p2, p3, method) (( int32_t (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, Object_t *, int32_t, int32_t, const MethodInfo*))Array_IndexOf_TisObject_t_m1_5468_gshared)(__this /* static, unused */, p0, p1, p2, p3, method)
+extern "C" int32_t Array_IndexOf_TisObject_t_m1_5463_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, Object_t * p1, int32_t p2, int32_t p3, const MethodInfo* method);
+#define Array_IndexOf_TisObject_t_m1_5463(__this /* static, unused */, p0, p1, p2, p3, method) (( int32_t (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, Object_t *, int32_t, int32_t, const MethodInfo*))Array_IndexOf_TisObject_t_m1_5463_gshared)(__this /* static, unused */, p0, p1, p2, p3, method)
 // System.Void System.Array::Sort<System.Object>(!!0[],System.Int32,System.Int32,System.Collections.Generic.IComparer`1<!!0>)
-extern "C" void Array_Sort_TisObject_t_m1_12483_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, int32_t p1, int32_t p2, Object_t* p3, const MethodInfo* method);
-#define Array_Sort_TisObject_t_m1_12483(__this /* static, unused */, p0, p1, p2, p3, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, int32_t, int32_t, Object_t*, const MethodInfo*))Array_Sort_TisObject_t_m1_12483_gshared)(__this /* static, unused */, p0, p1, p2, p3, method)
+extern "C" void Array_Sort_TisObject_t_m1_12478_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, int32_t p1, int32_t p2, Object_t* p3, const MethodInfo* method);
+#define Array_Sort_TisObject_t_m1_12478(__this /* static, unused */, p0, p1, p2, p3, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, int32_t, int32_t, Object_t*, const MethodInfo*))Array_Sort_TisObject_t_m1_12478_gshared)(__this /* static, unused */, p0, p1, p2, p3, method)
 // System.Void System.Array::Sort<System.Object>(!!0[],System.Int32,System.Comparison`1<!!0>)
-extern "C" void Array_Sort_TisObject_t_m1_12507_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, int32_t p1, Comparison_1_t1_968 * p2, const MethodInfo* method);
-#define Array_Sort_TisObject_t_m1_12507(__this /* static, unused */, p0, p1, p2, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, int32_t, Comparison_1_t1_968 *, const MethodInfo*))Array_Sort_TisObject_t_m1_12507_gshared)(__this /* static, unused */, p0, p1, p2, method)
+extern "C" void Array_Sort_TisObject_t_m1_12502_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156* p0, int32_t p1, Comparison_1_t1_968 * p2, const MethodInfo* method);
+#define Array_Sort_TisObject_t_m1_12502(__this /* static, unused */, p0, p1, p2, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156*, int32_t, Comparison_1_t1_968 *, const MethodInfo*))Array_Sort_TisObject_t_m1_12502_gshared)(__this /* static, unused */, p0, p1, p2, method)
 // System.Void System.Array::Resize<System.Object>(!!0[]&,System.Int32)
-extern "C" void Array_Resize_TisObject_t_m1_12481_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156** p0, int32_t p1, const MethodInfo* method);
-#define Array_Resize_TisObject_t_m1_12481(__this /* static, unused */, p0, p1, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156**, int32_t, const MethodInfo*))Array_Resize_TisObject_t_m1_12481_gshared)(__this /* static, unused */, p0, p1, method)
+extern "C" void Array_Resize_TisObject_t_m1_12476_gshared (Object_t * __this /* static, unused */, ObjectU5BU5D_t1_156** p0, int32_t p1, const MethodInfo* method);
+#define Array_Resize_TisObject_t_m1_12476(__this /* static, unused */, p0, p1, method) (( void (*) (Object_t * /* static, unused */, ObjectU5BU5D_t1_156**, int32_t, const MethodInfo*))Array_Resize_TisObject_t_m1_12476_gshared)(__this /* static, unused */, p0, p1, method)
 // !!0 System.Array::InternalArray__get_Item<System.Int32>(System.Int32)
-extern "C" int32_t Array_InternalArray__get_Item_TisInt32_t1_3_m1_12486_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisInt32_t1_3_m1_12486(__this, p0, method) (( int32_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisInt32_t1_3_m1_12486_gshared)(__this, p0, method)
+extern "C" int32_t Array_InternalArray__get_Item_TisInt32_t1_3_m1_12481_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisInt32_t1_3_m1_12481(__this, p0, method) (( int32_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisInt32_t1_3_m1_12481_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Double>(System.Int32)
-extern "C" double Array_InternalArray__get_Item_TisDouble_t1_18_m1_12495_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisDouble_t1_18_m1_12495(__this, p0, method) (( double (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisDouble_t1_18_m1_12495_gshared)(__this, p0, method)
+extern "C" double Array_InternalArray__get_Item_TisDouble_t1_18_m1_12490_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisDouble_t1_18_m1_12490(__this, p0, method) (( double (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisDouble_t1_18_m1_12490_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Byte>(System.Int32)
-extern "C" uint8_t Array_InternalArray__get_Item_TisByte_t1_11_m1_12510_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisByte_t1_11_m1_12510(__this, p0, method) (( uint8_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisByte_t1_11_m1_12510_gshared)(__this, p0, method)
+extern "C" uint8_t Array_InternalArray__get_Item_TisByte_t1_11_m1_12505_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisByte_t1_11_m1_12505(__this, p0, method) (( uint8_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisByte_t1_11_m1_12505_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Single>(System.Int32)
-extern "C" float Array_InternalArray__get_Item_TisSingle_t1_17_m1_12519_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisSingle_t1_17_m1_12519(__this, p0, method) (( float (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisSingle_t1_17_m1_12519_gshared)(__this, p0, method)
+extern "C" float Array_InternalArray__get_Item_TisSingle_t1_17_m1_12514_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisSingle_t1_17_m1_12514(__this, p0, method) (( float (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisSingle_t1_17_m1_12514_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Reflection.ParameterModifier>(System.Int32)
-extern "C" ParameterModifier_t1_347  Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12528_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12528(__this, p0, method) (( ParameterModifier_t1_347  (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12528_gshared)(__this, p0, method)
+extern "C" ParameterModifier_t1_347  Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12523_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12523(__this, p0, method) (( ParameterModifier_t1_347  (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisParameterModifier_t1_347_m1_12523_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.UInt16>(System.Int32)
-extern "C" uint16_t Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12537_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12537(__this, p0, method) (( uint16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12537_gshared)(__this, p0, method)
+extern "C" uint16_t Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12532_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12532(__this, p0, method) (( uint16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt16_t1_14_m1_12532_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.UInt32>(System.Int32)
-extern "C" uint32_t Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12546_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12546(__this, p0, method) (( uint32_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12546_gshared)(__this, p0, method)
+extern "C" uint32_t Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12541_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12541(__this, p0, method) (( uint32_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt32_t1_8_m1_12541_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.UInt64>(System.Int32)
-extern "C" uint64_t Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12555_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12555(__this, p0, method) (( uint64_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12555_gshared)(__this, p0, method)
+extern "C" uint64_t Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12550_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12550(__this, p0, method) (( uint64_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisUInt64_t1_10_m1_12550_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.Int16>(System.Int32)
-extern "C" int16_t Array_InternalArray__get_Item_TisInt16_t1_13_m1_12564_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisInt16_t1_13_m1_12564(__this, p0, method) (( int16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisInt16_t1_13_m1_12564_gshared)(__this, p0, method)
+extern "C" int16_t Array_InternalArray__get_Item_TisInt16_t1_13_m1_12559_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisInt16_t1_13_m1_12559(__this, p0, method) (( int16_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisInt16_t1_13_m1_12559_gshared)(__this, p0, method)
 // !!0 System.Array::InternalArray__get_Item<System.SByte>(System.Int32)
-extern "C" int8_t Array_InternalArray__get_Item_TisSByte_t1_12_m1_12573_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
-#define Array_InternalArray__get_Item_TisSByte_t1_12_m1_12573(__this, p0, method) (( int8_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisSByte_t1_12_m1_12573_gshared)(__this, p0, method)
+extern "C" int8_t Array_InternalArray__get_Item_TisSByte_t1_12_m1_12568_gshared (Array_t * __this, int32_t p0, const MethodInfo* method);
+#define Array_InternalArray__get_Item_TisSByte_t1_12_m1_12568(__this, p0, method) (( int8_t (*) (Array_t *, int32_t, const MethodInfo*))Array_InternalArray__get_Item_TisSByte_t1_12_m1_12568_gshared)(__this, p0, method)
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // System.Void System.Array/InternalEnumerator`1<System.Object>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5577_gshared (InternalEnumerator_1_t1_954 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5572_gshared (InternalEnumerator_1_t1_954 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -205,7 +205,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5577_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Object>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5578_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5573_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -213,7 +213,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_557
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Object>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5579_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5574_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = (( Object_t * (*) (InternalEnumerator_1_t1_954 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_954 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -221,7 +221,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Object>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5580_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5575_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -229,7 +229,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5580_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Object>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5581_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5576_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -279,7 +279,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" Object_t * InternalEnumerator_1_get_Current_m1_5582_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_get_Current_m1_5577_gshared (InternalEnumerator_1_t1_954 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -298,7 +298,7 @@ extern "C" Object_t * InternalEnumerator_1_get_Current_m1_5582_gshared (Internal
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -312,7 +312,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -329,7 +329,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Char>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5583_gshared (InternalEnumerator_1_t1_955 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5578_gshared (InternalEnumerator_1_t1_955 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -339,7 +339,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5583_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Char>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5584_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5579_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -347,7 +347,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_558
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Char>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5585_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5580_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
 {
 	{
 		uint16_t L_0 = (( uint16_t (*) (InternalEnumerator_1_t1_955 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_955 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -357,7 +357,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Char>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5586_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5581_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -365,7 +365,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5586_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Char>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5587_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5582_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -415,7 +415,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5588_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
+extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5583_gshared (InternalEnumerator_1_t1_955 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -434,7 +434,7 @@ extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5588_gshared (InternalEn
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -448,7 +448,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -465,7 +465,7 @@ IL_002f:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::.ctor()
-extern "C" void List_1__ctor_m1_5595_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" void List_1__ctor_m1_5590_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((Object_t *)__this);
@@ -479,7 +479,7 @@ extern "C" void List_1__ctor_m1_5595_gshared (List_1_t1_948 * __this, const Meth
 // System.Void System.Collections.Generic.List`1<System.Object>::.ctor(System.Int32)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral491;
-extern "C" void List_1__ctor_m1_5597_gshared (List_1_t1_948 * __this, int32_t ___capacity, const MethodInfo* method)
+extern "C" void List_1__ctor_m1_5592_gshared (List_1_t1_948 * __this, int32_t ___capacity, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -499,7 +499,7 @@ extern "C" void List_1__ctor_m1_5597_gshared (List_1_t1_948 * __this, int32_t __
 	}
 	{
 		ArgumentOutOfRangeException_t1_684 * L_1 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_1, (String_t*)_stringLiteral491, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_1, (String_t*)_stringLiteral491, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -511,7 +511,7 @@ IL_0018:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::.cctor()
-extern "C" void List_1__cctor_m1_5599_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" void List_1__cctor_m1_5594_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	{
 		((List_1_t1_948_StaticFields*)IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->static_fields)->___EmptyArray_4 = ((ObjectU5BU5D_t1_156*)SZArrayNew(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 1), 0));
@@ -519,7 +519,7 @@ extern "C" void List_1__cctor_m1_5599_gshared (Object_t * __this /* static, unus
 	}
 }
 // System.Collections.Generic.IEnumerator`1<T> System.Collections.Generic.List`1<System.Object>::System.Collections.Generic.IEnumerable<T>.GetEnumerator()
-extern "C" Object_t* List_1_System_Collections_Generic_IEnumerableU3CTU3E_GetEnumerator_m1_5601_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" Object_t* List_1_System_Collections_Generic_IEnumerableU3CTU3E_GetEnumerator_m1_5596_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((List_1_t1_948 *)__this);
@@ -530,7 +530,7 @@ extern "C" Object_t* List_1_System_Collections_Generic_IEnumerableU3CTU3E_GetEnu
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::System.Collections.ICollection.CopyTo(System.Array,System.Int32)
-extern "C" void List_1_System_Collections_ICollection_CopyTo_m1_5603_gshared (List_1_t1_948 * __this, Array_t * ___array, int32_t ___arrayIndex, const MethodInfo* method)
+extern "C" void List_1_System_Collections_ICollection_CopyTo_m1_5598_gshared (List_1_t1_948 * __this, Array_t * ___array, int32_t ___arrayIndex, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -542,7 +542,7 @@ extern "C" void List_1_System_Collections_ICollection_CopyTo_m1_5603_gshared (Li
 	}
 }
 // System.Collections.IEnumerator System.Collections.Generic.List`1<System.Object>::System.Collections.IEnumerable.GetEnumerator()
-extern "C" Object_t * List_1_System_Collections_IEnumerable_GetEnumerator_m1_5605_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" Object_t * List_1_System_Collections_IEnumerable_GetEnumerator_m1_5600_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((List_1_t1_948 *)__this);
@@ -557,7 +557,7 @@ extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral506;
-extern "C" int32_t List_1_System_Collections_IList_Add_m1_5607_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" int32_t List_1_System_Collections_IList_Add_m1_5602_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -616,7 +616,7 @@ CATCH_0025:
 IL_002b:
 	{
 		ArgumentException_t1_636 * L_2 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_2, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_2, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -629,7 +629,7 @@ IL_0036:
 // System.Boolean System.Collections.Generic.List`1<System.Object>::System.Collections.IList.Contains(System.Object)
 extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
-extern "C" bool List_1_System_Collections_IList_Contains_m1_5609_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool List_1_System_Collections_IList_Contains_m1_5604_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -696,7 +696,7 @@ IL_0025:
 // System.Int32 System.Collections.Generic.List`1<System.Object>::System.Collections.IList.IndexOf(System.Object)
 extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
-extern "C" int32_t List_1_System_Collections_IList_IndexOf_m1_5611_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" int32_t List_1_System_Collections_IList_IndexOf_m1_5606_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -765,7 +765,7 @@ extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral506;
-extern "C" void List_1_System_Collections_IList_Insert_m1_5613_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void List_1_System_Collections_IList_Insert_m1_5608_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -827,7 +827,7 @@ CATCH_0024:
 IL_002a:
 	{
 		ArgumentException_t1_636 * L_3 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_3, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_3, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -839,7 +839,7 @@ IL_0035:
 // System.Void System.Collections.Generic.List`1<System.Object>::System.Collections.IList.Remove(System.Object)
 extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
-extern "C" void List_1_System_Collections_IList_Remove_m1_5615_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" void List_1_System_Collections_IList_Remove_m1_5610_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -896,42 +896,42 @@ IL_0023:
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::System.Collections.Generic.ICollection<T>.get_IsReadOnly()
-extern "C" bool List_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5617_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" bool List_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5612_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		return 0;
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::System.Collections.ICollection.get_IsSynchronized()
-extern "C" bool List_1_System_Collections_ICollection_get_IsSynchronized_m1_5619_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" bool List_1_System_Collections_ICollection_get_IsSynchronized_m1_5614_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		return 0;
 	}
 }
 // System.Object System.Collections.Generic.List`1<System.Object>::System.Collections.ICollection.get_SyncRoot()
-extern "C" Object_t * List_1_System_Collections_ICollection_get_SyncRoot_m1_5621_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" Object_t * List_1_System_Collections_ICollection_get_SyncRoot_m1_5616_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		return __this;
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::System.Collections.IList.get_IsFixedSize()
-extern "C" bool List_1_System_Collections_IList_get_IsFixedSize_m1_5623_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" bool List_1_System_Collections_IList_get_IsFixedSize_m1_5618_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		return 0;
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::System.Collections.IList.get_IsReadOnly()
-extern "C" bool List_1_System_Collections_IList_get_IsReadOnly_m1_5625_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" bool List_1_System_Collections_IList_get_IsReadOnly_m1_5620_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		return 0;
 	}
 }
 // System.Object System.Collections.Generic.List`1<System.Object>::System.Collections.IList.get_Item(System.Int32)
-extern "C" Object_t * List_1_System_Collections_IList_get_Item_m1_5627_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * List_1_System_Collections_IList_get_Item_m1_5622_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -945,7 +945,7 @@ extern TypeInfo* NullReferenceException_t1_740_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidCastException_t1_722_il2cpp_TypeInfo_var;
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral52;
-extern "C" void List_1_System_Collections_IList_set_Item_m1_5629_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void List_1_System_Collections_IList_set_Item_m1_5624_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1002,7 +1002,7 @@ CATCH_001d:
 IL_0023:
 	{
 		ArgumentException_t1_636 * L_2 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_2, (String_t*)_stringLiteral52, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_2, (String_t*)_stringLiteral52, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -1012,7 +1012,7 @@ IL_002e:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Add(T)
-extern "C" void List_1_Add_m1_5631_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" void List_1_Add_m1_5626_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -1047,7 +1047,7 @@ IL_001a:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::GrowIfNeeded(System.Int32)
-extern "C" void List_1_GrowIfNeeded_m1_5633_gshared (List_1_t1_948 * __this, int32_t ___newCount, const MethodInfo* method)
+extern "C" void List_1_GrowIfNeeded_m1_5628_gshared (List_1_t1_948 * __this, int32_t ___newCount, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -1065,9 +1065,9 @@ extern "C" void List_1_GrowIfNeeded_m1_5633_gshared (List_1_t1_948 * __this, int
 	{
 		NullCheck((List_1_t1_948 *)__this);
 		int32_t L_4 = (( int32_t (*) (List_1_t1_948 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 14)->method)((List_1_t1_948 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 14));
-		int32_t L_5 = Math_Max_m1_5052(NULL /*static, unused*/, (int32_t)((int32_t)((int32_t)L_4*(int32_t)2)), (int32_t)4, /*hidden argument*/NULL);
+		int32_t L_5 = Math_Max_m1_5047(NULL /*static, unused*/, (int32_t)((int32_t)((int32_t)L_4*(int32_t)2)), (int32_t)4, /*hidden argument*/NULL);
 		int32_t L_6 = V_0;
-		int32_t L_7 = Math_Max_m1_5052(NULL /*static, unused*/, (int32_t)L_5, (int32_t)L_6, /*hidden argument*/NULL);
+		int32_t L_7 = Math_Max_m1_5047(NULL /*static, unused*/, (int32_t)L_5, (int32_t)L_6, /*hidden argument*/NULL);
 		NullCheck((List_1_t1_948 *)__this);
 		(( void (*) (List_1_t1_948 *, int32_t, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 15)->method)((List_1_t1_948 *)__this, (int32_t)L_7, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 15));
 	}
@@ -1078,7 +1078,7 @@ IL_0031:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::AddCollection(System.Collections.Generic.ICollection`1<T>)
-extern "C" void List_1_AddCollection_m1_5635_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
+extern "C" void List_1_AddCollection_m1_5630_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -1115,7 +1115,7 @@ IL_000e:
 // System.Void System.Collections.Generic.List`1<System.Object>::AddEnumerable(System.Collections.Generic.IEnumerable`1<T>)
 extern TypeInfo* IEnumerator_t1_129_il2cpp_TypeInfo_var;
 extern TypeInfo* IDisposable_t1_824_il2cpp_TypeInfo_var;
-extern "C" void List_1_AddEnumerable_m1_5637_gshared (List_1_t1_948 * __this, Object_t* ___enumerable, const MethodInfo* method)
+extern "C" void List_1_AddEnumerable_m1_5632_gshared (List_1_t1_948 * __this, Object_t* ___enumerable, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1214,7 +1214,7 @@ IL_0035:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::AddRange(System.Collections.Generic.IEnumerable`1<T>)
-extern "C" void List_1_AddRange_m1_5639_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
+extern "C" void List_1_AddRange_m1_5634_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
 {
 	Object_t* V_0 = {0};
 	{
@@ -1251,7 +1251,7 @@ IL_0027:
 	}
 }
 // System.Collections.ObjectModel.ReadOnlyCollection`1<T> System.Collections.Generic.List`1<System.Object>::AsReadOnly()
-extern "C" ReadOnlyCollection_1_t1_869 * List_1_AsReadOnly_m1_5641_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" ReadOnlyCollection_1_t1_869 * List_1_AsReadOnly_m1_5636_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		ReadOnlyCollection_1_t1_869 * L_0 = (ReadOnlyCollection_1_t1_869 *)il2cpp_codegen_object_new (IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 22));
@@ -1260,7 +1260,7 @@ extern "C" ReadOnlyCollection_1_t1_869 * List_1_AsReadOnly_m1_5641_gshared (List
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Clear()
-extern "C" void List_1_Clear_m1_5643_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" void List_1_Clear_m1_5638_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1274,7 +1274,7 @@ extern "C" void List_1_Clear_m1_5643_gshared (List_1_t1_948 * __this, const Meth
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::Contains(T)
-extern "C" bool List_1_Contains_m1_5645_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool List_1_Contains_m1_5640_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1285,7 +1285,7 @@ extern "C" bool List_1_Contains_m1_5645_gshared (List_1_t1_948 * __this, Object_
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::CopyTo(T[],System.Int32)
-extern "C" void List_1_CopyTo_m1_5647_gshared (List_1_t1_948 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___arrayIndex, const MethodInfo* method)
+extern "C" void List_1_CopyTo_m1_5642_gshared (List_1_t1_948 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___arrayIndex, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1298,7 +1298,7 @@ extern "C" void List_1_CopyTo_m1_5647_gshared (List_1_t1_948 * __this, ObjectU5B
 }
 // T System.Collections.Generic.List`1<System.Object>::Find(System.Predicate`1<T>)
 extern TypeInfo* Object_t_il2cpp_TypeInfo_var;
-extern "C" Object_t * List_1_Find_m1_5649_gshared (List_1_t1_948 * __this, Predicate_1_t1_963 * ___match, const MethodInfo* method)
+extern "C" Object_t * List_1_Find_m1_5644_gshared (List_1_t1_948 * __this, Predicate_1_t1_963 * ___match, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1349,7 +1349,7 @@ IL_0036:
 // System.Void System.Collections.Generic.List`1<System.Object>::CheckMatch(System.Predicate`1<T>)
 extern TypeInfo* ArgumentNullException_t1_683_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral188;
-extern "C" void List_1_CheckMatch_m1_5651_gshared (Object_t * __this /* static, unused */, Predicate_1_t1_963 * ___match, const MethodInfo* method)
+extern "C" void List_1_CheckMatch_m1_5646_gshared (Object_t * __this /* static, unused */, Predicate_1_t1_963 * ___match, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1367,7 +1367,7 @@ extern "C" void List_1_CheckMatch_m1_5651_gshared (Object_t * __this /* static, 
 	}
 	{
 		ArgumentNullException_t1_683 * L_1 = (ArgumentNullException_t1_683 *)il2cpp_codegen_object_new (ArgumentNullException_t1_683_il2cpp_TypeInfo_var);
-		ArgumentNullException__ctor_m1_4576(L_1, (String_t*)_stringLiteral188, /*hidden argument*/NULL);
+		ArgumentNullException__ctor_m1_4571(L_1, (String_t*)_stringLiteral188, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -1377,7 +1377,7 @@ IL_0011:
 	}
 }
 // System.Int32 System.Collections.Generic.List`1<System.Object>::GetIndex(System.Int32,System.Int32,System.Predicate`1<T>)
-extern "C" int32_t List_1_GetIndex_m1_5653_gshared (List_1_t1_948 * __this, int32_t ___startIndex, int32_t ___count, Predicate_1_t1_963 * ___match, const MethodInfo* method)
+extern "C" int32_t List_1_GetIndex_m1_5648_gshared (List_1_t1_948 * __this, int32_t ___startIndex, int32_t ___count, Predicate_1_t1_963 * ___match, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t V_1 = 0;
@@ -1430,7 +1430,7 @@ IL_0028:
 	}
 }
 // System.Collections.Generic.List`1/Enumerator<T> System.Collections.Generic.List`1<System.Object>::GetEnumerator()
-extern "C" Enumerator_t1_957  List_1_GetEnumerator_m1_5655_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" Enumerator_t1_957  List_1_GetEnumerator_m1_5650_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		Enumerator_t1_957  L_0 = {0};
@@ -1439,7 +1439,7 @@ extern "C" Enumerator_t1_957  List_1_GetEnumerator_m1_5655_gshared (List_1_t1_94
 	}
 }
 // System.Int32 System.Collections.Generic.List`1<System.Object>::IndexOf(T)
-extern "C" int32_t List_1_IndexOf_m1_5657_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" int32_t List_1_IndexOf_m1_5652_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1450,7 +1450,7 @@ extern "C" int32_t List_1_IndexOf_m1_5657_gshared (List_1_t1_948 * __this, Objec
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Shift(System.Int32,System.Int32)
-extern "C" void List_1_Shift_m1_5659_gshared (List_1_t1_948 * __this, int32_t ___start, int32_t ___delta, const MethodInfo* method)
+extern "C" void List_1_Shift_m1_5654_gshared (List_1_t1_948 * __this, int32_t ___start, int32_t ___delta, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___delta;
@@ -1511,7 +1511,7 @@ IL_005d:
 // System.Void System.Collections.Generic.List`1<System.Object>::CheckIndex(System.Int32)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral144;
-extern "C" void List_1_CheckIndex_m1_5661_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void List_1_CheckIndex_m1_5656_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1539,7 +1539,7 @@ extern "C" void List_1_CheckIndex_m1_5661_gshared (List_1_t1_948 * __this, int32
 IL_0013:
 	{
 		ArgumentOutOfRangeException_t1_684 * L_3 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -1549,7 +1549,7 @@ IL_001e:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Insert(System.Int32,T)
-extern "C" void List_1_Insert_m1_5663_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void List_1_Insert_m1_5658_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -1587,7 +1587,7 @@ IL_0021:
 // System.Void System.Collections.Generic.List`1<System.Object>::CheckCollection(System.Collections.Generic.IEnumerable`1<T>)
 extern TypeInfo* ArgumentNullException_t1_683_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral507;
-extern "C" void List_1_CheckCollection_m1_5665_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
+extern "C" void List_1_CheckCollection_m1_5660_gshared (List_1_t1_948 * __this, Object_t* ___collection, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1605,7 +1605,7 @@ extern "C" void List_1_CheckCollection_m1_5665_gshared (List_1_t1_948 * __this, 
 	}
 	{
 		ArgumentNullException_t1_683 * L_1 = (ArgumentNullException_t1_683 *)il2cpp_codegen_object_new (ArgumentNullException_t1_683_il2cpp_TypeInfo_var);
-		ArgumentNullException__ctor_m1_4576(L_1, (String_t*)_stringLiteral507, /*hidden argument*/NULL);
+		ArgumentNullException__ctor_m1_4571(L_1, (String_t*)_stringLiteral507, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -1615,7 +1615,7 @@ IL_0011:
 	}
 }
 // System.Boolean System.Collections.Generic.List`1<System.Object>::Remove(T)
-extern "C" bool List_1_Remove_m1_5667_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool List_1_Remove_m1_5662_gshared (List_1_t1_948 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -1642,7 +1642,7 @@ IL_0016:
 	}
 }
 // System.Int32 System.Collections.Generic.List`1<System.Object>::RemoveAll(System.Predicate`1<T>)
-extern "C" int32_t List_1_RemoveAll_m1_5669_gshared (List_1_t1_948 * __this, Predicate_1_t1_963 * ___match, const MethodInfo* method)
+extern "C" int32_t List_1_RemoveAll_m1_5664_gshared (List_1_t1_948 * __this, Predicate_1_t1_963 * ___match, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t V_1 = 0;
@@ -1786,7 +1786,7 @@ IL_00bd:
 // System.Void System.Collections.Generic.List`1<System.Object>::RemoveAt(System.Int32)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral144;
-extern "C" void List_1_RemoveAt_m1_5671_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void List_1_RemoveAt_m1_5666_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1814,7 +1814,7 @@ extern "C" void List_1_RemoveAt_m1_5671_gshared (List_1_t1_948 * __this, int32_t
 IL_0013:
 	{
 		ArgumentOutOfRangeException_t1_684 * L_3 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -1832,7 +1832,7 @@ IL_001e:
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Reverse()
-extern "C" void List_1_Reverse_m1_5673_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" void List_1_Reverse_m1_5668_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1844,7 +1844,7 @@ extern "C" void List_1_Reverse_m1_5673_gshared (List_1_t1_948 * __this, const Me
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Sort()
-extern "C" void List_1_Sort_m1_5675_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" void List_1_Sort_m1_5670_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1858,7 +1858,7 @@ extern "C" void List_1_Sort_m1_5675_gshared (List_1_t1_948 * __this, const Metho
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::Sort(System.Comparison`1<T>)
-extern "C" void List_1_Sort_m1_5677_gshared (List_1_t1_948 * __this, Comparison_1_t1_968 * ___comparison, const MethodInfo* method)
+extern "C" void List_1_Sort_m1_5672_gshared (List_1_t1_948 * __this, Comparison_1_t1_968 * ___comparison, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1871,7 +1871,7 @@ extern "C" void List_1_Sort_m1_5677_gshared (List_1_t1_948 * __this, Comparison_
 	}
 }
 // T[] System.Collections.Generic.List`1<System.Object>::ToArray()
-extern "C" ObjectU5BU5D_t1_156* List_1_ToArray_m1_5678_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t1_156* List_1_ToArray_m1_5673_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	ObjectU5BU5D_t1_156* V_0 = {0};
 	{
@@ -1886,7 +1886,7 @@ extern "C" ObjectU5BU5D_t1_156* List_1_ToArray_m1_5678_gshared (List_1_t1_948 * 
 	}
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::TrimExcess()
-extern "C" void List_1_TrimExcess_m1_5680_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" void List_1_TrimExcess_m1_5675_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (int32_t)(__this->____size_2);
@@ -1896,7 +1896,7 @@ extern "C" void List_1_TrimExcess_m1_5680_gshared (List_1_t1_948 * __this, const
 	}
 }
 // System.Int32 System.Collections.Generic.List`1<System.Object>::get_Capacity()
-extern "C" int32_t List_1_get_Capacity_m1_5682_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" int32_t List_1_get_Capacity_m1_5677_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		ObjectU5BU5D_t1_156* L_0 = (ObjectU5BU5D_t1_156*)(__this->____items_1);
@@ -1906,7 +1906,7 @@ extern "C" int32_t List_1_get_Capacity_m1_5682_gshared (List_1_t1_948 * __this, 
 }
 // System.Void System.Collections.Generic.List`1<System.Object>::set_Capacity(System.Int32)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
-extern "C" void List_1_set_Capacity_m1_5684_gshared (List_1_t1_948 * __this, int32_t ___value, const MethodInfo* method)
+extern "C" void List_1_set_Capacity_m1_5679_gshared (List_1_t1_948 * __this, int32_t ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1924,7 +1924,7 @@ extern "C" void List_1_set_Capacity_m1_5684_gshared (List_1_t1_948 * __this, int
 	}
 	{
 		ArgumentOutOfRangeException_t1_684 * L_2 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4579(L_2, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4574(L_2, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -1937,7 +1937,7 @@ IL_0012:
 	}
 }
 // System.Int32 System.Collections.Generic.List`1<System.Object>::get_Count()
-extern "C" int32_t List_1_get_Count_m1_5686_gshared (List_1_t1_948 * __this, const MethodInfo* method)
+extern "C" int32_t List_1_get_Count_m1_5681_gshared (List_1_t1_948 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (int32_t)(__this->____size_2);
@@ -1947,7 +1947,7 @@ extern "C" int32_t List_1_get_Count_m1_5686_gshared (List_1_t1_948 * __this, con
 // T System.Collections.Generic.List`1<System.Object>::get_Item(System.Int32)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral144;
-extern "C" Object_t * List_1_get_Item_m1_5688_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * List_1_get_Item_m1_5683_gshared (List_1_t1_948 * __this, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1966,7 +1966,7 @@ extern "C" Object_t * List_1_get_Item_m1_5688_gshared (List_1_t1_948 * __this, i
 	}
 	{
 		ArgumentOutOfRangeException_t1_684 * L_2 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_2, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_2, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -1983,7 +1983,7 @@ IL_0017:
 // System.Void System.Collections.Generic.List`1<System.Object>::set_Item(System.Int32,T)
 extern TypeInfo* ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral144;
-extern "C" void List_1_set_Item_m1_5690_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void List_1_set_Item_m1_5685_gshared (List_1_t1_948 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2005,7 +2005,7 @@ extern "C" void List_1_set_Item_m1_5690_gshared (List_1_t1_948 * __this, int32_t
 	}
 	{
 		ArgumentOutOfRangeException_t1_684 * L_3 = (ArgumentOutOfRangeException_t1_684 *)il2cpp_codegen_object_new (ArgumentOutOfRangeException_t1_684_il2cpp_TypeInfo_var);
-		ArgumentOutOfRangeException__ctor_m1_4580(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
+		ArgumentOutOfRangeException__ctor_m1_4575(L_3, (String_t*)_stringLiteral144, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -2021,7 +2021,7 @@ IL_001e:
 	}
 }
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Object>::.ctor(System.Collections.Generic.List`1<T>)
-extern "C" void Enumerator__ctor_m1_5691_gshared (Enumerator_t1_957 * __this, List_1_t1_948 * ___l, const MethodInfo* method)
+extern "C" void Enumerator__ctor_m1_5686_gshared (Enumerator_t1_957 * __this, List_1_t1_948 * ___l, const MethodInfo* method)
 {
 	{
 		List_1_t1_948 * L_0 = ___l;
@@ -2034,7 +2034,7 @@ extern "C" void Enumerator__ctor_m1_5691_gshared (Enumerator_t1_957 * __this, Li
 	}
 }
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Object>::System.Collections.IEnumerator.Reset()
-extern "C" void Enumerator_System_Collections_IEnumerator_Reset_m1_5692_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" void Enumerator_System_Collections_IEnumerator_Reset_m1_5687_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	{
 		(( void (*) (Enumerator_t1_957 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((Enumerator_t1_957 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -2044,7 +2044,7 @@ extern "C" void Enumerator_System_Collections_IEnumerator_Reset_m1_5692_gshared 
 }
 // System.Object System.Collections.Generic.List`1/Enumerator<System.Object>::System.Collections.IEnumerator.get_Current()
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
-extern "C" Object_t * Enumerator_System_Collections_IEnumerator_get_Current_m1_5693_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" Object_t * Enumerator_System_Collections_IEnumerator_get_Current_m1_5688_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2062,7 +2062,7 @@ extern "C" Object_t * Enumerator_System_Collections_IEnumerator_get_Current_m1_5
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5039(L_1, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5034(L_1, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -2073,7 +2073,7 @@ IL_0018:
 	}
 }
 // System.Void System.Collections.Generic.List`1/Enumerator<System.Object>::Dispose()
-extern "C" void Enumerator_Dispose_m1_5694_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" void Enumerator_Dispose_m1_5689_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	{
 		__this->___l_0 = (List_1_t1_948 *)NULL;
@@ -2084,7 +2084,7 @@ extern "C" void Enumerator_Dispose_m1_5694_gshared (Enumerator_t1_957 * __this, 
 extern TypeInfo* ObjectDisposedException_t1_743_il2cpp_TypeInfo_var;
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral508;
-extern "C" void Enumerator_VerifyState_m1_5695_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" void Enumerator_VerifyState_m1_5690_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2109,7 +2109,7 @@ extern "C" void Enumerator_VerifyState_m1_5695_gshared (Enumerator_t1_957 * __th
 		NullCheck((Type_t *)L_3);
 		String_t* L_4 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(18 /* System.String System.Type::get_FullName() */, (Type_t *)L_3);
 		ObjectDisposedException_t1_743 * L_5 = (ObjectDisposedException_t1_743 *)il2cpp_codegen_object_new (ObjectDisposedException_t1_743_il2cpp_TypeInfo_var);
-		ObjectDisposedException__ctor_m1_5262(L_5, (String_t*)L_4, /*hidden argument*/NULL);
+		ObjectDisposedException__ctor_m1_5257(L_5, (String_t*)L_4, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_5);
 	}
 
@@ -2126,7 +2126,7 @@ IL_0026:
 	}
 	{
 		InvalidOperationException_t1_723 * L_9 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_9, (String_t*)_stringLiteral508, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_9, (String_t*)_stringLiteral508, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_9);
 	}
 
@@ -2136,7 +2136,7 @@ IL_0047:
 	}
 }
 // System.Boolean System.Collections.Generic.List`1/Enumerator<System.Object>::MoveNext()
-extern "C" bool Enumerator_MoveNext_m1_5696_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" bool Enumerator_MoveNext_m1_5691_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -2185,7 +2185,7 @@ IL_0053:
 	}
 }
 // T System.Collections.Generic.List`1/Enumerator<System.Object>::get_Current()
-extern "C" Object_t * Enumerator_get_Current_m1_5697_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
+extern "C" Object_t * Enumerator_get_Current_m1_5692_gshared (Enumerator_t1_957 * __this, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = (Object_t *)(__this->___current_3);
@@ -2195,7 +2195,7 @@ extern "C" Object_t * Enumerator_get_Current_m1_5697_gshared (Enumerator_t1_957 
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::.ctor(System.Collections.Generic.IList`1<T>)
 extern TypeInfo* ArgumentNullException_t1_683_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral509;
-extern "C" void ReadOnlyCollection_1__ctor_m1_5698_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t* ___list, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1__ctor_m1_5693_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t* ___list, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2215,7 +2215,7 @@ extern "C" void ReadOnlyCollection_1__ctor_m1_5698_gshared (ReadOnlyCollection_1
 	}
 	{
 		ArgumentNullException_t1_683 * L_1 = (ArgumentNullException_t1_683 *)il2cpp_codegen_object_new (ArgumentNullException_t1_683_il2cpp_TypeInfo_var);
-		ArgumentNullException__ctor_m1_4576(L_1, (String_t*)_stringLiteral509, /*hidden argument*/NULL);
+		ArgumentNullException__ctor_m1_4571(L_1, (String_t*)_stringLiteral509, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -2228,7 +2228,7 @@ IL_0017:
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.ICollection<T>.Add(T)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Add_m1_5699_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Add_m1_5694_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2238,13 +2238,13 @@ extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.ICollection<T>.Clear()
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Clear_m1_5700_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Clear_m1_5695_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2254,13 +2254,13 @@ extern "C" void ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.IList<T>.Insert(System.Int32,T)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_Insert_m1_5701_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_Insert_m1_5696_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2270,13 +2270,13 @@ extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_Ins
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.ICollection<T>.Remove(T)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Remove_m1_5702_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_Remove_m1_5697_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2286,13 +2286,13 @@ extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.IList<T>.RemoveAt(System.Int32)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_RemoveAt_m1_5703_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_RemoveAt_m1_5698_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2302,12 +2302,12 @@ extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_Rem
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // T System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.IList<T>.get_Item(System.Int32)
-extern "C" Object_t * ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_get_Item_m1_5704_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_get_Item_m1_5699_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -2318,7 +2318,7 @@ extern "C" Object_t * ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.IList<T>.set_Item(System.Int32,T)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_set_Item_m1_5705_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_set_Item_m1_5700_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2328,12 +2328,12 @@ extern "C" void ReadOnlyCollection_1_System_Collections_Generic_IListU3CTU3E_set
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.Generic.ICollection<T>.get_IsReadOnly()
-extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5706_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5701_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		return 1;
@@ -2341,7 +2341,7 @@ extern "C" bool ReadOnlyCollection_1_System_Collections_Generic_ICollectionU3CTU
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.ICollection.CopyTo(System.Array,System.Int32)
 extern TypeInfo* ICollection_t1_800_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_ICollection_CopyTo_m1_5707_gshared (ReadOnlyCollection_1_t1_869 * __this, Array_t * ___array, int32_t ___index, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_ICollection_CopyTo_m1_5702_gshared (ReadOnlyCollection_1_t1_869 * __this, Array_t * ___array, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2360,7 +2360,7 @@ extern "C" void ReadOnlyCollection_1_System_Collections_ICollection_CopyTo_m1_57
 }
 // System.Collections.IEnumerator System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IEnumerable.GetEnumerator()
 extern TypeInfo* IEnumerable_t1_825_il2cpp_TypeInfo_var;
-extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IEnumerable_GetEnumerator_m1_5708_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IEnumerable_GetEnumerator_m1_5703_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2377,7 +2377,7 @@ extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IEnumerable_GetEnu
 }
 // System.Int32 System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.Add(System.Object)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" int32_t ReadOnlyCollection_1_System_Collections_IList_Add_m1_5709_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" int32_t ReadOnlyCollection_1_System_Collections_IList_Add_m1_5704_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2387,13 +2387,13 @@ extern "C" int32_t ReadOnlyCollection_1_System_Collections_IList_Add_m1_5709_gsh
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.Clear()
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_IList_Clear_m1_5710_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_IList_Clear_m1_5705_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2403,12 +2403,12 @@ extern "C" void ReadOnlyCollection_1_System_Collections_IList_Clear_m1_5710_gsha
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.Contains(System.Object)
-extern "C" bool ReadOnlyCollection_1_System_Collections_IList_Contains_m1_5711_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_IList_Contains_m1_5706_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___value;
@@ -2432,7 +2432,7 @@ IL_001d:
 	}
 }
 // System.Int32 System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.IndexOf(System.Object)
-extern "C" int32_t ReadOnlyCollection_1_System_Collections_IList_IndexOf_m1_5712_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" int32_t ReadOnlyCollection_1_System_Collections_IList_IndexOf_m1_5707_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___value;
@@ -2457,7 +2457,7 @@ IL_001d:
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.Insert(System.Int32,System.Object)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_IList_Insert_m1_5713_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_IList_Insert_m1_5708_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2467,13 +2467,13 @@ extern "C" void ReadOnlyCollection_1_System_Collections_IList_Insert_m1_5713_gsh
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.Remove(System.Object)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_IList_Remove_m1_5714_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_IList_Remove_m1_5709_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2483,13 +2483,13 @@ extern "C" void ReadOnlyCollection_1_System_Collections_IList_Remove_m1_5714_gsh
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.RemoveAt(System.Int32)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_IList_RemoveAt_m1_5715_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_IList_RemoveAt_m1_5710_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2499,40 +2499,40 @@ extern "C" void ReadOnlyCollection_1_System_Collections_IList_RemoveAt_m1_5715_g
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.ICollection.get_IsSynchronized()
-extern "C" bool ReadOnlyCollection_1_System_Collections_ICollection_get_IsSynchronized_m1_5716_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_ICollection_get_IsSynchronized_m1_5711_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		return 0;
 	}
 }
 // System.Object System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.ICollection.get_SyncRoot()
-extern "C" Object_t * ReadOnlyCollection_1_System_Collections_ICollection_get_SyncRoot_m1_5717_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" Object_t * ReadOnlyCollection_1_System_Collections_ICollection_get_SyncRoot_m1_5712_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		return __this;
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.get_IsFixedSize()
-extern "C" bool ReadOnlyCollection_1_System_Collections_IList_get_IsFixedSize_m1_5718_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_IList_get_IsFixedSize_m1_5713_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		return 1;
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.get_IsReadOnly()
-extern "C" bool ReadOnlyCollection_1_System_Collections_IList_get_IsReadOnly_m1_5719_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_System_Collections_IList_get_IsReadOnly_m1_5714_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		return 1;
 	}
 }
 // System.Object System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.get_Item(System.Int32)
-extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IList_get_Item_m1_5720_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IList_get_Item_m1_5715_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2544,7 +2544,7 @@ extern "C" Object_t * ReadOnlyCollection_1_System_Collections_IList_get_Item_m1_
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::System.Collections.IList.set_Item(System.Int32,System.Object)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void ReadOnlyCollection_1_System_Collections_IList_set_Item_m1_5721_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_System_Collections_IList_set_Item_m1_5716_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2554,12 +2554,12 @@ extern "C" void ReadOnlyCollection_1_System_Collections_IList_set_Item_m1_5721_g
 	}
 	{
 		NotSupportedException_t1_739 * L_0 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_0, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_0, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_0);
 	}
 }
 // System.Boolean System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::Contains(T)
-extern "C" bool ReadOnlyCollection_1_Contains_m1_5722_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" bool ReadOnlyCollection_1_Contains_m1_5717_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2570,7 +2570,7 @@ extern "C" bool ReadOnlyCollection_1_Contains_m1_5722_gshared (ReadOnlyCollectio
 	}
 }
 // System.Void System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::CopyTo(T[],System.Int32)
-extern "C" void ReadOnlyCollection_1_CopyTo_m1_5723_gshared (ReadOnlyCollection_1_t1_869 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___index, const MethodInfo* method)
+extern "C" void ReadOnlyCollection_1_CopyTo_m1_5718_gshared (ReadOnlyCollection_1_t1_869 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2582,7 +2582,7 @@ extern "C" void ReadOnlyCollection_1_CopyTo_m1_5723_gshared (ReadOnlyCollection_
 	}
 }
 // System.Collections.Generic.IEnumerator`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::GetEnumerator()
-extern "C" Object_t* ReadOnlyCollection_1_GetEnumerator_m1_5724_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" Object_t* ReadOnlyCollection_1_GetEnumerator_m1_5719_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2592,7 +2592,7 @@ extern "C" Object_t* ReadOnlyCollection_1_GetEnumerator_m1_5724_gshared (ReadOnl
 	}
 }
 // System.Int32 System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::IndexOf(T)
-extern "C" int32_t ReadOnlyCollection_1_IndexOf_m1_5725_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" int32_t ReadOnlyCollection_1_IndexOf_m1_5720_gshared (ReadOnlyCollection_1_t1_869 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2603,7 +2603,7 @@ extern "C" int32_t ReadOnlyCollection_1_IndexOf_m1_5725_gshared (ReadOnlyCollect
 	}
 }
 // System.Int32 System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::get_Count()
-extern "C" int32_t ReadOnlyCollection_1_get_Count_m1_5726_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
+extern "C" int32_t ReadOnlyCollection_1_get_Count_m1_5721_gshared (ReadOnlyCollection_1_t1_869 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2613,7 +2613,7 @@ extern "C" int32_t ReadOnlyCollection_1_get_Count_m1_5726_gshared (ReadOnlyColle
 	}
 }
 // T System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>::get_Item(System.Int32)
-extern "C" Object_t * ReadOnlyCollection_1_get_Item_m1_5727_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * ReadOnlyCollection_1_get_Item_m1_5722_gshared (ReadOnlyCollection_1_t1_869 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2625,7 +2625,7 @@ extern "C" Object_t * ReadOnlyCollection_1_get_Item_m1_5727_gshared (ReadOnlyCol
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::.ctor()
 extern TypeInfo* ICollection_t1_800_il2cpp_TypeInfo_var;
-extern "C" void Collection_1__ctor_m1_5728_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" void Collection_1__ctor_m1_5723_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2653,7 +2653,7 @@ extern "C" void Collection_1__ctor_m1_5728_gshared (Collection_1_t1_959 * __this
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.Generic.ICollection<T>.get_IsReadOnly()
-extern "C" bool Collection_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5729_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" bool Collection_1_System_Collections_Generic_ICollectionU3CTU3E_get_IsReadOnly_m1_5724_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2664,7 +2664,7 @@ extern "C" bool Collection_1_System_Collections_Generic_ICollectionU3CTU3E_get_I
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.ICollection.CopyTo(System.Array,System.Int32)
 extern TypeInfo* ICollection_t1_800_il2cpp_TypeInfo_var;
-extern "C" void Collection_1_System_Collections_ICollection_CopyTo_m1_5730_gshared (Collection_1_t1_959 * __this, Array_t * ___array, int32_t ___index, const MethodInfo* method)
+extern "C" void Collection_1_System_Collections_ICollection_CopyTo_m1_5725_gshared (Collection_1_t1_959 * __this, Array_t * ___array, int32_t ___index, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2682,7 +2682,7 @@ extern "C" void Collection_1_System_Collections_ICollection_CopyTo_m1_5730_gshar
 	}
 }
 // System.Collections.IEnumerator System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IEnumerable.GetEnumerator()
-extern "C" Object_t * Collection_1_System_Collections_IEnumerable_GetEnumerator_m1_5731_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" Object_t * Collection_1_System_Collections_IEnumerable_GetEnumerator_m1_5726_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2692,7 +2692,7 @@ extern "C" Object_t * Collection_1_System_Collections_IEnumerable_GetEnumerator_
 	}
 }
 // System.Int32 System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.Add(System.Object)
-extern "C" int32_t Collection_1_System_Collections_IList_Add_m1_5732_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" int32_t Collection_1_System_Collections_IList_Add_m1_5727_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -2710,7 +2710,7 @@ extern "C" int32_t Collection_1_System_Collections_IList_Add_m1_5732_gshared (Co
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.Contains(System.Object)
-extern "C" bool Collection_1_System_Collections_IList_Contains_m1_5733_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" bool Collection_1_System_Collections_IList_Contains_m1_5728_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___value;
@@ -2734,7 +2734,7 @@ IL_001d:
 	}
 }
 // System.Int32 System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.IndexOf(System.Object)
-extern "C" int32_t Collection_1_System_Collections_IList_IndexOf_m1_5734_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" int32_t Collection_1_System_Collections_IList_IndexOf_m1_5729_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___value;
@@ -2758,7 +2758,7 @@ IL_001d:
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.Insert(System.Int32,System.Object)
-extern "C" void Collection_1_System_Collections_IList_Insert_m1_5735_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void Collection_1_System_Collections_IList_Insert_m1_5730_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -2770,7 +2770,7 @@ extern "C" void Collection_1_System_Collections_IList_Insert_m1_5735_gshared (Co
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.Remove(System.Object)
-extern "C" void Collection_1_System_Collections_IList_Remove_m1_5736_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
+extern "C" void Collection_1_System_Collections_IList_Remove_m1_5731_gshared (Collection_1_t1_959 * __this, Object_t * ___value, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -2788,7 +2788,7 @@ extern "C" void Collection_1_System_Collections_IList_Remove_m1_5736_gshared (Co
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.ICollection.get_IsSynchronized()
-extern "C" bool Collection_1_System_Collections_ICollection_get_IsSynchronized_m1_5737_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" bool Collection_1_System_Collections_ICollection_get_IsSynchronized_m1_5732_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2797,7 +2797,7 @@ extern "C" bool Collection_1_System_Collections_ICollection_get_IsSynchronized_m
 	}
 }
 // System.Object System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.ICollection.get_SyncRoot()
-extern "C" Object_t * Collection_1_System_Collections_ICollection_get_SyncRoot_m1_5738_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" Object_t * Collection_1_System_Collections_ICollection_get_SyncRoot_m1_5733_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = (Object_t *)(__this->___syncRoot_1);
@@ -2805,7 +2805,7 @@ extern "C" Object_t * Collection_1_System_Collections_ICollection_get_SyncRoot_m
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.get_IsFixedSize()
-extern "C" bool Collection_1_System_Collections_IList_get_IsFixedSize_m1_5739_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" bool Collection_1_System_Collections_IList_get_IsFixedSize_m1_5734_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2814,7 +2814,7 @@ extern "C" bool Collection_1_System_Collections_IList_get_IsFixedSize_m1_5739_gs
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.get_IsReadOnly()
-extern "C" bool Collection_1_System_Collections_IList_get_IsReadOnly_m1_5740_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" bool Collection_1_System_Collections_IList_get_IsReadOnly_m1_5735_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2824,7 +2824,7 @@ extern "C" bool Collection_1_System_Collections_IList_get_IsReadOnly_m1_5740_gsh
 	}
 }
 // System.Object System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.get_Item(System.Int32)
-extern "C" Object_t * Collection_1_System_Collections_IList_get_Item_m1_5741_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * Collection_1_System_Collections_IList_get_Item_m1_5736_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2835,7 +2835,7 @@ extern "C" Object_t * Collection_1_System_Collections_IList_get_Item_m1_5741_gsh
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::System.Collections.IList.set_Item(System.Int32,System.Object)
-extern "C" void Collection_1_System_Collections_IList_set_Item_m1_5742_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void Collection_1_System_Collections_IList_set_Item_m1_5737_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -2847,7 +2847,7 @@ extern "C" void Collection_1_System_Collections_IList_set_Item_m1_5742_gshared (
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::Add(T)
-extern "C" void Collection_1_Add_m1_5743_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" void Collection_1_Add_m1_5738_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -2863,7 +2863,7 @@ extern "C" void Collection_1_Add_m1_5743_gshared (Collection_1_t1_959 * __this, 
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::Clear()
-extern "C" void Collection_1_Clear_m1_5744_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" void Collection_1_Clear_m1_5739_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((Collection_1_t1_959 *)__this);
@@ -2872,7 +2872,7 @@ extern "C" void Collection_1_Clear_m1_5744_gshared (Collection_1_t1_959 * __this
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::ClearItems()
-extern "C" void Collection_1_ClearItems_m1_5745_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" void Collection_1_ClearItems_m1_5740_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2882,7 +2882,7 @@ extern "C" void Collection_1_ClearItems_m1_5745_gshared (Collection_1_t1_959 * _
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::Contains(T)
-extern "C" bool Collection_1_Contains_m1_5746_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool Collection_1_Contains_m1_5741_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2893,7 +2893,7 @@ extern "C" bool Collection_1_Contains_m1_5746_gshared (Collection_1_t1_959 * __t
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::CopyTo(T[],System.Int32)
-extern "C" void Collection_1_CopyTo_m1_5747_gshared (Collection_1_t1_959 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___index, const MethodInfo* method)
+extern "C" void Collection_1_CopyTo_m1_5742_gshared (Collection_1_t1_959 * __this, ObjectU5BU5D_t1_156* ___array, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2905,7 +2905,7 @@ extern "C" void Collection_1_CopyTo_m1_5747_gshared (Collection_1_t1_959 * __thi
 	}
 }
 // System.Collections.Generic.IEnumerator`1<T> System.Collections.ObjectModel.Collection`1<System.Object>::GetEnumerator()
-extern "C" Object_t* Collection_1_GetEnumerator_m1_5748_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" Object_t* Collection_1_GetEnumerator_m1_5743_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2915,7 +2915,7 @@ extern "C" Object_t* Collection_1_GetEnumerator_m1_5748_gshared (Collection_1_t1
 	}
 }
 // System.Int32 System.Collections.ObjectModel.Collection`1<System.Object>::IndexOf(T)
-extern "C" int32_t Collection_1_IndexOf_m1_5749_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" int32_t Collection_1_IndexOf_m1_5744_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2926,7 +2926,7 @@ extern "C" int32_t Collection_1_IndexOf_m1_5749_gshared (Collection_1_t1_959 * _
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::Insert(System.Int32,T)
-extern "C" void Collection_1_Insert_m1_5750_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void Collection_1_Insert_m1_5745_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -2937,7 +2937,7 @@ extern "C" void Collection_1_Insert_m1_5750_gshared (Collection_1_t1_959 * __thi
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::InsertItem(System.Int32,T)
-extern "C" void Collection_1_InsertItem_m1_5751_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void Collection_1_InsertItem_m1_5746_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2949,7 +2949,7 @@ extern "C" void Collection_1_InsertItem_m1_5751_gshared (Collection_1_t1_959 * _
 	}
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::Remove(T)
-extern "C" bool Collection_1_Remove_m1_5752_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
+extern "C" bool Collection_1_Remove_m1_5747_gshared (Collection_1_t1_959 * __this, Object_t * ___item, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	{
@@ -2976,7 +2976,7 @@ IL_0011:
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::RemoveAt(System.Int32)
-extern "C" void Collection_1_RemoveAt_m1_5753_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void Collection_1_RemoveAt_m1_5748_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -2986,7 +2986,7 @@ extern "C" void Collection_1_RemoveAt_m1_5753_gshared (Collection_1_t1_959 * __t
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::RemoveItem(System.Int32)
-extern "C" void Collection_1_RemoveItem_m1_5754_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" void Collection_1_RemoveItem_m1_5749_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -2997,7 +2997,7 @@ extern "C" void Collection_1_RemoveItem_m1_5754_gshared (Collection_1_t1_959 * _
 	}
 }
 // System.Int32 System.Collections.ObjectModel.Collection`1<System.Object>::get_Count()
-extern "C" int32_t Collection_1_get_Count_m1_5755_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
+extern "C" int32_t Collection_1_get_Count_m1_5750_gshared (Collection_1_t1_959 * __this, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -3007,7 +3007,7 @@ extern "C" int32_t Collection_1_get_Count_m1_5755_gshared (Collection_1_t1_959 *
 	}
 }
 // T System.Collections.ObjectModel.Collection`1<System.Object>::get_Item(System.Int32)
-extern "C" Object_t * Collection_1_get_Item_m1_5756_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Object_t * Collection_1_get_Item_m1_5751_gshared (Collection_1_t1_959 * __this, int32_t ___index, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -3018,7 +3018,7 @@ extern "C" Object_t * Collection_1_get_Item_m1_5756_gshared (Collection_1_t1_959
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::set_Item(System.Int32,T)
-extern "C" void Collection_1_set_Item_m1_5757_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
+extern "C" void Collection_1_set_Item_m1_5752_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___value, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
@@ -3029,7 +3029,7 @@ extern "C" void Collection_1_set_Item_m1_5757_gshared (Collection_1_t1_959 * __t
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::SetItem(System.Int32,T)
-extern "C" void Collection_1_SetItem_m1_5758_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
+extern "C" void Collection_1_SetItem_m1_5753_gshared (Collection_1_t1_959 * __this, int32_t ___index, Object_t * ___item, const MethodInfo* method)
 {
 	{
 		Object_t* L_0 = (Object_t*)(__this->___list_0);
@@ -3042,7 +3042,7 @@ extern "C" void Collection_1_SetItem_m1_5758_gshared (Collection_1_t1_959 * __th
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::IsValidItem(System.Object)
 extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
-extern "C" bool Collection_1_IsValidItem_m1_5759_gshared (Object_t * __this /* static, unused */, Object_t * ___item, const MethodInfo* method)
+extern "C" bool Collection_1_IsValidItem_m1_5754_gshared (Object_t * __this /* static, unused */, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3099,7 +3099,7 @@ IL_0029:
 // T System.Collections.ObjectModel.Collection`1<System.Object>::ConvertItem(System.Object)
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral506;
-extern "C" Object_t * Collection_1_ConvertItem_m1_5760_gshared (Object_t * __this /* static, unused */, Object_t * ___item, const MethodInfo* method)
+extern "C" Object_t * Collection_1_ConvertItem_m1_5755_gshared (Object_t * __this /* static, unused */, Object_t * ___item, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3124,13 +3124,13 @@ extern "C" Object_t * Collection_1_ConvertItem_m1_5760_gshared (Object_t * __thi
 IL_0012:
 	{
 		ArgumentException_t1_636 * L_3 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_3, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_3, (String_t*)_stringLiteral506, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 }
 // System.Void System.Collections.ObjectModel.Collection`1<System.Object>::CheckWritable(System.Collections.Generic.IList`1<T>)
 extern TypeInfo* NotSupportedException_t1_739_il2cpp_TypeInfo_var;
-extern "C" void Collection_1_CheckWritable_m1_5761_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
+extern "C" void Collection_1_CheckWritable_m1_5756_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3149,7 +3149,7 @@ extern "C" void Collection_1_CheckWritable_m1_5761_gshared (Object_t * __this /*
 	}
 	{
 		NotSupportedException_t1_739 * L_2 = (NotSupportedException_t1_739 *)il2cpp_codegen_object_new (NotSupportedException_t1_739_il2cpp_TypeInfo_var);
-		NotSupportedException__ctor_m1_5158(L_2, /*hidden argument*/NULL);
+		NotSupportedException__ctor_m1_5153(L_2, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -3160,7 +3160,7 @@ IL_0011:
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::IsSynchronized(System.Collections.Generic.IList`1<T>)
 extern TypeInfo* ICollection_t1_800_il2cpp_TypeInfo_var;
-extern "C" bool Collection_1_IsSynchronized_m1_5762_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
+extern "C" bool Collection_1_IsSynchronized_m1_5757_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3199,7 +3199,7 @@ IL_0019:
 }
 // System.Boolean System.Collections.ObjectModel.Collection`1<System.Object>::IsFixedSize(System.Collections.Generic.IList`1<T>)
 extern TypeInfo* IList_t1_407_il2cpp_TypeInfo_var;
-extern "C" bool Collection_1_IsFixedSize_m1_5763_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
+extern "C" bool Collection_1_IsFixedSize_m1_5758_gshared (Object_t * __this /* static, unused */, Object_t* ___list, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3237,7 +3237,7 @@ IL_0019:
 	}
 }
 // System.Void System.Collections.Generic.EqualityComparer`1<System.Object>::.ctor()
-extern "C" void EqualityComparer_1__ctor_m1_5764_gshared (EqualityComparer_1_t1_960 * __this, const MethodInfo* method)
+extern "C" void EqualityComparer_1__ctor_m1_5759_gshared (EqualityComparer_1_t1_960 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((Object_t *)__this);
@@ -3249,12 +3249,12 @@ extern "C" void EqualityComparer_1__ctor_m1_5764_gshared (EqualityComparer_1_t1_
 extern const Il2CppType* GenericEqualityComparer_1_t1_1643_0_0_0_var;
 extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
 extern TypeInfo* TypeU5BU5D_t1_31_il2cpp_TypeInfo_var;
-extern "C" void EqualityComparer_1__cctor_m1_5765_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" void EqualityComparer_1__cctor_m1_5760_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GenericEqualityComparer_1_t1_1643_0_0_0_var = il2cpp_codegen_type_from_index(2742);
+		GenericEqualityComparer_1_t1_1643_0_0_0_var = il2cpp_codegen_type_from_index(2743);
 		Type_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(3);
 		TypeU5BU5D_t1_31_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(57);
 		s_Il2CppMethodIntialized = true;
@@ -3281,7 +3281,7 @@ extern "C" void EqualityComparer_1__cctor_m1_5765_gshared (Object_t * __this /* 
 		*((Type_t **)(Type_t **)SZArrayLdElema(L_4, 0, sizeof(Type_t *))) = (Type_t *)L_5;
 		NullCheck((Type_t *)L_3);
 		Type_t * L_6 = (Type_t *)VirtFuncInvoker1< Type_t *, TypeU5BU5D_t1_31* >::Invoke(77 /* System.Type System.Type::MakeGenericType(System.Type[]) */, (Type_t *)L_3, (TypeU5BU5D_t1_31*)L_4);
-		Object_t * L_7 = Activator_CreateInstance_m1_4537(NULL /*static, unused*/, (Type_t *)L_6, /*hidden argument*/NULL);
+		Object_t * L_7 = Activator_CreateInstance_m1_4532(NULL /*static, unused*/, (Type_t *)L_6, /*hidden argument*/NULL);
 		((EqualityComparer_1_t1_960_StaticFields*)IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 3)->static_fields)->____default_0 = ((EqualityComparer_1_t1_960 *)Castclass(L_7, IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 2)));
 		goto IL_005e;
 	}
@@ -3299,7 +3299,7 @@ IL_005e:
 	}
 }
 // System.Int32 System.Collections.Generic.EqualityComparer`1<System.Object>::System.Collections.IEqualityComparer.GetHashCode(System.Object)
-extern "C" int32_t EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m1_5766_gshared (EqualityComparer_1_t1_960 * __this, Object_t * ___obj, const MethodInfo* method)
+extern "C" int32_t EqualityComparer_1_System_Collections_IEqualityComparer_GetHashCode_m1_5761_gshared (EqualityComparer_1_t1_960 * __this, Object_t * ___obj, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___obj;
@@ -3309,7 +3309,7 @@ extern "C" int32_t EqualityComparer_1_System_Collections_IEqualityComparer_GetHa
 	}
 }
 // System.Boolean System.Collections.Generic.EqualityComparer`1<System.Object>::System.Collections.IEqualityComparer.Equals(System.Object,System.Object)
-extern "C" bool EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m1_5767_gshared (EqualityComparer_1_t1_960 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
+extern "C" bool EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m1_5762_gshared (EqualityComparer_1_t1_960 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___x;
@@ -3320,7 +3320,7 @@ extern "C" bool EqualityComparer_1_System_Collections_IEqualityComparer_Equals_m
 	}
 }
 // System.Collections.Generic.EqualityComparer`1<T> System.Collections.Generic.EqualityComparer`1<System.Object>::get_Default()
-extern "C" EqualityComparer_1_t1_960 * EqualityComparer_1_get_Default_m1_5768_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" EqualityComparer_1_t1_960 * EqualityComparer_1_get_Default_m1_5763_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 3));
@@ -3329,7 +3329,7 @@ extern "C" EqualityComparer_1_t1_960 * EqualityComparer_1_get_Default_m1_5768_gs
 	}
 }
 // System.Void System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Object>::.ctor()
-extern "C" void DefaultComparer__ctor_m1_5775_gshared (DefaultComparer_t1_962 * __this, const MethodInfo* method)
+extern "C" void DefaultComparer__ctor_m1_5770_gshared (DefaultComparer_t1_962 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((EqualityComparer_1_t1_960 *)__this);
@@ -3339,7 +3339,7 @@ extern "C" void DefaultComparer__ctor_m1_5775_gshared (DefaultComparer_t1_962 * 
 	}
 }
 // System.Int32 System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Object>::GetHashCode(T)
-extern "C" int32_t DefaultComparer_GetHashCode_m1_5776_gshared (DefaultComparer_t1_962 * __this, Object_t * ___obj, const MethodInfo* method)
+extern "C" int32_t DefaultComparer_GetHashCode_m1_5771_gshared (DefaultComparer_t1_962 * __this, Object_t * ___obj, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___obj;
@@ -3360,7 +3360,7 @@ IL_000d:
 	}
 }
 // System.Boolean System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Object>::Equals(T,T)
-extern "C" bool DefaultComparer_Equals_m1_5777_gshared (DefaultComparer_t1_962 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
+extern "C" bool DefaultComparer_Equals_m1_5772_gshared (DefaultComparer_t1_962 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___x;
@@ -3383,18 +3383,18 @@ IL_0015:
 	}
 }
 // System.Void System.Predicate`1<System.Object>::.ctor(System.Object,System.IntPtr)
-extern "C" void Predicate_1__ctor_m1_5778_gshared (Predicate_1_t1_963 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void Predicate_1__ctor_m1_5773_gshared (Predicate_1_t1_963 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Boolean System.Predicate`1<System.Object>::Invoke(T)
-extern "C" bool Predicate_1_Invoke_m1_5779_gshared (Predicate_1_t1_963 * __this, Object_t * ___obj, const MethodInfo* method)
+extern "C" bool Predicate_1_Invoke_m1_5774_gshared (Predicate_1_t1_963 * __this, Object_t * ___obj, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		Predicate_1_Invoke_m1_5779((Predicate_1_t1_963 *)__this->___prev_9,___obj, method);
+		Predicate_1_Invoke_m1_5774((Predicate_1_t1_963 *)__this->___prev_9,___obj, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -3415,20 +3415,20 @@ extern "C" bool Predicate_1_Invoke_m1_5779_gshared (Predicate_1_t1_963 * __this,
 	}
 }
 // System.IAsyncResult System.Predicate`1<System.Object>::BeginInvoke(T,System.AsyncCallback,System.Object)
-extern "C" Object_t * Predicate_1_BeginInvoke_m1_5780_gshared (Predicate_1_t1_963 * __this, Object_t * ___obj, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * Predicate_1_BeginInvoke_m1_5775_gshared (Predicate_1_t1_963 * __this, Object_t * ___obj, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[2] = {0};
 	__d_args[0] = ___obj;
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Boolean System.Predicate`1<System.Object>::EndInvoke(System.IAsyncResult)
-extern "C" bool Predicate_1_EndInvoke_m1_5781_gshared (Predicate_1_t1_963 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" bool Predicate_1_EndInvoke_m1_5776_gshared (Predicate_1_t1_963 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	Il2CppObject *__result = il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 	return *(bool*)UnBox ((Il2CppCodeGenObject*)__result);
 }
 // System.Void System.Collections.Generic.Comparer`1<System.Object>::.ctor()
-extern "C" void Comparer_1__ctor_m1_5782_gshared (Comparer_1_t1_964 * __this, const MethodInfo* method)
+extern "C" void Comparer_1__ctor_m1_5777_gshared (Comparer_1_t1_964 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((Object_t *)__this);
@@ -3440,12 +3440,12 @@ extern "C" void Comparer_1__ctor_m1_5782_gshared (Comparer_1_t1_964 * __this, co
 extern const Il2CppType* GenericComparer_1_t1_1644_0_0_0_var;
 extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
 extern TypeInfo* TypeU5BU5D_t1_31_il2cpp_TypeInfo_var;
-extern "C" void Comparer_1__cctor_m1_5783_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" void Comparer_1__cctor_m1_5778_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		GenericComparer_1_t1_1644_0_0_0_var = il2cpp_codegen_type_from_index(2743);
+		GenericComparer_1_t1_1644_0_0_0_var = il2cpp_codegen_type_from_index(2744);
 		Type_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(3);
 		TypeU5BU5D_t1_31_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(57);
 		s_Il2CppMethodIntialized = true;
@@ -3472,7 +3472,7 @@ extern "C" void Comparer_1__cctor_m1_5783_gshared (Object_t * __this /* static, 
 		*((Type_t **)(Type_t **)SZArrayLdElema(L_4, 0, sizeof(Type_t *))) = (Type_t *)L_5;
 		NullCheck((Type_t *)L_3);
 		Type_t * L_6 = (Type_t *)VirtFuncInvoker1< Type_t *, TypeU5BU5D_t1_31* >::Invoke(77 /* System.Type System.Type::MakeGenericType(System.Type[]) */, (Type_t *)L_3, (TypeU5BU5D_t1_31*)L_4);
-		Object_t * L_7 = Activator_CreateInstance_m1_4537(NULL /*static, unused*/, (Type_t *)L_6, /*hidden argument*/NULL);
+		Object_t * L_7 = Activator_CreateInstance_m1_4532(NULL /*static, unused*/, (Type_t *)L_6, /*hidden argument*/NULL);
 		((Comparer_1_t1_964_StaticFields*)IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 3)->static_fields)->____default_0 = ((Comparer_1_t1_964 *)Castclass(L_7, IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 2)));
 		goto IL_005e;
 	}
@@ -3491,7 +3491,7 @@ IL_005e:
 }
 // System.Int32 System.Collections.Generic.Comparer`1<System.Object>::System.Collections.IComparer.Compare(System.Object,System.Object)
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
-extern "C" int32_t Comparer_1_System_Collections_IComparer_Compare_m1_5784_gshared (Comparer_1_t1_964 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
+extern "C" int32_t Comparer_1_System_Collections_IComparer_Compare_m1_5779_gshared (Comparer_1_t1_964 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3567,12 +3567,12 @@ IL_001c:
 IL_0045:
 	{
 		ArgumentException_t1_636 * L_8 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4566(L_8, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4561(L_8, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_8);
 	}
 }
 // System.Collections.Generic.Comparer`1<T> System.Collections.Generic.Comparer`1<System.Object>::get_Default()
-extern "C" Comparer_1_t1_964 * Comparer_1_get_Default_m1_5785_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" Comparer_1_t1_964 * Comparer_1_get_Default_m1_5780_gshared (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(IL2CPP_RGCTX_DATA(InitializedTypeInfo(method->declaring_type)->rgctx_data, 3));
@@ -3581,7 +3581,7 @@ extern "C" Comparer_1_t1_964 * Comparer_1_get_Default_m1_5785_gshared (Object_t 
 	}
 }
 // System.Void System.Collections.Generic.Comparer`1/DefaultComparer<System.Object>::.ctor()
-extern "C" void DefaultComparer__ctor_m1_5786_gshared (DefaultComparer_t1_965 * __this, const MethodInfo* method)
+extern "C" void DefaultComparer__ctor_m1_5781_gshared (DefaultComparer_t1_965 * __this, const MethodInfo* method)
 {
 	{
 		NullCheck((Comparer_1_t1_964 *)__this);
@@ -3594,7 +3594,7 @@ extern "C" void DefaultComparer__ctor_m1_5786_gshared (DefaultComparer_t1_965 * 
 extern TypeInfo* IComparable_t1_822_il2cpp_TypeInfo_var;
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral489;
-extern "C" int32_t DefaultComparer_Compare_m1_5787_gshared (DefaultComparer_t1_965 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
+extern "C" int32_t DefaultComparer_Compare_m1_5782_gshared (DefaultComparer_t1_965 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3681,12 +3681,12 @@ IL_004d:
 IL_0074:
 	{
 		ArgumentException_t1_636 * L_11 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_11, (String_t*)_stringLiteral489, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_11, (String_t*)_stringLiteral489, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_11);
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int32>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5788_gshared (InternalEnumerator_1_t1_966 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5783_gshared (InternalEnumerator_1_t1_966 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -3696,7 +3696,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5788_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int32>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5789_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5784_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -3704,7 +3704,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_578
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Int32>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5790_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5785_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (( int32_t (*) (InternalEnumerator_1_t1_966 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_966 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -3714,7 +3714,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int32>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5791_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5786_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -3722,7 +3722,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5791_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Int32>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5792_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5787_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -3772,7 +3772,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" int32_t InternalEnumerator_1_get_Current_m1_5793_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
+extern "C" int32_t InternalEnumerator_1_get_Current_m1_5788_gshared (InternalEnumerator_1_t1_966 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3791,7 +3791,7 @@ extern "C" int32_t InternalEnumerator_1_get_Current_m1_5793_gshared (InternalEnu
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -3805,7 +3805,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -3822,7 +3822,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Double>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5794_gshared (InternalEnumerator_1_t1_967 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5789_gshared (InternalEnumerator_1_t1_967 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -3832,7 +3832,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5794_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Double>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5795_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5790_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -3840,7 +3840,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_579
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Double>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5796_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5791_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
 {
 	{
 		double L_0 = (( double (*) (InternalEnumerator_1_t1_967 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_967 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -3850,7 +3850,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Double>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5797_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5792_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -3858,7 +3858,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5797_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Double>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5798_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5793_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -3908,7 +3908,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" double InternalEnumerator_1_get_Current_m1_5799_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
+extern "C" double InternalEnumerator_1_get_Current_m1_5794_gshared (InternalEnumerator_1_t1_967 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -3927,7 +3927,7 @@ extern "C" double InternalEnumerator_1_get_Current_m1_5799_gshared (InternalEnum
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -3941,7 +3941,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -3958,18 +3958,18 @@ IL_002f:
 	}
 }
 // System.Void System.Comparison`1<System.Object>::.ctor(System.Object,System.IntPtr)
-extern "C" void Comparison_1__ctor_m1_5800_gshared (Comparison_1_t1_968 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void Comparison_1__ctor_m1_5795_gshared (Comparison_1_t1_968 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Int32 System.Comparison`1<System.Object>::Invoke(T,T)
-extern "C" int32_t Comparison_1_Invoke_m1_5801_gshared (Comparison_1_t1_968 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
+extern "C" int32_t Comparison_1_Invoke_m1_5796_gshared (Comparison_1_t1_968 * __this, Object_t * ___x, Object_t * ___y, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		Comparison_1_Invoke_m1_5801((Comparison_1_t1_968 *)__this->___prev_9,___x, ___y, method);
+		Comparison_1_Invoke_m1_5796((Comparison_1_t1_968 *)__this->___prev_9,___x, ___y, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -3990,7 +3990,7 @@ extern "C" int32_t Comparison_1_Invoke_m1_5801_gshared (Comparison_1_t1_968 * __
 	}
 }
 // System.IAsyncResult System.Comparison`1<System.Object>::BeginInvoke(T,T,System.AsyncCallback,System.Object)
-extern "C" Object_t * Comparison_1_BeginInvoke_m1_5802_gshared (Comparison_1_t1_968 * __this, Object_t * ___x, Object_t * ___y, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * Comparison_1_BeginInvoke_m1_5797_gshared (Comparison_1_t1_968 * __this, Object_t * ___x, Object_t * ___y, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[3] = {0};
 	__d_args[0] = ___x;
@@ -3998,13 +3998,13 @@ extern "C" Object_t * Comparison_1_BeginInvoke_m1_5802_gshared (Comparison_1_t1_
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Int32 System.Comparison`1<System.Object>::EndInvoke(System.IAsyncResult)
-extern "C" int32_t Comparison_1_EndInvoke_m1_5803_gshared (Comparison_1_t1_968 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" int32_t Comparison_1_EndInvoke_m1_5798_gshared (Comparison_1_t1_968 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	Il2CppObject *__result = il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 	return *(int32_t*)UnBox ((Il2CppCodeGenObject*)__result);
 }
 // System.Void System.Array/InternalEnumerator`1<System.Byte>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5849_gshared (InternalEnumerator_1_t1_974 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5844_gshared (InternalEnumerator_1_t1_974 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4014,7 +4014,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5849_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Byte>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5850_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5845_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4022,7 +4022,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_585
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Byte>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5851_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5846_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
 {
 	{
 		uint8_t L_0 = (( uint8_t (*) (InternalEnumerator_1_t1_974 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_974 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4032,7 +4032,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Byte>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5852_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5847_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4040,7 +4040,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5852_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Byte>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5853_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5848_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4090,7 +4090,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" uint8_t InternalEnumerator_1_get_Current_m1_5854_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
+extern "C" uint8_t InternalEnumerator_1_get_Current_m1_5849_gshared (InternalEnumerator_1_t1_974 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4109,7 +4109,7 @@ extern "C" uint8_t InternalEnumerator_1_get_Current_m1_5854_gshared (InternalEnu
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4123,7 +4123,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4140,7 +4140,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Single>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5855_gshared (InternalEnumerator_1_t1_975 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5850_gshared (InternalEnumerator_1_t1_975 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4150,7 +4150,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5855_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Single>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5856_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5851_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4158,7 +4158,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_585
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Single>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5857_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5852_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
 {
 	{
 		float L_0 = (( float (*) (InternalEnumerator_1_t1_975 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_975 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4168,7 +4168,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Single>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5858_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5853_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4176,7 +4176,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5858_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Single>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5859_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5854_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4226,7 +4226,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" float InternalEnumerator_1_get_Current_m1_5860_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
+extern "C" float InternalEnumerator_1_get_Current_m1_5855_gshared (InternalEnumerator_1_t1_975 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4245,7 +4245,7 @@ extern "C" float InternalEnumerator_1_get_Current_m1_5860_gshared (InternalEnume
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4259,7 +4259,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4276,7 +4276,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5873_gshared (InternalEnumerator_1_t1_978 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5868_gshared (InternalEnumerator_1_t1_978 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4286,7 +4286,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5873_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5874_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5869_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4294,7 +4294,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_587
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5875_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5870_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
 {
 	{
 		ParameterModifier_t1_347  L_0 = (( ParameterModifier_t1_347  (*) (InternalEnumerator_1_t1_978 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_978 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4304,7 +4304,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5876_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5871_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4312,7 +4312,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5876_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Reflection.ParameterModifier>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5877_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5872_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4362,7 +4362,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" ParameterModifier_t1_347  InternalEnumerator_1_get_Current_m1_5878_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
+extern "C" ParameterModifier_t1_347  InternalEnumerator_1_get_Current_m1_5873_gshared (InternalEnumerator_1_t1_978 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4381,7 +4381,7 @@ extern "C" ParameterModifier_t1_347  InternalEnumerator_1_get_Current_m1_5878_gs
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4395,7 +4395,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4412,7 +4412,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt16>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5879_gshared (InternalEnumerator_1_t1_979 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5874_gshared (InternalEnumerator_1_t1_979 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4422,7 +4422,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5879_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt16>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5880_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5875_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4430,7 +4430,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_588
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.UInt16>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5881_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5876_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
 {
 	{
 		uint16_t L_0 = (( uint16_t (*) (InternalEnumerator_1_t1_979 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_979 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4440,7 +4440,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt16>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5882_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5877_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4448,7 +4448,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5882_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.UInt16>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5883_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5878_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4498,7 +4498,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5884_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
+extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5879_gshared (InternalEnumerator_1_t1_979 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4517,7 +4517,7 @@ extern "C" uint16_t InternalEnumerator_1_get_Current_m1_5884_gshared (InternalEn
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4531,7 +4531,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4548,7 +4548,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt32>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5885_gshared (InternalEnumerator_1_t1_980 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5880_gshared (InternalEnumerator_1_t1_980 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4558,7 +4558,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5885_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt32>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5886_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5881_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4566,7 +4566,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_588
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.UInt32>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5887_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5882_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
 {
 	{
 		uint32_t L_0 = (( uint32_t (*) (InternalEnumerator_1_t1_980 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_980 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4576,7 +4576,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt32>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5888_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5883_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4584,7 +4584,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5888_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.UInt32>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5889_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5884_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4634,7 +4634,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" uint32_t InternalEnumerator_1_get_Current_m1_5890_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
+extern "C" uint32_t InternalEnumerator_1_get_Current_m1_5885_gshared (InternalEnumerator_1_t1_980 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4653,7 +4653,7 @@ extern "C" uint32_t InternalEnumerator_1_get_Current_m1_5890_gshared (InternalEn
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4667,7 +4667,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4684,7 +4684,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt64>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5891_gshared (InternalEnumerator_1_t1_981 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5886_gshared (InternalEnumerator_1_t1_981 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4694,7 +4694,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5891_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt64>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5892_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5887_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4702,7 +4702,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_589
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.UInt64>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5893_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5888_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
 {
 	{
 		uint64_t L_0 = (( uint64_t (*) (InternalEnumerator_1_t1_981 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_981 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4712,7 +4712,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.UInt64>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5894_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5889_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4720,7 +4720,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5894_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.UInt64>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5895_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5890_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4770,7 +4770,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" uint64_t InternalEnumerator_1_get_Current_m1_5896_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
+extern "C" uint64_t InternalEnumerator_1_get_Current_m1_5891_gshared (InternalEnumerator_1_t1_981 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4789,7 +4789,7 @@ extern "C" uint64_t InternalEnumerator_1_get_Current_m1_5896_gshared (InternalEn
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4803,7 +4803,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4820,7 +4820,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int16>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5897_gshared (InternalEnumerator_1_t1_982 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5892_gshared (InternalEnumerator_1_t1_982 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4830,7 +4830,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5897_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int16>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5898_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5893_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4838,7 +4838,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_589
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.Int16>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5899_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5894_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
 {
 	{
 		int16_t L_0 = (( int16_t (*) (InternalEnumerator_1_t1_982 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_982 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4848,7 +4848,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.Int16>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5900_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5895_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4856,7 +4856,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5900_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.Int16>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5901_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5896_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -4906,7 +4906,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" int16_t InternalEnumerator_1_get_Current_m1_5902_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
+extern "C" int16_t InternalEnumerator_1_get_Current_m1_5897_gshared (InternalEnumerator_1_t1_982 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -4925,7 +4925,7 @@ extern "C" int16_t InternalEnumerator_1_get_Current_m1_5902_gshared (InternalEnu
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -4939,7 +4939,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 
@@ -4956,7 +4956,7 @@ IL_002f:
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.SByte>::.ctor(System.Array)
-extern "C" void InternalEnumerator_1__ctor_m1_5903_gshared (InternalEnumerator_1_t1_983 * __this, Array_t * ___array, const MethodInfo* method)
+extern "C" void InternalEnumerator_1__ctor_m1_5898_gshared (InternalEnumerator_1_t1_983 * __this, Array_t * ___array, const MethodInfo* method)
 {
 	{
 		Array_t * L_0 = ___array;
@@ -4966,7 +4966,7 @@ extern "C" void InternalEnumerator_1__ctor_m1_5903_gshared (InternalEnumerator_1
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.SByte>::System.Collections.IEnumerator.Reset()
-extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5904_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_5899_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4974,7 +4974,7 @@ extern "C" void InternalEnumerator_1_System_Collections_IEnumerator_Reset_m1_590
 	}
 }
 // System.Object System.Array/InternalEnumerator`1<System.SByte>::System.Collections.IEnumerator.get_Current()
-extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5905_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
+extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Current_m1_5900_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
 {
 	{
 		int8_t L_0 = (( int8_t (*) (InternalEnumerator_1_t1_983 *, const MethodInfo*))IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0)->method)((InternalEnumerator_1_t1_983 *)__this, /*hidden argument*/IL2CPP_RGCTX_METHOD_INFO(InitializedTypeInfo(method->declaring_type)->rgctx_data, 0));
@@ -4984,7 +4984,7 @@ extern "C" Object_t * InternalEnumerator_1_System_Collections_IEnumerator_get_Cu
 	}
 }
 // System.Void System.Array/InternalEnumerator`1<System.SByte>::Dispose()
-extern "C" void InternalEnumerator_1_Dispose_m1_5906_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
+extern "C" void InternalEnumerator_1_Dispose_m1_5901_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
 {
 	{
 		__this->___idx_1 = ((int32_t)-2);
@@ -4992,7 +4992,7 @@ extern "C" void InternalEnumerator_1_Dispose_m1_5906_gshared (InternalEnumerator
 	}
 }
 // System.Boolean System.Array/InternalEnumerator`1<System.SByte>::MoveNext()
-extern "C" bool InternalEnumerator_1_MoveNext_m1_5907_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
+extern "C" bool InternalEnumerator_1_MoveNext_m1_5902_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t G_B5_0 = 0;
@@ -5042,7 +5042,7 @@ IL_0044:
 extern TypeInfo* InvalidOperationException_t1_723_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral191;
 extern Il2CppCodeGenString* _stringLiteral192;
-extern "C" int8_t InternalEnumerator_1_get_Current_m1_5908_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
+extern "C" int8_t InternalEnumerator_1_get_Current_m1_5903_gshared (InternalEnumerator_1_t1_983 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -5061,7 +5061,7 @@ extern "C" int8_t InternalEnumerator_1_get_Current_m1_5908_gshared (InternalEnum
 	}
 	{
 		InvalidOperationException_t1_723 * L_1 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_1, (String_t*)_stringLiteral191, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -5075,7 +5075,7 @@ IL_0018:
 	}
 	{
 		InvalidOperationException_t1_723 * L_3 = (InvalidOperationException_t1_723 *)il2cpp_codegen_object_new (InvalidOperationException_t1_723_il2cpp_TypeInfo_var);
-		InvalidOperationException__ctor_m1_5040(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
+		InvalidOperationException__ctor_m1_5035(L_3, (String_t*)_stringLiteral192, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_3);
 	}
 

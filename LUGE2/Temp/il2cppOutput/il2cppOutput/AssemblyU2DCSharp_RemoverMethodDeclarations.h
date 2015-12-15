@@ -13,17 +13,17 @@
 #include <exception>
 
 // Remover
-struct Remover_t7_40;
+struct Remover_t7_41;
 // UnityEngine.Collider2D
-struct Collider2D_t5_136;
+struct Collider2D_t5_137;
 // System.Collections.IEnumerator
 struct IEnumerator_t1_129;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void Remover::.ctor()
-extern "C" void Remover__ctor_m7_164 (Remover_t7_40 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Remover__ctor_m7_168 (Remover_t7_41 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void Remover::OnTriggerEnter2D(UnityEngine.Collider2D)
-extern "C" void Remover_OnTriggerEnter2D_m7_165 (Remover_t7_40 * __this, Collider2D_t5_136 * ___col, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Remover_OnTriggerEnter2D_m7_169 (Remover_t7_41 * __this, Collider2D_t5_137 * ___col, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Collections.IEnumerator Remover::ReloadGame()
-extern "C" Object_t * Remover_ReloadGame_m7_166 (Remover_t7_40 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * Remover_ReloadGame_m7_170 (Remover_t7_41 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

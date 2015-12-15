@@ -13,11 +13,11 @@
 #include <exception>
 
 // UnityEngine.SpaceAttribute
-struct SpaceAttribute_t5_253;
+struct SpaceAttribute_t5_254;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.SpaceAttribute::.ctor()
-extern "C" void SpaceAttribute__ctor_m5_1667 (SpaceAttribute_t5_253 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SpaceAttribute__ctor_m5_1670 (SpaceAttribute_t5_254 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.SpaceAttribute::.ctor(System.Single)
-extern "C" void SpaceAttribute__ctor_m5_1668 (SpaceAttribute_t5_253 * __this, float ___height, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SpaceAttribute__ctor_m5_1671 (SpaceAttribute_t5_254 * __this, float ___height, const MethodInfo* method) IL2CPP_METHOD_ATTR;

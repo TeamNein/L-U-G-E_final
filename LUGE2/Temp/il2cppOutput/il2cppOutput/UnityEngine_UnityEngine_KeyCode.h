@@ -15,7 +15,7 @@
 #include "UnityEngine_UnityEngine_KeyCode.h"
 
 // UnityEngine.KeyCode
-struct  KeyCode_t5_182 
+struct  KeyCode_t5_183 
 {
 	// System.Int32 UnityEngine.KeyCode::value__
 	int32_t ___value___1;

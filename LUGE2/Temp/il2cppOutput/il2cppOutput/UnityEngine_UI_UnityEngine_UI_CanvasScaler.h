@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 
 #include "UnityEngine_UI_UnityEngine_EventSystems_UIBehaviour.h"
 #include "UnityEngine_UI_UnityEngine_UI_CanvasScaler_ScaleMode.h"
@@ -43,7 +43,7 @@ struct  CanvasScaler_t6_140  : public UIBehaviour_t6_3
 	// System.Single UnityEngine.UI.CanvasScaler::m_DynamicPixelsPerUnit
 	float ___m_DynamicPixelsPerUnit_12;
 	// UnityEngine.Canvas UnityEngine.UI.CanvasScaler::m_Canvas
-	Canvas_t5_176 * ___m_Canvas_13;
+	Canvas_t5_177 * ___m_Canvas_13;
 	// System.Single UnityEngine.UI.CanvasScaler::m_PrevScaleFactor
 	float ___m_PrevScaleFactor_14;
 	// System.Single UnityEngine.UI.CanvasScaler::m_PrevReferencePixelsPerUnit

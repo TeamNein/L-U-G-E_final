@@ -17,14 +17,14 @@ struct Image_t6_65;
 #include "UnityEngine_UnityEngine_Color.h"
 
 // DropMe
-struct  DropMe_t7_24  : public MonoBehaviour_t5_92
+struct  DropMe_t7_25  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.UI.Image DropMe::containerImage
 	Image_t6_65 * ___containerImage_2;
 	// UnityEngine.UI.Image DropMe::receivingImage
 	Image_t6_65 * ___receivingImage_3;
 	// UnityEngine.Color DropMe::normalColor
-	Color_t5_164  ___normalColor_4;
+	Color_t5_165  ___normalColor_4;
 	// UnityEngine.Color DropMe::highlightColor
-	Color_t5_164  ___highlightColor_5;
+	Color_t5_165  ___highlightColor_5;
 };

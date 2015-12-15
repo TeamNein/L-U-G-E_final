@@ -21,8 +21,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.Reflection.Missing::.ctor()
-extern "C" void Missing__ctor_m1_2808 (Missing_t1_335 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Missing__ctor_m1_2803 (Missing_t1_335 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Reflection.Missing::.cctor()
-extern "C" void Missing__cctor_m1_2809 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Missing__cctor_m1_2804 (Object_t * __this /* static, unused */, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Reflection.Missing::System.Runtime.Serialization.ISerializable.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void Missing_System_Runtime_Serialization_ISerializable_GetObjectData_m1_2810 (Missing_t1_335 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Missing_System_Runtime_Serialization_ISerializable_GetObjectData_m1_2805 (Missing_t1_335 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

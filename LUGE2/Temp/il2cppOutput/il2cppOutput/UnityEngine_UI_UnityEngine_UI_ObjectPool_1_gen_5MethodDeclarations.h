@@ -17,7 +17,7 @@
 #include "UnityEngine_UI_UnityEngine_UI_ObjectPool_1_gen_1MethodDeclarations.h"
 
 // System.Void UnityEngine.UI.ObjectPool`1<System.Collections.Generic.List`1<UnityEngine.Vector3>>::.ctor(UnityEngine.Events.UnityAction`1<T>,UnityEngine.Events.UnityAction`1<T>)
-#define ObjectPool_1__ctor_m6_1726(__this, ___actionOnGet, ___actionOnRelease, method) (( void (*) (ObjectPool_1_t6_228 *, UnityAction_1_t5_369 *, UnityAction_1_t5_369 *, const MethodInfo*))ObjectPool_1__ctor_m6_1551_gshared)(__this, ___actionOnGet, ___actionOnRelease, method)
+#define ObjectPool_1__ctor_m6_1726(__this, ___actionOnGet, ___actionOnRelease, method) (( void (*) (ObjectPool_1_t6_228 *, UnityAction_1_t5_370 *, UnityAction_1_t5_370 *, const MethodInfo*))ObjectPool_1__ctor_m6_1551_gshared)(__this, ___actionOnGet, ___actionOnRelease, method)
 // System.Int32 UnityEngine.UI.ObjectPool`1<System.Collections.Generic.List`1<UnityEngine.Vector3>>::get_countAll()
 #define ObjectPool_1_get_countAll_m6_1727(__this, method) (( int32_t (*) (ObjectPool_1_t6_228 *, const MethodInfo*))ObjectPool_1_get_countAll_m6_1553_gshared)(__this, method)
 // System.Void UnityEngine.UI.ObjectPool`1<System.Collections.Generic.List`1<UnityEngine.Vector3>>::set_countAll(System.Int32)

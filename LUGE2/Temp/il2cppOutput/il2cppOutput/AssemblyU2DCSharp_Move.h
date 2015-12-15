@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Move
-struct  Move_t7_6  : public MonoBehaviour_t5_92
+struct  Move_t7_6  : public MonoBehaviour_t5_93
 {
 };

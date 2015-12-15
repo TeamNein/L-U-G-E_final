@@ -15,7 +15,7 @@
 #include "mscorlib_System_IntPtr.h"
 
 // UnityEngine.iOS.RemoteNotification
-struct  RemoteNotification_t5_114  : public Object_t
+struct  RemoteNotification_t5_115  : public Object_t
 {
 	// System.IntPtr UnityEngine.iOS.RemoteNotification::notificationWrapper
 	IntPtr_t ___notificationWrapper_0;

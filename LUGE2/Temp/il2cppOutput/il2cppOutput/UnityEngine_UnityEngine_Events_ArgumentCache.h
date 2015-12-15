@@ -19,7 +19,7 @@ struct Object_t5_5_marshaled;
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.Events.ArgumentCache
-struct  ArgumentCache_t5_262  : public Object_t
+struct  ArgumentCache_t5_263  : public Object_t
 {
 	// UnityEngine.Object UnityEngine.Events.ArgumentCache::m_ObjectArgument
 	Object_t5_5 * ___m_ObjectArgument_3;

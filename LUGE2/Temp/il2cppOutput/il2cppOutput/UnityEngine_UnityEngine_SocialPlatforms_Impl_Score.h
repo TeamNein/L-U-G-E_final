@@ -17,7 +17,7 @@ struct String_t;
 #include "mscorlib_System_DateTime.h"
 
 // UnityEngine.SocialPlatforms.Impl.Score
-struct  Score_t5_240  : public Object_t
+struct  Score_t5_241  : public Object_t
 {
 	// System.DateTime UnityEngine.SocialPlatforms.Impl.Score::m_Date
 	DateTime_t1_126  ___m_Date_0;

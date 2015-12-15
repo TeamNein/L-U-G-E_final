@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Experimental_Director_AnimationPlaya.h"
 
 // UnityEngine.Experimental.Director.AnimatorControllerPlayable
-struct  AnimatorControllerPlayable_t5_161  : public AnimationPlayable_t5_160
+struct  AnimatorControllerPlayable_t5_162  : public AnimationPlayable_t5_161
 {
 };

@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // LoadWhenTapped
-struct  LoadWhenTapped_t7_31  : public MonoBehaviour_t5_92
+struct  LoadWhenTapped_t7_32  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.GameObject LoadWhenTapped::loadingBG
-	GameObject_t5_100 * ___loadingBG_2;
+	GameObject_t5_101 * ___loadingBG_2;
 };

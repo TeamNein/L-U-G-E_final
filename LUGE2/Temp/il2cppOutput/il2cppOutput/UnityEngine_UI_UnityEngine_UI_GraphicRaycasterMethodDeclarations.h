@@ -15,13 +15,13 @@
 // UnityEngine.UI.GraphicRaycaster
 struct GraphicRaycaster_t6_80;
 // UnityEngine.Canvas
-struct Canvas_t5_176;
+struct Canvas_t5_177;
 // UnityEngine.EventSystems.PointerEventData
 struct PointerEventData_t6_37;
 // System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>
 struct List_1_t1_912;
 // UnityEngine.Camera
-struct Camera_t5_85;
+struct Camera_t5_86;
 // System.Collections.Generic.List`1<UnityEngine.UI.Graphic>
 struct List_1_t1_920;
 // UnityEngine.UI.Graphic
@@ -48,12 +48,12 @@ extern "C" int32_t GraphicRaycaster_get_blockingObjects_m6_552 (GraphicRaycaster
 // System.Void UnityEngine.UI.GraphicRaycaster::set_blockingObjects(UnityEngine.UI.GraphicRaycaster/BlockingObjects)
 extern "C" void GraphicRaycaster_set_blockingObjects_m6_553 (GraphicRaycaster_t6_80 * __this, int32_t ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Canvas UnityEngine.UI.GraphicRaycaster::get_canvas()
-extern "C" Canvas_t5_176 * GraphicRaycaster_get_canvas_m6_554 (GraphicRaycaster_t6_80 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Canvas_t5_177 * GraphicRaycaster_get_canvas_m6_554 (GraphicRaycaster_t6_80 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.GraphicRaycaster::Raycast(UnityEngine.EventSystems.PointerEventData,System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>)
 extern "C" void GraphicRaycaster_Raycast_m6_555 (GraphicRaycaster_t6_80 * __this, PointerEventData_t6_37 * ___eventData, List_1_t1_912 * ___resultAppendList, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Camera UnityEngine.UI.GraphicRaycaster::get_eventCamera()
-extern "C" Camera_t5_85 * GraphicRaycaster_get_eventCamera_m6_556 (GraphicRaycaster_t6_80 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Camera_t5_86 * GraphicRaycaster_get_eventCamera_m6_556 (GraphicRaycaster_t6_80 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.GraphicRaycaster::Raycast(UnityEngine.Canvas,UnityEngine.Camera,UnityEngine.Vector2,System.Collections.Generic.List`1<UnityEngine.UI.Graphic>)
-extern "C" void GraphicRaycaster_Raycast_m6_557 (Object_t * __this /* static, unused */, Canvas_t5_176 * ___canvas, Camera_t5_85 * ___eventCamera, Vector2_t5_44  ___pointerPosition, List_1_t1_920 * ___results, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void GraphicRaycaster_Raycast_m6_557 (Object_t * __this /* static, unused */, Canvas_t5_177 * ___canvas, Camera_t5_86 * ___eventCamera, Vector2_t5_44  ___pointerPosition, List_1_t1_920 * ___results, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Int32 UnityEngine.UI.GraphicRaycaster::<Raycast>m__3(UnityEngine.UI.Graphic,UnityEngine.UI.Graphic)
 extern "C" int32_t GraphicRaycaster_U3CRaycastU3Em__3_m6_558 (Object_t * __this /* static, unused */, Graphic_t6_76 * ___g1, Graphic_t6_76 * ___g2, const MethodInfo* method) IL2CPP_METHOD_ATTR;

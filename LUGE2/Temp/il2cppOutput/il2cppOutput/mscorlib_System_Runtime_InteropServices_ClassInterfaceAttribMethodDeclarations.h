@@ -19,4 +19,4 @@ struct ClassInterfaceAttribute_t1_382;
 #include "mscorlib_System_Runtime_InteropServices_ClassInterfaceType.h"
 
 // System.Void System.Runtime.InteropServices.ClassInterfaceAttribute::.ctor(System.Runtime.InteropServices.ClassInterfaceType)
-extern "C" void ClassInterfaceAttribute__ctor_m1_3029 (ClassInterfaceAttribute_t1_382 * __this, int32_t ___classInterfaceType, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ClassInterfaceAttribute__ctor_m1_3024 (ClassInterfaceAttribute_t1_382 * __this, int32_t ___classInterfaceType, const MethodInfo* method) IL2CPP_METHOD_ATTR;

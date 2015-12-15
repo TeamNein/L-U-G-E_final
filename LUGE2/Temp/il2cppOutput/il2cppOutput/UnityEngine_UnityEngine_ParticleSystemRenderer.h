@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Renderer.h"
 
 // UnityEngine.ParticleSystemRenderer
-struct  ParticleSystemRenderer_t5_123  : public Renderer_t5_24
+struct  ParticleSystemRenderer_t5_124  : public Renderer_t5_24
 {
 };

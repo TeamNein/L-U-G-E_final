@@ -13,7 +13,7 @@
 // UnityEngine.UI.ObjectPool`1<System.Collections.Generic.List`1<UnityEngine.Canvas>>
 struct ObjectPool_1_t6_217;
 // UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<UnityEngine.Canvas>>
-struct UnityAction_1_t5_363;
+struct UnityAction_1_t5_364;
 
 #include "mscorlib_System_Object.h"
 
@@ -25,5 +25,5 @@ struct ListPool_1_t6_182_StaticFields{
 	// UnityEngine.UI.ObjectPool`1<System.Collections.Generic.List`1<T>> UnityEngine.UI.ListPool`1::s_ListPool
 	ObjectPool_1_t6_217 * ___s_ListPool_0;
 	// UnityEngine.Events.UnityAction`1<System.Collections.Generic.List`1<T>> UnityEngine.UI.ListPool`1::<>f__am$cache1
-	UnityAction_1_t5_363 * ___U3CU3Ef__amU24cache1_1;
+	UnityAction_1_t5_364 * ___U3CU3Ef__amU24cache1_1;
 };

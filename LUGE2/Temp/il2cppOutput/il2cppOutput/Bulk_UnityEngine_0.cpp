@@ -23,7 +23,7 @@ struct AssetBundleRequest_t5_3;
 struct Object_t5_5;
 struct Object_t5_5_marshaled;
 // UnityEngine.Object[]
-struct ObjectU5BU5D_t5_282;
+struct ObjectU5BU5D_t5_283;
 // System.String
 struct String_t;
 // System.Type
@@ -50,7 +50,7 @@ struct Exception_t1_33;
 // UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform
 struct GameCenterPlatform_t5_17;
 // UnityEngine.SocialPlatforms.ILocalUser
-struct ILocalUser_t5_285;
+struct ILocalUser_t5_286;
 // System.Action`1<System.Boolean>
 struct Action_1_t1_873;
 // UnityEngine.Texture2D
@@ -58,9 +58,9 @@ struct Texture2D_t5_34;
 // System.String[]
 struct StringU5BU5D_t1_198;
 // UnityEngine.SocialPlatforms.GameCenter.GcAchievementData[]
-struct GcAchievementDataU5BU5D_t5_283;
+struct GcAchievementDataU5BU5D_t5_284;
 // UnityEngine.SocialPlatforms.GameCenter.GcScoreData[]
-struct GcScoreDataU5BU5D_t5_284;
+struct GcScoreDataU5BU5D_t5_285;
 // System.Action`1<UnityEngine.SocialPlatforms.IAchievementDescription[]>
 struct Action_1_t1_874;
 // System.Action`1<UnityEngine.SocialPlatforms.IAchievement[]>
@@ -68,13 +68,13 @@ struct Action_1_t1_875;
 // System.Action`1<UnityEngine.SocialPlatforms.IScore[]>
 struct Action_1_t1_876;
 // UnityEngine.SocialPlatforms.ILeaderboard
-struct ILeaderboard_t5_286;
+struct ILeaderboard_t5_287;
 // System.Action`1<UnityEngine.SocialPlatforms.IUserProfile[]>
 struct Action_1_t1_877;
 // UnityEngine.SocialPlatforms.Impl.UserProfile[]
 struct UserProfileU5BU5D_t5_19;
 // UnityEngine.SocialPlatforms.IAchievement
-struct IAchievement_t5_287;
+struct IAchievement_t5_288;
 // UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard
 struct GcLeaderboard_t5_21;
 // UnityEngine.SocialPlatforms.Impl.Leaderboard
@@ -82,21 +82,21 @@ struct Leaderboard_t5_22;
 // UnityEngine.Mesh
 struct Mesh_t5_23;
 // UnityEngine.Vector3[]
-struct Vector3U5BU5D_t5_180;
+struct Vector3U5BU5D_t5_181;
 // System.Collections.Generic.List`1<UnityEngine.Vector3>
 struct List_1_t1_889;
 // UnityEngine.Vector4[]
-struct Vector4U5BU5D_t5_288;
+struct Vector4U5BU5D_t5_289;
 // System.Collections.Generic.List`1<UnityEngine.Vector4>
 struct List_1_t1_890;
 // UnityEngine.Vector2[]
-struct Vector2U5BU5D_t5_289;
+struct Vector2U5BU5D_t5_290;
 // System.Array
 struct Array_t;
 // System.Collections.Generic.List`1<UnityEngine.Vector2>
 struct List_1_t1_891;
 // UnityEngine.Color32[]
-struct Color32U5BU5D_t5_290;
+struct Color32U5BU5D_t5_291;
 // System.Collections.Generic.List`1<UnityEngine.Color32>
 struct List_1_t1_892;
 // System.Collections.Generic.List`1<System.Int32>
@@ -106,7 +106,7 @@ struct Int32U5BU5D_t1_159;
 // UnityEngine.Renderer
 struct Renderer_t5_24;
 // UnityEngine.Material
-struct Material_t5_76;
+struct Material_t5_77;
 // UnityEngine.RectOffset
 struct RectOffset_t5_27;
 // UnityEngine.GUIStyle
@@ -136,7 +136,7 @@ struct TouchScreenKeyboard_t5_42;
 struct AnimationCurve_t5_57;
 struct AnimationCurve_t5_57_marshaled;
 // UnityEngine.Keyframe[]
-struct KeyframeU5BU5D_t5_291;
+struct KeyframeU5BU5D_t5_292;
 // UnityEngine.NetworkView
 struct NetworkView_t5_60;
 // UnityEngine.BitStream
@@ -152,41 +152,43 @@ struct RectTransform_t5_70;
 struct ReapplyDrivenProperties_t5_69;
 // UnityEngine.ResourceRequest
 struct ResourceRequest_t5_72;
+// UnityEngine.TextAsset
+struct TextAsset_t5_74;
 // UnityEngine.SerializeField
-struct SerializeField_t5_74;
+struct SerializeField_t5_75;
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 // UnityEngine.SpriteRenderer
-struct SpriteRenderer_t5_79;
+struct SpriteRenderer_t5_80;
 // System.Object[]
 struct ObjectU5BU5D_t1_156;
 // UnityEngine.AsyncOperation
 struct AsyncOperation_t5_2;
 struct AsyncOperation_t5_2_marshaled;
 // UnityEngine.Application/LogCallback
-struct LogCallback_t5_82;
+struct LogCallback_t5_83;
 // UnityEngine.Behaviour
 struct Behaviour_t5_30;
 // UnityEngine.Camera/CameraCallback
-struct CameraCallback_t5_84;
+struct CameraCallback_t5_85;
 // UnityEngine.Camera
-struct Camera_t5_85;
+struct Camera_t5_86;
 // UnityEngine.Camera[]
-struct CameraU5BU5D_t5_247;
+struct CameraU5BU5D_t5_248;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.DebugLogHandler
-struct DebugLogHandler_t5_86;
+struct DebugLogHandler_t5_87;
 // UnityEngine.ILogger
-struct ILogger_t5_292;
+struct ILogger_t5_293;
 // UnityEngine.Display/DisplaysUpdatedDelegate
-struct DisplaysUpdatedDelegate_t5_89;
+struct DisplaysUpdatedDelegate_t5_90;
 // UnityEngine.Display
-struct Display_t5_90;
+struct Display_t5_91;
 // System.IntPtr[]
 struct IntPtrU5BU5D_t1_34;
 // UnityEngine.MonoBehaviour
-struct MonoBehaviour_t5_92;
+struct MonoBehaviour_t5_93;
 // System.Collections.IEnumerator
 struct IEnumerator_t1_129;
 // UnityEngine.Component
@@ -194,22 +196,20 @@ struct Component_t5_25;
 // UnityEngine.Transform
 struct Transform_t5_71;
 // UnityEngine.Component[]
-struct ComponentU5BU5D_t5_293;
+struct ComponentU5BU5D_t5_294;
 // System.Collections.Generic.List`1<UnityEngine.Component>
 struct List_1_t1_894;
 // UnityEngine.Light
-struct Light_t5_99;
+struct Light_t5_100;
 // UnityEngine.Transform/Enumerator
-struct Enumerator_t5_101;
+struct Enumerator_t5_102;
 // UnityEngine.YieldInstruction
 struct YieldInstruction_t5_11;
 struct YieldInstruction_t5_11_marshaled;
 // UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate
-struct BannerWasClickedDelegate_t5_104;
+struct BannerWasClickedDelegate_t5_105;
 // UnityEngine.iOS.ADBannerView/BannerWasLoadedDelegate
-struct BannerWasLoadedDelegate_t5_105;
-// UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate
-struct BannerFailedToLoadDelegate_t5_106;
+struct BannerWasLoadedDelegate_t5_106;
 
 #include "class-internals.h"
 #include "codegen/il2cpp-codegen.h"
@@ -442,6 +442,10 @@ struct BannerFailedToLoadDelegate_t5_106;
 #include "UnityEngine_UnityEngine_ResourceRequestMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_ResourcesMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_Resources.h"
+#include "mscorlib_System_TypeMethodDeclarations.h"
+#include "mscorlib_System_RuntimeTypeHandle.h"
+#include "UnityEngine_UnityEngine_TextAsset.h"
+#include "UnityEngine_UnityEngine_TextAssetMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_SerializeField.h"
 #include "UnityEngine_UnityEngine_SerializeFieldMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_Shader.h"
@@ -510,8 +514,6 @@ struct BannerFailedToLoadDelegate_t5_106;
 #include "UnityEngine_UnityEngine_iOS_ADBannerView_BannerWasClickedDelMethodDeclarations.h"
 #include "UnityEngine_UnityEngine_iOS_ADBannerView_BannerWasLoadedDele.h"
 #include "UnityEngine_UnityEngine_iOS_ADBannerView_BannerWasLoadedDeleMethodDeclarations.h"
-#include "UnityEngine_UnityEngine_iOS_ADBannerView_BannerFailedToLoadD.h"
-#include "UnityEngine_UnityEngine_iOS_ADBannerView_BannerFailedToLoadDMethodDeclarations.h"
 
 #ifdef __clang__
 #pragma clang diagnostic push
@@ -522,7 +524,7 @@ struct BannerFailedToLoadDelegate_t5_106;
 extern "C" void AssetBundleCreateRequest__ctor_m5_0 (AssetBundleCreateRequest_t5_1 * __this, const MethodInfo* method)
 {
 	{
-		AsyncOperation__ctor_m5_556(__this, /*hidden argument*/NULL);
+		AsyncOperation__ctor_m5_559(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -548,7 +550,7 @@ extern "C" void AssetBundleCreateRequest_DisableCompatibilityChecks_m5_2 (AssetB
 extern "C" void AssetBundleRequest__ctor_m5_3 (AssetBundleRequest_t5_3 * __this, const MethodInfo* method)
 {
 	{
-		AsyncOperation__ctor_m5_556(__this, /*hidden argument*/NULL);
+		AsyncOperation__ctor_m5_559(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -565,14 +567,14 @@ extern "C" Object_t5_5 * AssetBundleRequest_get_asset_m5_4 (AssetBundleRequest_t
 	}
 }
 // UnityEngine.Object[] UnityEngine.AssetBundleRequest::get_allAssets()
-extern "C" ObjectU5BU5D_t5_282* AssetBundleRequest_get_allAssets_m5_5 (AssetBundleRequest_t5_3 * __this, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t5_283* AssetBundleRequest_get_allAssets_m5_5 (AssetBundleRequest_t5_3 * __this, const MethodInfo* method)
 {
 	{
 		AssetBundle_t5_4 * L_0 = (__this->___m_AssetBundle_1);
 		String_t* L_1 = (__this->___m_Path_2);
 		Type_t * L_2 = (__this->___m_Type_3);
 		NullCheck(L_0);
-		ObjectU5BU5D_t5_282* L_3 = AssetBundle_LoadAssetWithSubAssets_Internal_m5_8(L_0, L_1, L_2, /*hidden argument*/NULL);
+		ObjectU5BU5D_t5_283* L_3 = AssetBundle_LoadAssetWithSubAssets_Internal_m5_8(L_0, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
@@ -603,7 +605,7 @@ extern "C" Object_t5_5 * AssetBundle_LoadAsset_m5_6 (AssetBundle_t5_4 * __this, 
 	}
 	{
 		NullReferenceException_t1_740 * L_1 = (NullReferenceException_t1_740 *)il2cpp_codegen_object_new (NullReferenceException_t1_740_il2cpp_TypeInfo_var);
-		NullReferenceException__ctor_m1_5162(L_1, _stringLiteral2495, /*hidden argument*/NULL);
+		NullReferenceException__ctor_m1_5157(L_1, _stringLiteral2495, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_1);
 	}
 
@@ -619,7 +621,7 @@ IL_0011:
 	}
 	{
 		ArgumentException_t1_636 * L_4 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_4, _stringLiteral2496, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_4, _stringLiteral2496, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_4);
 	}
 
@@ -633,7 +635,7 @@ IL_0027:
 	}
 	{
 		NullReferenceException_t1_740 * L_6 = (NullReferenceException_t1_740 *)il2cpp_codegen_object_new (NullReferenceException_t1_740_il2cpp_TypeInfo_var);
-		NullReferenceException__ctor_m1_5162(L_6, _stringLiteral2497, /*hidden argument*/NULL);
+		NullReferenceException__ctor_m1_5157(L_6, _stringLiteral2497, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_6);
 	}
 
@@ -655,9 +657,9 @@ extern "C" Object_t5_5 * AssetBundle_LoadAsset_Internal_m5_7 (AssetBundle_t5_4 *
 	return _il2cpp_icall_func(__this, ___name, ___type);
 }
 // UnityEngine.Object[] UnityEngine.AssetBundle::LoadAssetWithSubAssets_Internal(System.String,System.Type)
-extern "C" ObjectU5BU5D_t5_282* AssetBundle_LoadAssetWithSubAssets_Internal_m5_8 (AssetBundle_t5_4 * __this, String_t* ___name, Type_t * ___type, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t5_283* AssetBundle_LoadAssetWithSubAssets_Internal_m5_8 (AssetBundle_t5_4 * __this, String_t* ___name, Type_t * ___type, const MethodInfo* method)
 {
-	typedef ObjectU5BU5D_t5_282* (*AssetBundle_LoadAssetWithSubAssets_Internal_m5_8_ftn) (AssetBundle_t5_4 *, String_t*, Type_t *);
+	typedef ObjectU5BU5D_t5_283* (*AssetBundle_LoadAssetWithSubAssets_Internal_m5_8_ftn) (AssetBundle_t5_4 *, String_t*, Type_t *);
 	static AssetBundle_LoadAssetWithSubAssets_Internal_m5_8_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (AssetBundle_LoadAssetWithSubAssets_Internal_m5_8_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AssetBundle::LoadAssetWithSubAssets_Internal(System.String,System.Type)");
@@ -667,7 +669,7 @@ extern "C" ObjectU5BU5D_t5_282* AssetBundle_LoadAssetWithSubAssets_Internal_m5_8
 extern "C" void WaitForSeconds__ctor_m5_9 (WaitForSeconds_t5_10 * __this, float ___seconds, const MethodInfo* method)
 {
 	{
-		YieldInstruction__ctor_m5_841(__this, /*hidden argument*/NULL);
+		YieldInstruction__ctor_m5_844(__this, /*hidden argument*/NULL);
 		float L_0 = ___seconds;
 		__this->___m_Seconds_0 = L_0;
 		return;
@@ -690,7 +692,7 @@ extern "C" void WaitForSeconds_t5_10_marshal_cleanup(WaitForSeconds_t5_10_marsha
 extern "C" void WaitForFixedUpdate__ctor_m5_10 (WaitForFixedUpdate_t5_12 * __this, const MethodInfo* method)
 {
 	{
-		YieldInstruction__ctor_m5_841(__this, /*hidden argument*/NULL);
+		YieldInstruction__ctor_m5_844(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -698,7 +700,7 @@ extern "C" void WaitForFixedUpdate__ctor_m5_10 (WaitForFixedUpdate_t5_12 * __thi
 extern "C" void WaitForEndOfFrame__ctor_m5_11 (WaitForEndOfFrame_t5_13 * __this, const MethodInfo* method)
 {
 	{
-		YieldInstruction__ctor_m5_841(__this, /*hidden argument*/NULL);
+		YieldInstruction__ctor_m5_844(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -706,7 +708,7 @@ extern "C" void WaitForEndOfFrame__ctor_m5_11 (WaitForEndOfFrame_t5_13 * __this,
 extern "C" void Coroutine__ctor_m5_12 (Coroutine_t5_14 * __this, const MethodInfo* method)
 {
 	{
-		YieldInstruction__ctor_m5_841(__this, /*hidden argument*/NULL);
+		YieldInstruction__ctor_m5_844(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -774,7 +776,7 @@ extern "C" void Coroutine_t5_14_marshal_cleanup(Coroutine_t5_14_marshaled& marsh
 extern "C" void ScriptableObject__ctor_m5_15 (ScriptableObject_t5_15 * __this, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
 		ScriptableObject_Internal_CreateScriptableObject_m5_16(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		return;
 	}
@@ -839,12 +841,12 @@ extern "C" void UnhandledExceptionHandler_RegisterUECatcher_m5_20 (Object_t * __
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		AppDomain_t1_624 * L_0 = AppDomain_get_CurrentDomain_m1_4549(NULL /*static, unused*/, /*hidden argument*/NULL);
+		AppDomain_t1_624 * L_0 = AppDomain_get_CurrentDomain_m1_4544(NULL /*static, unused*/, /*hidden argument*/NULL);
 		IntPtr_t L_1 = { (void*)UnhandledExceptionHandler_HandleUnhandledException_m5_21_MethodInfo_var };
 		UnhandledExceptionEventHandler_t1_679 * L_2 = (UnhandledExceptionEventHandler_t1_679 *)il2cpp_codegen_object_new (UnhandledExceptionEventHandler_t1_679_il2cpp_TypeInfo_var);
-		UnhandledExceptionEventHandler__ctor_m1_5461(L_2, NULL, L_1, /*hidden argument*/NULL);
+		UnhandledExceptionEventHandler__ctor_m1_5456(L_2, NULL, L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		AppDomain_add_UnhandledException_m1_4545(L_0, L_2, /*hidden argument*/NULL);
+		AppDomain_add_UnhandledException_m1_4540(L_0, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -864,7 +866,7 @@ extern "C" void UnhandledExceptionHandler_HandleUnhandledException_m5_21 (Object
 	{
 		UnhandledExceptionEventArgs_t1_761 * L_0 = ___args;
 		NullCheck(L_0);
-		Object_t * L_1 = UnhandledExceptionEventArgs_get_ExceptionObject_m1_5376(L_0, /*hidden argument*/NULL);
+		Object_t * L_1 = UnhandledExceptionEventArgs_get_ExceptionObject_m1_5371(L_0, /*hidden argument*/NULL);
 		V_0 = ((Exception_t1_33 *)IsInstClass(L_1, Exception_t1_33_il2cpp_TypeInfo_var));
 		Exception_t1_33 * L_2 = V_0;
 		if (!L_2)
@@ -885,7 +887,7 @@ IL_001d:
 }
 // System.Void UnityEngine.UnhandledExceptionHandler::PrintException(System.String,System.Exception)
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2499;
 extern "C" void UnhandledExceptionHandler_PrintException_m5_22 (Object_t * __this /* static, unused */, String_t* ___title, Exception_t1_33 * ___e, const MethodInfo* method)
 {
@@ -893,7 +895,7 @@ extern "C" void UnhandledExceptionHandler_PrintException_m5_22 (Object_t * __thi
 	if (!s_Il2CppMethodIntialized)
 	{
 		String_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(11);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2499 = il2cpp_codegen_string_literal_from_index(2499);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -904,8 +906,8 @@ extern "C" void UnhandledExceptionHandler_PrintException_m5_22 (Object_t * __thi
 		String_t* L_2 = (String_t*)VirtFuncInvoker0< String_t* >::Invoke(3 /* System.String System.Exception::ToString() */, L_1);
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_3 = String_Concat_m1_420(NULL /*static, unused*/, L_0, L_2, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogError_m5_617(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogError_m5_620(NULL /*static, unused*/, L_3, /*hidden argument*/NULL);
 		Exception_t1_33 * L_4 = ___e;
 		NullCheck(L_4);
 		Exception_t1_33 * L_5 = (Exception_t1_33 *)VirtFuncInvoker0< Exception_t1_33 * >::Invoke(5 /* System.Exception System.Exception::get_InnerException() */, L_4);
@@ -948,7 +950,7 @@ extern TypeInfo* AchievementDescriptionU5BU5D_t5_18_il2cpp_TypeInfo_var;
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
 extern TypeInfo* UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var;
 extern TypeInfo* List_1_t1_878_il2cpp_TypeInfo_var;
-extern const MethodInfo* List_1__ctor_m1_5492_MethodInfo_var;
+extern const MethodInfo* List_1__ctor_m1_5487_MethodInfo_var;
 extern "C" void GameCenterPlatform__cctor_m5_25 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -958,7 +960,7 @@ extern "C" void GameCenterPlatform__cctor_m5_25 (Object_t * __this /* static, un
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
 		UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(831);
 		List_1_t1_878_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(833);
-		List_1__ctor_m1_5492_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483704);
+		List_1__ctor_m1_5487_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483704);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -966,7 +968,7 @@ extern "C" void GameCenterPlatform__cctor_m5_25 (Object_t * __this /* static, un
 		((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_friends_10 = ((UserProfileU5BU5D_t5_19*)SZArrayNew(UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var, 0));
 		((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_users_11 = ((UserProfileU5BU5D_t5_19*)SZArrayNew(UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var, 0));
 		List_1_t1_878 * L_0 = (List_1_t1_878 *)il2cpp_codegen_object_new (List_1_t1_878_il2cpp_TypeInfo_var);
-		List_1__ctor_m1_5492(L_0, /*hidden argument*/List_1__ctor_m1_5492_MethodInfo_var);
+		List_1__ctor_m1_5487(L_0, /*hidden argument*/List_1__ctor_m1_5487_MethodInfo_var);
 		((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_GcBoards_14 = L_0;
 		return;
 	}
@@ -1267,7 +1269,7 @@ IL_0022:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetAchievementDescription(UnityEngine.SocialPlatforms.GameCenter.GcAchievementDescriptionData,System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern "C" void GameCenterPlatform_SetAchievementDescription_m5_50 (Object_t * __this /* static, unused */, GcAchievementDescriptionData_t5_228  ___data, int32_t ___number, const MethodInfo* method)
+extern "C" void GameCenterPlatform_SetAchievementDescription_m5_50 (Object_t * __this /* static, unused */, GcAchievementDescriptionData_t5_229  ___data, int32_t ___number, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1279,17 +1281,17 @@ extern "C" void GameCenterPlatform_SetAchievementDescription_m5_50 (Object_t * _
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		AchievementDescriptionU5BU5D_t5_18* L_0 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_adCache_9;
 		int32_t L_1 = ___number;
-		AchievementDescription_t5_239 * L_2 = GcAchievementDescriptionData_ToAchievementDescription_m5_1596((&___data), /*hidden argument*/NULL);
+		AchievementDescription_t5_240 * L_2 = GcAchievementDescriptionData_ToAchievementDescription_m5_1599((&___data), /*hidden argument*/NULL);
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, L_1);
 		ArrayElementTypeCheck (L_0, L_2);
-		*((AchievementDescription_t5_239 **)(AchievementDescription_t5_239 **)SZArrayLdElema(L_0, L_1, sizeof(AchievementDescription_t5_239 *))) = (AchievementDescription_t5_239 *)L_2;
+		*((AchievementDescription_t5_240 **)(AchievementDescription_t5_240 **)SZArrayLdElema(L_0, L_1, sizeof(AchievementDescription_t5_240 *))) = (AchievementDescription_t5_240 *)L_2;
 		return;
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetAchievementDescriptionImage(UnityEngine.Texture2D,System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2500;
 extern "C" void GameCenterPlatform_SetAchievementDescriptionImage_m5_51 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___texture, int32_t ___number, const MethodInfo* method)
 {
@@ -1297,7 +1299,7 @@ extern "C" void GameCenterPlatform_SetAchievementDescriptionImage_m5_51 (Object_
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2500 = il2cpp_codegen_string_literal_from_index(2500);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -1321,8 +1323,8 @@ extern "C" void GameCenterPlatform_SetAchievementDescriptionImage_m5_51 (Object_
 
 IL_0014:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2500, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2500, /*hidden argument*/NULL);
 		return;
 	}
 
@@ -1335,15 +1337,15 @@ IL_001f:
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, L_4);
 		int32_t L_5 = L_4;
 		Texture2D_t5_34 * L_6 = ___texture;
-		NullCheck((*(AchievementDescription_t5_239 **)(AchievementDescription_t5_239 **)SZArrayLdElema(L_3, L_5, sizeof(AchievementDescription_t5_239 *))));
-		AchievementDescription_SetImage_m5_1627((*(AchievementDescription_t5_239 **)(AchievementDescription_t5_239 **)SZArrayLdElema(L_3, L_5, sizeof(AchievementDescription_t5_239 *))), L_6, /*hidden argument*/NULL);
+		NullCheck((*(AchievementDescription_t5_240 **)(AchievementDescription_t5_240 **)SZArrayLdElema(L_3, L_5, sizeof(AchievementDescription_t5_240 *))));
+		AchievementDescription_SetImage_m5_1630((*(AchievementDescription_t5_240 **)(AchievementDescription_t5_240 **)SZArrayLdElema(L_3, L_5, sizeof(AchievementDescription_t5_240 *))), L_6, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerAchievementDescriptionCallback()
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5493_MethodInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5488_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2501;
 extern "C" void GameCenterPlatform_TriggerAchievementDescriptionCallback_m5_52 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
@@ -1351,8 +1353,8 @@ extern "C" void GameCenterPlatform_TriggerAchievementDescriptionCallback_m5_52 (
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		Action_1_Invoke_m1_5493_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483705);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Action_1_Invoke_m1_5488_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483705);
 		_stringLiteral2501 = il2cpp_codegen_string_literal_from_index(2501);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -1382,8 +1384,8 @@ extern "C" void GameCenterPlatform_TriggerAchievementDescriptionCallback_m5_52 (
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2501, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2501, /*hidden argument*/NULL);
 	}
 
 IL_002a:
@@ -1392,7 +1394,7 @@ IL_002a:
 		Action_1_t1_874 * L_3 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_AchievementDescriptionLoaderCallback_2;
 		AchievementDescriptionU5BU5D_t5_18* L_4 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_adCache_9;
 		NullCheck(L_3);
-		Action_1_Invoke_m1_5493(L_3, (IAchievementDescriptionU5BU5D_t5_299*)(IAchievementDescriptionU5BU5D_t5_299*)L_4, /*hidden argument*/Action_1_Invoke_m1_5493_MethodInfo_var);
+		Action_1_Invoke_m1_5488(L_3, (IAchievementDescriptionU5BU5D_t5_300*)(IAchievementDescriptionU5BU5D_t5_300*)L_4, /*hidden argument*/Action_1_Invoke_m1_5488_MethodInfo_var);
 	}
 
 IL_0039:
@@ -1402,14 +1404,14 @@ IL_0039:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::AuthenticateCallbackWrapper(System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_AuthenticateCallbackWrapper_m5_53 (Object_t * __this /* static, unused */, int32_t ___result, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	Action_1_t1_873 * G_B3_0 = {0};
@@ -1451,7 +1453,7 @@ IL_0021:
 IL_0022:
 	{
 		NullCheck(G_B4_1);
-		Action_1_Invoke_m1_5494(G_B4_1, G_B4_0, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(G_B4_1, G_B4_0, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_0027:
@@ -1478,7 +1480,7 @@ extern "C" void GameCenterPlatform_ClearFriends_m5_54 (Object_t * __this /* stat
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetFriends(UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData,System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern "C" void GameCenterPlatform_SetFriends_m5_55 (Object_t * __this /* static, unused */, GcUserProfileData_t5_227  ___data, int32_t ___number, const MethodInfo* method)
+extern "C" void GameCenterPlatform_SetFriends_m5_55 (Object_t * __this /* static, unused */, GcUserProfileData_t5_228  ___data, int32_t ___number, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -1489,7 +1491,7 @@ extern "C" void GameCenterPlatform_SetFriends_m5_55 (Object_t * __this /* static
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		int32_t L_0 = ___number;
-		GcUserProfileData_AddToArray_m5_1595((&___data), (&((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_friends_10), L_0, /*hidden argument*/NULL);
+		GcUserProfileData_AddToArray_m5_1598((&___data), (&((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_friends_10), L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -1513,14 +1515,14 @@ extern "C" void GameCenterPlatform_SetFriendImage_m5_56 (Object_t * __this /* st
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerFriendsCallbackWrapper(System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_TriggerFriendsCallbackWrapper_m5_57 (Object_t * __this /* static, unused */, int32_t ___result, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	Action_1_t1_873 * G_B5_0 = {0};
@@ -1540,7 +1542,7 @@ extern "C" void GameCenterPlatform_TriggerFriendsCallbackWrapper_m5_57 (Object_t
 		LocalUser_t5_20 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		UserProfileU5BU5D_t5_19* L_2 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_friends_10;
 		NullCheck(L_1);
-		LocalUser_SetFriends_m5_1600(L_1, (IUserProfileU5BU5D_t5_237*)(IUserProfileU5BU5D_t5_237*)L_2, /*hidden argument*/NULL);
+		LocalUser_SetFriends_m5_1603(L_1, (IUserProfileU5BU5D_t5_238*)(IUserProfileU5BU5D_t5_238*)L_2, /*hidden argument*/NULL);
 	}
 
 IL_0019:
@@ -1578,7 +1580,7 @@ IL_0035:
 IL_0036:
 	{
 		NullCheck(G_B6_1);
-		Action_1_Invoke_m1_5494(G_B6_1, G_B6_0, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(G_B6_1, G_B6_0, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_003b:
@@ -1588,23 +1590,23 @@ IL_003b:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::AchievementCallbackWrapper(UnityEngine.SocialPlatforms.GameCenter.GcAchievementData[])
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5495_MethodInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5490_MethodInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2502;
-extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * __this /* static, unused */, GcAchievementDataU5BU5D_t5_283* ___result, const MethodInfo* method)
+extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * __this /* static, unused */, GcAchievementDataU5BU5D_t5_284* ___result, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(838);
-		Action_1_Invoke_m1_5495_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483707);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(838);
+		Action_1_Invoke_m1_5490_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483707);
 		_stringLiteral2502 = il2cpp_codegen_string_literal_from_index(2502);
 		s_Il2CppMethodIntialized = true;
 	}
-	AchievementU5BU5D_t5_300* V_0 = {0};
+	AchievementU5BU5D_t5_301* V_0 = {0};
 	int32_t V_1 = 0;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
@@ -1615,7 +1617,7 @@ extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * 
 		}
 	}
 	{
-		GcAchievementDataU5BU5D_t5_283* L_1 = ___result;
+		GcAchievementDataU5BU5D_t5_284* L_1 = ___result;
 		NullCheck(L_1);
 		if ((((int32_t)((int32_t)(((Array_t *)L_1)->max_length)))))
 		{
@@ -1623,32 +1625,32 @@ extern "C" void GameCenterPlatform_AchievementCallbackWrapper_m5_58 (Object_t * 
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2502, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2502, /*hidden argument*/NULL);
 	}
 
 IL_001c:
 	{
-		GcAchievementDataU5BU5D_t5_283* L_2 = ___result;
+		GcAchievementDataU5BU5D_t5_284* L_2 = ___result;
 		NullCheck(L_2);
-		V_0 = ((AchievementU5BU5D_t5_300*)SZArrayNew(AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_2)->max_length))))));
+		V_0 = ((AchievementU5BU5D_t5_301*)SZArrayNew(AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_2)->max_length))))));
 		V_1 = 0;
 		goto IL_003f;
 	}
 
 IL_002c:
 	{
-		AchievementU5BU5D_t5_300* L_3 = V_0;
+		AchievementU5BU5D_t5_301* L_3 = V_0;
 		int32_t L_4 = V_1;
-		GcAchievementDataU5BU5D_t5_283* L_5 = ___result;
+		GcAchievementDataU5BU5D_t5_284* L_5 = ___result;
 		int32_t L_6 = V_1;
 		NullCheck(L_5);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_5, L_6);
-		Achievement_t5_238 * L_7 = GcAchievementData_ToAchievement_m5_1597(((GcAchievementData_t5_229 *)(GcAchievementData_t5_229 *)SZArrayLdElema(L_5, L_6, sizeof(GcAchievementData_t5_229 ))), /*hidden argument*/NULL);
+		Achievement_t5_239 * L_7 = GcAchievementData_ToAchievement_m5_1600(((GcAchievementData_t5_230 *)(GcAchievementData_t5_230 *)SZArrayLdElema(L_5, L_6, sizeof(GcAchievementData_t5_230 ))), /*hidden argument*/NULL);
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, L_4);
 		ArrayElementTypeCheck (L_3, L_7);
-		*((Achievement_t5_238 **)(Achievement_t5_238 **)SZArrayLdElema(L_3, L_4, sizeof(Achievement_t5_238 *))) = (Achievement_t5_238 *)L_7;
+		*((Achievement_t5_239 **)(Achievement_t5_239 **)SZArrayLdElema(L_3, L_4, sizeof(Achievement_t5_239 *))) = (Achievement_t5_239 *)L_7;
 		int32_t L_8 = V_1;
 		V_1 = ((int32_t)((int32_t)L_8+(int32_t)1));
 	}
@@ -1656,7 +1658,7 @@ IL_002c:
 IL_003f:
 	{
 		int32_t L_9 = V_1;
-		GcAchievementDataU5BU5D_t5_283* L_10 = ___result;
+		GcAchievementDataU5BU5D_t5_284* L_10 = ___result;
 		NullCheck(L_10);
 		if ((((int32_t)L_9) < ((int32_t)(((int32_t)((int32_t)(((Array_t *)L_10)->max_length)))))))
 		{
@@ -1666,9 +1668,9 @@ IL_003f:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		Action_1_t1_875 * L_11 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_AchievementLoaderCallback_3;
-		AchievementU5BU5D_t5_300* L_12 = V_0;
+		AchievementU5BU5D_t5_301* L_12 = V_0;
 		NullCheck(L_11);
-		Action_1_Invoke_m1_5495(L_11, (IAchievementU5BU5D_t5_301*)(IAchievementU5BU5D_t5_301*)L_12, /*hidden argument*/Action_1_Invoke_m1_5495_MethodInfo_var);
+		Action_1_Invoke_m1_5490(L_11, (IAchievementU5BU5D_t5_302*)(IAchievementU5BU5D_t5_302*)L_12, /*hidden argument*/Action_1_Invoke_m1_5490_MethodInfo_var);
 	}
 
 IL_0053:
@@ -1678,14 +1680,14 @@ IL_0053:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ProgressCallbackWrapper(System.Boolean)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_ProgressCallbackWrapper_m5_59 (Object_t * __this /* static, unused */, bool ___success, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -1701,7 +1703,7 @@ extern "C" void GameCenterPlatform_ProgressCallbackWrapper_m5_59 (Object_t * __t
 		Action_1_t1_873 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_ProgressCallback_4;
 		bool L_2 = ___success;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_0015:
@@ -1711,14 +1713,14 @@ IL_0015:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ScoreCallbackWrapper(System.Boolean)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_ScoreCallbackWrapper_m5_60 (Object_t * __this /* static, unused */, bool ___success, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -1734,7 +1736,7 @@ extern "C" void GameCenterPlatform_ScoreCallbackWrapper_m5_60 (Object_t * __this
 		Action_1_t1_873 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_ScoreCallback_5;
 		bool L_2 = ___success;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_0015:
@@ -1744,19 +1746,19 @@ IL_0015:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ScoreLoaderCallbackWrapper(UnityEngine.SocialPlatforms.GameCenter.GcScoreData[])
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern TypeInfo* ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5496_MethodInfo_var;
-extern "C" void GameCenterPlatform_ScoreLoaderCallbackWrapper_m5_61 (Object_t * __this /* static, unused */, GcScoreDataU5BU5D_t5_284* ___result, const MethodInfo* method)
+extern TypeInfo* ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5491_MethodInfo_var;
+extern "C" void GameCenterPlatform_ScoreLoaderCallbackWrapper_m5_61 (Object_t * __this /* static, unused */, GcScoreDataU5BU5D_t5_285* ___result, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
-		Action_1_Invoke_m1_5496_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483708);
+		ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
+		Action_1_Invoke_m1_5491_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483708);
 		s_Il2CppMethodIntialized = true;
 	}
-	ScoreU5BU5D_t5_302* V_0 = {0};
+	ScoreU5BU5D_t5_303* V_0 = {0};
 	int32_t V_1 = 0;
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
@@ -1767,26 +1769,26 @@ extern "C" void GameCenterPlatform_ScoreLoaderCallbackWrapper_m5_61 (Object_t * 
 		}
 	}
 	{
-		GcScoreDataU5BU5D_t5_284* L_1 = ___result;
+		GcScoreDataU5BU5D_t5_285* L_1 = ___result;
 		NullCheck(L_1);
-		V_0 = ((ScoreU5BU5D_t5_302*)SZArrayNew(ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))));
+		V_0 = ((ScoreU5BU5D_t5_303*)SZArrayNew(ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))));
 		V_1 = 0;
 		goto IL_002d;
 	}
 
 IL_001a:
 	{
-		ScoreU5BU5D_t5_302* L_2 = V_0;
+		ScoreU5BU5D_t5_303* L_2 = V_0;
 		int32_t L_3 = V_1;
-		GcScoreDataU5BU5D_t5_284* L_4 = ___result;
+		GcScoreDataU5BU5D_t5_285* L_4 = ___result;
 		int32_t L_5 = V_1;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, L_5);
-		Score_t5_240 * L_6 = GcScoreData_ToScore_m5_1598(((GcScoreData_t5_230 *)(GcScoreData_t5_230 *)SZArrayLdElema(L_4, L_5, sizeof(GcScoreData_t5_230 ))), /*hidden argument*/NULL);
+		Score_t5_241 * L_6 = GcScoreData_ToScore_m5_1601(((GcScoreData_t5_231 *)(GcScoreData_t5_231 *)SZArrayLdElema(L_4, L_5, sizeof(GcScoreData_t5_231 ))), /*hidden argument*/NULL);
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, L_3);
 		ArrayElementTypeCheck (L_2, L_6);
-		*((Score_t5_240 **)(Score_t5_240 **)SZArrayLdElema(L_2, L_3, sizeof(Score_t5_240 *))) = (Score_t5_240 *)L_6;
+		*((Score_t5_241 **)(Score_t5_241 **)SZArrayLdElema(L_2, L_3, sizeof(Score_t5_241 *))) = (Score_t5_241 *)L_6;
 		int32_t L_7 = V_1;
 		V_1 = ((int32_t)((int32_t)L_7+(int32_t)1));
 	}
@@ -1794,7 +1796,7 @@ IL_001a:
 IL_002d:
 	{
 		int32_t L_8 = V_1;
-		GcScoreDataU5BU5D_t5_284* L_9 = ___result;
+		GcScoreDataU5BU5D_t5_285* L_9 = ___result;
 		NullCheck(L_9);
 		if ((((int32_t)L_8) < ((int32_t)(((int32_t)((int32_t)(((Array_t *)L_9)->max_length)))))))
 		{
@@ -1804,9 +1806,9 @@ IL_002d:
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		Action_1_t1_876 * L_10 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_ScoreLoaderCallback_6;
-		ScoreU5BU5D_t5_302* L_11 = V_0;
+		ScoreU5BU5D_t5_303* L_11 = V_0;
 		NullCheck(L_10);
-		Action_1_Invoke_m1_5496(L_10, (IScoreU5BU5D_t5_241*)(IScoreU5BU5D_t5_241*)L_11, /*hidden argument*/Action_1_Invoke_m1_5496_MethodInfo_var);
+		Action_1_Invoke_m1_5491(L_10, (IScoreU5BU5D_t5_242*)(IScoreU5BU5D_t5_242*)L_11, /*hidden argument*/Action_1_Invoke_m1_5491_MethodInfo_var);
 	}
 
 IL_0041:
@@ -1840,7 +1842,7 @@ extern "C" Object_t * GameCenterPlatform_get_localUser_m5_62 (GameCenterPlatform
 	}
 	{
 		LocalUser_t5_20 * L_1 = (LocalUser_t5_20 *)il2cpp_codegen_object_new (LocalUser_t5_20_il2cpp_TypeInfo_var);
-		LocalUser__ctor_m5_1599(L_1, /*hidden argument*/NULL);
+		LocalUser__ctor_m5_1602(L_1, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13 = L_1;
 	}
@@ -1893,30 +1895,30 @@ extern "C" void GameCenterPlatform_PopulateLocalUser_m5_63 (Object_t * __this /*
 		LocalUser_t5_20 * L_0 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		bool L_1 = GameCenterPlatform_Internal_Authenticated_m5_29(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		LocalUser_SetAuthenticated_m5_1601(L_0, L_1, /*hidden argument*/NULL);
+		LocalUser_SetAuthenticated_m5_1604(L_0, L_1, /*hidden argument*/NULL);
 		LocalUser_t5_20 * L_2 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		String_t* L_3 = GameCenterPlatform_Internal_UserName_m5_30(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_2);
-		UserProfile_SetUserName_m5_1607(L_2, L_3, /*hidden argument*/NULL);
+		UserProfile_SetUserName_m5_1610(L_2, L_3, /*hidden argument*/NULL);
 		LocalUser_t5_20 * L_4 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		String_t* L_5 = GameCenterPlatform_Internal_UserID_m5_31(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		UserProfile_SetUserID_m5_1608(L_4, L_5, /*hidden argument*/NULL);
+		UserProfile_SetUserID_m5_1611(L_4, L_5, /*hidden argument*/NULL);
 		LocalUser_t5_20 * L_6 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		bool L_7 = GameCenterPlatform_Internal_Underage_m5_32(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_6);
-		LocalUser_SetUnderage_m5_1602(L_6, L_7, /*hidden argument*/NULL);
+		LocalUser_SetUnderage_m5_1605(L_6, L_7, /*hidden argument*/NULL);
 		LocalUser_t5_20 * L_8 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_LocalUser_13;
 		Texture2D_t5_34 * L_9 = GameCenterPlatform_Internal_UserImage_m5_33(NULL /*static, unused*/, /*hidden argument*/NULL);
 		NullCheck(L_8);
-		UserProfile_SetImage_m5_1609(L_8, L_9, /*hidden argument*/NULL);
+		UserProfile_SetImage_m5_1612(L_8, L_9, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::LoadAchievementDescriptions(System.Action`1<UnityEngine.SocialPlatforms.IAchievementDescription[]>)
 extern TypeInfo* AchievementDescriptionU5BU5D_t5_18_il2cpp_TypeInfo_var;
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5493_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5488_MethodInfo_var;
 extern "C" void GameCenterPlatform_LoadAchievementDescriptions_m5_64 (GameCenterPlatform_t5_17 * __this, Action_1_t1_874 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -1924,7 +1926,7 @@ extern "C" void GameCenterPlatform_LoadAchievementDescriptions_m5_64 (GameCenter
 	{
 		AchievementDescriptionU5BU5D_t5_18_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(828);
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5493_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483705);
+		Action_1_Invoke_m1_5488_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483705);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -1937,7 +1939,7 @@ extern "C" void GameCenterPlatform_LoadAchievementDescriptions_m5_64 (GameCenter
 	{
 		Action_1_t1_874 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5493(L_1, (IAchievementDescriptionU5BU5D_t5_299*)(IAchievementDescriptionU5BU5D_t5_299*)((AchievementDescriptionU5BU5D_t5_18*)SZArrayNew(AchievementDescriptionU5BU5D_t5_18_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5493_MethodInfo_var);
+		Action_1_Invoke_m1_5488(L_1, (IAchievementDescriptionU5BU5D_t5_300*)(IAchievementDescriptionU5BU5D_t5_300*)((AchievementDescriptionU5BU5D_t5_18*)SZArrayNew(AchievementDescriptionU5BU5D_t5_18_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5488_MethodInfo_var);
 		return;
 	}
 
@@ -1952,14 +1954,14 @@ IL_0018:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ReportProgress(System.String,System.Double,System.Action`1<System.Boolean>)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_ReportProgress_m5_65 (GameCenterPlatform_t5_17 * __this, String_t* ___id, double ___progress, Action_1_t1_873 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -1972,7 +1974,7 @@ extern "C" void GameCenterPlatform_ReportProgress_m5_65 (GameCenterPlatform_t5_1
 	{
 		Action_1_t1_873 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 		return;
 	}
 
@@ -1988,17 +1990,17 @@ IL_0013:
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::LoadAchievements(System.Action`1<UnityEngine.SocialPlatforms.IAchievement[]>)
-extern TypeInfo* AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var;
+extern TypeInfo* AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var;
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5495_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5490_MethodInfo_var;
 extern "C" void GameCenterPlatform_LoadAchievements_m5_66 (GameCenterPlatform_t5_17 * __this, Action_1_t1_875 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(838);
+		AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(838);
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5495_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483707);
+		Action_1_Invoke_m1_5490_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483707);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2011,7 +2013,7 @@ extern "C" void GameCenterPlatform_LoadAchievements_m5_66 (GameCenterPlatform_t5
 	{
 		Action_1_t1_875 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5495(L_1, (IAchievementU5BU5D_t5_301*)(IAchievementU5BU5D_t5_301*)((AchievementU5BU5D_t5_300*)SZArrayNew(AchievementU5BU5D_t5_300_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5495_MethodInfo_var);
+		Action_1_Invoke_m1_5490(L_1, (IAchievementU5BU5D_t5_302*)(IAchievementU5BU5D_t5_302*)((AchievementU5BU5D_t5_301*)SZArrayNew(AchievementU5BU5D_t5_301_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5490_MethodInfo_var);
 		return;
 	}
 
@@ -2026,14 +2028,14 @@ IL_0018:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::ReportScore(System.Int64,System.String,System.Action`1<System.Boolean>)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_ReportScore_m5_67 (GameCenterPlatform_t5_17 * __this, int64_t ___score, String_t* ___board, Action_1_t1_873 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2046,7 +2048,7 @@ extern "C" void GameCenterPlatform_ReportScore_m5_67 (GameCenterPlatform_t5_17 *
 	{
 		Action_1_t1_873 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 		return;
 	}
 
@@ -2062,17 +2064,17 @@ IL_0013:
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::LoadScores(System.String,System.Action`1<UnityEngine.SocialPlatforms.IScore[]>)
-extern TypeInfo* ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var;
+extern TypeInfo* ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var;
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5496_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5491_MethodInfo_var;
 extern "C" void GameCenterPlatform_LoadScores_m5_68 (GameCenterPlatform_t5_17 * __this, String_t* ___category, Action_1_t1_876 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
+		ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5496_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483708);
+		Action_1_Invoke_m1_5491_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483708);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2085,7 +2087,7 @@ extern "C" void GameCenterPlatform_LoadScores_m5_68 (GameCenterPlatform_t5_17 * 
 	{
 		Action_1_t1_876 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5496(L_1, (IScoreU5BU5D_t5_241*)(IScoreU5BU5D_t5_241*)((ScoreU5BU5D_t5_302*)SZArrayNew(ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5496_MethodInfo_var);
+		Action_1_Invoke_m1_5491(L_1, (IScoreU5BU5D_t5_242*)(IScoreU5BU5D_t5_242*)((ScoreU5BU5D_t5_303*)SZArrayNew(ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5491_MethodInfo_var);
 		return;
 	}
 
@@ -2103,8 +2105,8 @@ IL_0018:
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
 extern TypeInfo* Leaderboard_t5_22_il2cpp_TypeInfo_var;
 extern TypeInfo* GcLeaderboard_t5_21_il2cpp_TypeInfo_var;
-extern TypeInfo* ILeaderboard_t5_286_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern TypeInfo* ILeaderboard_t5_287_il2cpp_TypeInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_LoadScores_m5_69 (GameCenterPlatform_t5_17 * __this, Object_t * ___board, Action_1_t1_873 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -2113,14 +2115,14 @@ extern "C" void GameCenterPlatform_LoadScores_m5_69 (GameCenterPlatform_t5_17 * 
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
 		Leaderboard_t5_22_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(845);
 		GcLeaderboard_t5_21_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(827);
-		ILeaderboard_t5_286_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(846);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		ILeaderboard_t5_287_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(846);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	Leaderboard_t5_22 * V_0 = {0};
 	GcLeaderboard_t5_21 * V_1 = {0};
-	Range_t5_242  V_2 = {0};
-	Range_t5_242  V_3 = {0};
+	Range_t5_243  V_2 = {0};
+	Range_t5_243  V_3 = {0};
 	{
 		bool L_0 = GameCenterPlatform_VerifyAuthentication_m5_72(__this, /*hidden argument*/NULL);
 		if (L_0)
@@ -2131,7 +2133,7 @@ extern "C" void GameCenterPlatform_LoadScores_m5_69 (GameCenterPlatform_t5_17 * 
 	{
 		Action_1_t1_873 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, 0, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 		return;
 	}
 
@@ -2152,7 +2154,7 @@ IL_0013:
 		VirtActionInvoker1< GcLeaderboard_t5_21 * >::Invoke(22 /* System.Void System.Collections.Generic.List`1<UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard>::Add(!0) */, L_6, L_7);
 		Leaderboard_t5_22 * L_8 = V_0;
 		NullCheck(L_8);
-		StringU5BU5D_t1_198* L_9 = Leaderboard_GetUserFilter_m5_1648(L_8, /*hidden argument*/NULL);
+		StringU5BU5D_t1_198* L_9 = Leaderboard_GetUserFilter_m5_1651(L_8, /*hidden argument*/NULL);
 		NullCheck(L_9);
 		if ((((int32_t)(((int32_t)((int32_t)(((Array_t *)L_9)->max_length))))) <= ((int32_t)0)))
 		{
@@ -2163,13 +2165,13 @@ IL_0013:
 		GcLeaderboard_t5_21 * L_10 = V_1;
 		Object_t * L_11 = ___board;
 		NullCheck(L_11);
-		String_t* L_12 = (String_t*)InterfaceFuncInvoker0< String_t* >::Invoke(0 /* System.String UnityEngine.SocialPlatforms.ILeaderboard::get_id() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_11);
+		String_t* L_12 = (String_t*)InterfaceFuncInvoker0< String_t* >::Invoke(0 /* System.String UnityEngine.SocialPlatforms.ILeaderboard::get_id() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_11);
 		Object_t * L_13 = ___board;
 		NullCheck(L_13);
-		int32_t L_14 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(3 /* UnityEngine.SocialPlatforms.TimeScope UnityEngine.SocialPlatforms.ILeaderboard::get_timeScope() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_13);
+		int32_t L_14 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(3 /* UnityEngine.SocialPlatforms.TimeScope UnityEngine.SocialPlatforms.ILeaderboard::get_timeScope() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_13);
 		Leaderboard_t5_22 * L_15 = V_0;
 		NullCheck(L_15);
-		StringU5BU5D_t1_198* L_16 = Leaderboard_GetUserFilter_m5_1648(L_15, /*hidden argument*/NULL);
+		StringU5BU5D_t1_198* L_16 = Leaderboard_GetUserFilter_m5_1651(L_15, /*hidden argument*/NULL);
 		NullCheck(L_10);
 		GcLeaderboard_Internal_LoadScoresWithUsers_m5_93(L_10, L_12, L_14, L_16, /*hidden argument*/NULL);
 		goto IL_0091;
@@ -2180,23 +2182,23 @@ IL_005d:
 		GcLeaderboard_t5_21 * L_17 = V_1;
 		Object_t * L_18 = ___board;
 		NullCheck(L_18);
-		String_t* L_19 = (String_t*)InterfaceFuncInvoker0< String_t* >::Invoke(0 /* System.String UnityEngine.SocialPlatforms.ILeaderboard::get_id() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_18);
+		String_t* L_19 = (String_t*)InterfaceFuncInvoker0< String_t* >::Invoke(0 /* System.String UnityEngine.SocialPlatforms.ILeaderboard::get_id() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_18);
 		Object_t * L_20 = ___board;
 		NullCheck(L_20);
-		Range_t5_242  L_21 = (Range_t5_242 )InterfaceFuncInvoker0< Range_t5_242  >::Invoke(2 /* UnityEngine.SocialPlatforms.Range UnityEngine.SocialPlatforms.ILeaderboard::get_range() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_20);
+		Range_t5_243  L_21 = (Range_t5_243 )InterfaceFuncInvoker0< Range_t5_243  >::Invoke(2 /* UnityEngine.SocialPlatforms.Range UnityEngine.SocialPlatforms.ILeaderboard::get_range() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_20);
 		V_2 = L_21;
 		int32_t L_22 = ((&V_2)->___from_0);
 		Object_t * L_23 = ___board;
 		NullCheck(L_23);
-		Range_t5_242  L_24 = (Range_t5_242 )InterfaceFuncInvoker0< Range_t5_242  >::Invoke(2 /* UnityEngine.SocialPlatforms.Range UnityEngine.SocialPlatforms.ILeaderboard::get_range() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_23);
+		Range_t5_243  L_24 = (Range_t5_243 )InterfaceFuncInvoker0< Range_t5_243  >::Invoke(2 /* UnityEngine.SocialPlatforms.Range UnityEngine.SocialPlatforms.ILeaderboard::get_range() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_23);
 		V_3 = L_24;
 		int32_t L_25 = ((&V_3)->___count_1);
 		Object_t * L_26 = ___board;
 		NullCheck(L_26);
-		int32_t L_27 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(1 /* UnityEngine.SocialPlatforms.UserScope UnityEngine.SocialPlatforms.ILeaderboard::get_userScope() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_26);
+		int32_t L_27 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(1 /* UnityEngine.SocialPlatforms.UserScope UnityEngine.SocialPlatforms.ILeaderboard::get_userScope() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_26);
 		Object_t * L_28 = ___board;
 		NullCheck(L_28);
-		int32_t L_29 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(3 /* UnityEngine.SocialPlatforms.TimeScope UnityEngine.SocialPlatforms.ILeaderboard::get_timeScope() */, ILeaderboard_t5_286_il2cpp_TypeInfo_var, L_28);
+		int32_t L_29 = (int32_t)InterfaceFuncInvoker0< int32_t >::Invoke(3 /* UnityEngine.SocialPlatforms.TimeScope UnityEngine.SocialPlatforms.ILeaderboard::get_timeScope() */, ILeaderboard_t5_287_il2cpp_TypeInfo_var, L_28);
 		NullCheck(L_17);
 		GcLeaderboard_Internal_LoadScores_m5_92(L_17, L_19, L_22, L_25, L_27, L_29, /*hidden argument*/NULL);
 	}
@@ -2208,14 +2210,14 @@ IL_0091:
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::LeaderboardCallbackWrapper(System.Boolean)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_LeaderboardCallbackWrapper_m5_70 (Object_t * __this /* static, unused */, bool ___success, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2231,7 +2233,7 @@ extern "C" void GameCenterPlatform_LeaderboardCallbackWrapper_m5_70 (Object_t * 
 		Action_1_t1_873 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_LeaderboardCallback_7;
 		bool L_2 = ___success;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_0015:
@@ -2244,9 +2246,9 @@ extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
 extern TypeInfo* Leaderboard_t5_22_il2cpp_TypeInfo_var;
 extern TypeInfo* Enumerator_t1_899_il2cpp_TypeInfo_var;
 extern TypeInfo* IDisposable_t1_824_il2cpp_TypeInfo_var;
-extern const MethodInfo* List_1_GetEnumerator_m1_5497_MethodInfo_var;
-extern const MethodInfo* Enumerator_get_Current_m1_5498_MethodInfo_var;
-extern const MethodInfo* Enumerator_MoveNext_m1_5499_MethodInfo_var;
+extern const MethodInfo* List_1_GetEnumerator_m1_5492_MethodInfo_var;
+extern const MethodInfo* Enumerator_get_Current_m1_5493_MethodInfo_var;
+extern const MethodInfo* Enumerator_MoveNext_m1_5494_MethodInfo_var;
 extern "C" bool GameCenterPlatform_GetLoading_m5_71 (GameCenterPlatform_t5_17 * __this, Object_t * ___board, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -2256,9 +2258,9 @@ extern "C" bool GameCenterPlatform_GetLoading_m5_71 (GameCenterPlatform_t5_17 * 
 		Leaderboard_t5_22_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(845);
 		Enumerator_t1_899_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(847);
 		IDisposable_t1_824_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(141);
-		List_1_GetEnumerator_m1_5497_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483709);
-		Enumerator_get_Current_m1_5498_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483710);
-		Enumerator_MoveNext_m1_5499_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483711);
+		List_1_GetEnumerator_m1_5492_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483709);
+		Enumerator_get_Current_m1_5493_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483710);
+		Enumerator_MoveNext_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483711);
 		s_Il2CppMethodIntialized = true;
 	}
 	GcLeaderboard_t5_21 * V_0 = {0};
@@ -2286,7 +2288,7 @@ IL_000d:
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		List_1_t1_878 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___m_GcBoards_14;
 		NullCheck(L_1);
-		Enumerator_t1_899  L_2 = List_1_GetEnumerator_m1_5497(L_1, /*hidden argument*/List_1_GetEnumerator_m1_5497_MethodInfo_var);
+		Enumerator_t1_899  L_2 = List_1_GetEnumerator_m1_5492(L_1, /*hidden argument*/List_1_GetEnumerator_m1_5492_MethodInfo_var);
 		V_1 = L_2;
 	}
 
@@ -2299,7 +2301,7 @@ IL_0018:
 
 IL_001d:
 		{
-			GcLeaderboard_t5_21 * L_3 = Enumerator_get_Current_m1_5498((&V_1), /*hidden argument*/Enumerator_get_Current_m1_5498_MethodInfo_var);
+			GcLeaderboard_t5_21 * L_3 = Enumerator_get_Current_m1_5493((&V_1), /*hidden argument*/Enumerator_get_Current_m1_5493_MethodInfo_var);
 			V_0 = L_3;
 			GcLeaderboard_t5_21 * L_4 = V_0;
 			Object_t * L_5 = ___board;
@@ -2322,7 +2324,7 @@ IL_0036:
 
 IL_0042:
 		{
-			bool L_9 = Enumerator_MoveNext_m1_5499((&V_1), /*hidden argument*/Enumerator_MoveNext_m1_5499_MethodInfo_var);
+			bool L_9 = Enumerator_MoveNext_m1_5494((&V_1), /*hidden argument*/Enumerator_MoveNext_m1_5494_MethodInfo_var);
 			if (L_9)
 			{
 				goto IL_001d;
@@ -2368,31 +2370,31 @@ IL_0061:
 	}
 }
 // System.Boolean UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::VerifyAuthentication()
-extern TypeInfo* ILocalUser_t5_285_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* ILocalUser_t5_286_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2503;
 extern "C" bool GameCenterPlatform_VerifyAuthentication_m5_72 (GameCenterPlatform_t5_17 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ILocalUser_t5_285_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(848);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILocalUser_t5_286_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(848);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2503 = il2cpp_codegen_string_literal_from_index(2503);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Object_t * L_0 = GameCenterPlatform_get_localUser_m5_62(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		bool L_1 = (bool)InterfaceFuncInvoker0< bool >::Invoke(0 /* System.Boolean UnityEngine.SocialPlatforms.ILocalUser::get_authenticated() */, ILocalUser_t5_285_il2cpp_TypeInfo_var, L_0);
+		bool L_1 = (bool)InterfaceFuncInvoker0< bool >::Invoke(0 /* System.Boolean UnityEngine.SocialPlatforms.ILocalUser::get_authenticated() */, ILocalUser_t5_286_il2cpp_TypeInfo_var, L_0);
 		if (L_1)
 		{
 			goto IL_001c;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2503, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2503, /*hidden argument*/NULL);
 		return 0;
 	}
 
@@ -2452,7 +2454,7 @@ extern "C" void GameCenterPlatform_ClearUsers_m5_75 (Object_t * __this /* static
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SetUser(UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData,System.Int32)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern "C" void GameCenterPlatform_SetUser_m5_76 (Object_t * __this /* static, unused */, GcUserProfileData_t5_227  ___data, int32_t ___number, const MethodInfo* method)
+extern "C" void GameCenterPlatform_SetUser_m5_76 (Object_t * __this /* static, unused */, GcUserProfileData_t5_228  ___data, int32_t ___number, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -2463,7 +2465,7 @@ extern "C" void GameCenterPlatform_SetUser_m5_76 (Object_t * __this /* static, u
 	{
 		IL2CPP_RUNTIME_CLASS_INIT(GameCenterPlatform_t5_17_il2cpp_TypeInfo_var);
 		int32_t L_0 = ___number;
-		GcUserProfileData_AddToArray_m5_1595((&___data), (&((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_users_11), L_0, /*hidden argument*/NULL);
+		GcUserProfileData_AddToArray_m5_1598((&___data), (&((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_users_11), L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -2487,14 +2489,14 @@ extern "C" void GameCenterPlatform_SetUserImage_m5_77 (Object_t * __this /* stat
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerUsersCallbackWrapper()
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5500_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5495_MethodInfo_var;
 extern "C" void GameCenterPlatform_TriggerUsersCallbackWrapper_m5_78 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5500_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483712);
+		Action_1_Invoke_m1_5495_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483712);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2510,7 +2512,7 @@ extern "C" void GameCenterPlatform_TriggerUsersCallbackWrapper_m5_78 (Object_t *
 		Action_1_t1_877 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_UsersCallback_8;
 		UserProfileU5BU5D_t5_19* L_2 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_users_11;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5500(L_1, (IUserProfileU5BU5D_t5_237*)(IUserProfileU5BU5D_t5_237*)L_2, /*hidden argument*/Action_1_Invoke_m1_5500_MethodInfo_var);
+		Action_1_Invoke_m1_5495(L_1, (IUserProfileU5BU5D_t5_238*)(IUserProfileU5BU5D_t5_238*)L_2, /*hidden argument*/Action_1_Invoke_m1_5495_MethodInfo_var);
 	}
 
 IL_0019:
@@ -2521,7 +2523,7 @@ IL_0019:
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::LoadUsers(System.String[],System.Action`1<UnityEngine.SocialPlatforms.IUserProfile[]>)
 extern TypeInfo* UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var;
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5500_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5495_MethodInfo_var;
 extern "C" void GameCenterPlatform_LoadUsers_m5_79 (GameCenterPlatform_t5_17 * __this, StringU5BU5D_t1_198* ___userIds, Action_1_t1_877 * ___callback, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
@@ -2529,7 +2531,7 @@ extern "C" void GameCenterPlatform_LoadUsers_m5_79 (GameCenterPlatform_t5_17 * _
 	{
 		UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(831);
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5500_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483712);
+		Action_1_Invoke_m1_5495_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483712);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2542,7 +2544,7 @@ extern "C" void GameCenterPlatform_LoadUsers_m5_79 (GameCenterPlatform_t5_17 * _
 	{
 		Action_1_t1_877 * L_1 = ___callback;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5500(L_1, (IUserProfileU5BU5D_t5_237*)(IUserProfileU5BU5D_t5_237*)((UserProfileU5BU5D_t5_19*)SZArrayNew(UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5500_MethodInfo_var);
+		Action_1_Invoke_m1_5495(L_1, (IUserProfileU5BU5D_t5_238*)(IUserProfileU5BU5D_t5_238*)((UserProfileU5BU5D_t5_19*)SZArrayNew(UserProfileU5BU5D_t5_19_il2cpp_TypeInfo_var, 0)), /*hidden argument*/Action_1_Invoke_m1_5495_MethodInfo_var);
 		return;
 	}
 
@@ -2557,7 +2559,7 @@ IL_0018:
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::SafeSetUserImage(UnityEngine.SocialPlatforms.Impl.UserProfile[]&,UnityEngine.Texture2D,System.Int32)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern TypeInfo* Texture2D_t5_34_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2504;
 extern Il2CppCodeGenString* _stringLiteral2505;
@@ -2566,7 +2568,7 @@ extern "C" void GameCenterPlatform_SafeSetUserImage_m5_80 (Object_t * __this /* 
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		Texture2D_t5_34_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(851);
 		_stringLiteral2504 = il2cpp_codegen_string_literal_from_index(2504);
 		_stringLiteral2505 = il2cpp_codegen_string_literal_from_index(2505);
@@ -2591,8 +2593,8 @@ extern "C" void GameCenterPlatform_SafeSetUserImage_m5_80 (Object_t * __this /* 
 
 IL_0011:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2504, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2504, /*hidden argument*/NULL);
 		Texture2D_t5_34 * L_3 = (Texture2D_t5_34 *)il2cpp_codegen_object_new (Texture2D_t5_34_il2cpp_TypeInfo_var);
 		Texture2D__ctor_m5_154(L_3, ((int32_t)76), ((int32_t)76), /*hidden argument*/NULL);
 		___texture = L_3;
@@ -2622,15 +2624,15 @@ IL_0026:
 		IL2CPP_ARRAY_BOUNDS_CHECK((*((UserProfileU5BU5D_t5_19**)L_7)), L_8);
 		int32_t L_9 = L_8;
 		Texture2D_t5_34 * L_10 = ___texture;
-		NullCheck((*(UserProfile_t5_236 **)(UserProfile_t5_236 **)SZArrayLdElema((*((UserProfileU5BU5D_t5_19**)L_7)), L_9, sizeof(UserProfile_t5_236 *))));
-		UserProfile_SetImage_m5_1609((*(UserProfile_t5_236 **)(UserProfile_t5_236 **)SZArrayLdElema((*((UserProfileU5BU5D_t5_19**)L_7)), L_9, sizeof(UserProfile_t5_236 *))), L_10, /*hidden argument*/NULL);
+		NullCheck((*(UserProfile_t5_237 **)(UserProfile_t5_237 **)SZArrayLdElema((*((UserProfileU5BU5D_t5_19**)L_7)), L_9, sizeof(UserProfile_t5_237 *))));
+		UserProfile_SetImage_m5_1612((*(UserProfile_t5_237 **)(UserProfile_t5_237 **)SZArrayLdElema((*((UserProfileU5BU5D_t5_19**)L_7)), L_9, sizeof(UserProfile_t5_237 *))), L_10, /*hidden argument*/NULL);
 		goto IL_0050;
 	}
 
 IL_0046:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, _stringLiteral2505, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, _stringLiteral2505, /*hidden argument*/NULL);
 	}
 
 IL_0050:
@@ -2690,41 +2692,41 @@ extern "C" Object_t * GameCenterPlatform_CreateLeaderboard_m5_82 (GameCenterPlat
 	Leaderboard_t5_22 * V_0 = {0};
 	{
 		Leaderboard_t5_22 * L_0 = (Leaderboard_t5_22 *)il2cpp_codegen_object_new (Leaderboard_t5_22_il2cpp_TypeInfo_var);
-		Leaderboard__ctor_m5_1642(L_0, /*hidden argument*/NULL);
+		Leaderboard__ctor_m5_1645(L_0, /*hidden argument*/NULL);
 		V_0 = L_0;
 		Leaderboard_t5_22 * L_1 = V_0;
 		return L_1;
 	}
 }
 // UnityEngine.SocialPlatforms.IAchievement UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::CreateAchievement()
-extern TypeInfo* Achievement_t5_238_il2cpp_TypeInfo_var;
+extern TypeInfo* Achievement_t5_239_il2cpp_TypeInfo_var;
 extern "C" Object_t * GameCenterPlatform_CreateAchievement_m5_83 (GameCenterPlatform_t5_17 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Achievement_t5_238_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(839);
+		Achievement_t5_239_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(839);
 		s_Il2CppMethodIntialized = true;
 	}
-	Achievement_t5_238 * V_0 = {0};
+	Achievement_t5_239 * V_0 = {0};
 	{
-		Achievement_t5_238 * L_0 = (Achievement_t5_238 *)il2cpp_codegen_object_new (Achievement_t5_238_il2cpp_TypeInfo_var);
-		Achievement__ctor_m5_1616(L_0, /*hidden argument*/NULL);
+		Achievement_t5_239 * L_0 = (Achievement_t5_239 *)il2cpp_codegen_object_new (Achievement_t5_239_il2cpp_TypeInfo_var);
+		Achievement__ctor_m5_1619(L_0, /*hidden argument*/NULL);
 		V_0 = L_0;
-		Achievement_t5_238 * L_1 = V_0;
+		Achievement_t5_239 * L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GameCenterPlatform::TriggerResetAchievementCallback(System.Boolean)
 extern TypeInfo* GameCenterPlatform_t5_17_il2cpp_TypeInfo_var;
-extern const MethodInfo* Action_1_Invoke_m1_5494_MethodInfo_var;
+extern const MethodInfo* Action_1_Invoke_m1_5489_MethodInfo_var;
 extern "C" void GameCenterPlatform_TriggerResetAchievementCallback_m5_84 (Object_t * __this /* static, unused */, bool ___result, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		GameCenterPlatform_t5_17_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(830);
-		Action_1_Invoke_m1_5494_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
+		Action_1_Invoke_m1_5489_MethodInfo_var = il2cpp_codegen_method_info_from_index(2147483706);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
@@ -2740,7 +2742,7 @@ extern "C" void GameCenterPlatform_TriggerResetAchievementCallback_m5_84 (Object
 		Action_1_t1_873 * L_1 = ((GameCenterPlatform_t5_17_StaticFields*)GameCenterPlatform_t5_17_il2cpp_TypeInfo_var->static_fields)->___s_ResetAchievements_12;
 		bool L_2 = ___result;
 		NullCheck(L_1);
-		Action_1_Invoke_m1_5494(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5494_MethodInfo_var);
+		Action_1_Invoke_m1_5489(L_1, L_2, /*hidden argument*/Action_1_Invoke_m1_5489_MethodInfo_var);
 	}
 
 IL_0015:
@@ -2806,16 +2808,16 @@ extern "C" bool GcLeaderboard_Contains_m5_87 (GcLeaderboard_t5_21 * __this, Lead
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetScores(UnityEngine.SocialPlatforms.GameCenter.GcScoreData[])
-extern TypeInfo* ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var;
-extern "C" void GcLeaderboard_SetScores_m5_88 (GcLeaderboard_t5_21 * __this, GcScoreDataU5BU5D_t5_284* ___scoreDatas, const MethodInfo* method)
+extern TypeInfo* ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var;
+extern "C" void GcLeaderboard_SetScores_m5_88 (GcLeaderboard_t5_21 * __this, GcScoreDataU5BU5D_t5_285* ___scoreDatas, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
+		ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(842);
 		s_Il2CppMethodIntialized = true;
 	}
-	ScoreU5BU5D_t5_302* V_0 = {0};
+	ScoreU5BU5D_t5_303* V_0 = {0};
 	int32_t V_1 = 0;
 	{
 		Leaderboard_t5_22 * L_0 = (__this->___m_GenericLeaderboard_1);
@@ -2825,26 +2827,26 @@ extern "C" void GcLeaderboard_SetScores_m5_88 (GcLeaderboard_t5_21 * __this, GcS
 		}
 	}
 	{
-		GcScoreDataU5BU5D_t5_284* L_1 = ___scoreDatas;
+		GcScoreDataU5BU5D_t5_285* L_1 = ___scoreDatas;
 		NullCheck(L_1);
-		V_0 = ((ScoreU5BU5D_t5_302*)SZArrayNew(ScoreU5BU5D_t5_302_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))));
+		V_0 = ((ScoreU5BU5D_t5_303*)SZArrayNew(ScoreU5BU5D_t5_303_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))));
 		V_1 = 0;
 		goto IL_002e;
 	}
 
 IL_001b:
 	{
-		ScoreU5BU5D_t5_302* L_2 = V_0;
+		ScoreU5BU5D_t5_303* L_2 = V_0;
 		int32_t L_3 = V_1;
-		GcScoreDataU5BU5D_t5_284* L_4 = ___scoreDatas;
+		GcScoreDataU5BU5D_t5_285* L_4 = ___scoreDatas;
 		int32_t L_5 = V_1;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, L_5);
-		Score_t5_240 * L_6 = GcScoreData_ToScore_m5_1598(((GcScoreData_t5_230 *)(GcScoreData_t5_230 *)SZArrayLdElema(L_4, L_5, sizeof(GcScoreData_t5_230 ))), /*hidden argument*/NULL);
+		Score_t5_241 * L_6 = GcScoreData_ToScore_m5_1601(((GcScoreData_t5_231 *)(GcScoreData_t5_231 *)SZArrayLdElema(L_4, L_5, sizeof(GcScoreData_t5_231 ))), /*hidden argument*/NULL);
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, L_3);
 		ArrayElementTypeCheck (L_2, L_6);
-		*((Score_t5_240 **)(Score_t5_240 **)SZArrayLdElema(L_2, L_3, sizeof(Score_t5_240 *))) = (Score_t5_240 *)L_6;
+		*((Score_t5_241 **)(Score_t5_241 **)SZArrayLdElema(L_2, L_3, sizeof(Score_t5_241 *))) = (Score_t5_241 *)L_6;
 		int32_t L_7 = V_1;
 		V_1 = ((int32_t)((int32_t)L_7+(int32_t)1));
 	}
@@ -2852,7 +2854,7 @@ IL_001b:
 IL_002e:
 	{
 		int32_t L_8 = V_1;
-		GcScoreDataU5BU5D_t5_284* L_9 = ___scoreDatas;
+		GcScoreDataU5BU5D_t5_285* L_9 = ___scoreDatas;
 		NullCheck(L_9);
 		if ((((int32_t)L_8) < ((int32_t)(((int32_t)((int32_t)(((Array_t *)L_9)->max_length)))))))
 		{
@@ -2861,9 +2863,9 @@ IL_002e:
 	}
 	{
 		Leaderboard_t5_22 * L_10 = (__this->___m_GenericLeaderboard_1);
-		ScoreU5BU5D_t5_302* L_11 = V_0;
+		ScoreU5BU5D_t5_303* L_11 = V_0;
 		NullCheck(L_10);
-		Leaderboard_SetScores_m5_1646(L_10, (IScoreU5BU5D_t5_241*)(IScoreU5BU5D_t5_241*)L_11, /*hidden argument*/NULL);
+		Leaderboard_SetScores_m5_1649(L_10, (IScoreU5BU5D_t5_242*)(IScoreU5BU5D_t5_242*)L_11, /*hidden argument*/NULL);
 	}
 
 IL_0043:
@@ -2872,7 +2874,7 @@ IL_0043:
 	}
 }
 // System.Void UnityEngine.SocialPlatforms.GameCenter.GcLeaderboard::SetLocalScore(UnityEngine.SocialPlatforms.GameCenter.GcScoreData)
-extern "C" void GcLeaderboard_SetLocalScore_m5_89 (GcLeaderboard_t5_21 * __this, GcScoreData_t5_230  ___scoreData, const MethodInfo* method)
+extern "C" void GcLeaderboard_SetLocalScore_m5_89 (GcLeaderboard_t5_21 * __this, GcScoreData_t5_231  ___scoreData, const MethodInfo* method)
 {
 	{
 		Leaderboard_t5_22 * L_0 = (__this->___m_GenericLeaderboard_1);
@@ -2883,9 +2885,9 @@ extern "C" void GcLeaderboard_SetLocalScore_m5_89 (GcLeaderboard_t5_21 * __this,
 	}
 	{
 		Leaderboard_t5_22 * L_1 = (__this->___m_GenericLeaderboard_1);
-		Score_t5_240 * L_2 = GcScoreData_ToScore_m5_1598((&___scoreData), /*hidden argument*/NULL);
+		Score_t5_241 * L_2 = GcScoreData_ToScore_m5_1601((&___scoreData), /*hidden argument*/NULL);
 		NullCheck(L_1);
-		Leaderboard_SetLocalUserScore_m5_1644(L_1, L_2, /*hidden argument*/NULL);
+		Leaderboard_SetLocalUserScore_m5_1647(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_001d:
@@ -2907,7 +2909,7 @@ extern "C" void GcLeaderboard_SetMaxRange_m5_90 (GcLeaderboard_t5_21 * __this, u
 		Leaderboard_t5_22 * L_1 = (__this->___m_GenericLeaderboard_1);
 		uint32_t L_2 = ___maxRange;
 		NullCheck(L_1);
-		Leaderboard_SetMaxRange_m5_1645(L_1, L_2, /*hidden argument*/NULL);
+		Leaderboard_SetMaxRange_m5_1648(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0017:
@@ -2929,7 +2931,7 @@ extern "C" void GcLeaderboard_SetTitle_m5_91 (GcLeaderboard_t5_21 * __this, Stri
 		Leaderboard_t5_22 * L_1 = (__this->___m_GenericLeaderboard_1);
 		String_t* L_2 = ___title;
 		NullCheck(L_1);
-		Leaderboard_SetTitle_m5_1647(L_1, L_2, /*hidden argument*/NULL);
+		Leaderboard_SetTitle_m5_1650(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0017:
@@ -2977,7 +2979,7 @@ extern "C" void GcLeaderboard_Dispose_m5_95 (GcLeaderboard_t5_21 * __this, const
 extern "C" void Mesh__ctor_m5_96 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
 		Mesh_Internal_Create_m5_97(NULL /*static, unused*/, __this, /*hidden argument*/NULL);
 		return;
 	}
@@ -3012,9 +3014,9 @@ extern "C" void Mesh_Clear_m5_99 (Mesh_t5_23 * __this, const MethodInfo* method)
 	}
 }
 // UnityEngine.Vector3[] UnityEngine.Mesh::get_vertices()
-extern "C" Vector3U5BU5D_t5_180* Mesh_get_vertices_m5_100 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Vector3U5BU5D_t5_181* Mesh_get_vertices_m5_100 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Vector3U5BU5D_t5_180* (*Mesh_get_vertices_m5_100_ftn) (Mesh_t5_23 *);
+	typedef Vector3U5BU5D_t5_181* (*Mesh_get_vertices_m5_100_ftn) (Mesh_t5_23 *);
 	static Mesh_get_vertices_m5_100_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_vertices_m5_100_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_vertices()");
@@ -3039,9 +3041,9 @@ extern "C" void Mesh_SetVerticesInternal_m5_102 (Mesh_t5_23 * __this, Object_t *
 	_il2cpp_icall_func(__this, ___vertices);
 }
 // UnityEngine.Vector3[] UnityEngine.Mesh::get_normals()
-extern "C" Vector3U5BU5D_t5_180* Mesh_get_normals_m5_103 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Vector3U5BU5D_t5_181* Mesh_get_normals_m5_103 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Vector3U5BU5D_t5_180* (*Mesh_get_normals_m5_103_ftn) (Mesh_t5_23 *);
+	typedef Vector3U5BU5D_t5_181* (*Mesh_get_normals_m5_103_ftn) (Mesh_t5_23 *);
 	static Mesh_get_normals_m5_103_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_normals_m5_103_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_normals()");
@@ -3066,9 +3068,9 @@ extern "C" void Mesh_SetNormalsInternal_m5_105 (Mesh_t5_23 * __this, Object_t * 
 	_il2cpp_icall_func(__this, ___normals);
 }
 // UnityEngine.Vector4[] UnityEngine.Mesh::get_tangents()
-extern "C" Vector4U5BU5D_t5_288* Mesh_get_tangents_m5_106 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Vector4U5BU5D_t5_289* Mesh_get_tangents_m5_106 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Vector4U5BU5D_t5_288* (*Mesh_get_tangents_m5_106_ftn) (Mesh_t5_23 *);
+	typedef Vector4U5BU5D_t5_289* (*Mesh_get_tangents_m5_106_ftn) (Mesh_t5_23 *);
 	static Mesh_get_tangents_m5_106_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_tangents_m5_106_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_tangents()");
@@ -3093,18 +3095,18 @@ extern "C" void Mesh_SetTangentsInternal_m5_108 (Mesh_t5_23 * __this, Object_t *
 	_il2cpp_icall_func(__this, ___tangents);
 }
 // UnityEngine.Vector2[] UnityEngine.Mesh::get_uv()
-extern "C" Vector2U5BU5D_t5_289* Mesh_get_uv_m5_109 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Vector2U5BU5D_t5_290* Mesh_get_uv_m5_109 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Vector2U5BU5D_t5_289* (*Mesh_get_uv_m5_109_ftn) (Mesh_t5_23 *);
+	typedef Vector2U5BU5D_t5_290* (*Mesh_get_uv_m5_109_ftn) (Mesh_t5_23 *);
 	static Mesh_get_uv_m5_109_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_uv_m5_109_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_uv()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Vector2[] UnityEngine.Mesh::get_uv2()
-extern "C" Vector2U5BU5D_t5_289* Mesh_get_uv2_m5_110 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Vector2U5BU5D_t5_290* Mesh_get_uv2_m5_110 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Vector2U5BU5D_t5_289* (*Mesh_get_uv2_m5_110_ftn) (Mesh_t5_23 *);
+	typedef Vector2U5BU5D_t5_290* (*Mesh_get_uv2_m5_110_ftn) (Mesh_t5_23 *);
 	static Mesh_get_uv2_m5_110_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_uv2_m5_110_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_uv2()");
@@ -3143,9 +3145,9 @@ extern "C" void Mesh_SetUVs_m5_113 (Mesh_t5_23 * __this, int32_t ___channel, Lis
 	}
 }
 // UnityEngine.Color32[] UnityEngine.Mesh::get_colors32()
-extern "C" Color32U5BU5D_t5_290* Mesh_get_colors32_m5_114 (Mesh_t5_23 * __this, const MethodInfo* method)
+extern "C" Color32U5BU5D_t5_291* Mesh_get_colors32_m5_114 (Mesh_t5_23 * __this, const MethodInfo* method)
 {
-	typedef Color32U5BU5D_t5_290* (*Mesh_get_colors32_m5_114_ftn) (Mesh_t5_23 *);
+	typedef Color32U5BU5D_t5_291* (*Mesh_get_colors32_m5_114_ftn) (Mesh_t5_23 *);
 	static Mesh_get_colors32_m5_114_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Mesh_get_colors32_m5_114_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Mesh::get_colors32()");
@@ -3216,18 +3218,18 @@ extern "C" void Renderer_set_enabled_m5_121 (Renderer_t5_24 * __this, bool ___va
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Material UnityEngine.Renderer::get_material()
-extern "C" Material_t5_76 * Renderer_get_material_m5_122 (Renderer_t5_24 * __this, const MethodInfo* method)
+extern "C" Material_t5_77 * Renderer_get_material_m5_122 (Renderer_t5_24 * __this, const MethodInfo* method)
 {
-	typedef Material_t5_76 * (*Renderer_get_material_m5_122_ftn) (Renderer_t5_24 *);
+	typedef Material_t5_77 * (*Renderer_get_material_m5_122_ftn) (Renderer_t5_24 *);
 	static Renderer_get_material_m5_122_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Renderer_get_material_m5_122_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Renderer::get_material()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Renderer::set_sharedMaterial(UnityEngine.Material)
-extern "C" void Renderer_set_sharedMaterial_m5_123 (Renderer_t5_24 * __this, Material_t5_76 * ___value, const MethodInfo* method)
+extern "C" void Renderer_set_sharedMaterial_m5_123 (Renderer_t5_24 * __this, Material_t5_77 * ___value, const MethodInfo* method)
 {
-	typedef void (*Renderer_set_sharedMaterial_m5_123_ftn) (Renderer_t5_24 *, Material_t5_76 *);
+	typedef void (*Renderer_set_sharedMaterial_m5_123_ftn) (Renderer_t5_24 *, Material_t5_77 *);
 	static Renderer_set_sharedMaterial_m5_123_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Renderer_set_sharedMaterial_m5_123_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Renderer::set_sharedMaterial(UnityEngine.Material)");
@@ -3525,7 +3527,7 @@ extern "C" String_t* RectOffset_ToString_m5_146 (RectOffset_t5_27 * __this, cons
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 3);
 		ArrayElementTypeCheck (L_12, L_15);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 3, sizeof(Object_t *))) = (Object_t *)L_15;
-		String_t* L_16 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2506, L_12, /*hidden argument*/NULL);
+		String_t* L_16 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2506, L_12, /*hidden argument*/NULL);
 		return L_16;
 	}
 }
@@ -3550,7 +3552,7 @@ extern "C" GUIElement_t5_29 * GUILayer_INTERNAL_CALL_HitTest_m5_148 (Object_t * 
 extern "C" void Texture__ctor_m5_149 (Texture_t5_33 * __this, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -3626,21 +3628,21 @@ extern "C" Texture2D_t5_34 * Texture2D_get_whiteTexture_m5_156 (Object_t * __thi
 	return _il2cpp_icall_func();
 }
 // UnityEngine.Color UnityEngine.Texture2D::GetPixelBilinear(System.Single,System.Single)
-extern "C" Color_t5_164  Texture2D_GetPixelBilinear_m5_157 (Texture2D_t5_34 * __this, float ___u, float ___v, const MethodInfo* method)
+extern "C" Color_t5_165  Texture2D_GetPixelBilinear_m5_157 (Texture2D_t5_34 * __this, float ___u, float ___v, const MethodInfo* method)
 {
-	Color_t5_164  V_0 = {0};
+	Color_t5_165  V_0 = {0};
 	{
 		float L_0 = ___u;
 		float L_1 = ___v;
 		Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158(NULL /*static, unused*/, __this, L_0, L_1, (&V_0), /*hidden argument*/NULL);
-		Color_t5_164  L_2 = V_0;
+		Color_t5_165  L_2 = V_0;
 		return L_2;
 	}
 }
 // System.Void UnityEngine.Texture2D::INTERNAL_CALL_GetPixelBilinear(UnityEngine.Texture2D,System.Single,System.Single,UnityEngine.Color&)
-extern "C" void Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___self, float ___u, float ___v, Color_t5_164 * ___value, const MethodInfo* method)
+extern "C" void Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158 (Object_t * __this /* static, unused */, Texture2D_t5_34 * ___self, float ___u, float ___v, Color_t5_165 * ___value, const MethodInfo* method)
 {
-	typedef void (*Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158_ftn) (Texture2D_t5_34 *, float, float, Color_t5_164 *);
+	typedef void (*Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158_ftn) (Texture2D_t5_34 *, float, float, Color_t5_165 *);
 	static Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Texture2D_INTERNAL_CALL_GetPixelBilinear_m5_158_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Texture2D::INTERNAL_CALL_GetPixelBilinear(UnityEngine.Texture2D,System.Single,System.Single,UnityEngine.Color&)");
@@ -3970,19 +3972,19 @@ extern "C" void TouchScreenKeyboard__ctor_m5_175 (TouchScreenKeyboard_t5_42 * __
 		int32_t L_1 = L_0;
 		Object_t * L_2 = Box(TouchScreenKeyboardType_t5_41_il2cpp_TypeInfo_var, &L_1);
 		IL2CPP_RUNTIME_CLASS_INIT(Convert_t1_693_il2cpp_TypeInfo_var);
-		uint32_t L_3 = Convert_ToUInt32_m1_4808(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
+		uint32_t L_3 = Convert_ToUInt32_m1_4803(NULL /*static, unused*/, L_2, /*hidden argument*/NULL);
 		(&V_0)->___keyboardType_0 = L_3;
 		bool L_4 = ___autocorrection;
-		uint32_t L_5 = Convert_ToUInt32_m1_4795(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
+		uint32_t L_5 = Convert_ToUInt32_m1_4790(NULL /*static, unused*/, L_4, /*hidden argument*/NULL);
 		(&V_0)->___autocorrection_1 = L_5;
 		bool L_6 = ___multiline;
-		uint32_t L_7 = Convert_ToUInt32_m1_4795(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
+		uint32_t L_7 = Convert_ToUInt32_m1_4790(NULL /*static, unused*/, L_6, /*hidden argument*/NULL);
 		(&V_0)->___multiline_2 = L_7;
 		bool L_8 = ___secure;
-		uint32_t L_9 = Convert_ToUInt32_m1_4795(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		uint32_t L_9 = Convert_ToUInt32_m1_4790(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 		(&V_0)->___secure_3 = L_9;
 		bool L_10 = ___alert;
-		uint32_t L_11 = Convert_ToUInt32_m1_4795(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
+		uint32_t L_11 = Convert_ToUInt32_m1_4790(NULL /*static, unused*/, L_10, /*hidden argument*/NULL);
 		(&V_0)->___alert_4 = L_11;
 		String_t* L_12 = ___text;
 		String_t* L_13 = ___textPlaceholder;
@@ -4052,7 +4054,7 @@ extern "C" bool TouchScreenKeyboard_get_isSupported_m5_179 (Object_t * __this /*
 	int32_t V_0 = {0};
 	int32_t V_1 = {0};
 	{
-		int32_t L_0 = Application_get_platform_m5_572(NULL /*static, unused*/, /*hidden argument*/NULL);
+		int32_t L_0 = Application_get_platform_m5_575(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
 		int32_t L_1 = V_0;
 		V_1 = L_1;
@@ -4381,7 +4383,7 @@ IL_001b:
 IL_0022:
 	{
 		IndexOutOfRangeException_t1_721 * L_5 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_5, _stringLiteral2507, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_5, _stringLiteral2507, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_5);
 	}
 }
@@ -4435,7 +4437,7 @@ IL_0020:
 IL_002c:
 	{
 		IndexOutOfRangeException_t1_721 * L_5 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_5, _stringLiteral2507, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_5, _stringLiteral2507, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_5);
 	}
 
@@ -4516,7 +4518,7 @@ extern "C" String_t* Vector2_ToString_m5_198 (Vector2_t5_44 * __this, const Meth
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 1);
 		ArrayElementTypeCheck (L_4, L_7);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 1, sizeof(Object_t *))) = (Object_t *)L_7;
-		String_t* L_8 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2508, L_4, /*hidden argument*/NULL);
+		String_t* L_8 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2508, L_4, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -4861,7 +4863,7 @@ IL_0027:
 IL_002e:
 	{
 		IndexOutOfRangeException_t1_721 * L_5 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_5, _stringLiteral2509, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_5, _stringLiteral2509, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_5);
 	}
 }
@@ -4923,7 +4925,7 @@ IL_0031:
 IL_003d:
 	{
 		IndexOutOfRangeException_t1_721 * L_5 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_5, _stringLiteral2509, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_5, _stringLiteral2509, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_5);
 	}
 
@@ -5081,7 +5083,7 @@ extern "C" String_t* Vector3_ToString_m5_225 (Vector3_t5_45 * __this, const Meth
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_8, 2);
 		ArrayElementTypeCheck (L_8, L_11);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_8, 2, sizeof(Object_t *))) = (Object_t *)L_11;
-		String_t* L_12 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2510, L_8, /*hidden argument*/NULL);
+		String_t* L_12 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2510, L_8, /*hidden argument*/NULL);
 		return L_12;
 	}
 }
@@ -5444,13 +5446,13 @@ extern "C" String_t* Color32_ToString_m5_248 (Color32_t5_46 * __this, const Meth
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 3);
 		ArrayElementTypeCheck (L_12, L_15);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 3, sizeof(Object_t *))) = (Object_t *)L_15;
-		String_t* L_16 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2511, L_12, /*hidden argument*/NULL);
+		String_t* L_16 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2511, L_12, /*hidden argument*/NULL);
 		return L_16;
 	}
 }
 // UnityEngine.Color32 UnityEngine.Color32::op_Implicit(UnityEngine.Color)
 extern TypeInfo* Mathf_t5_55_il2cpp_TypeInfo_var;
-extern "C" Color32_t5_46  Color32_op_Implicit_m5_249 (Object_t * __this /* static, unused */, Color_t5_164  ___c, const MethodInfo* method)
+extern "C" Color32_t5_46  Color32_op_Implicit_m5_249 (Object_t * __this /* static, unused */, Color_t5_165  ___c, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -5474,15 +5476,15 @@ extern "C" Color32_t5_46  Color32_op_Implicit_m5_249 (Object_t * __this /* stati
 	}
 }
 // UnityEngine.Color UnityEngine.Color32::op_Implicit(UnityEngine.Color32)
-extern "C" Color_t5_164  Color32_op_Implicit_m5_250 (Object_t * __this /* static, unused */, Color32_t5_46  ___c, const MethodInfo* method)
+extern "C" Color_t5_165  Color32_op_Implicit_m5_250 (Object_t * __this /* static, unused */, Color32_t5_46  ___c, const MethodInfo* method)
 {
 	{
 		uint8_t L_0 = ((&___c)->___r_0);
 		uint8_t L_1 = ((&___c)->___g_1);
 		uint8_t L_2 = ((&___c)->___b_2);
 		uint8_t L_3 = ((&___c)->___a_3);
-		Color_t5_164  L_4 = {0};
-		Color__ctor_m5_1576(&L_4, ((float)((float)(((float)((float)L_0)))/(float)(255.0f))), ((float)((float)(((float)((float)L_1)))/(float)(255.0f))), ((float)((float)(((float)((float)L_2)))/(float)(255.0f))), ((float)((float)(((float)((float)L_3)))/(float)(255.0f))), /*hidden argument*/NULL);
+		Color_t5_165  L_4 = {0};
+		Color__ctor_m5_1579(&L_4, ((float)((float)(((float)((float)L_0)))/(float)(255.0f))), ((float)((float)(((float)((float)L_1)))/(float)(255.0f))), ((float)((float)(((float)((float)L_2)))/(float)(255.0f))), ((float)((float)(((float)((float)L_3)))/(float)(255.0f))), /*hidden argument*/NULL);
 		return L_4;
 	}
 }
@@ -5591,7 +5593,7 @@ extern "C" String_t* Quaternion_ToString_m5_256 (Quaternion_t5_47 * __this, cons
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 3);
 		ArrayElementTypeCheck (L_12, L_15);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 3, sizeof(Object_t *))) = (Object_t *)L_15;
-		String_t* L_16 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2512, L_12, /*hidden argument*/NULL);
+		String_t* L_16 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2512, L_12, /*hidden argument*/NULL);
 		return L_16;
 	}
 }
@@ -6080,7 +6082,7 @@ extern "C" String_t* Rect_ToString_m5_284 (Rect_t5_48 * __this, const MethodInfo
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 3);
 		ArrayElementTypeCheck (L_12, L_15);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 3, sizeof(Object_t *))) = (Object_t *)L_15;
-		String_t* L_16 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2513, L_12, /*hidden argument*/NULL);
+		String_t* L_16 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2513, L_12, /*hidden argument*/NULL);
 		return L_16;
 	}
 }
@@ -6606,7 +6608,7 @@ IL_00b6:
 IL_00bd:
 	{
 		IndexOutOfRangeException_t1_721 * L_18 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_18, _stringLiteral2514, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_18, _stringLiteral2514, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_18);
 	}
 }
@@ -6915,7 +6917,7 @@ extern "C" String_t* Matrix4x4_ToString_m5_298 (Matrix4x4_t5_49 * __this, const 
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_60, ((int32_t)15));
 		ArrayElementTypeCheck (L_60, L_63);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_60, ((int32_t)15), sizeof(Object_t *))) = (Object_t *)L_63;
-		String_t* L_64 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2515, L_60, /*hidden argument*/NULL);
+		String_t* L_64 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2515, L_60, /*hidden argument*/NULL);
 		return L_64;
 	}
 }
@@ -7143,7 +7145,7 @@ extern "C" String_t* Bounds_ToString_m5_312 (Bounds_t5_50 * __this, const Method
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 1);
 		ArrayElementTypeCheck (L_4, L_7);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 1, sizeof(Object_t *))) = (Object_t *)L_7;
-		String_t* L_8 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2516, L_4, /*hidden argument*/NULL);
+		String_t* L_8 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2516, L_4, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -7268,7 +7270,7 @@ IL_0032:
 IL_0039:
 	{
 		IndexOutOfRangeException_t1_721 * L_6 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_6, _stringLiteral2517, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_6, _stringLiteral2517, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_6);
 	}
 }
@@ -7341,7 +7343,7 @@ IL_0041:
 IL_004d:
 	{
 		IndexOutOfRangeException_t1_721 * L_6 = (IndexOutOfRangeException_t1_721 *)il2cpp_codegen_object_new (IndexOutOfRangeException_t1_721_il2cpp_TypeInfo_var);
-		IndexOutOfRangeException__ctor_m1_5034(L_6, _stringLiteral2517, /*hidden argument*/NULL);
+		IndexOutOfRangeException__ctor_m1_5029(L_6, _stringLiteral2517, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_6);
 	}
 
@@ -7483,7 +7485,7 @@ extern "C" String_t* Vector4_ToString_m5_320 (Vector4_t5_51 * __this, const Meth
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_12, 3);
 		ArrayElementTypeCheck (L_12, L_15);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_12, 3, sizeof(Object_t *))) = (Object_t *)L_15;
-		String_t* L_16 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2512, L_12, /*hidden argument*/NULL);
+		String_t* L_16 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2512, L_12, /*hidden argument*/NULL);
 		return L_16;
 	}
 }
@@ -7606,7 +7608,7 @@ extern "C" String_t* Ray_ToString_m5_329 (Ray_t5_52 * __this, const MethodInfo* 
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, 1);
 		ArrayElementTypeCheck (L_4, L_7);
 		*((Object_t **)(Object_t **)SZArrayLdElema(L_4, 1, sizeof(Object_t *))) = (Object_t *)L_7;
-		String_t* L_8 = UnityString_Format_m5_555(NULL /*static, unused*/, _stringLiteral2518, L_4, /*hidden argument*/NULL);
+		String_t* L_8 = UnityString_Format_m5_558(NULL /*static, unused*/, _stringLiteral2518, L_4, /*hidden argument*/NULL);
 		return L_8;
 	}
 }
@@ -7916,7 +7918,7 @@ extern "C" float Mathf_Log_m5_345 (Object_t * __this /* static, unused */, float
 	{
 		float L_0 = ___f;
 		float L_1 = ___p;
-		double L_2 = Math_Log_m1_5051(NULL /*static, unused*/, (((double)((double)L_0))), (((double)((double)L_1))), /*hidden argument*/NULL);
+		double L_2 = Math_Log_m1_5046(NULL /*static, unused*/, (((double)((double)L_0))), (((double)((double)L_1))), /*hidden argument*/NULL);
 		return (((float)((float)L_2)));
 	}
 }
@@ -8407,11 +8409,11 @@ extern "C" void Keyframe_set_tangentMode_m5_372 (Keyframe_t5_56 * __this, int32_
 	}
 }
 // System.Void UnityEngine.AnimationCurve::.ctor(UnityEngine.Keyframe[])
-extern "C" void AnimationCurve__ctor_m5_373 (AnimationCurve_t5_57 * __this, KeyframeU5BU5D_t5_291* ___keys, const MethodInfo* method)
+extern "C" void AnimationCurve__ctor_m5_373 (AnimationCurve_t5_57 * __this, KeyframeU5BU5D_t5_292* ___keys, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
-		KeyframeU5BU5D_t5_291* L_0 = ___keys;
+		KeyframeU5BU5D_t5_292* L_0 = ___keys;
 		AnimationCurve_Init_m5_377(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
@@ -8421,7 +8423,7 @@ extern "C" void AnimationCurve__ctor_m5_374 (AnimationCurve_t5_57 * __this, cons
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
-		AnimationCurve_Init_m5_377(__this, (KeyframeU5BU5D_t5_291*)(KeyframeU5BU5D_t5_291*)NULL, /*hidden argument*/NULL);
+		AnimationCurve_Init_m5_377(__this, (KeyframeU5BU5D_t5_292*)(KeyframeU5BU5D_t5_292*)NULL, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -8473,9 +8475,9 @@ IL_0012:
 	}
 }
 // System.Void UnityEngine.AnimationCurve::Init(UnityEngine.Keyframe[])
-extern "C" void AnimationCurve_Init_m5_377 (AnimationCurve_t5_57 * __this, KeyframeU5BU5D_t5_291* ___keys, const MethodInfo* method)
+extern "C" void AnimationCurve_Init_m5_377 (AnimationCurve_t5_57 * __this, KeyframeU5BU5D_t5_292* ___keys, const MethodInfo* method)
 {
-	typedef void (*AnimationCurve_Init_m5_377_ftn) (AnimationCurve_t5_57 *, KeyframeU5BU5D_t5_291*);
+	typedef void (*AnimationCurve_Init_m5_377_ftn) (AnimationCurve_t5_57 *, KeyframeU5BU5D_t5_292*);
 	static AnimationCurve_Init_m5_377_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (AnimationCurve_Init_m5_377_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AnimationCurve::Init(UnityEngine.Keyframe[])");
@@ -8495,20 +8497,20 @@ extern "C" void AnimationCurve_t5_57_marshal_cleanup(AnimationCurve_t5_57_marsha
 {
 }
 // System.Void UnityEngine.NetworkPlayer::.ctor(System.String,System.Int32)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2519;
 extern "C" void NetworkPlayer__ctor_m5_378 (NetworkPlayer_t5_58 * __this, String_t* ___ip, int32_t ___port, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2519 = il2cpp_codegen_string_literal_from_index(2519);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogError_m5_617(NULL /*static, unused*/, _stringLiteral2519, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogError_m5_620(NULL /*static, unused*/, _stringLiteral2519, /*hidden argument*/NULL);
 		__this->___index_0 = 0;
 		return;
 	}
@@ -9554,14 +9556,14 @@ extern "C" NetworkPlayer_t5_58  NetworkMessageInfo_get_sender_m5_468 (NetworkMes
 	}
 }
 // UnityEngine.NetworkView UnityEngine.NetworkMessageInfo::get_networkView()
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2520;
 extern "C" NetworkView_t5_60 * NetworkMessageInfo_get_networkView_m5_469 (NetworkMessageInfo_t5_64 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2520 = il2cpp_codegen_string_literal_from_index(2520);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -9575,8 +9577,8 @@ extern "C" NetworkView_t5_60 * NetworkMessageInfo_get_networkView_m5_469 (Networ
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogError_m5_617(NULL /*static, unused*/, _stringLiteral2520, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogError_m5_620(NULL /*static, unused*/, _stringLiteral2520, /*hidden argument*/NULL);
 		NetworkView_t5_60 * L_3 = NetworkMessageInfo_NullNetworkView_m5_470(__this, /*hidden argument*/NULL);
 		return L_3;
 	}
@@ -9930,14 +9932,14 @@ IL_0015:
 	}
 }
 // System.Void UnityEngine.RectTransform::GetLocalCorners(UnityEngine.Vector3[])
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2521;
-extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_180* ___fourCornersArray, const MethodInfo* method)
+extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_181* ___fourCornersArray, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2521 = il2cpp_codegen_string_literal_from_index(2521);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -9947,14 +9949,14 @@ extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __th
 	float V_3 = 0.0f;
 	float V_4 = 0.0f;
 	{
-		Vector3U5BU5D_t5_180* L_0 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_0 = ___fourCornersArray;
 		if (!L_0)
 		{
 			goto IL_000f;
 		}
 	}
 	{
-		Vector3U5BU5D_t5_180* L_1 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_1 = ___fourCornersArray;
 		NullCheck(L_1);
 		if ((((int32_t)(((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))) >= ((int32_t)4)))
 		{
@@ -9964,8 +9966,8 @@ extern "C" void RectTransform_GetLocalCorners_m5_502 (RectTransform_t5_70 * __th
 
 IL_000f:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogError_m5_617(NULL /*static, unused*/, _stringLiteral2521, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogError_m5_620(NULL /*static, unused*/, _stringLiteral2521, /*hidden argument*/NULL);
 		return;
 	}
 
@@ -9981,7 +9983,7 @@ IL_001a:
 		V_3 = L_5;
 		float L_6 = Rect_get_yMax_m5_283((&V_0), /*hidden argument*/NULL);
 		V_4 = L_6;
-		Vector3U5BU5D_t5_180* L_7 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_7 = ___fourCornersArray;
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, 0);
 		float L_8 = V_1;
@@ -9989,7 +9991,7 @@ IL_001a:
 		Vector3_t5_45  L_10 = {0};
 		Vector3__ctor_m5_216(&L_10, L_8, L_9, (0.0f), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_7, 0, sizeof(Vector3_t5_45 )))) = L_10;
-		Vector3U5BU5D_t5_180* L_11 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_11 = ___fourCornersArray;
 		NullCheck(L_11);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_11, 1);
 		float L_12 = V_1;
@@ -9997,7 +9999,7 @@ IL_001a:
 		Vector3_t5_45  L_14 = {0};
 		Vector3__ctor_m5_216(&L_14, L_12, L_13, (0.0f), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_11, 1, sizeof(Vector3_t5_45 )))) = L_14;
-		Vector3U5BU5D_t5_180* L_15 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_15 = ___fourCornersArray;
 		NullCheck(L_15);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_15, 2);
 		float L_16 = V_3;
@@ -10005,7 +10007,7 @@ IL_001a:
 		Vector3_t5_45  L_18 = {0};
 		Vector3__ctor_m5_216(&L_18, L_16, L_17, (0.0f), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_15, 2, sizeof(Vector3_t5_45 )))) = L_18;
-		Vector3U5BU5D_t5_180* L_19 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_19 = ___fourCornersArray;
 		NullCheck(L_19);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_19, 3);
 		float L_20 = V_3;
@@ -10017,28 +10019,28 @@ IL_001a:
 	}
 }
 // System.Void UnityEngine.RectTransform::GetWorldCorners(UnityEngine.Vector3[])
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2522;
-extern "C" void RectTransform_GetWorldCorners_m5_503 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_180* ___fourCornersArray, const MethodInfo* method)
+extern "C" void RectTransform_GetWorldCorners_m5_503 (RectTransform_t5_70 * __this, Vector3U5BU5D_t5_181* ___fourCornersArray, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2522 = il2cpp_codegen_string_literal_from_index(2522);
 		s_Il2CppMethodIntialized = true;
 	}
 	Transform_t5_71 * V_0 = {0};
 	int32_t V_1 = 0;
 	{
-		Vector3U5BU5D_t5_180* L_0 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_0 = ___fourCornersArray;
 		if (!L_0)
 		{
 			goto IL_000f;
 		}
 	}
 	{
-		Vector3U5BU5D_t5_180* L_1 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_1 = ___fourCornersArray;
 		NullCheck(L_1);
 		if ((((int32_t)(((int32_t)((int32_t)(((Array_t *)L_1)->max_length))))) >= ((int32_t)4)))
 		{
@@ -10048,16 +10050,16 @@ extern "C" void RectTransform_GetWorldCorners_m5_503 (RectTransform_t5_70 * __th
 
 IL_000f:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogError_m5_617(NULL /*static, unused*/, _stringLiteral2522, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogError_m5_620(NULL /*static, unused*/, _stringLiteral2522, /*hidden argument*/NULL);
 		return;
 	}
 
 IL_001a:
 	{
-		Vector3U5BU5D_t5_180* L_2 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_2 = ___fourCornersArray;
 		RectTransform_GetLocalCorners_m5_502(__this, L_2, /*hidden argument*/NULL);
-		Transform_t5_71 * L_3 = Component_get_transform_m5_720(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_3 = Component_get_transform_m5_723(__this, /*hidden argument*/NULL);
 		V_0 = L_3;
 		V_1 = 0;
 		goto IL_0051;
@@ -10065,17 +10067,17 @@ IL_001a:
 
 IL_002f:
 	{
-		Vector3U5BU5D_t5_180* L_4 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_4 = ___fourCornersArray;
 		int32_t L_5 = V_1;
 		NullCheck(L_4);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_4, L_5);
 		Transform_t5_71 * L_6 = V_0;
-		Vector3U5BU5D_t5_180* L_7 = ___fourCornersArray;
+		Vector3U5BU5D_t5_181* L_7 = ___fourCornersArray;
 		int32_t L_8 = V_1;
 		NullCheck(L_7);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_7, L_8);
 		NullCheck(L_6);
-		Vector3_t5_45  L_9 = Transform_TransformPoint_m5_817(L_6, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_7, L_8, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
+		Vector3_t5_45  L_9 = Transform_TransformPoint_m5_820(L_6, (*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_7, L_8, sizeof(Vector3_t5_45 )))), /*hidden argument*/NULL);
 		(*(Vector3_t5_45 *)((Vector3_t5_45 *)(Vector3_t5_45 *)SZArrayLdElema(L_4, L_5, sizeof(Vector3_t5_45 )))) = L_9;
 		int32_t L_10 = V_1;
 		V_1 = ((int32_t)((int32_t)L_10+(int32_t)1));
@@ -10352,10 +10354,10 @@ extern "C" Vector2_t5_44  RectTransform_GetParentSize_m5_508 (RectTransform_t5_7
 	RectTransform_t5_70 * V_0 = {0};
 	Rect_t5_48  V_1 = {0};
 	{
-		Transform_t5_71 * L_0 = Transform_get_parent_m5_803(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Transform_get_parent_m5_806(__this, /*hidden argument*/NULL);
 		V_0 = ((RectTransform_t5_70 *)IsInstSealed(L_0, RectTransform_t5_70_il2cpp_TypeInfo_var));
 		RectTransform_t5_70 * L_1 = V_0;
-		bool L_2 = Object_op_Implicit_m5_716(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_op_Implicit_m5_719(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		if (L_2)
 		{
 			goto IL_001d;
@@ -10380,7 +10382,7 @@ IL_001d:
 extern "C" void ResourceRequest__ctor_m5_509 (ResourceRequest_t5_72 * __this, const MethodInfo* method)
 {
 	{
-		AsyncOperation__ctor_m5_556(__this, /*hidden argument*/NULL);
+		AsyncOperation__ctor_m5_559(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -10390,21 +10392,58 @@ extern "C" Object_t5_5 * ResourceRequest_get_asset_m5_510 (ResourceRequest_t5_72
 	{
 		String_t* L_0 = (__this->___m_Path_1);
 		Type_t * L_1 = (__this->___m_Type_2);
-		Object_t5_5 * L_2 = Resources_Load_m5_511(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		Object_t5_5 * L_2 = Resources_Load_m5_512(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		return L_2;
+	}
+}
+// UnityEngine.Object UnityEngine.Resources::Load(System.String)
+extern const Il2CppType* Object_t5_5_0_0_0_var;
+extern TypeInfo* Type_t_il2cpp_TypeInfo_var;
+extern "C" Object_t5_5 * Resources_Load_m5_511 (Object_t * __this /* static, unused */, String_t* ___path, const MethodInfo* method)
+{
+	static bool s_Il2CppMethodIntialized;
+	if (!s_Il2CppMethodIntialized)
+	{
+		Object_t5_5_0_0_0_var = il2cpp_codegen_type_from_index(869);
+		Type_t_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(3);
+		s_Il2CppMethodIntialized = true;
+	}
+	{
+		String_t* L_0 = ___path;
+		IL2CPP_RUNTIME_CLASS_INIT(Type_t_il2cpp_TypeInfo_var);
+		Type_t * L_1 = Type_GetTypeFromHandle_m1_894(NULL /*static, unused*/, LoadTypeToken(Object_t5_5_0_0_0_var), /*hidden argument*/NULL);
+		Object_t5_5 * L_2 = Resources_Load_m5_512(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Object UnityEngine.Resources::Load(System.String,System.Type)
-extern "C" Object_t5_5 * Resources_Load_m5_511 (Object_t * __this /* static, unused */, String_t* ___path, Type_t * ___systemTypeInstance, const MethodInfo* method)
+extern "C" Object_t5_5 * Resources_Load_m5_512 (Object_t * __this /* static, unused */, String_t* ___path, Type_t * ___systemTypeInstance, const MethodInfo* method)
 {
-	typedef Object_t5_5 * (*Resources_Load_m5_511_ftn) (String_t*, Type_t *);
-	static Resources_Load_m5_511_ftn _il2cpp_icall_func;
+	typedef Object_t5_5 * (*Resources_Load_m5_512_ftn) (String_t*, Type_t *);
+	static Resources_Load_m5_512_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Resources_Load_m5_511_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Resources::Load(System.String,System.Type)");
+	_il2cpp_icall_func = (Resources_Load_m5_512_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Resources::Load(System.String,System.Type)");
 	return _il2cpp_icall_func(___path, ___systemTypeInstance);
 }
+// System.String UnityEngine.TextAsset::get_text()
+extern "C" String_t* TextAsset_get_text_m5_513 (TextAsset_t5_74 * __this, const MethodInfo* method)
+{
+	typedef String_t* (*TextAsset_get_text_m5_513_ftn) (TextAsset_t5_74 *);
+	static TextAsset_get_text_m5_513_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (TextAsset_get_text_m5_513_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.TextAsset::get_text()");
+	return _il2cpp_icall_func(__this);
+}
+// System.String UnityEngine.TextAsset::ToString()
+extern "C" String_t* TextAsset_ToString_m5_514 (TextAsset_t5_74 * __this, const MethodInfo* method)
+{
+	{
+		String_t* L_0 = TextAsset_get_text_m5_513(__this, /*hidden argument*/NULL);
+		return L_0;
+	}
+}
 // System.Void UnityEngine.SerializeField::.ctor()
-extern "C" void SerializeField__ctor_m5_512 (SerializeField_t5_74 * __this, const MethodInfo* method)
+extern "C" void SerializeField__ctor_m5_515 (SerializeField_t5_75 * __this, const MethodInfo* method)
 {
 	{
 		Attribute__ctor_m1_17(__this, /*hidden argument*/NULL);
@@ -10412,27 +10451,27 @@ extern "C" void SerializeField__ctor_m5_512 (SerializeField_t5_74 * __this, cons
 	}
 }
 // System.Int32 UnityEngine.Shader::PropertyToID(System.String)
-extern "C" int32_t Shader_PropertyToID_m5_513 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
+extern "C" int32_t Shader_PropertyToID_m5_516 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
 {
-	typedef int32_t (*Shader_PropertyToID_m5_513_ftn) (String_t*);
-	static Shader_PropertyToID_m5_513_ftn _il2cpp_icall_func;
+	typedef int32_t (*Shader_PropertyToID_m5_516_ftn) (String_t*);
+	static Shader_PropertyToID_m5_516_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Shader_PropertyToID_m5_513_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Shader::PropertyToID(System.String)");
+	_il2cpp_icall_func = (Shader_PropertyToID_m5_516_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Shader::PropertyToID(System.String)");
 	return _il2cpp_icall_func(___name);
 }
 // System.Void UnityEngine.Material::.ctor(UnityEngine.Material)
-extern "C" void Material__ctor_m5_514 (Material_t5_76 * __this, Material_t5_76 * ___source, const MethodInfo* method)
+extern "C" void Material__ctor_m5_517 (Material_t5_77 * __this, Material_t5_77 * ___source, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
-		Material_t5_76 * L_0 = ___source;
-		Material_Internal_CreateWithMaterial_m5_533(NULL /*static, unused*/, __this, L_0, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
+		Material_t5_77 * L_0 = ___source;
+		Material_Internal_CreateWithMaterial_m5_536(NULL /*static, unused*/, __this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Color UnityEngine.Material::get_color()
 extern Il2CppCodeGenString* _stringLiteral2523;
-extern "C" Color_t5_164  Material_get_color_m5_515 (Material_t5_76 * __this, const MethodInfo* method)
+extern "C" Color_t5_165  Material_get_color_m5_518 (Material_t5_77 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -10441,13 +10480,13 @@ extern "C" Color_t5_164  Material_get_color_m5_515 (Material_t5_76 * __this, con
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Color_t5_164  L_0 = Material_GetColor_m5_521(__this, _stringLiteral2523, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = Material_GetColor_m5_524(__this, _stringLiteral2523, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Material::set_color(UnityEngine.Color)
 extern Il2CppCodeGenString* _stringLiteral2523;
-extern "C" void Material_set_color_m5_516 (Material_t5_76 * __this, Color_t5_164  ___value, const MethodInfo* method)
+extern "C" void Material_set_color_m5_519 (Material_t5_77 * __this, Color_t5_165  ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -10456,14 +10495,14 @@ extern "C" void Material_set_color_m5_516 (Material_t5_76 * __this, Color_t5_164
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Color_t5_164  L_0 = ___value;
-		Material_SetColor_m5_518(__this, _stringLiteral2523, L_0, /*hidden argument*/NULL);
+		Color_t5_165  L_0 = ___value;
+		Material_SetColor_m5_521(__this, _stringLiteral2523, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Texture UnityEngine.Material::get_mainTexture()
 extern Il2CppCodeGenString* _stringLiteral2524;
-extern "C" Texture_t5_33 * Material_get_mainTexture_m5_517 (Material_t5_76 * __this, const MethodInfo* method)
+extern "C" Texture_t5_33 * Material_get_mainTexture_m5_520 (Material_t5_77 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -10472,367 +10511,367 @@ extern "C" Texture_t5_33 * Material_get_mainTexture_m5_517 (Material_t5_76 * __t
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Texture_t5_33 * L_0 = Material_GetTexture_m5_524(__this, _stringLiteral2524, /*hidden argument*/NULL);
+		Texture_t5_33 * L_0 = Material_GetTexture_m5_527(__this, _stringLiteral2524, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Material::SetColor(System.String,UnityEngine.Color)
-extern "C" void Material_SetColor_m5_518 (Material_t5_76 * __this, String_t* ___propertyName, Color_t5_164  ___color, const MethodInfo* method)
+extern "C" void Material_SetColor_m5_521 (Material_t5_77 * __this, String_t* ___propertyName, Color_t5_165  ___color, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		int32_t L_1 = Shader_PropertyToID_m5_513(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
-		Color_t5_164  L_2 = ___color;
-		Material_SetColor_m5_519(__this, L_1, L_2, /*hidden argument*/NULL);
+		int32_t L_1 = Shader_PropertyToID_m5_516(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Color_t5_165  L_2 = ___color;
+		Material_SetColor_m5_522(__this, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Material::SetColor(System.Int32,UnityEngine.Color)
-extern "C" void Material_SetColor_m5_519 (Material_t5_76 * __this, int32_t ___nameID, Color_t5_164  ___color, const MethodInfo* method)
+extern "C" void Material_SetColor_m5_522 (Material_t5_77 * __this, int32_t ___nameID, Color_t5_165  ___color, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___nameID;
-		Material_INTERNAL_CALL_SetColor_m5_520(NULL /*static, unused*/, __this, L_0, (&___color), /*hidden argument*/NULL);
+		Material_INTERNAL_CALL_SetColor_m5_523(NULL /*static, unused*/, __this, L_0, (&___color), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Material::INTERNAL_CALL_SetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)
-extern "C" void Material_INTERNAL_CALL_SetColor_m5_520 (Object_t * __this /* static, unused */, Material_t5_76 * ___self, int32_t ___nameID, Color_t5_164 * ___color, const MethodInfo* method)
+extern "C" void Material_INTERNAL_CALL_SetColor_m5_523 (Object_t * __this /* static, unused */, Material_t5_77 * ___self, int32_t ___nameID, Color_t5_165 * ___color, const MethodInfo* method)
 {
-	typedef void (*Material_INTERNAL_CALL_SetColor_m5_520_ftn) (Material_t5_76 *, int32_t, Color_t5_164 *);
-	static Material_INTERNAL_CALL_SetColor_m5_520_ftn _il2cpp_icall_func;
+	typedef void (*Material_INTERNAL_CALL_SetColor_m5_523_ftn) (Material_t5_77 *, int32_t, Color_t5_165 *);
+	static Material_INTERNAL_CALL_SetColor_m5_523_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_INTERNAL_CALL_SetColor_m5_520_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_SetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)");
+	_il2cpp_icall_func = (Material_INTERNAL_CALL_SetColor_m5_523_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_SetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)");
 	_il2cpp_icall_func(___self, ___nameID, ___color);
 }
 // UnityEngine.Color UnityEngine.Material::GetColor(System.String)
-extern "C" Color_t5_164  Material_GetColor_m5_521 (Material_t5_76 * __this, String_t* ___propertyName, const MethodInfo* method)
+extern "C" Color_t5_165  Material_GetColor_m5_524 (Material_t5_77 * __this, String_t* ___propertyName, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		int32_t L_1 = Shader_PropertyToID_m5_513(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
-		Color_t5_164  L_2 = Material_GetColor_m5_522(__this, L_1, /*hidden argument*/NULL);
+		int32_t L_1 = Shader_PropertyToID_m5_516(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Color_t5_165  L_2 = Material_GetColor_m5_525(__this, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Color UnityEngine.Material::GetColor(System.Int32)
-extern "C" Color_t5_164  Material_GetColor_m5_522 (Material_t5_76 * __this, int32_t ___nameID, const MethodInfo* method)
+extern "C" Color_t5_165  Material_GetColor_m5_525 (Material_t5_77 * __this, int32_t ___nameID, const MethodInfo* method)
 {
-	Color_t5_164  V_0 = {0};
+	Color_t5_165  V_0 = {0};
 	{
 		int32_t L_0 = ___nameID;
-		Material_INTERNAL_CALL_GetColor_m5_523(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
-		Color_t5_164  L_1 = V_0;
+		Material_INTERNAL_CALL_GetColor_m5_526(NULL /*static, unused*/, __this, L_0, (&V_0), /*hidden argument*/NULL);
+		Color_t5_165  L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Material::INTERNAL_CALL_GetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)
-extern "C" void Material_INTERNAL_CALL_GetColor_m5_523 (Object_t * __this /* static, unused */, Material_t5_76 * ___self, int32_t ___nameID, Color_t5_164 * ___value, const MethodInfo* method)
+extern "C" void Material_INTERNAL_CALL_GetColor_m5_526 (Object_t * __this /* static, unused */, Material_t5_77 * ___self, int32_t ___nameID, Color_t5_165 * ___value, const MethodInfo* method)
 {
-	typedef void (*Material_INTERNAL_CALL_GetColor_m5_523_ftn) (Material_t5_76 *, int32_t, Color_t5_164 *);
-	static Material_INTERNAL_CALL_GetColor_m5_523_ftn _il2cpp_icall_func;
+	typedef void (*Material_INTERNAL_CALL_GetColor_m5_526_ftn) (Material_t5_77 *, int32_t, Color_t5_165 *);
+	static Material_INTERNAL_CALL_GetColor_m5_526_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_INTERNAL_CALL_GetColor_m5_523_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_GetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)");
+	_il2cpp_icall_func = (Material_INTERNAL_CALL_GetColor_m5_526_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_GetColor(UnityEngine.Material,System.Int32,UnityEngine.Color&)");
 	_il2cpp_icall_func(___self, ___nameID, ___value);
 }
 // UnityEngine.Texture UnityEngine.Material::GetTexture(System.String)
-extern "C" Texture_t5_33 * Material_GetTexture_m5_524 (Material_t5_76 * __this, String_t* ___propertyName, const MethodInfo* method)
+extern "C" Texture_t5_33 * Material_GetTexture_m5_527 (Material_t5_77 * __this, String_t* ___propertyName, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		int32_t L_1 = Shader_PropertyToID_m5_513(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
-		Texture_t5_33 * L_2 = Material_GetTexture_m5_525(__this, L_1, /*hidden argument*/NULL);
+		int32_t L_1 = Shader_PropertyToID_m5_516(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		Texture_t5_33 * L_2 = Material_GetTexture_m5_528(__this, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Texture UnityEngine.Material::GetTexture(System.Int32)
-extern "C" Texture_t5_33 * Material_GetTexture_m5_525 (Material_t5_76 * __this, int32_t ___nameID, const MethodInfo* method)
+extern "C" Texture_t5_33 * Material_GetTexture_m5_528 (Material_t5_77 * __this, int32_t ___nameID, const MethodInfo* method)
 {
-	typedef Texture_t5_33 * (*Material_GetTexture_m5_525_ftn) (Material_t5_76 *, int32_t);
-	static Material_GetTexture_m5_525_ftn _il2cpp_icall_func;
+	typedef Texture_t5_33 * (*Material_GetTexture_m5_528_ftn) (Material_t5_77 *, int32_t);
+	static Material_GetTexture_m5_528_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_GetTexture_m5_525_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::GetTexture(System.Int32)");
+	_il2cpp_icall_func = (Material_GetTexture_m5_528_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::GetTexture(System.Int32)");
 	return _il2cpp_icall_func(__this, ___nameID);
 }
 // System.Void UnityEngine.Material::SetTextureOffset(System.String,UnityEngine.Vector2)
-extern "C" void Material_SetTextureOffset_m5_526 (Material_t5_76 * __this, String_t* ___propertyName, Vector2_t5_44  ___offset, const MethodInfo* method)
+extern "C" void Material_SetTextureOffset_m5_529 (Material_t5_77 * __this, String_t* ___propertyName, Vector2_t5_44  ___offset, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		Material_INTERNAL_CALL_SetTextureOffset_m5_527(NULL /*static, unused*/, __this, L_0, (&___offset), /*hidden argument*/NULL);
+		Material_INTERNAL_CALL_SetTextureOffset_m5_530(NULL /*static, unused*/, __this, L_0, (&___offset), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Material::INTERNAL_CALL_SetTextureOffset(UnityEngine.Material,System.String,UnityEngine.Vector2&)
-extern "C" void Material_INTERNAL_CALL_SetTextureOffset_m5_527 (Object_t * __this /* static, unused */, Material_t5_76 * ___self, String_t* ___propertyName, Vector2_t5_44 * ___offset, const MethodInfo* method)
+extern "C" void Material_INTERNAL_CALL_SetTextureOffset_m5_530 (Object_t * __this /* static, unused */, Material_t5_77 * ___self, String_t* ___propertyName, Vector2_t5_44 * ___offset, const MethodInfo* method)
 {
-	typedef void (*Material_INTERNAL_CALL_SetTextureOffset_m5_527_ftn) (Material_t5_76 *, String_t*, Vector2_t5_44 *);
-	static Material_INTERNAL_CALL_SetTextureOffset_m5_527_ftn _il2cpp_icall_func;
+	typedef void (*Material_INTERNAL_CALL_SetTextureOffset_m5_530_ftn) (Material_t5_77 *, String_t*, Vector2_t5_44 *);
+	static Material_INTERNAL_CALL_SetTextureOffset_m5_530_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_INTERNAL_CALL_SetTextureOffset_m5_527_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_SetTextureOffset(UnityEngine.Material,System.String,UnityEngine.Vector2&)");
+	_il2cpp_icall_func = (Material_INTERNAL_CALL_SetTextureOffset_m5_530_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::INTERNAL_CALL_SetTextureOffset(UnityEngine.Material,System.String,UnityEngine.Vector2&)");
 	_il2cpp_icall_func(___self, ___propertyName, ___offset);
 }
 // System.Void UnityEngine.Material::SetFloat(System.String,System.Single)
-extern "C" void Material_SetFloat_m5_528 (Material_t5_76 * __this, String_t* ___propertyName, float ___value, const MethodInfo* method)
+extern "C" void Material_SetFloat_m5_531 (Material_t5_77 * __this, String_t* ___propertyName, float ___value, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		int32_t L_1 = Shader_PropertyToID_m5_513(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Shader_PropertyToID_m5_516(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		float L_2 = ___value;
-		Material_SetFloat_m5_529(__this, L_1, L_2, /*hidden argument*/NULL);
+		Material_SetFloat_m5_532(__this, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Material::SetFloat(System.Int32,System.Single)
-extern "C" void Material_SetFloat_m5_529 (Material_t5_76 * __this, int32_t ___nameID, float ___value, const MethodInfo* method)
+extern "C" void Material_SetFloat_m5_532 (Material_t5_77 * __this, int32_t ___nameID, float ___value, const MethodInfo* method)
 {
-	typedef void (*Material_SetFloat_m5_529_ftn) (Material_t5_76 *, int32_t, float);
-	static Material_SetFloat_m5_529_ftn _il2cpp_icall_func;
+	typedef void (*Material_SetFloat_m5_532_ftn) (Material_t5_77 *, int32_t, float);
+	static Material_SetFloat_m5_532_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_SetFloat_m5_529_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::SetFloat(System.Int32,System.Single)");
+	_il2cpp_icall_func = (Material_SetFloat_m5_532_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::SetFloat(System.Int32,System.Single)");
 	_il2cpp_icall_func(__this, ___nameID, ___value);
 }
 // System.Void UnityEngine.Material::SetInt(System.String,System.Int32)
-extern "C" void Material_SetInt_m5_530 (Material_t5_76 * __this, String_t* ___propertyName, int32_t ___value, const MethodInfo* method)
+extern "C" void Material_SetInt_m5_533 (Material_t5_77 * __this, String_t* ___propertyName, int32_t ___value, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
 		int32_t L_1 = ___value;
-		Material_SetFloat_m5_528(__this, L_0, (((float)((float)L_1))), /*hidden argument*/NULL);
+		Material_SetFloat_m5_531(__this, L_0, (((float)((float)L_1))), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.Material::HasProperty(System.String)
-extern "C" bool Material_HasProperty_m5_531 (Material_t5_76 * __this, String_t* ___propertyName, const MethodInfo* method)
+extern "C" bool Material_HasProperty_m5_534 (Material_t5_77 * __this, String_t* ___propertyName, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___propertyName;
-		int32_t L_1 = Shader_PropertyToID_m5_513(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
-		bool L_2 = Material_HasProperty_m5_532(__this, L_1, /*hidden argument*/NULL);
+		int32_t L_1 = Shader_PropertyToID_m5_516(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		bool L_2 = Material_HasProperty_m5_535(__this, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Boolean UnityEngine.Material::HasProperty(System.Int32)
-extern "C" bool Material_HasProperty_m5_532 (Material_t5_76 * __this, int32_t ___nameID, const MethodInfo* method)
+extern "C" bool Material_HasProperty_m5_535 (Material_t5_77 * __this, int32_t ___nameID, const MethodInfo* method)
 {
-	typedef bool (*Material_HasProperty_m5_532_ftn) (Material_t5_76 *, int32_t);
-	static Material_HasProperty_m5_532_ftn _il2cpp_icall_func;
+	typedef bool (*Material_HasProperty_m5_535_ftn) (Material_t5_77 *, int32_t);
+	static Material_HasProperty_m5_535_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_HasProperty_m5_532_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::HasProperty(System.Int32)");
+	_il2cpp_icall_func = (Material_HasProperty_m5_535_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::HasProperty(System.Int32)");
 	return _il2cpp_icall_func(__this, ___nameID);
 }
 // System.Void UnityEngine.Material::Internal_CreateWithMaterial(UnityEngine.Material,UnityEngine.Material)
-extern "C" void Material_Internal_CreateWithMaterial_m5_533 (Object_t * __this /* static, unused */, Material_t5_76 * ___mono, Material_t5_76 * ___source, const MethodInfo* method)
+extern "C" void Material_Internal_CreateWithMaterial_m5_536 (Object_t * __this /* static, unused */, Material_t5_77 * ___mono, Material_t5_77 * ___source, const MethodInfo* method)
 {
-	typedef void (*Material_Internal_CreateWithMaterial_m5_533_ftn) (Material_t5_76 *, Material_t5_76 *);
-	static Material_Internal_CreateWithMaterial_m5_533_ftn _il2cpp_icall_func;
+	typedef void (*Material_Internal_CreateWithMaterial_m5_536_ftn) (Material_t5_77 *, Material_t5_77 *);
+	static Material_Internal_CreateWithMaterial_m5_536_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_Internal_CreateWithMaterial_m5_533_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::Internal_CreateWithMaterial(UnityEngine.Material,UnityEngine.Material)");
+	_il2cpp_icall_func = (Material_Internal_CreateWithMaterial_m5_536_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::Internal_CreateWithMaterial(UnityEngine.Material,UnityEngine.Material)");
 	_il2cpp_icall_func(___mono, ___source);
 }
 // System.Void UnityEngine.Material::EnableKeyword(System.String)
-extern "C" void Material_EnableKeyword_m5_534 (Material_t5_76 * __this, String_t* ___keyword, const MethodInfo* method)
+extern "C" void Material_EnableKeyword_m5_537 (Material_t5_77 * __this, String_t* ___keyword, const MethodInfo* method)
 {
-	typedef void (*Material_EnableKeyword_m5_534_ftn) (Material_t5_76 *, String_t*);
-	static Material_EnableKeyword_m5_534_ftn _il2cpp_icall_func;
+	typedef void (*Material_EnableKeyword_m5_537_ftn) (Material_t5_77 *, String_t*);
+	static Material_EnableKeyword_m5_537_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_EnableKeyword_m5_534_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::EnableKeyword(System.String)");
+	_il2cpp_icall_func = (Material_EnableKeyword_m5_537_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::EnableKeyword(System.String)");
 	_il2cpp_icall_func(__this, ___keyword);
 }
 // System.Void UnityEngine.Material::DisableKeyword(System.String)
-extern "C" void Material_DisableKeyword_m5_535 (Material_t5_76 * __this, String_t* ___keyword, const MethodInfo* method)
+extern "C" void Material_DisableKeyword_m5_538 (Material_t5_77 * __this, String_t* ___keyword, const MethodInfo* method)
 {
-	typedef void (*Material_DisableKeyword_m5_535_ftn) (Material_t5_76 *, String_t*);
-	static Material_DisableKeyword_m5_535_ftn _il2cpp_icall_func;
+	typedef void (*Material_DisableKeyword_m5_538_ftn) (Material_t5_77 *, String_t*);
+	static Material_DisableKeyword_m5_538_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Material_DisableKeyword_m5_535_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::DisableKeyword(System.String)");
+	_il2cpp_icall_func = (Material_DisableKeyword_m5_538_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Material::DisableKeyword(System.String)");
 	_il2cpp_icall_func(__this, ___keyword);
 }
 // System.Int32 UnityEngine.SortingLayer::GetLayerValueFromID(System.Int32)
-extern "C" int32_t SortingLayer_GetLayerValueFromID_m5_536 (Object_t * __this /* static, unused */, int32_t ___id, const MethodInfo* method)
+extern "C" int32_t SortingLayer_GetLayerValueFromID_m5_539 (Object_t * __this /* static, unused */, int32_t ___id, const MethodInfo* method)
 {
-	typedef int32_t (*SortingLayer_GetLayerValueFromID_m5_536_ftn) (int32_t);
-	static SortingLayer_GetLayerValueFromID_m5_536_ftn _il2cpp_icall_func;
+	typedef int32_t (*SortingLayer_GetLayerValueFromID_m5_539_ftn) (int32_t);
+	static SortingLayer_GetLayerValueFromID_m5_539_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (SortingLayer_GetLayerValueFromID_m5_536_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SortingLayer::GetLayerValueFromID(System.Int32)");
+	_il2cpp_icall_func = (SortingLayer_GetLayerValueFromID_m5_539_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SortingLayer::GetLayerValueFromID(System.Int32)");
 	return _il2cpp_icall_func(___id);
 }
 // UnityEngine.Rect UnityEngine.Sprite::get_rect()
-extern "C" Rect_t5_48  Sprite_get_rect_m5_537 (Sprite_t5_78 * __this, const MethodInfo* method)
+extern "C" Rect_t5_48  Sprite_get_rect_m5_540 (Sprite_t5_79 * __this, const MethodInfo* method)
 {
 	Rect_t5_48  V_0 = {0};
 	{
-		Sprite_INTERNAL_get_rect_m5_538(__this, (&V_0), /*hidden argument*/NULL);
+		Sprite_INTERNAL_get_rect_m5_541(__this, (&V_0), /*hidden argument*/NULL);
 		Rect_t5_48  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Sprite::INTERNAL_get_rect(UnityEngine.Rect&)
-extern "C" void Sprite_INTERNAL_get_rect_m5_538 (Sprite_t5_78 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
+extern "C" void Sprite_INTERNAL_get_rect_m5_541 (Sprite_t5_79 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
 {
-	typedef void (*Sprite_INTERNAL_get_rect_m5_538_ftn) (Sprite_t5_78 *, Rect_t5_48 *);
-	static Sprite_INTERNAL_get_rect_m5_538_ftn _il2cpp_icall_func;
+	typedef void (*Sprite_INTERNAL_get_rect_m5_541_ftn) (Sprite_t5_79 *, Rect_t5_48 *);
+	static Sprite_INTERNAL_get_rect_m5_541_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Sprite_INTERNAL_get_rect_m5_538_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_rect(UnityEngine.Rect&)");
+	_il2cpp_icall_func = (Sprite_INTERNAL_get_rect_m5_541_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_rect(UnityEngine.Rect&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Single UnityEngine.Sprite::get_pixelsPerUnit()
-extern "C" float Sprite_get_pixelsPerUnit_m5_539 (Sprite_t5_78 * __this, const MethodInfo* method)
+extern "C" float Sprite_get_pixelsPerUnit_m5_542 (Sprite_t5_79 * __this, const MethodInfo* method)
 {
-	typedef float (*Sprite_get_pixelsPerUnit_m5_539_ftn) (Sprite_t5_78 *);
-	static Sprite_get_pixelsPerUnit_m5_539_ftn _il2cpp_icall_func;
+	typedef float (*Sprite_get_pixelsPerUnit_m5_542_ftn) (Sprite_t5_79 *);
+	static Sprite_get_pixelsPerUnit_m5_542_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Sprite_get_pixelsPerUnit_m5_539_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::get_pixelsPerUnit()");
+	_il2cpp_icall_func = (Sprite_get_pixelsPerUnit_m5_542_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::get_pixelsPerUnit()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Texture2D UnityEngine.Sprite::get_texture()
-extern "C" Texture2D_t5_34 * Sprite_get_texture_m5_540 (Sprite_t5_78 * __this, const MethodInfo* method)
+extern "C" Texture2D_t5_34 * Sprite_get_texture_m5_543 (Sprite_t5_79 * __this, const MethodInfo* method)
 {
-	typedef Texture2D_t5_34 * (*Sprite_get_texture_m5_540_ftn) (Sprite_t5_78 *);
-	static Sprite_get_texture_m5_540_ftn _il2cpp_icall_func;
+	typedef Texture2D_t5_34 * (*Sprite_get_texture_m5_543_ftn) (Sprite_t5_79 *);
+	static Sprite_get_texture_m5_543_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Sprite_get_texture_m5_540_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::get_texture()");
+	_il2cpp_icall_func = (Sprite_get_texture_m5_543_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::get_texture()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Rect UnityEngine.Sprite::get_textureRect()
-extern "C" Rect_t5_48  Sprite_get_textureRect_m5_541 (Sprite_t5_78 * __this, const MethodInfo* method)
+extern "C" Rect_t5_48  Sprite_get_textureRect_m5_544 (Sprite_t5_79 * __this, const MethodInfo* method)
 {
 	Rect_t5_48  V_0 = {0};
 	{
-		Sprite_INTERNAL_get_textureRect_m5_542(__this, (&V_0), /*hidden argument*/NULL);
+		Sprite_INTERNAL_get_textureRect_m5_545(__this, (&V_0), /*hidden argument*/NULL);
 		Rect_t5_48  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Sprite::INTERNAL_get_textureRect(UnityEngine.Rect&)
-extern "C" void Sprite_INTERNAL_get_textureRect_m5_542 (Sprite_t5_78 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
+extern "C" void Sprite_INTERNAL_get_textureRect_m5_545 (Sprite_t5_79 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
 {
-	typedef void (*Sprite_INTERNAL_get_textureRect_m5_542_ftn) (Sprite_t5_78 *, Rect_t5_48 *);
-	static Sprite_INTERNAL_get_textureRect_m5_542_ftn _il2cpp_icall_func;
+	typedef void (*Sprite_INTERNAL_get_textureRect_m5_545_ftn) (Sprite_t5_79 *, Rect_t5_48 *);
+	static Sprite_INTERNAL_get_textureRect_m5_545_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Sprite_INTERNAL_get_textureRect_m5_542_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_textureRect(UnityEngine.Rect&)");
+	_il2cpp_icall_func = (Sprite_INTERNAL_get_textureRect_m5_545_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_textureRect(UnityEngine.Rect&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Vector4 UnityEngine.Sprite::get_border()
-extern "C" Vector4_t5_51  Sprite_get_border_m5_543 (Sprite_t5_78 * __this, const MethodInfo* method)
+extern "C" Vector4_t5_51  Sprite_get_border_m5_546 (Sprite_t5_79 * __this, const MethodInfo* method)
 {
 	Vector4_t5_51  V_0 = {0};
 	{
-		Sprite_INTERNAL_get_border_m5_544(__this, (&V_0), /*hidden argument*/NULL);
+		Sprite_INTERNAL_get_border_m5_547(__this, (&V_0), /*hidden argument*/NULL);
 		Vector4_t5_51  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Sprite::INTERNAL_get_border(UnityEngine.Vector4&)
-extern "C" void Sprite_INTERNAL_get_border_m5_544 (Sprite_t5_78 * __this, Vector4_t5_51 * ___value, const MethodInfo* method)
+extern "C" void Sprite_INTERNAL_get_border_m5_547 (Sprite_t5_79 * __this, Vector4_t5_51 * ___value, const MethodInfo* method)
 {
-	typedef void (*Sprite_INTERNAL_get_border_m5_544_ftn) (Sprite_t5_78 *, Vector4_t5_51 *);
-	static Sprite_INTERNAL_get_border_m5_544_ftn _il2cpp_icall_func;
+	typedef void (*Sprite_INTERNAL_get_border_m5_547_ftn) (Sprite_t5_79 *, Vector4_t5_51 *);
+	static Sprite_INTERNAL_get_border_m5_547_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Sprite_INTERNAL_get_border_m5_544_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_border(UnityEngine.Vector4&)");
+	_il2cpp_icall_func = (Sprite_INTERNAL_get_border_m5_547_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprite::INTERNAL_get_border(UnityEngine.Vector4&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.SpriteRenderer::set_sprite(UnityEngine.Sprite)
-extern "C" void SpriteRenderer_set_sprite_m5_545 (SpriteRenderer_t5_79 * __this, Sprite_t5_78 * ___value, const MethodInfo* method)
+extern "C" void SpriteRenderer_set_sprite_m5_548 (SpriteRenderer_t5_80 * __this, Sprite_t5_79 * ___value, const MethodInfo* method)
 {
 	{
-		Sprite_t5_78 * L_0 = ___value;
-		SpriteRenderer_SetSprite_INTERNAL_m5_546(__this, L_0, /*hidden argument*/NULL);
+		Sprite_t5_79 * L_0 = ___value;
+		SpriteRenderer_SetSprite_INTERNAL_m5_549(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.SpriteRenderer::SetSprite_INTERNAL(UnityEngine.Sprite)
-extern "C" void SpriteRenderer_SetSprite_INTERNAL_m5_546 (SpriteRenderer_t5_79 * __this, Sprite_t5_78 * ___sprite, const MethodInfo* method)
+extern "C" void SpriteRenderer_SetSprite_INTERNAL_m5_549 (SpriteRenderer_t5_80 * __this, Sprite_t5_79 * ___sprite, const MethodInfo* method)
 {
-	typedef void (*SpriteRenderer_SetSprite_INTERNAL_m5_546_ftn) (SpriteRenderer_t5_79 *, Sprite_t5_78 *);
-	static SpriteRenderer_SetSprite_INTERNAL_m5_546_ftn _il2cpp_icall_func;
+	typedef void (*SpriteRenderer_SetSprite_INTERNAL_m5_549_ftn) (SpriteRenderer_t5_80 *, Sprite_t5_79 *);
+	static SpriteRenderer_SetSprite_INTERNAL_m5_549_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (SpriteRenderer_SetSprite_INTERNAL_m5_546_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SpriteRenderer::SetSprite_INTERNAL(UnityEngine.Sprite)");
+	_il2cpp_icall_func = (SpriteRenderer_SetSprite_INTERNAL_m5_549_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.SpriteRenderer::SetSprite_INTERNAL(UnityEngine.Sprite)");
 	_il2cpp_icall_func(__this, ___sprite);
 }
 // UnityEngine.Vector4 UnityEngine.Sprites.DataUtility::GetInnerUV(UnityEngine.Sprite)
-extern "C" Vector4_t5_51  DataUtility_GetInnerUV_m5_547 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, const MethodInfo* method)
+extern "C" Vector4_t5_51  DataUtility_GetInnerUV_m5_550 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, const MethodInfo* method)
 {
 	Vector4_t5_51  V_0 = {0};
 	{
-		Sprite_t5_78 * L_0 = ___sprite;
-		DataUtility_INTERNAL_CALL_GetInnerUV_m5_548(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
+		Sprite_t5_79 * L_0 = ___sprite;
+		DataUtility_INTERNAL_CALL_GetInnerUV_m5_551(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
 		Vector4_t5_51  L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetInnerUV(UnityEngine.Sprite,UnityEngine.Vector4&)
-extern "C" void DataUtility_INTERNAL_CALL_GetInnerUV_m5_548 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
+extern "C" void DataUtility_INTERNAL_CALL_GetInnerUV_m5_551 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
 {
-	typedef void (*DataUtility_INTERNAL_CALL_GetInnerUV_m5_548_ftn) (Sprite_t5_78 *, Vector4_t5_51 *);
-	static DataUtility_INTERNAL_CALL_GetInnerUV_m5_548_ftn _il2cpp_icall_func;
+	typedef void (*DataUtility_INTERNAL_CALL_GetInnerUV_m5_551_ftn) (Sprite_t5_79 *, Vector4_t5_51 *);
+	static DataUtility_INTERNAL_CALL_GetInnerUV_m5_551_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetInnerUV_m5_548_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetInnerUV(UnityEngine.Sprite,UnityEngine.Vector4&)");
+	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetInnerUV_m5_551_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetInnerUV(UnityEngine.Sprite,UnityEngine.Vector4&)");
 	_il2cpp_icall_func(___sprite, ___value);
 }
 // UnityEngine.Vector4 UnityEngine.Sprites.DataUtility::GetOuterUV(UnityEngine.Sprite)
-extern "C" Vector4_t5_51  DataUtility_GetOuterUV_m5_549 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, const MethodInfo* method)
+extern "C" Vector4_t5_51  DataUtility_GetOuterUV_m5_552 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, const MethodInfo* method)
 {
 	Vector4_t5_51  V_0 = {0};
 	{
-		Sprite_t5_78 * L_0 = ___sprite;
-		DataUtility_INTERNAL_CALL_GetOuterUV_m5_550(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
+		Sprite_t5_79 * L_0 = ___sprite;
+		DataUtility_INTERNAL_CALL_GetOuterUV_m5_553(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
 		Vector4_t5_51  L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetOuterUV(UnityEngine.Sprite,UnityEngine.Vector4&)
-extern "C" void DataUtility_INTERNAL_CALL_GetOuterUV_m5_550 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
+extern "C" void DataUtility_INTERNAL_CALL_GetOuterUV_m5_553 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
 {
-	typedef void (*DataUtility_INTERNAL_CALL_GetOuterUV_m5_550_ftn) (Sprite_t5_78 *, Vector4_t5_51 *);
-	static DataUtility_INTERNAL_CALL_GetOuterUV_m5_550_ftn _il2cpp_icall_func;
+	typedef void (*DataUtility_INTERNAL_CALL_GetOuterUV_m5_553_ftn) (Sprite_t5_79 *, Vector4_t5_51 *);
+	static DataUtility_INTERNAL_CALL_GetOuterUV_m5_553_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetOuterUV_m5_550_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetOuterUV(UnityEngine.Sprite,UnityEngine.Vector4&)");
+	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetOuterUV_m5_553_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetOuterUV(UnityEngine.Sprite,UnityEngine.Vector4&)");
 	_il2cpp_icall_func(___sprite, ___value);
 }
 // UnityEngine.Vector4 UnityEngine.Sprites.DataUtility::GetPadding(UnityEngine.Sprite)
-extern "C" Vector4_t5_51  DataUtility_GetPadding_m5_551 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, const MethodInfo* method)
+extern "C" Vector4_t5_51  DataUtility_GetPadding_m5_554 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, const MethodInfo* method)
 {
 	Vector4_t5_51  V_0 = {0};
 	{
-		Sprite_t5_78 * L_0 = ___sprite;
-		DataUtility_INTERNAL_CALL_GetPadding_m5_552(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
+		Sprite_t5_79 * L_0 = ___sprite;
+		DataUtility_INTERNAL_CALL_GetPadding_m5_555(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
 		Vector4_t5_51  L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetPadding(UnityEngine.Sprite,UnityEngine.Vector4&)
-extern "C" void DataUtility_INTERNAL_CALL_GetPadding_m5_552 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
+extern "C" void DataUtility_INTERNAL_CALL_GetPadding_m5_555 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, Vector4_t5_51 * ___value, const MethodInfo* method)
 {
-	typedef void (*DataUtility_INTERNAL_CALL_GetPadding_m5_552_ftn) (Sprite_t5_78 *, Vector4_t5_51 *);
-	static DataUtility_INTERNAL_CALL_GetPadding_m5_552_ftn _il2cpp_icall_func;
+	typedef void (*DataUtility_INTERNAL_CALL_GetPadding_m5_555_ftn) (Sprite_t5_79 *, Vector4_t5_51 *);
+	static DataUtility_INTERNAL_CALL_GetPadding_m5_555_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetPadding_m5_552_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetPadding(UnityEngine.Sprite,UnityEngine.Vector4&)");
+	_il2cpp_icall_func = (DataUtility_INTERNAL_CALL_GetPadding_m5_555_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::INTERNAL_CALL_GetPadding(UnityEngine.Sprite,UnityEngine.Vector4&)");
 	_il2cpp_icall_func(___sprite, ___value);
 }
 // UnityEngine.Vector2 UnityEngine.Sprites.DataUtility::GetMinSize(UnityEngine.Sprite)
-extern "C" Vector2_t5_44  DataUtility_GetMinSize_m5_553 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, const MethodInfo* method)
+extern "C" Vector2_t5_44  DataUtility_GetMinSize_m5_556 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, const MethodInfo* method)
 {
 	Vector2_t5_44  V_0 = {0};
 	{
-		Sprite_t5_78 * L_0 = ___sprite;
-		DataUtility_Internal_GetMinSize_m5_554(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
+		Sprite_t5_79 * L_0 = ___sprite;
+		DataUtility_Internal_GetMinSize_m5_557(NULL /*static, unused*/, L_0, (&V_0), /*hidden argument*/NULL);
 		Vector2_t5_44  L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Sprites.DataUtility::Internal_GetMinSize(UnityEngine.Sprite,UnityEngine.Vector2&)
-extern "C" void DataUtility_Internal_GetMinSize_m5_554 (Object_t * __this /* static, unused */, Sprite_t5_78 * ___sprite, Vector2_t5_44 * ___output, const MethodInfo* method)
+extern "C" void DataUtility_Internal_GetMinSize_m5_557 (Object_t * __this /* static, unused */, Sprite_t5_79 * ___sprite, Vector2_t5_44 * ___output, const MethodInfo* method)
 {
-	typedef void (*DataUtility_Internal_GetMinSize_m5_554_ftn) (Sprite_t5_78 *, Vector2_t5_44 *);
-	static DataUtility_Internal_GetMinSize_m5_554_ftn _il2cpp_icall_func;
+	typedef void (*DataUtility_Internal_GetMinSize_m5_557_ftn) (Sprite_t5_79 *, Vector2_t5_44 *);
+	static DataUtility_Internal_GetMinSize_m5_557_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DataUtility_Internal_GetMinSize_m5_554_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::Internal_GetMinSize(UnityEngine.Sprite,UnityEngine.Vector2&)");
+	_il2cpp_icall_func = (DataUtility_Internal_GetMinSize_m5_557_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Sprites.DataUtility::Internal_GetMinSize(UnityEngine.Sprite,UnityEngine.Vector2&)");
 	_il2cpp_icall_func(___sprite, ___output);
 }
 // System.String UnityEngine.UnityString::Format(System.String,System.Object[])
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern "C" String_t* UnityString_Format_m5_555 (Object_t * __this /* static, unused */, String_t* ___fmt, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method)
+extern "C" String_t* UnityString_Format_m5_558 (Object_t * __this /* static, unused */, String_t* ___fmt, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -10849,24 +10888,24 @@ extern "C" String_t* UnityString_Format_m5_555 (Object_t * __this /* static, unu
 	}
 }
 // System.Void UnityEngine.AsyncOperation::.ctor()
-extern "C" void AsyncOperation__ctor_m5_556 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" void AsyncOperation__ctor_m5_559 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
 	{
-		YieldInstruction__ctor_m5_841(__this, /*hidden argument*/NULL);
+		YieldInstruction__ctor_m5_844(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.AsyncOperation::InternalDestroy()
-extern "C" void AsyncOperation_InternalDestroy_m5_557 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" void AsyncOperation_InternalDestroy_m5_560 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
-	typedef void (*AsyncOperation_InternalDestroy_m5_557_ftn) (AsyncOperation_t5_2 *);
-	static AsyncOperation_InternalDestroy_m5_557_ftn _il2cpp_icall_func;
+	typedef void (*AsyncOperation_InternalDestroy_m5_560_ftn) (AsyncOperation_t5_2 *);
+	static AsyncOperation_InternalDestroy_m5_560_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_InternalDestroy_m5_557_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::InternalDestroy()");
+	_il2cpp_icall_func = (AsyncOperation_InternalDestroy_m5_560_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::InternalDestroy()");
 	_il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.AsyncOperation::Finalize()
-extern "C" void AsyncOperation_Finalize_m5_558 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" void AsyncOperation_Finalize_m5_561 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
 	Exception_t1_33 * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
@@ -10878,7 +10917,7 @@ extern "C" void AsyncOperation_Finalize_m5_558 (AsyncOperation_t5_2 * __this, co
 IL_0000:
 	try
 	{ // begin try (depth: 1)
-		AsyncOperation_InternalDestroy_m5_557(__this, /*hidden argument*/NULL);
+		AsyncOperation_InternalDestroy_m5_560(__this, /*hidden argument*/NULL);
 		IL2CPP_LEAVE(0x12, FINALLY_000b);
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -10904,57 +10943,57 @@ IL_0012:
 	}
 }
 // System.Boolean UnityEngine.AsyncOperation::get_isDone()
-extern "C" bool AsyncOperation_get_isDone_m5_559 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" bool AsyncOperation_get_isDone_m5_562 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
-	typedef bool (*AsyncOperation_get_isDone_m5_559_ftn) (AsyncOperation_t5_2 *);
-	static AsyncOperation_get_isDone_m5_559_ftn _il2cpp_icall_func;
+	typedef bool (*AsyncOperation_get_isDone_m5_562_ftn) (AsyncOperation_t5_2 *);
+	static AsyncOperation_get_isDone_m5_562_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_get_isDone_m5_559_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_isDone()");
+	_il2cpp_icall_func = (AsyncOperation_get_isDone_m5_562_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_isDone()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Single UnityEngine.AsyncOperation::get_progress()
-extern "C" float AsyncOperation_get_progress_m5_560 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" float AsyncOperation_get_progress_m5_563 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
-	typedef float (*AsyncOperation_get_progress_m5_560_ftn) (AsyncOperation_t5_2 *);
-	static AsyncOperation_get_progress_m5_560_ftn _il2cpp_icall_func;
+	typedef float (*AsyncOperation_get_progress_m5_563_ftn) (AsyncOperation_t5_2 *);
+	static AsyncOperation_get_progress_m5_563_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_get_progress_m5_560_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_progress()");
+	_il2cpp_icall_func = (AsyncOperation_get_progress_m5_563_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_progress()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Int32 UnityEngine.AsyncOperation::get_priority()
-extern "C" int32_t AsyncOperation_get_priority_m5_561 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" int32_t AsyncOperation_get_priority_m5_564 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*AsyncOperation_get_priority_m5_561_ftn) (AsyncOperation_t5_2 *);
-	static AsyncOperation_get_priority_m5_561_ftn _il2cpp_icall_func;
+	typedef int32_t (*AsyncOperation_get_priority_m5_564_ftn) (AsyncOperation_t5_2 *);
+	static AsyncOperation_get_priority_m5_564_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_get_priority_m5_561_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_priority()");
+	_il2cpp_icall_func = (AsyncOperation_get_priority_m5_564_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_priority()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.AsyncOperation::set_priority(System.Int32)
-extern "C" void AsyncOperation_set_priority_m5_562 (AsyncOperation_t5_2 * __this, int32_t ___value, const MethodInfo* method)
+extern "C" void AsyncOperation_set_priority_m5_565 (AsyncOperation_t5_2 * __this, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*AsyncOperation_set_priority_m5_562_ftn) (AsyncOperation_t5_2 *, int32_t);
-	static AsyncOperation_set_priority_m5_562_ftn _il2cpp_icall_func;
+	typedef void (*AsyncOperation_set_priority_m5_565_ftn) (AsyncOperation_t5_2 *, int32_t);
+	static AsyncOperation_set_priority_m5_565_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_set_priority_m5_562_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::set_priority(System.Int32)");
+	_il2cpp_icall_func = (AsyncOperation_set_priority_m5_565_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::set_priority(System.Int32)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Boolean UnityEngine.AsyncOperation::get_allowSceneActivation()
-extern "C" bool AsyncOperation_get_allowSceneActivation_m5_563 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
+extern "C" bool AsyncOperation_get_allowSceneActivation_m5_566 (AsyncOperation_t5_2 * __this, const MethodInfo* method)
 {
-	typedef bool (*AsyncOperation_get_allowSceneActivation_m5_563_ftn) (AsyncOperation_t5_2 *);
-	static AsyncOperation_get_allowSceneActivation_m5_563_ftn _il2cpp_icall_func;
+	typedef bool (*AsyncOperation_get_allowSceneActivation_m5_566_ftn) (AsyncOperation_t5_2 *);
+	static AsyncOperation_get_allowSceneActivation_m5_566_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_get_allowSceneActivation_m5_563_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_allowSceneActivation()");
+	_il2cpp_icall_func = (AsyncOperation_get_allowSceneActivation_m5_566_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::get_allowSceneActivation()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.AsyncOperation::set_allowSceneActivation(System.Boolean)
-extern "C" void AsyncOperation_set_allowSceneActivation_m5_564 (AsyncOperation_t5_2 * __this, bool ___value, const MethodInfo* method)
+extern "C" void AsyncOperation_set_allowSceneActivation_m5_567 (AsyncOperation_t5_2 * __this, bool ___value, const MethodInfo* method)
 {
-	typedef void (*AsyncOperation_set_allowSceneActivation_m5_564_ftn) (AsyncOperation_t5_2 *, bool);
-	static AsyncOperation_set_allowSceneActivation_m5_564_ftn _il2cpp_icall_func;
+	typedef void (*AsyncOperation_set_allowSceneActivation_m5_567_ftn) (AsyncOperation_t5_2 *, bool);
+	static AsyncOperation_set_allowSceneActivation_m5_567_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (AsyncOperation_set_allowSceneActivation_m5_564_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::set_allowSceneActivation(System.Boolean)");
+	_il2cpp_icall_func = (AsyncOperation_set_allowSceneActivation_m5_567_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.AsyncOperation::set_allowSceneActivation(System.Boolean)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // Conversion methods for marshalling of: UnityEngine.AsyncOperation
@@ -10971,18 +11010,18 @@ extern "C" void AsyncOperation_t5_2_marshal_cleanup(AsyncOperation_t5_2_marshale
 {
 }
 // System.Void UnityEngine.Application/LogCallback::.ctor(System.Object,System.IntPtr)
-extern "C" void LogCallback__ctor_m5_565 (LogCallback_t5_82 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void LogCallback__ctor_m5_568 (LogCallback_t5_83 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Void UnityEngine.Application/LogCallback::Invoke(System.String,System.String,UnityEngine.LogType)
-extern "C" void LogCallback_Invoke_m5_566 (LogCallback_t5_82 * __this, String_t* ___condition, String_t* ___stackTrace, int32_t ___type, const MethodInfo* method)
+extern "C" void LogCallback_Invoke_m5_569 (LogCallback_t5_83 * __this, String_t* ___condition, String_t* ___stackTrace, int32_t ___type, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		LogCallback_Invoke_m5_566((LogCallback_t5_82 *)__this->___prev_9,___condition, ___stackTrace, ___type, method);
+		LogCallback_Invoke_m5_569((LogCallback_t5_83 *)__this->___prev_9,___condition, ___stackTrace, ___type, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -11002,7 +11041,7 @@ extern "C" void LogCallback_Invoke_m5_566 (LogCallback_t5_82 * __this, String_t*
 		((FunctionPointerType)__this->___method_ptr_0)(___condition, ___stackTrace, ___type,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 }
-extern "C" void pinvoke_delegate_wrapper_LogCallback_t5_82(Il2CppObject* delegate, String_t* ___condition, String_t* ___stackTrace, int32_t ___type)
+extern "C" void pinvoke_delegate_wrapper_LogCallback_t5_83(Il2CppObject* delegate, String_t* ___condition, String_t* ___stackTrace, int32_t ___type)
 {
 	typedef void (STDCALL *native_function_ptr_type)(char*, char*, int32_t);
 	native_function_ptr_type _il2cpp_pinvoke_func = ((native_function_ptr_type)((Il2CppDelegate*)delegate)->method->method);
@@ -11032,12 +11071,12 @@ extern "C" void pinvoke_delegate_wrapper_LogCallback_t5_82(Il2CppObject* delegat
 }
 // System.IAsyncResult UnityEngine.Application/LogCallback::BeginInvoke(System.String,System.String,UnityEngine.LogType,System.AsyncCallback,System.Object)
 extern TypeInfo* LogType_t5_9_il2cpp_TypeInfo_var;
-extern "C" Object_t * LogCallback_BeginInvoke_m5_567 (LogCallback_t5_82 * __this, String_t* ___condition, String_t* ___stackTrace, int32_t ___type, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * LogCallback_BeginInvoke_m5_570 (LogCallback_t5_83 * __this, String_t* ___condition, String_t* ___stackTrace, int32_t ___type, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		LogType_t5_9_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(869);
+		LogType_t5_9_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(870);
 		s_Il2CppMethodIntialized = true;
 	}
 	void *__d_args[4] = {0};
@@ -11047,67 +11086,67 @@ extern "C" Object_t * LogCallback_BeginInvoke_m5_567 (LogCallback_t5_82 * __this
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Void UnityEngine.Application/LogCallback::EndInvoke(System.IAsyncResult)
-extern "C" void LogCallback_EndInvoke_m5_568 (LogCallback_t5_82 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" void LogCallback_EndInvoke_m5_571 (LogCallback_t5_83 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 }
 // System.Void UnityEngine.Application::Quit()
-extern "C" void Application_Quit_m5_569 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" void Application_Quit_m5_572 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef void (*Application_Quit_m5_569_ftn) ();
-	static Application_Quit_m5_569_ftn _il2cpp_icall_func;
+	typedef void (*Application_Quit_m5_572_ftn) ();
+	static Application_Quit_m5_572_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Application_Quit_m5_569_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::Quit()");
+	_il2cpp_icall_func = (Application_Quit_m5_572_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::Quit()");
 	_il2cpp_icall_func();
 }
 // System.Boolean UnityEngine.Application::get_isPlaying()
-extern "C" bool Application_get_isPlaying_m5_570 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" bool Application_get_isPlaying_m5_573 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef bool (*Application_get_isPlaying_m5_570_ftn) ();
-	static Application_get_isPlaying_m5_570_ftn _il2cpp_icall_func;
+	typedef bool (*Application_get_isPlaying_m5_573_ftn) ();
+	static Application_get_isPlaying_m5_573_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Application_get_isPlaying_m5_570_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_isPlaying()");
+	_il2cpp_icall_func = (Application_get_isPlaying_m5_573_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_isPlaying()");
 	return _il2cpp_icall_func();
 }
 // System.Boolean UnityEngine.Application::get_isEditor()
-extern "C" bool Application_get_isEditor_m5_571 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" bool Application_get_isEditor_m5_574 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef bool (*Application_get_isEditor_m5_571_ftn) ();
-	static Application_get_isEditor_m5_571_ftn _il2cpp_icall_func;
+	typedef bool (*Application_get_isEditor_m5_574_ftn) ();
+	static Application_get_isEditor_m5_574_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Application_get_isEditor_m5_571_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_isEditor()");
+	_il2cpp_icall_func = (Application_get_isEditor_m5_574_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_isEditor()");
 	return _il2cpp_icall_func();
 }
 // UnityEngine.RuntimePlatform UnityEngine.Application::get_platform()
-extern "C" int32_t Application_get_platform_m5_572 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" int32_t Application_get_platform_m5_575 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef int32_t (*Application_get_platform_m5_572_ftn) ();
-	static Application_get_platform_m5_572_ftn _il2cpp_icall_func;
+	typedef int32_t (*Application_get_platform_m5_575_ftn) ();
+	static Application_get_platform_m5_575_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Application_get_platform_m5_572_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_platform()");
+	_il2cpp_icall_func = (Application_get_platform_m5_575_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_platform()");
 	return _il2cpp_icall_func();
 }
 // System.Void UnityEngine.Application::set_targetFrameRate(System.Int32)
-extern "C" void Application_set_targetFrameRate_m5_573 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
+extern "C" void Application_set_targetFrameRate_m5_576 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*Application_set_targetFrameRate_m5_573_ftn) (int32_t);
-	static Application_set_targetFrameRate_m5_573_ftn _il2cpp_icall_func;
+	typedef void (*Application_set_targetFrameRate_m5_576_ftn) (int32_t);
+	static Application_set_targetFrameRate_m5_576_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Application_set_targetFrameRate_m5_573_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::set_targetFrameRate(System.Int32)");
+	_il2cpp_icall_func = (Application_set_targetFrameRate_m5_576_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::set_targetFrameRate(System.Int32)");
 	_il2cpp_icall_func(___value);
 }
 // System.Void UnityEngine.Application::CallLogCallback(System.String,System.String,UnityEngine.LogType,System.Boolean)
-extern TypeInfo* Application_t5_83_il2cpp_TypeInfo_var;
-extern "C" void Application_CallLogCallback_m5_574 (Object_t * __this /* static, unused */, String_t* ___logString, String_t* ___stackTrace, int32_t ___type, bool ___invokedOnMainThread, const MethodInfo* method)
+extern TypeInfo* Application_t5_84_il2cpp_TypeInfo_var;
+extern "C" void Application_CallLogCallback_m5_577 (Object_t * __this /* static, unused */, String_t* ___logString, String_t* ___stackTrace, int32_t ___type, bool ___invokedOnMainThread, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Application_t5_83_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(870);
+		Application_t5_84_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(871);
 		s_Il2CppMethodIntialized = true;
 	}
-	LogCallback_t5_82 * V_0 = {0};
-	LogCallback_t5_82 * V_1 = {0};
+	LogCallback_t5_83 * V_0 = {0};
+	LogCallback_t5_83 * V_1 = {0};
 	{
 		bool L_0 = ___invokedOnMainThread;
 		if (!L_0)
@@ -11116,40 +11155,40 @@ extern "C" void Application_CallLogCallback_m5_574 (Object_t * __this /* static,
 		}
 	}
 	{
-		LogCallback_t5_82 * L_1 = ((Application_t5_83_StaticFields*)Application_t5_83_il2cpp_TypeInfo_var->static_fields)->___s_LogCallbackHandler_0;
+		LogCallback_t5_83 * L_1 = ((Application_t5_84_StaticFields*)Application_t5_84_il2cpp_TypeInfo_var->static_fields)->___s_LogCallbackHandler_0;
 		V_0 = L_1;
-		LogCallback_t5_82 * L_2 = V_0;
+		LogCallback_t5_83 * L_2 = V_0;
 		if (!L_2)
 		{
 			goto IL_001b;
 		}
 	}
 	{
-		LogCallback_t5_82 * L_3 = V_0;
+		LogCallback_t5_83 * L_3 = V_0;
 		String_t* L_4 = ___logString;
 		String_t* L_5 = ___stackTrace;
 		int32_t L_6 = ___type;
 		NullCheck(L_3);
-		LogCallback_Invoke_m5_566(L_3, L_4, L_5, L_6, /*hidden argument*/NULL);
+		LogCallback_Invoke_m5_569(L_3, L_4, L_5, L_6, /*hidden argument*/NULL);
 	}
 
 IL_001b:
 	{
-		LogCallback_t5_82 * L_7 = ((Application_t5_83_StaticFields*)Application_t5_83_il2cpp_TypeInfo_var->static_fields)->___s_LogCallbackHandlerThreaded_1;
+		LogCallback_t5_83 * L_7 = ((Application_t5_84_StaticFields*)Application_t5_84_il2cpp_TypeInfo_var->static_fields)->___s_LogCallbackHandlerThreaded_1;
 		V_1 = L_7;
-		LogCallback_t5_82 * L_8 = V_1;
+		LogCallback_t5_83 * L_8 = V_1;
 		if (!L_8)
 		{
 			goto IL_0030;
 		}
 	}
 	{
-		LogCallback_t5_82 * L_9 = V_1;
+		LogCallback_t5_83 * L_9 = V_1;
 		String_t* L_10 = ___logString;
 		String_t* L_11 = ___stackTrace;
 		int32_t L_12 = ___type;
 		NullCheck(L_9);
-		LogCallback_Invoke_m5_566(L_9, L_10, L_11, L_12, /*hidden argument*/NULL);
+		LogCallback_Invoke_m5_569(L_9, L_10, L_11, L_12, /*hidden argument*/NULL);
 	}
 
 IL_0030:
@@ -11158,93 +11197,93 @@ IL_0030:
 	}
 }
 // System.Int32 UnityEngine.Application::get_loadedLevel()
-extern "C" int32_t Application_get_loadedLevel_m5_575 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" int32_t Application_get_loadedLevel_m5_578 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	Scene_t5_120  V_0 = {0};
+	Scene_t5_121  V_0 = {0};
 	{
-		Scene_t5_120  L_0 = SceneManager_GetActiveScene_m5_958(NULL /*static, unused*/, /*hidden argument*/NULL);
+		Scene_t5_121  L_0 = SceneManager_GetActiveScene_m5_961(NULL /*static, unused*/, /*hidden argument*/NULL);
 		V_0 = L_0;
-		int32_t L_1 = Scene_get_buildIndex_m5_964((&V_0), /*hidden argument*/NULL);
+		int32_t L_1 = Scene_get_buildIndex_m5_967((&V_0), /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Application::LoadLevel(System.Int32)
-extern "C" void Application_LoadLevel_m5_576 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method)
+extern "C" void Application_LoadLevel_m5_579 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___index;
-		SceneManager_LoadScene_m5_961(NULL /*static, unused*/, L_0, 0, /*hidden argument*/NULL);
+		SceneManager_LoadScene_m5_964(NULL /*static, unused*/, L_0, 0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Application::LoadLevel(System.String)
-extern "C" void Application_LoadLevel_m5_577 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
+extern "C" void Application_LoadLevel_m5_580 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___name;
-		SceneManager_LoadScene_m5_960(NULL /*static, unused*/, L_0, 0, /*hidden argument*/NULL);
+		SceneManager_LoadScene_m5_963(NULL /*static, unused*/, L_0, 0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Behaviour::.ctor()
-extern "C" void Behaviour__ctor_m5_578 (Behaviour_t5_30 * __this, const MethodInfo* method)
+extern "C" void Behaviour__ctor_m5_581 (Behaviour_t5_30 * __this, const MethodInfo* method)
 {
 	{
-		Component__ctor_m5_719(__this, /*hidden argument*/NULL);
+		Component__ctor_m5_722(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.Behaviour::get_enabled()
-extern "C" bool Behaviour_get_enabled_m5_579 (Behaviour_t5_30 * __this, const MethodInfo* method)
+extern "C" bool Behaviour_get_enabled_m5_582 (Behaviour_t5_30 * __this, const MethodInfo* method)
 {
-	typedef bool (*Behaviour_get_enabled_m5_579_ftn) (Behaviour_t5_30 *);
-	static Behaviour_get_enabled_m5_579_ftn _il2cpp_icall_func;
+	typedef bool (*Behaviour_get_enabled_m5_582_ftn) (Behaviour_t5_30 *);
+	static Behaviour_get_enabled_m5_582_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Behaviour_get_enabled_m5_579_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::get_enabled()");
+	_il2cpp_icall_func = (Behaviour_get_enabled_m5_582_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::get_enabled()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Behaviour::set_enabled(System.Boolean)
-extern "C" void Behaviour_set_enabled_m5_580 (Behaviour_t5_30 * __this, bool ___value, const MethodInfo* method)
+extern "C" void Behaviour_set_enabled_m5_583 (Behaviour_t5_30 * __this, bool ___value, const MethodInfo* method)
 {
-	typedef void (*Behaviour_set_enabled_m5_580_ftn) (Behaviour_t5_30 *, bool);
-	static Behaviour_set_enabled_m5_580_ftn _il2cpp_icall_func;
+	typedef void (*Behaviour_set_enabled_m5_583_ftn) (Behaviour_t5_30 *, bool);
+	static Behaviour_set_enabled_m5_583_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Behaviour_set_enabled_m5_580_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::set_enabled(System.Boolean)");
+	_il2cpp_icall_func = (Behaviour_set_enabled_m5_583_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::set_enabled(System.Boolean)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Boolean UnityEngine.Behaviour::get_isActiveAndEnabled()
-extern "C" bool Behaviour_get_isActiveAndEnabled_m5_581 (Behaviour_t5_30 * __this, const MethodInfo* method)
+extern "C" bool Behaviour_get_isActiveAndEnabled_m5_584 (Behaviour_t5_30 * __this, const MethodInfo* method)
 {
-	typedef bool (*Behaviour_get_isActiveAndEnabled_m5_581_ftn) (Behaviour_t5_30 *);
-	static Behaviour_get_isActiveAndEnabled_m5_581_ftn _il2cpp_icall_func;
+	typedef bool (*Behaviour_get_isActiveAndEnabled_m5_584_ftn) (Behaviour_t5_30 *);
+	static Behaviour_get_isActiveAndEnabled_m5_584_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Behaviour_get_isActiveAndEnabled_m5_581_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::get_isActiveAndEnabled()");
+	_il2cpp_icall_func = (Behaviour_get_isActiveAndEnabled_m5_584_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Behaviour::get_isActiveAndEnabled()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Camera/CameraCallback::.ctor(System.Object,System.IntPtr)
-extern "C" void CameraCallback__ctor_m5_582 (CameraCallback_t5_84 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void CameraCallback__ctor_m5_585 (CameraCallback_t5_85 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Void UnityEngine.Camera/CameraCallback::Invoke(UnityEngine.Camera)
-extern "C" void CameraCallback_Invoke_m5_583 (CameraCallback_t5_84 * __this, Camera_t5_85 * ___cam, const MethodInfo* method)
+extern "C" void CameraCallback_Invoke_m5_586 (CameraCallback_t5_85 * __this, Camera_t5_86 * ___cam, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		CameraCallback_Invoke_m5_583((CameraCallback_t5_84 *)__this->___prev_9,___cam, method);
+		CameraCallback_Invoke_m5_586((CameraCallback_t5_85 *)__this->___prev_9,___cam, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
 	if (__this->___m_target_2 != NULL && ___methodIsStatic)
 	{
-		typedef void (*FunctionPointerType) (Object_t *, Object_t * __this, Camera_t5_85 * ___cam, const MethodInfo* method);
+		typedef void (*FunctionPointerType) (Object_t *, Object_t * __this, Camera_t5_86 * ___cam, const MethodInfo* method);
 		((FunctionPointerType)__this->___method_ptr_0)(NULL,__this->___m_target_2,___cam,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 	else if (__this->___m_target_2 != NULL || ___methodIsStatic)
 	{
-		typedef void (*FunctionPointerType) (Object_t * __this, Camera_t5_85 * ___cam, const MethodInfo* method);
+		typedef void (*FunctionPointerType) (Object_t * __this, Camera_t5_86 * ___cam, const MethodInfo* method);
 		((FunctionPointerType)__this->___method_ptr_0)(__this->___m_target_2,___cam,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 	else
@@ -11253,193 +11292,193 @@ extern "C" void CameraCallback_Invoke_m5_583 (CameraCallback_t5_84 * __this, Cam
 		((FunctionPointerType)__this->___method_ptr_0)(___cam,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 }
-extern "C" void pinvoke_delegate_wrapper_CameraCallback_t5_84(Il2CppObject* delegate, Camera_t5_85 * ___cam)
+extern "C" void pinvoke_delegate_wrapper_CameraCallback_t5_85(Il2CppObject* delegate, Camera_t5_86 * ___cam)
 {
 	// Marshaling of parameter '___cam' to native representation
-	Camera_t5_85 * ____cam_marshaled = { 0 };
+	Camera_t5_86 * ____cam_marshaled = { 0 };
 	il2cpp_codegen_raise_exception((Il2CppCodeGenException*)il2cpp_codegen_get_not_supported_exception("Cannot marshal type 'UnityEngine.Camera'."));
 }
 // System.IAsyncResult UnityEngine.Camera/CameraCallback::BeginInvoke(UnityEngine.Camera,System.AsyncCallback,System.Object)
-extern "C" Object_t * CameraCallback_BeginInvoke_m5_584 (CameraCallback_t5_84 * __this, Camera_t5_85 * ___cam, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * CameraCallback_BeginInvoke_m5_587 (CameraCallback_t5_85 * __this, Camera_t5_86 * ___cam, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[2] = {0};
 	__d_args[0] = ___cam;
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Void UnityEngine.Camera/CameraCallback::EndInvoke(System.IAsyncResult)
-extern "C" void CameraCallback_EndInvoke_m5_585 (CameraCallback_t5_84 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" void CameraCallback_EndInvoke_m5_588 (CameraCallback_t5_85 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 }
 // System.Single UnityEngine.Camera::get_nearClipPlane()
-extern "C" float Camera_get_nearClipPlane_m5_586 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" float Camera_get_nearClipPlane_m5_589 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef float (*Camera_get_nearClipPlane_m5_586_ftn) (Camera_t5_85 *);
-	static Camera_get_nearClipPlane_m5_586_ftn _il2cpp_icall_func;
+	typedef float (*Camera_get_nearClipPlane_m5_589_ftn) (Camera_t5_86 *);
+	static Camera_get_nearClipPlane_m5_589_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_nearClipPlane_m5_586_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_nearClipPlane()");
+	_il2cpp_icall_func = (Camera_get_nearClipPlane_m5_589_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_nearClipPlane()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Single UnityEngine.Camera::get_farClipPlane()
-extern "C" float Camera_get_farClipPlane_m5_587 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" float Camera_get_farClipPlane_m5_590 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef float (*Camera_get_farClipPlane_m5_587_ftn) (Camera_t5_85 *);
-	static Camera_get_farClipPlane_m5_587_ftn _il2cpp_icall_func;
+	typedef float (*Camera_get_farClipPlane_m5_590_ftn) (Camera_t5_86 *);
+	static Camera_get_farClipPlane_m5_590_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_farClipPlane_m5_587_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_farClipPlane()");
+	_il2cpp_icall_func = (Camera_get_farClipPlane_m5_590_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_farClipPlane()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Single UnityEngine.Camera::get_depth()
-extern "C" float Camera_get_depth_m5_588 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" float Camera_get_depth_m5_591 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef float (*Camera_get_depth_m5_588_ftn) (Camera_t5_85 *);
-	static Camera_get_depth_m5_588_ftn _il2cpp_icall_func;
+	typedef float (*Camera_get_depth_m5_591_ftn) (Camera_t5_86 *);
+	static Camera_get_depth_m5_591_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_depth_m5_588_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_depth()");
+	_il2cpp_icall_func = (Camera_get_depth_m5_591_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_depth()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Int32 UnityEngine.Camera::get_cullingMask()
-extern "C" int32_t Camera_get_cullingMask_m5_589 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" int32_t Camera_get_cullingMask_m5_592 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*Camera_get_cullingMask_m5_589_ftn) (Camera_t5_85 *);
-	static Camera_get_cullingMask_m5_589_ftn _il2cpp_icall_func;
+	typedef int32_t (*Camera_get_cullingMask_m5_592_ftn) (Camera_t5_86 *);
+	static Camera_get_cullingMask_m5_592_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_cullingMask_m5_589_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_cullingMask()");
+	_il2cpp_icall_func = (Camera_get_cullingMask_m5_592_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_cullingMask()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Int32 UnityEngine.Camera::get_eventMask()
-extern "C" int32_t Camera_get_eventMask_m5_590 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" int32_t Camera_get_eventMask_m5_593 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*Camera_get_eventMask_m5_590_ftn) (Camera_t5_85 *);
-	static Camera_get_eventMask_m5_590_ftn _il2cpp_icall_func;
+	typedef int32_t (*Camera_get_eventMask_m5_593_ftn) (Camera_t5_86 *);
+	static Camera_get_eventMask_m5_593_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_eventMask_m5_590_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_eventMask()");
+	_il2cpp_icall_func = (Camera_get_eventMask_m5_593_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_eventMask()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Rect UnityEngine.Camera::get_pixelRect()
-extern "C" Rect_t5_48  Camera_get_pixelRect_m5_591 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" Rect_t5_48  Camera_get_pixelRect_m5_594 (Camera_t5_86 * __this, const MethodInfo* method)
 {
 	Rect_t5_48  V_0 = {0};
 	{
-		Camera_INTERNAL_get_pixelRect_m5_592(__this, (&V_0), /*hidden argument*/NULL);
+		Camera_INTERNAL_get_pixelRect_m5_595(__this, (&V_0), /*hidden argument*/NULL);
 		Rect_t5_48  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Camera::INTERNAL_get_pixelRect(UnityEngine.Rect&)
-extern "C" void Camera_INTERNAL_get_pixelRect_m5_592 (Camera_t5_85 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
+extern "C" void Camera_INTERNAL_get_pixelRect_m5_595 (Camera_t5_86 * __this, Rect_t5_48 * ___value, const MethodInfo* method)
 {
-	typedef void (*Camera_INTERNAL_get_pixelRect_m5_592_ftn) (Camera_t5_85 *, Rect_t5_48 *);
-	static Camera_INTERNAL_get_pixelRect_m5_592_ftn _il2cpp_icall_func;
+	typedef void (*Camera_INTERNAL_get_pixelRect_m5_595_ftn) (Camera_t5_86 *, Rect_t5_48 *);
+	static Camera_INTERNAL_get_pixelRect_m5_595_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_INTERNAL_get_pixelRect_m5_592_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_get_pixelRect(UnityEngine.Rect&)");
+	_il2cpp_icall_func = (Camera_INTERNAL_get_pixelRect_m5_595_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_get_pixelRect(UnityEngine.Rect&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.RenderTexture UnityEngine.Camera::get_targetTexture()
-extern "C" RenderTexture_t5_35 * Camera_get_targetTexture_m5_593 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" RenderTexture_t5_35 * Camera_get_targetTexture_m5_596 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef RenderTexture_t5_35 * (*Camera_get_targetTexture_m5_593_ftn) (Camera_t5_85 *);
-	static Camera_get_targetTexture_m5_593_ftn _il2cpp_icall_func;
+	typedef RenderTexture_t5_35 * (*Camera_get_targetTexture_m5_596_ftn) (Camera_t5_86 *);
+	static Camera_get_targetTexture_m5_596_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_targetTexture_m5_593_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_targetTexture()");
+	_il2cpp_icall_func = (Camera_get_targetTexture_m5_596_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_targetTexture()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.CameraClearFlags UnityEngine.Camera::get_clearFlags()
-extern "C" int32_t Camera_get_clearFlags_m5_594 (Camera_t5_85 * __this, const MethodInfo* method)
+extern "C" int32_t Camera_get_clearFlags_m5_597 (Camera_t5_86 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*Camera_get_clearFlags_m5_594_ftn) (Camera_t5_85 *);
-	static Camera_get_clearFlags_m5_594_ftn _il2cpp_icall_func;
+	typedef int32_t (*Camera_get_clearFlags_m5_597_ftn) (Camera_t5_86 *);
+	static Camera_get_clearFlags_m5_597_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_clearFlags_m5_594_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_clearFlags()");
+	_il2cpp_icall_func = (Camera_get_clearFlags_m5_597_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_clearFlags()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Vector3 UnityEngine.Camera::ScreenToViewportPoint(UnityEngine.Vector3)
-extern "C" Vector3_t5_45  Camera_ScreenToViewportPoint_m5_595 (Camera_t5_85 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
+extern "C" Vector3_t5_45  Camera_ScreenToViewportPoint_m5_598 (Camera_t5_86 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_596(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
+		Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_599(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Camera::INTERNAL_CALL_ScreenToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)
-extern "C" void Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_596 (Object_t * __this /* static, unused */, Camera_t5_85 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_599 (Object_t * __this /* static, unused */, Camera_t5_86 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_596_ftn) (Camera_t5_85 *, Vector3_t5_45 *, Vector3_t5_45 *);
-	static Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_596_ftn _il2cpp_icall_func;
+	typedef void (*Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_599_ftn) (Camera_t5_86 *, Vector3_t5_45 *, Vector3_t5_45 *);
+	static Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_599_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_596_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_ScreenToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Camera_INTERNAL_CALL_ScreenToViewportPoint_m5_599_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_ScreenToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___self, ___position, ___value);
 }
 // UnityEngine.Ray UnityEngine.Camera::ScreenPointToRay(UnityEngine.Vector3)
-extern "C" Ray_t5_52  Camera_ScreenPointToRay_m5_597 (Camera_t5_85 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
+extern "C" Ray_t5_52  Camera_ScreenPointToRay_m5_600 (Camera_t5_86 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
 {
 	Ray_t5_52  V_0 = {0};
 	{
-		Camera_INTERNAL_CALL_ScreenPointToRay_m5_598(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
+		Camera_INTERNAL_CALL_ScreenPointToRay_m5_601(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
 		Ray_t5_52  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Camera::INTERNAL_CALL_ScreenPointToRay(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Ray&)
-extern "C" void Camera_INTERNAL_CALL_ScreenPointToRay_m5_598 (Object_t * __this /* static, unused */, Camera_t5_85 * ___self, Vector3_t5_45 * ___position, Ray_t5_52 * ___value, const MethodInfo* method)
+extern "C" void Camera_INTERNAL_CALL_ScreenPointToRay_m5_601 (Object_t * __this /* static, unused */, Camera_t5_86 * ___self, Vector3_t5_45 * ___position, Ray_t5_52 * ___value, const MethodInfo* method)
 {
-	typedef void (*Camera_INTERNAL_CALL_ScreenPointToRay_m5_598_ftn) (Camera_t5_85 *, Vector3_t5_45 *, Ray_t5_52 *);
-	static Camera_INTERNAL_CALL_ScreenPointToRay_m5_598_ftn _il2cpp_icall_func;
+	typedef void (*Camera_INTERNAL_CALL_ScreenPointToRay_m5_601_ftn) (Camera_t5_86 *, Vector3_t5_45 *, Ray_t5_52 *);
+	static Camera_INTERNAL_CALL_ScreenPointToRay_m5_601_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_INTERNAL_CALL_ScreenPointToRay_m5_598_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_ScreenPointToRay(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Ray&)");
+	_il2cpp_icall_func = (Camera_INTERNAL_CALL_ScreenPointToRay_m5_601_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_ScreenPointToRay(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Ray&)");
 	_il2cpp_icall_func(___self, ___position, ___value);
 }
 // UnityEngine.Camera UnityEngine.Camera::get_main()
-extern "C" Camera_t5_85 * Camera_get_main_m5_599 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" Camera_t5_86 * Camera_get_main_m5_602 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef Camera_t5_85 * (*Camera_get_main_m5_599_ftn) ();
-	static Camera_get_main_m5_599_ftn _il2cpp_icall_func;
+	typedef Camera_t5_86 * (*Camera_get_main_m5_602_ftn) ();
+	static Camera_get_main_m5_602_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_main_m5_599_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_main()");
+	_il2cpp_icall_func = (Camera_get_main_m5_602_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_main()");
 	return _il2cpp_icall_func();
 }
 // System.Int32 UnityEngine.Camera::get_allCamerasCount()
-extern "C" int32_t Camera_get_allCamerasCount_m5_600 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" int32_t Camera_get_allCamerasCount_m5_603 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef int32_t (*Camera_get_allCamerasCount_m5_600_ftn) ();
-	static Camera_get_allCamerasCount_m5_600_ftn _il2cpp_icall_func;
+	typedef int32_t (*Camera_get_allCamerasCount_m5_603_ftn) ();
+	static Camera_get_allCamerasCount_m5_603_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_get_allCamerasCount_m5_600_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_allCamerasCount()");
+	_il2cpp_icall_func = (Camera_get_allCamerasCount_m5_603_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::get_allCamerasCount()");
 	return _il2cpp_icall_func();
 }
 // System.Int32 UnityEngine.Camera::GetAllCameras(UnityEngine.Camera[])
-extern "C" int32_t Camera_GetAllCameras_m5_601 (Object_t * __this /* static, unused */, CameraU5BU5D_t5_247* ___cameras, const MethodInfo* method)
+extern "C" int32_t Camera_GetAllCameras_m5_604 (Object_t * __this /* static, unused */, CameraU5BU5D_t5_248* ___cameras, const MethodInfo* method)
 {
-	typedef int32_t (*Camera_GetAllCameras_m5_601_ftn) (CameraU5BU5D_t5_247*);
-	static Camera_GetAllCameras_m5_601_ftn _il2cpp_icall_func;
+	typedef int32_t (*Camera_GetAllCameras_m5_604_ftn) (CameraU5BU5D_t5_248*);
+	static Camera_GetAllCameras_m5_604_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_GetAllCameras_m5_601_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::GetAllCameras(UnityEngine.Camera[])");
+	_il2cpp_icall_func = (Camera_GetAllCameras_m5_604_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::GetAllCameras(UnityEngine.Camera[])");
 	return _il2cpp_icall_func(___cameras);
 }
 // System.Void UnityEngine.Camera::FireOnPreCull(UnityEngine.Camera)
-extern TypeInfo* Camera_t5_85_il2cpp_TypeInfo_var;
-extern "C" void Camera_FireOnPreCull_m5_602 (Object_t * __this /* static, unused */, Camera_t5_85 * ___cam, const MethodInfo* method)
+extern TypeInfo* Camera_t5_86_il2cpp_TypeInfo_var;
+extern "C" void Camera_FireOnPreCull_m5_605 (Object_t * __this /* static, unused */, Camera_t5_86 * ___cam, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Camera_t5_85_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(871);
+		Camera_t5_86_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(872);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		CameraCallback_t5_84 * L_0 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPreCull_2;
+		CameraCallback_t5_85 * L_0 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPreCull_2;
 		if (!L_0)
 		{
 			goto IL_0015;
 		}
 	}
 	{
-		CameraCallback_t5_84 * L_1 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPreCull_2;
-		Camera_t5_85 * L_2 = ___cam;
+		CameraCallback_t5_85 * L_1 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPreCull_2;
+		Camera_t5_86 * L_2 = ___cam;
 		NullCheck(L_1);
-		CameraCallback_Invoke_m5_583(L_1, L_2, /*hidden argument*/NULL);
+		CameraCallback_Invoke_m5_586(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0015:
@@ -11448,27 +11487,27 @@ IL_0015:
 	}
 }
 // System.Void UnityEngine.Camera::FireOnPreRender(UnityEngine.Camera)
-extern TypeInfo* Camera_t5_85_il2cpp_TypeInfo_var;
-extern "C" void Camera_FireOnPreRender_m5_603 (Object_t * __this /* static, unused */, Camera_t5_85 * ___cam, const MethodInfo* method)
+extern TypeInfo* Camera_t5_86_il2cpp_TypeInfo_var;
+extern "C" void Camera_FireOnPreRender_m5_606 (Object_t * __this /* static, unused */, Camera_t5_86 * ___cam, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Camera_t5_85_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(871);
+		Camera_t5_86_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(872);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		CameraCallback_t5_84 * L_0 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPreRender_3;
+		CameraCallback_t5_85 * L_0 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPreRender_3;
 		if (!L_0)
 		{
 			goto IL_0015;
 		}
 	}
 	{
-		CameraCallback_t5_84 * L_1 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPreRender_3;
-		Camera_t5_85 * L_2 = ___cam;
+		CameraCallback_t5_85 * L_1 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPreRender_3;
+		Camera_t5_86 * L_2 = ___cam;
 		NullCheck(L_1);
-		CameraCallback_Invoke_m5_583(L_1, L_2, /*hidden argument*/NULL);
+		CameraCallback_Invoke_m5_586(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0015:
@@ -11477,27 +11516,27 @@ IL_0015:
 	}
 }
 // System.Void UnityEngine.Camera::FireOnPostRender(UnityEngine.Camera)
-extern TypeInfo* Camera_t5_85_il2cpp_TypeInfo_var;
-extern "C" void Camera_FireOnPostRender_m5_604 (Object_t * __this /* static, unused */, Camera_t5_85 * ___cam, const MethodInfo* method)
+extern TypeInfo* Camera_t5_86_il2cpp_TypeInfo_var;
+extern "C" void Camera_FireOnPostRender_m5_607 (Object_t * __this /* static, unused */, Camera_t5_86 * ___cam, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Camera_t5_85_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(871);
+		Camera_t5_86_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(872);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		CameraCallback_t5_84 * L_0 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPostRender_4;
+		CameraCallback_t5_85 * L_0 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPostRender_4;
 		if (!L_0)
 		{
 			goto IL_0015;
 		}
 	}
 	{
-		CameraCallback_t5_84 * L_1 = ((Camera_t5_85_StaticFields*)Camera_t5_85_il2cpp_TypeInfo_var->static_fields)->___onPostRender_4;
-		Camera_t5_85 * L_2 = ___cam;
+		CameraCallback_t5_85 * L_1 = ((Camera_t5_86_StaticFields*)Camera_t5_86_il2cpp_TypeInfo_var->static_fields)->___onPostRender_4;
+		Camera_t5_86 * L_2 = ___cam;
 		NullCheck(L_1);
-		CameraCallback_Invoke_m5_583(L_1, L_2, /*hidden argument*/NULL);
+		CameraCallback_Invoke_m5_586(L_1, L_2, /*hidden argument*/NULL);
 	}
 
 IL_0015:
@@ -11506,7 +11545,7 @@ IL_0015:
 	}
 }
 // UnityEngine.GameObject UnityEngine.Camera::RaycastTry(UnityEngine.Ray,System.Single,System.Int32)
-extern "C" GameObject_t5_100 * Camera_RaycastTry_m5_605 (Camera_t5_85 * __this, Ray_t5_52  ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
+extern "C" GameObject_t5_101 * Camera_RaycastTry_m5_608 (Camera_t5_86 * __this, Ray_t5_52  ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
@@ -11514,40 +11553,40 @@ extern "C" GameObject_t5_100 * Camera_RaycastTry_m5_605 (Camera_t5_85 * __this, 
 		float L_0 = ___distance;
 		int32_t L_1 = ___layerMask;
 		int32_t L_2 = V_0;
-		GameObject_t5_100 * L_3 = Camera_INTERNAL_CALL_RaycastTry_m5_606(NULL /*static, unused*/, __this, (&___ray), L_0, L_1, L_2, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_3 = Camera_INTERNAL_CALL_RaycastTry_m5_609(NULL /*static, unused*/, __this, (&___ray), L_0, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
 // UnityEngine.GameObject UnityEngine.Camera::INTERNAL_CALL_RaycastTry(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
-extern "C" GameObject_t5_100 * Camera_INTERNAL_CALL_RaycastTry_m5_606 (Object_t * __this /* static, unused */, Camera_t5_85 * ___self, Ray_t5_52 * ___ray, float ___distance, int32_t ___layerMask, int32_t ___queryTriggerInteraction, const MethodInfo* method)
+extern "C" GameObject_t5_101 * Camera_INTERNAL_CALL_RaycastTry_m5_609 (Object_t * __this /* static, unused */, Camera_t5_86 * ___self, Ray_t5_52 * ___ray, float ___distance, int32_t ___layerMask, int32_t ___queryTriggerInteraction, const MethodInfo* method)
 {
-	typedef GameObject_t5_100 * (*Camera_INTERNAL_CALL_RaycastTry_m5_606_ftn) (Camera_t5_85 *, Ray_t5_52 *, float, int32_t, int32_t);
-	static Camera_INTERNAL_CALL_RaycastTry_m5_606_ftn _il2cpp_icall_func;
+	typedef GameObject_t5_101 * (*Camera_INTERNAL_CALL_RaycastTry_m5_609_ftn) (Camera_t5_86 *, Ray_t5_52 *, float, int32_t, int32_t);
+	static Camera_INTERNAL_CALL_RaycastTry_m5_609_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_INTERNAL_CALL_RaycastTry_m5_606_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_RaycastTry(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)");
+	_il2cpp_icall_func = (Camera_INTERNAL_CALL_RaycastTry_m5_609_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_RaycastTry(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)");
 	return _il2cpp_icall_func(___self, ___ray, ___distance, ___layerMask, ___queryTriggerInteraction);
 }
 // UnityEngine.GameObject UnityEngine.Camera::RaycastTry2D(UnityEngine.Ray,System.Single,System.Int32)
-extern "C" GameObject_t5_100 * Camera_RaycastTry2D_m5_607 (Camera_t5_85 * __this, Ray_t5_52  ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
+extern "C" GameObject_t5_101 * Camera_RaycastTry2D_m5_610 (Camera_t5_86 * __this, Ray_t5_52  ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
 {
 	{
 		float L_0 = ___distance;
 		int32_t L_1 = ___layerMask;
-		GameObject_t5_100 * L_2 = Camera_INTERNAL_CALL_RaycastTry2D_m5_608(NULL /*static, unused*/, __this, (&___ray), L_0, L_1, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_2 = Camera_INTERNAL_CALL_RaycastTry2D_m5_611(NULL /*static, unused*/, __this, (&___ray), L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.GameObject UnityEngine.Camera::INTERNAL_CALL_RaycastTry2D(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)
-extern "C" GameObject_t5_100 * Camera_INTERNAL_CALL_RaycastTry2D_m5_608 (Object_t * __this /* static, unused */, Camera_t5_85 * ___self, Ray_t5_52 * ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
+extern "C" GameObject_t5_101 * Camera_INTERNAL_CALL_RaycastTry2D_m5_611 (Object_t * __this /* static, unused */, Camera_t5_86 * ___self, Ray_t5_52 * ___ray, float ___distance, int32_t ___layerMask, const MethodInfo* method)
 {
-	typedef GameObject_t5_100 * (*Camera_INTERNAL_CALL_RaycastTry2D_m5_608_ftn) (Camera_t5_85 *, Ray_t5_52 *, float, int32_t);
-	static Camera_INTERNAL_CALL_RaycastTry2D_m5_608_ftn _il2cpp_icall_func;
+	typedef GameObject_t5_101 * (*Camera_INTERNAL_CALL_RaycastTry2D_m5_611_ftn) (Camera_t5_86 *, Ray_t5_52 *, float, int32_t);
+	static Camera_INTERNAL_CALL_RaycastTry2D_m5_611_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Camera_INTERNAL_CALL_RaycastTry2D_m5_608_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_RaycastTry2D(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)");
+	_il2cpp_icall_func = (Camera_INTERNAL_CALL_RaycastTry2D_m5_611_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Camera::INTERNAL_CALL_RaycastTry2D(UnityEngine.Camera,UnityEngine.Ray&,System.Single,System.Int32)");
 	return _il2cpp_icall_func(___self, ___ray, ___distance, ___layerMask);
 }
 // System.Void UnityEngine.DebugLogHandler::.ctor()
-extern "C" void DebugLogHandler__ctor_m5_609 (DebugLogHandler_t5_86 * __this, const MethodInfo* method)
+extern "C" void DebugLogHandler__ctor_m5_612 (DebugLogHandler_t5_87 * __this, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
@@ -11555,26 +11594,26 @@ extern "C" void DebugLogHandler__ctor_m5_609 (DebugLogHandler_t5_86 * __this, co
 	}
 }
 // System.Void UnityEngine.DebugLogHandler::Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)
-extern "C" void DebugLogHandler_Internal_Log_m5_610 (Object_t * __this /* static, unused */, int32_t ___level, String_t* ___msg, Object_t5_5 * ___obj, const MethodInfo* method)
+extern "C" void DebugLogHandler_Internal_Log_m5_613 (Object_t * __this /* static, unused */, int32_t ___level, String_t* ___msg, Object_t5_5 * ___obj, const MethodInfo* method)
 {
-	typedef void (*DebugLogHandler_Internal_Log_m5_610_ftn) (int32_t, String_t*, Object_t5_5 *);
-	static DebugLogHandler_Internal_Log_m5_610_ftn _il2cpp_icall_func;
+	typedef void (*DebugLogHandler_Internal_Log_m5_613_ftn) (int32_t, String_t*, Object_t5_5 *);
+	static DebugLogHandler_Internal_Log_m5_613_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DebugLogHandler_Internal_Log_m5_610_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.DebugLogHandler::Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)");
+	_il2cpp_icall_func = (DebugLogHandler_Internal_Log_m5_613_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.DebugLogHandler::Internal_Log(UnityEngine.LogType,System.String,UnityEngine.Object)");
 	_il2cpp_icall_func(___level, ___msg, ___obj);
 }
 // System.Void UnityEngine.DebugLogHandler::Internal_LogException(System.Exception,UnityEngine.Object)
-extern "C" void DebugLogHandler_Internal_LogException_m5_611 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, Object_t5_5 * ___obj, const MethodInfo* method)
+extern "C" void DebugLogHandler_Internal_LogException_m5_614 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, Object_t5_5 * ___obj, const MethodInfo* method)
 {
-	typedef void (*DebugLogHandler_Internal_LogException_m5_611_ftn) (Exception_t1_33 *, Object_t5_5 *);
-	static DebugLogHandler_Internal_LogException_m5_611_ftn _il2cpp_icall_func;
+	typedef void (*DebugLogHandler_Internal_LogException_m5_614_ftn) (Exception_t1_33 *, Object_t5_5 *);
+	static DebugLogHandler_Internal_LogException_m5_614_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (DebugLogHandler_Internal_LogException_m5_611_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.DebugLogHandler::Internal_LogException(System.Exception,UnityEngine.Object)");
+	_il2cpp_icall_func = (DebugLogHandler_Internal_LogException_m5_614_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.DebugLogHandler::Internal_LogException(System.Exception,UnityEngine.Object)");
 	_il2cpp_icall_func(___exception, ___obj);
 }
 // System.Void UnityEngine.DebugLogHandler::LogFormat(UnityEngine.LogType,UnityEngine.Object,System.String,System.Object[])
 extern TypeInfo* String_t_il2cpp_TypeInfo_var;
-extern "C" void DebugLogHandler_LogFormat_m5_612 (DebugLogHandler_t5_86 * __this, int32_t ___logType, Object_t5_5 * ___context, String_t* ___format, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method)
+extern "C" void DebugLogHandler_LogFormat_m5_615 (DebugLogHandler_t5_87 * __this, int32_t ___logType, Object_t5_5 * ___context, String_t* ___format, ObjectU5BU5D_t1_156* ___args, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -11589,222 +11628,222 @@ extern "C" void DebugLogHandler_LogFormat_m5_612 (DebugLogHandler_t5_86 * __this
 		IL2CPP_RUNTIME_CLASS_INIT(String_t_il2cpp_TypeInfo_var);
 		String_t* L_3 = String_Format_m1_415(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		Object_t5_5 * L_4 = ___context;
-		DebugLogHandler_Internal_Log_m5_610(NULL /*static, unused*/, L_0, L_3, L_4, /*hidden argument*/NULL);
+		DebugLogHandler_Internal_Log_m5_613(NULL /*static, unused*/, L_0, L_3, L_4, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.DebugLogHandler::LogException(System.Exception,UnityEngine.Object)
-extern "C" void DebugLogHandler_LogException_m5_613 (DebugLogHandler_t5_86 * __this, Exception_t1_33 * ___exception, Object_t5_5 * ___context, const MethodInfo* method)
+extern "C" void DebugLogHandler_LogException_m5_616 (DebugLogHandler_t5_87 * __this, Exception_t1_33 * ___exception, Object_t5_5 * ___context, const MethodInfo* method)
 {
 	{
 		Exception_t1_33 * L_0 = ___exception;
 		Object_t5_5 * L_1 = ___context;
-		DebugLogHandler_Internal_LogException_m5_611(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		DebugLogHandler_Internal_LogException_m5_614(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::.cctor()
-extern TypeInfo* DebugLogHandler_t5_86_il2cpp_TypeInfo_var;
-extern TypeInfo* Logger_t5_88_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern "C" void Debug__cctor_m5_614 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* DebugLogHandler_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Logger_t5_89_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern "C" void Debug__cctor_m5_617 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		DebugLogHandler_t5_86_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(872);
-		Logger_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(873);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		DebugLogHandler_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(873);
+		Logger_t5_89_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		DebugLogHandler_t5_86 * L_0 = (DebugLogHandler_t5_86 *)il2cpp_codegen_object_new (DebugLogHandler_t5_86_il2cpp_TypeInfo_var);
-		DebugLogHandler__ctor_m5_609(L_0, /*hidden argument*/NULL);
-		Logger_t5_88 * L_1 = (Logger_t5_88 *)il2cpp_codegen_object_new (Logger_t5_88_il2cpp_TypeInfo_var);
-		Logger__ctor_m5_1758(L_1, L_0, /*hidden argument*/NULL);
-		((Debug_t5_87_StaticFields*)Debug_t5_87_il2cpp_TypeInfo_var->static_fields)->___s_Logger_0 = L_1;
+		DebugLogHandler_t5_87 * L_0 = (DebugLogHandler_t5_87 *)il2cpp_codegen_object_new (DebugLogHandler_t5_87_il2cpp_TypeInfo_var);
+		DebugLogHandler__ctor_m5_612(L_0, /*hidden argument*/NULL);
+		Logger_t5_89 * L_1 = (Logger_t5_89 *)il2cpp_codegen_object_new (Logger_t5_89_il2cpp_TypeInfo_var);
+		Logger__ctor_m5_1761(L_1, L_0, /*hidden argument*/NULL);
+		((Debug_t5_88_StaticFields*)Debug_t5_88_il2cpp_TypeInfo_var->static_fields)->___s_Logger_0 = L_1;
 		return;
 	}
 }
 // UnityEngine.ILogger UnityEngine.Debug::get_logger()
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern "C" Object_t * Debug_get_logger_m5_615 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern "C" Object_t * Debug_get_logger_m5_618 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Logger_t5_88 * L_0 = ((Debug_t5_87_StaticFields*)Debug_t5_87_il2cpp_TypeInfo_var->static_fields)->___s_Logger_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Logger_t5_89 * L_0 = ((Debug_t5_88_StaticFields*)Debug_t5_88_il2cpp_TypeInfo_var->static_fields)->___s_Logger_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Debug::Log(System.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogger_t5_292_il2cpp_TypeInfo_var;
-extern "C" void Debug_Log_m5_616 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogger_t5_293_il2cpp_TypeInfo_var;
+extern "C" void Debug_Log_m5_619 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogger_t5_292_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogger_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Object_t * L_1 = ___message;
 		NullCheck(L_0);
-		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_292_il2cpp_TypeInfo_var, L_0, 3, L_1);
+		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_293_il2cpp_TypeInfo_var, L_0, 3, L_1);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogError(System.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogger_t5_292_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogError_m5_617 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogger_t5_293_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogError_m5_620 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogger_t5_292_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogger_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Object_t * L_1 = ___message;
 		NullCheck(L_0);
-		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_292_il2cpp_TypeInfo_var, L_0, 0, L_1);
+		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_293_il2cpp_TypeInfo_var, L_0, 0, L_1);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogError(System.Object,UnityEngine.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogger_t5_292_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogError_m5_618 (Object_t * __this /* static, unused */, Object_t * ___message, Object_t5_5 * ___context, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogger_t5_293_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogError_m5_621 (Object_t * __this /* static, unused */, Object_t * ___message, Object_t5_5 * ___context, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogger_t5_292_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogger_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Object_t * L_1 = ___message;
 		Object_t5_5 * L_2 = ___context;
 		NullCheck(L_0);
-		InterfaceActionInvoker3< int32_t, Object_t *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object,UnityEngine.Object) */, ILogger_t5_292_il2cpp_TypeInfo_var, L_0, 0, L_1, L_2);
+		InterfaceActionInvoker3< int32_t, Object_t *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object,UnityEngine.Object) */, ILogger_t5_293_il2cpp_TypeInfo_var, L_0, 0, L_1, L_2);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogException(System.Exception)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogHandler_t5_275_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogException_m5_619 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogHandler_t5_276_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogException_m5_622 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogHandler_t5_275_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogHandler_t5_276_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(876);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Exception_t1_33 * L_1 = ___exception;
 		NullCheck(L_0);
-		InterfaceActionInvoker2< Exception_t1_33 *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogHandler::LogException(System.Exception,UnityEngine.Object) */, ILogHandler_t5_275_il2cpp_TypeInfo_var, L_0, L_1, (Object_t5_5 *)NULL);
+		InterfaceActionInvoker2< Exception_t1_33 *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogHandler::LogException(System.Exception,UnityEngine.Object) */, ILogHandler_t5_276_il2cpp_TypeInfo_var, L_0, L_1, (Object_t5_5 *)NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogException(System.Exception,UnityEngine.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogHandler_t5_275_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogException_m5_620 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, Object_t5_5 * ___context, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogHandler_t5_276_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogException_m5_623 (Object_t * __this /* static, unused */, Exception_t1_33 * ___exception, Object_t5_5 * ___context, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogHandler_t5_275_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogHandler_t5_276_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(876);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Exception_t1_33 * L_1 = ___exception;
 		Object_t5_5 * L_2 = ___context;
 		NullCheck(L_0);
-		InterfaceActionInvoker2< Exception_t1_33 *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogHandler::LogException(System.Exception,UnityEngine.Object) */, ILogHandler_t5_275_il2cpp_TypeInfo_var, L_0, L_1, L_2);
+		InterfaceActionInvoker2< Exception_t1_33 *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogHandler::LogException(System.Exception,UnityEngine.Object) */, ILogHandler_t5_276_il2cpp_TypeInfo_var, L_0, L_1, L_2);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogWarning(System.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogger_t5_292_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogWarning_m5_621 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogger_t5_293_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogWarning_m5_624 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogger_t5_292_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogger_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Object_t * L_1 = ___message;
 		NullCheck(L_0);
-		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_292_il2cpp_TypeInfo_var, L_0, 2, L_1);
+		InterfaceActionInvoker2< int32_t, Object_t * >::Invoke(0 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object) */, ILogger_t5_293_il2cpp_TypeInfo_var, L_0, 2, L_1);
 		return;
 	}
 }
 // System.Void UnityEngine.Debug::LogWarning(System.Object,UnityEngine.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern TypeInfo* ILogger_t5_292_il2cpp_TypeInfo_var;
-extern "C" void Debug_LogWarning_m5_622 (Object_t * __this /* static, unused */, Object_t * ___message, Object_t5_5 * ___context, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern TypeInfo* ILogger_t5_293_il2cpp_TypeInfo_var;
+extern "C" void Debug_LogWarning_m5_625 (Object_t * __this /* static, unused */, Object_t * ___message, Object_t5_5 * ___context, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
-		ILogger_t5_292_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(874);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		ILogger_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(875);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Object_t * L_0 = Debug_get_logger_m5_615(NULL /*static, unused*/, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Object_t * L_0 = Debug_get_logger_m5_618(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Object_t * L_1 = ___message;
 		Object_t5_5 * L_2 = ___context;
 		NullCheck(L_0);
-		InterfaceActionInvoker3< int32_t, Object_t *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object,UnityEngine.Object) */, ILogger_t5_292_il2cpp_TypeInfo_var, L_0, 2, L_1, L_2);
+		InterfaceActionInvoker3< int32_t, Object_t *, Object_t5_5 * >::Invoke(1 /* System.Void UnityEngine.ILogger::Log(UnityEngine.LogType,System.Object,UnityEngine.Object) */, ILogger_t5_293_il2cpp_TypeInfo_var, L_0, 2, L_1, L_2);
 		return;
 	}
 }
 // System.Void UnityEngine.Display/DisplaysUpdatedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void DisplaysUpdatedDelegate__ctor_m5_623 (DisplaysUpdatedDelegate_t5_89 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void DisplaysUpdatedDelegate__ctor_m5_626 (DisplaysUpdatedDelegate_t5_90 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Void UnityEngine.Display/DisplaysUpdatedDelegate::Invoke()
-extern "C" void DisplaysUpdatedDelegate_Invoke_m5_624 (DisplaysUpdatedDelegate_t5_89 * __this, const MethodInfo* method)
+extern "C" void DisplaysUpdatedDelegate_Invoke_m5_627 (DisplaysUpdatedDelegate_t5_90 * __this, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		DisplaysUpdatedDelegate_Invoke_m5_624((DisplaysUpdatedDelegate_t5_89 *)__this->___prev_9, method);
+		DisplaysUpdatedDelegate_Invoke_m5_627((DisplaysUpdatedDelegate_t5_90 *)__this->___prev_9, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -11819,7 +11858,7 @@ extern "C" void DisplaysUpdatedDelegate_Invoke_m5_624 (DisplaysUpdatedDelegate_t
 		((FunctionPointerType)__this->___method_ptr_0)(__this->___m_target_2,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 }
-extern "C" void pinvoke_delegate_wrapper_DisplaysUpdatedDelegate_t5_89(Il2CppObject* delegate)
+extern "C" void pinvoke_delegate_wrapper_DisplaysUpdatedDelegate_t5_90(Il2CppObject* delegate)
 {
 	typedef void (STDCALL *native_function_ptr_type)();
 	native_function_ptr_type _il2cpp_pinvoke_func = ((native_function_ptr_type)((Il2CppDelegate*)delegate)->method->method);
@@ -11828,18 +11867,18 @@ extern "C" void pinvoke_delegate_wrapper_DisplaysUpdatedDelegate_t5_89(Il2CppObj
 
 }
 // System.IAsyncResult UnityEngine.Display/DisplaysUpdatedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * DisplaysUpdatedDelegate_BeginInvoke_m5_625 (DisplaysUpdatedDelegate_t5_89 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * DisplaysUpdatedDelegate_BeginInvoke_m5_628 (DisplaysUpdatedDelegate_t5_90 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[1] = {0};
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Void UnityEngine.Display/DisplaysUpdatedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void DisplaysUpdatedDelegate_EndInvoke_m5_626 (DisplaysUpdatedDelegate_t5_89 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" void DisplaysUpdatedDelegate_EndInvoke_m5_629 (DisplaysUpdatedDelegate_t5_90 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 }
 // System.Void UnityEngine.Display::.ctor()
-extern "C" void Display__ctor_m5_627 (Display_t5_90 * __this, const MethodInfo* method)
+extern "C" void Display__ctor_m5_630 (Display_t5_91 * __this, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
@@ -11850,7 +11889,7 @@ extern "C" void Display__ctor_m5_627 (Display_t5_90 * __this, const MethodInfo* 
 	}
 }
 // System.Void UnityEngine.Display::.ctor(System.IntPtr)
-extern "C" void Display__ctor_m5_628 (Display_t5_90 * __this, IntPtr_t ___nativeDisplay, const MethodInfo* method)
+extern "C" void Display__ctor_m5_631 (Display_t5_91 * __this, IntPtr_t ___nativeDisplay, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
@@ -11860,43 +11899,43 @@ extern "C" void Display__ctor_m5_628 (Display_t5_90 * __this, IntPtr_t ___native
 	}
 }
 // System.Void UnityEngine.Display::.cctor()
-extern TypeInfo* DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var;
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" void Display__cctor_m5_629 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var;
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" void Display__cctor_m5_632 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(876);
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		DisplayU5BU5D_t5_91* L_0 = ((DisplayU5BU5D_t5_91*)SZArrayNew(DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var, 1));
-		Display_t5_90 * L_1 = (Display_t5_90 *)il2cpp_codegen_object_new (Display_t5_90_il2cpp_TypeInfo_var);
-		Display__ctor_m5_627(L_1, /*hidden argument*/NULL);
+		DisplayU5BU5D_t5_92* L_0 = ((DisplayU5BU5D_t5_92*)SZArrayNew(DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var, 1));
+		Display_t5_91 * L_1 = (Display_t5_91 *)il2cpp_codegen_object_new (Display_t5_91_il2cpp_TypeInfo_var);
+		Display__ctor_m5_630(L_1, /*hidden argument*/NULL);
 		NullCheck(L_0);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_0, 0);
 		ArrayElementTypeCheck (L_0, L_1);
-		*((Display_t5_90 **)(Display_t5_90 **)SZArrayLdElema(L_0, 0, sizeof(Display_t5_90 *))) = (Display_t5_90 *)L_1;
-		((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___displays_1 = L_0;
-		DisplayU5BU5D_t5_91* L_2 = ((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___displays_1;
+		*((Display_t5_91 **)(Display_t5_91 **)SZArrayLdElema(L_0, 0, sizeof(Display_t5_91 *))) = (Display_t5_91 *)L_1;
+		((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1 = L_0;
+		DisplayU5BU5D_t5_92* L_2 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1;
 		NullCheck(L_2);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_2, 0);
 		int32_t L_3 = 0;
-		((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->____mainDisplay_2 = (*(Display_t5_90 **)(Display_t5_90 **)SZArrayLdElema(L_2, L_3, sizeof(Display_t5_90 *)));
-		((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3 = (DisplaysUpdatedDelegate_t5_89 *)NULL;
+		((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->____mainDisplay_2 = (*(Display_t5_91 **)(Display_t5_91 **)SZArrayLdElema(L_2, L_3, sizeof(Display_t5_91 *)));
+		((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3 = (DisplaysUpdatedDelegate_t5_90 *)NULL;
 		return;
 	}
 }
 // System.Int32 UnityEngine.Display::get_renderingWidth()
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" int32_t Display_get_renderingWidth_m5_630 (Display_t5_90 * __this, const MethodInfo* method)
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" int32_t Display_get_renderingWidth_m5_633 (Display_t5_91 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -11905,20 +11944,20 @@ extern "C" int32_t Display_get_renderingWidth_m5_630 (Display_t5_90 * __this, co
 		V_0 = 0;
 		V_1 = 0;
 		IntPtr_t L_0 = (__this->___nativeDisplay_0);
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		Display_GetRenderingExtImpl_m5_637(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		Display_GetRenderingExtImpl_m5_640(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
 		int32_t L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Int32 UnityEngine.Display::get_renderingHeight()
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" int32_t Display_get_renderingHeight_m5_631 (Display_t5_90 * __this, const MethodInfo* method)
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" int32_t Display_get_renderingHeight_m5_634 (Display_t5_91 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -11927,20 +11966,20 @@ extern "C" int32_t Display_get_renderingHeight_m5_631 (Display_t5_90 * __this, c
 		V_0 = 0;
 		V_1 = 0;
 		IntPtr_t L_0 = (__this->___nativeDisplay_0);
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		Display_GetRenderingExtImpl_m5_637(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		Display_GetRenderingExtImpl_m5_640(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
 		int32_t L_1 = V_1;
 		return L_1;
 	}
 }
 // System.Int32 UnityEngine.Display::get_systemWidth()
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" int32_t Display_get_systemWidth_m5_632 (Display_t5_90 * __this, const MethodInfo* method)
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" int32_t Display_get_systemWidth_m5_635 (Display_t5_91 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -11949,20 +11988,20 @@ extern "C" int32_t Display_get_systemWidth_m5_632 (Display_t5_90 * __this, const
 		V_0 = 0;
 		V_1 = 0;
 		IntPtr_t L_0 = (__this->___nativeDisplay_0);
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		Display_GetSystemExtImpl_m5_636(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		Display_GetSystemExtImpl_m5_639(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
 		int32_t L_1 = V_0;
 		return L_1;
 	}
 }
 // System.Int32 UnityEngine.Display::get_systemHeight()
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" int32_t Display_get_systemHeight_m5_633 (Display_t5_90 * __this, const MethodInfo* method)
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" int32_t Display_get_systemHeight_m5_636 (Display_t5_91 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
@@ -11971,50 +12010,50 @@ extern "C" int32_t Display_get_systemHeight_m5_633 (Display_t5_90 * __this, cons
 		V_0 = 0;
 		V_1 = 0;
 		IntPtr_t L_0 = (__this->___nativeDisplay_0);
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		Display_GetSystemExtImpl_m5_636(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		Display_GetSystemExtImpl_m5_639(NULL /*static, unused*/, L_0, (&V_0), (&V_1), /*hidden argument*/NULL);
 		int32_t L_1 = V_1;
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Display::RecreateDisplayList(System.IntPtr[])
-extern TypeInfo* DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var;
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" void Display_RecreateDisplayList_m5_634 (Object_t * __this /* static, unused */, IntPtrU5BU5D_t1_34* ___nativeDisplay, const MethodInfo* method)
+extern TypeInfo* DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var;
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" void Display_RecreateDisplayList_m5_637 (Object_t * __this /* static, unused */, IntPtrU5BU5D_t1_34* ___nativeDisplay, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(876);
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	int32_t V_0 = 0;
 	{
 		IntPtrU5BU5D_t1_34* L_0 = ___nativeDisplay;
 		NullCheck(L_0);
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___displays_1 = ((DisplayU5BU5D_t5_91*)SZArrayNew(DisplayU5BU5D_t5_91_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length))))));
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1 = ((DisplayU5BU5D_t5_92*)SZArrayNew(DisplayU5BU5D_t5_92_il2cpp_TypeInfo_var, (((int32_t)((int32_t)(((Array_t *)L_0)->max_length))))));
 		V_0 = 0;
 		goto IL_0027;
 	}
 
 IL_0014:
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		DisplayU5BU5D_t5_91* L_1 = ((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___displays_1;
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		DisplayU5BU5D_t5_92* L_1 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1;
 		int32_t L_2 = V_0;
 		IntPtrU5BU5D_t1_34* L_3 = ___nativeDisplay;
 		int32_t L_4 = V_0;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, L_4);
 		int32_t L_5 = L_4;
-		Display_t5_90 * L_6 = (Display_t5_90 *)il2cpp_codegen_object_new (Display_t5_90_il2cpp_TypeInfo_var);
-		Display__ctor_m5_628(L_6, (*(IntPtr_t*)(IntPtr_t*)SZArrayLdElema(L_3, L_5, sizeof(IntPtr_t))), /*hidden argument*/NULL);
+		Display_t5_91 * L_6 = (Display_t5_91 *)il2cpp_codegen_object_new (Display_t5_91_il2cpp_TypeInfo_var);
+		Display__ctor_m5_631(L_6, (*(IntPtr_t*)(IntPtr_t*)SZArrayLdElema(L_3, L_5, sizeof(IntPtr_t))), /*hidden argument*/NULL);
 		NullCheck(L_1);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_1, L_2);
 		ArrayElementTypeCheck (L_1, L_6);
-		*((Display_t5_90 **)(Display_t5_90 **)SZArrayLdElema(L_1, L_2, sizeof(Display_t5_90 *))) = (Display_t5_90 *)L_6;
+		*((Display_t5_91 **)(Display_t5_91 **)SZArrayLdElema(L_1, L_2, sizeof(Display_t5_91 *))) = (Display_t5_91 *)L_6;
 		int32_t L_7 = V_0;
 		V_0 = ((int32_t)((int32_t)L_7+(int32_t)1));
 	}
@@ -12030,38 +12069,38 @@ IL_0027:
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		DisplayU5BU5D_t5_91* L_10 = ((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___displays_1;
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		DisplayU5BU5D_t5_92* L_10 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___displays_1;
 		NullCheck(L_10);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_10, 0);
 		int32_t L_11 = 0;
-		((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->____mainDisplay_2 = (*(Display_t5_90 **)(Display_t5_90 **)SZArrayLdElema(L_10, L_11, sizeof(Display_t5_90 *)));
+		((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->____mainDisplay_2 = (*(Display_t5_91 **)(Display_t5_91 **)SZArrayLdElema(L_10, L_11, sizeof(Display_t5_91 *)));
 		return;
 	}
 }
 // System.Void UnityEngine.Display::FireDisplaysUpdated()
-extern TypeInfo* Display_t5_90_il2cpp_TypeInfo_var;
-extern "C" void Display_FireDisplaysUpdated_m5_635 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* Display_t5_91_il2cpp_TypeInfo_var;
+extern "C" void Display_FireDisplaysUpdated_m5_638 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Display_t5_90_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(877);
+		Display_t5_91_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		DisplaysUpdatedDelegate_t5_89 * L_0 = ((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3;
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		DisplaysUpdatedDelegate_t5_90 * L_0 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3;
 		if (!L_0)
 		{
 			goto IL_0014;
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_90_il2cpp_TypeInfo_var);
-		DisplaysUpdatedDelegate_t5_89 * L_1 = ((Display_t5_90_StaticFields*)Display_t5_90_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3;
+		IL2CPP_RUNTIME_CLASS_INIT(Display_t5_91_il2cpp_TypeInfo_var);
+		DisplaysUpdatedDelegate_t5_90 * L_1 = ((Display_t5_91_StaticFields*)Display_t5_91_il2cpp_TypeInfo_var->static_fields)->___onDisplaysUpdated_3;
 		NullCheck(L_1);
-		DisplaysUpdatedDelegate_Invoke_m5_624(L_1, /*hidden argument*/NULL);
+		DisplaysUpdatedDelegate_Invoke_m5_627(L_1, /*hidden argument*/NULL);
 	}
 
 IL_0014:
@@ -12070,231 +12109,231 @@ IL_0014:
 	}
 }
 // System.Void UnityEngine.Display::GetSystemExtImpl(System.IntPtr,System.Int32&,System.Int32&)
-extern "C" void Display_GetSystemExtImpl_m5_636 (Object_t * __this /* static, unused */, IntPtr_t ___nativeDisplay, int32_t* ___w, int32_t* ___h, const MethodInfo* method)
+extern "C" void Display_GetSystemExtImpl_m5_639 (Object_t * __this /* static, unused */, IntPtr_t ___nativeDisplay, int32_t* ___w, int32_t* ___h, const MethodInfo* method)
 {
-	typedef void (*Display_GetSystemExtImpl_m5_636_ftn) (IntPtr_t, int32_t*, int32_t*);
-	static Display_GetSystemExtImpl_m5_636_ftn _il2cpp_icall_func;
+	typedef void (*Display_GetSystemExtImpl_m5_639_ftn) (IntPtr_t, int32_t*, int32_t*);
+	static Display_GetSystemExtImpl_m5_639_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Display_GetSystemExtImpl_m5_636_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Display::GetSystemExtImpl(System.IntPtr,System.Int32&,System.Int32&)");
+	_il2cpp_icall_func = (Display_GetSystemExtImpl_m5_639_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Display::GetSystemExtImpl(System.IntPtr,System.Int32&,System.Int32&)");
 	_il2cpp_icall_func(___nativeDisplay, ___w, ___h);
 }
 // System.Void UnityEngine.Display::GetRenderingExtImpl(System.IntPtr,System.Int32&,System.Int32&)
-extern "C" void Display_GetRenderingExtImpl_m5_637 (Object_t * __this /* static, unused */, IntPtr_t ___nativeDisplay, int32_t* ___w, int32_t* ___h, const MethodInfo* method)
+extern "C" void Display_GetRenderingExtImpl_m5_640 (Object_t * __this /* static, unused */, IntPtr_t ___nativeDisplay, int32_t* ___w, int32_t* ___h, const MethodInfo* method)
 {
-	typedef void (*Display_GetRenderingExtImpl_m5_637_ftn) (IntPtr_t, int32_t*, int32_t*);
-	static Display_GetRenderingExtImpl_m5_637_ftn _il2cpp_icall_func;
+	typedef void (*Display_GetRenderingExtImpl_m5_640_ftn) (IntPtr_t, int32_t*, int32_t*);
+	static Display_GetRenderingExtImpl_m5_640_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Display_GetRenderingExtImpl_m5_637_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Display::GetRenderingExtImpl(System.IntPtr,System.Int32&,System.Int32&)");
+	_il2cpp_icall_func = (Display_GetRenderingExtImpl_m5_640_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Display::GetRenderingExtImpl(System.IntPtr,System.Int32&,System.Int32&)");
 	_il2cpp_icall_func(___nativeDisplay, ___w, ___h);
 }
 // System.Void UnityEngine.MonoBehaviour::.ctor()
-extern "C" void MonoBehaviour__ctor_m5_638 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" void MonoBehaviour__ctor_m5_641 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
 	{
-		Behaviour__ctor_m5_578(__this, /*hidden argument*/NULL);
+		Behaviour__ctor_m5_581(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.MonoBehaviour::Internal_CancelInvokeAll()
-extern "C" void MonoBehaviour_Internal_CancelInvokeAll_m5_639 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" void MonoBehaviour_Internal_CancelInvokeAll_m5_642 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_Internal_CancelInvokeAll_m5_639_ftn) (MonoBehaviour_t5_92 *);
-	static MonoBehaviour_Internal_CancelInvokeAll_m5_639_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_Internal_CancelInvokeAll_m5_642_ftn) (MonoBehaviour_t5_93 *);
+	static MonoBehaviour_Internal_CancelInvokeAll_m5_642_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_Internal_CancelInvokeAll_m5_639_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Internal_CancelInvokeAll()");
+	_il2cpp_icall_func = (MonoBehaviour_Internal_CancelInvokeAll_m5_642_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Internal_CancelInvokeAll()");
 	_il2cpp_icall_func(__this);
 }
 // System.Boolean UnityEngine.MonoBehaviour::Internal_IsInvokingAll()
-extern "C" bool MonoBehaviour_Internal_IsInvokingAll_m5_640 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" bool MonoBehaviour_Internal_IsInvokingAll_m5_643 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
-	typedef bool (*MonoBehaviour_Internal_IsInvokingAll_m5_640_ftn) (MonoBehaviour_t5_92 *);
-	static MonoBehaviour_Internal_IsInvokingAll_m5_640_ftn _il2cpp_icall_func;
+	typedef bool (*MonoBehaviour_Internal_IsInvokingAll_m5_643_ftn) (MonoBehaviour_t5_93 *);
+	static MonoBehaviour_Internal_IsInvokingAll_m5_643_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_Internal_IsInvokingAll_m5_640_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Internal_IsInvokingAll()");
+	_il2cpp_icall_func = (MonoBehaviour_Internal_IsInvokingAll_m5_643_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Internal_IsInvokingAll()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.MonoBehaviour::Invoke(System.String,System.Single)
-extern "C" void MonoBehaviour_Invoke_m5_641 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, float ___time, const MethodInfo* method)
+extern "C" void MonoBehaviour_Invoke_m5_644 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, float ___time, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_Invoke_m5_641_ftn) (MonoBehaviour_t5_92 *, String_t*, float);
-	static MonoBehaviour_Invoke_m5_641_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_Invoke_m5_644_ftn) (MonoBehaviour_t5_93 *, String_t*, float);
+	static MonoBehaviour_Invoke_m5_644_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_Invoke_m5_641_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Invoke(System.String,System.Single)");
+	_il2cpp_icall_func = (MonoBehaviour_Invoke_m5_644_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::Invoke(System.String,System.Single)");
 	_il2cpp_icall_func(__this, ___methodName, ___time);
 }
 // System.Void UnityEngine.MonoBehaviour::InvokeRepeating(System.String,System.Single,System.Single)
-extern "C" void MonoBehaviour_InvokeRepeating_m5_642 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, float ___time, float ___repeatRate, const MethodInfo* method)
+extern "C" void MonoBehaviour_InvokeRepeating_m5_645 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, float ___time, float ___repeatRate, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_InvokeRepeating_m5_642_ftn) (MonoBehaviour_t5_92 *, String_t*, float, float);
-	static MonoBehaviour_InvokeRepeating_m5_642_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_InvokeRepeating_m5_645_ftn) (MonoBehaviour_t5_93 *, String_t*, float, float);
+	static MonoBehaviour_InvokeRepeating_m5_645_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_InvokeRepeating_m5_642_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::InvokeRepeating(System.String,System.Single,System.Single)");
+	_il2cpp_icall_func = (MonoBehaviour_InvokeRepeating_m5_645_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::InvokeRepeating(System.String,System.Single,System.Single)");
 	_il2cpp_icall_func(__this, ___methodName, ___time, ___repeatRate);
 }
 // System.Void UnityEngine.MonoBehaviour::CancelInvoke()
-extern "C" void MonoBehaviour_CancelInvoke_m5_643 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" void MonoBehaviour_CancelInvoke_m5_646 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
 	{
-		MonoBehaviour_Internal_CancelInvokeAll_m5_639(__this, /*hidden argument*/NULL);
+		MonoBehaviour_Internal_CancelInvokeAll_m5_642(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.MonoBehaviour::CancelInvoke(System.String)
-extern "C" void MonoBehaviour_CancelInvoke_m5_644 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" void MonoBehaviour_CancelInvoke_m5_647 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_CancelInvoke_m5_644_ftn) (MonoBehaviour_t5_92 *, String_t*);
-	static MonoBehaviour_CancelInvoke_m5_644_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_CancelInvoke_m5_647_ftn) (MonoBehaviour_t5_93 *, String_t*);
+	static MonoBehaviour_CancelInvoke_m5_647_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_CancelInvoke_m5_644_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::CancelInvoke(System.String)");
+	_il2cpp_icall_func = (MonoBehaviour_CancelInvoke_m5_647_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::CancelInvoke(System.String)");
 	_il2cpp_icall_func(__this, ___methodName);
 }
 // System.Boolean UnityEngine.MonoBehaviour::IsInvoking(System.String)
-extern "C" bool MonoBehaviour_IsInvoking_m5_645 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" bool MonoBehaviour_IsInvoking_m5_648 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, const MethodInfo* method)
 {
-	typedef bool (*MonoBehaviour_IsInvoking_m5_645_ftn) (MonoBehaviour_t5_92 *, String_t*);
-	static MonoBehaviour_IsInvoking_m5_645_ftn _il2cpp_icall_func;
+	typedef bool (*MonoBehaviour_IsInvoking_m5_648_ftn) (MonoBehaviour_t5_93 *, String_t*);
+	static MonoBehaviour_IsInvoking_m5_648_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_IsInvoking_m5_645_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::IsInvoking(System.String)");
+	_il2cpp_icall_func = (MonoBehaviour_IsInvoking_m5_648_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::IsInvoking(System.String)");
 	return _il2cpp_icall_func(__this, ___methodName);
 }
 // System.Boolean UnityEngine.MonoBehaviour::IsInvoking()
-extern "C" bool MonoBehaviour_IsInvoking_m5_646 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" bool MonoBehaviour_IsInvoking_m5_649 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
 	{
-		bool L_0 = MonoBehaviour_Internal_IsInvokingAll_m5_640(__this, /*hidden argument*/NULL);
+		bool L_0 = MonoBehaviour_Internal_IsInvokingAll_m5_643(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // UnityEngine.Coroutine UnityEngine.MonoBehaviour::StartCoroutine(System.Collections.IEnumerator)
-extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_647 (MonoBehaviour_t5_92 * __this, Object_t * ___routine, const MethodInfo* method)
+extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_650 (MonoBehaviour_t5_93 * __this, Object_t * ___routine, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___routine;
-		Coroutine_t5_14 * L_1 = MonoBehaviour_StartCoroutine_Auto_m5_648(__this, L_0, /*hidden argument*/NULL);
+		Coroutine_t5_14 * L_1 = MonoBehaviour_StartCoroutine_Auto_m5_651(__this, L_0, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // UnityEngine.Coroutine UnityEngine.MonoBehaviour::StartCoroutine_Auto(System.Collections.IEnumerator)
-extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_Auto_m5_648 (MonoBehaviour_t5_92 * __this, Object_t * ___routine, const MethodInfo* method)
+extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_Auto_m5_651 (MonoBehaviour_t5_93 * __this, Object_t * ___routine, const MethodInfo* method)
 {
-	typedef Coroutine_t5_14 * (*MonoBehaviour_StartCoroutine_Auto_m5_648_ftn) (MonoBehaviour_t5_92 *, Object_t *);
-	static MonoBehaviour_StartCoroutine_Auto_m5_648_ftn _il2cpp_icall_func;
+	typedef Coroutine_t5_14 * (*MonoBehaviour_StartCoroutine_Auto_m5_651_ftn) (MonoBehaviour_t5_93 *, Object_t *);
+	static MonoBehaviour_StartCoroutine_Auto_m5_651_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StartCoroutine_Auto_m5_648_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StartCoroutine_Auto(System.Collections.IEnumerator)");
+	_il2cpp_icall_func = (MonoBehaviour_StartCoroutine_Auto_m5_651_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StartCoroutine_Auto(System.Collections.IEnumerator)");
 	return _il2cpp_icall_func(__this, ___routine);
 }
 // UnityEngine.Coroutine UnityEngine.MonoBehaviour::StartCoroutine(System.String,System.Object)
-extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_649 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
+extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_652 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
 {
-	typedef Coroutine_t5_14 * (*MonoBehaviour_StartCoroutine_m5_649_ftn) (MonoBehaviour_t5_92 *, String_t*, Object_t *);
-	static MonoBehaviour_StartCoroutine_m5_649_ftn _il2cpp_icall_func;
+	typedef Coroutine_t5_14 * (*MonoBehaviour_StartCoroutine_m5_652_ftn) (MonoBehaviour_t5_93 *, String_t*, Object_t *);
+	static MonoBehaviour_StartCoroutine_m5_652_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StartCoroutine_m5_649_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StartCoroutine(System.String,System.Object)");
+	_il2cpp_icall_func = (MonoBehaviour_StartCoroutine_m5_652_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StartCoroutine(System.String,System.Object)");
 	return _il2cpp_icall_func(__this, ___methodName, ___value);
 }
 // UnityEngine.Coroutine UnityEngine.MonoBehaviour::StartCoroutine(System.String)
-extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_650 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" Coroutine_t5_14 * MonoBehaviour_StartCoroutine_m5_653 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, const MethodInfo* method)
 {
 	Object_t * V_0 = {0};
 	{
 		V_0 = NULL;
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = V_0;
-		Coroutine_t5_14 * L_2 = MonoBehaviour_StartCoroutine_m5_649(__this, L_0, L_1, /*hidden argument*/NULL);
+		Coroutine_t5_14 * L_2 = MonoBehaviour_StartCoroutine_m5_652(__this, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Void UnityEngine.MonoBehaviour::StopCoroutine(System.String)
-extern "C" void MonoBehaviour_StopCoroutine_m5_651 (MonoBehaviour_t5_92 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopCoroutine_m5_654 (MonoBehaviour_t5_93 * __this, String_t* ___methodName, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_StopCoroutine_m5_651_ftn) (MonoBehaviour_t5_92 *, String_t*);
-	static MonoBehaviour_StopCoroutine_m5_651_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_StopCoroutine_m5_654_ftn) (MonoBehaviour_t5_93 *, String_t*);
+	static MonoBehaviour_StopCoroutine_m5_654_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StopCoroutine_m5_651_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutine(System.String)");
+	_il2cpp_icall_func = (MonoBehaviour_StopCoroutine_m5_654_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutine(System.String)");
 	_il2cpp_icall_func(__this, ___methodName);
 }
 // System.Void UnityEngine.MonoBehaviour::StopCoroutine(System.Collections.IEnumerator)
-extern "C" void MonoBehaviour_StopCoroutine_m5_652 (MonoBehaviour_t5_92 * __this, Object_t * ___routine, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopCoroutine_m5_655 (MonoBehaviour_t5_93 * __this, Object_t * ___routine, const MethodInfo* method)
 {
 	{
 		Object_t * L_0 = ___routine;
-		MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_654(__this, L_0, /*hidden argument*/NULL);
+		MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_657(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.MonoBehaviour::StopCoroutine(UnityEngine.Coroutine)
-extern "C" void MonoBehaviour_StopCoroutine_m5_653 (MonoBehaviour_t5_92 * __this, Coroutine_t5_14 * ___routine, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopCoroutine_m5_656 (MonoBehaviour_t5_93 * __this, Coroutine_t5_14 * ___routine, const MethodInfo* method)
 {
 	{
 		Coroutine_t5_14 * L_0 = ___routine;
-		MonoBehaviour_StopCoroutine_Auto_m5_655(__this, L_0, /*hidden argument*/NULL);
+		MonoBehaviour_StopCoroutine_Auto_m5_658(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.MonoBehaviour::StopCoroutineViaEnumerator_Auto(System.Collections.IEnumerator)
-extern "C" void MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_654 (MonoBehaviour_t5_92 * __this, Object_t * ___routine, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_657 (MonoBehaviour_t5_93 * __this, Object_t * ___routine, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_654_ftn) (MonoBehaviour_t5_92 *, Object_t *);
-	static MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_654_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_657_ftn) (MonoBehaviour_t5_93 *, Object_t *);
+	static MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_657_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_654_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutineViaEnumerator_Auto(System.Collections.IEnumerator)");
+	_il2cpp_icall_func = (MonoBehaviour_StopCoroutineViaEnumerator_Auto_m5_657_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutineViaEnumerator_Auto(System.Collections.IEnumerator)");
 	_il2cpp_icall_func(__this, ___routine);
 }
 // System.Void UnityEngine.MonoBehaviour::StopCoroutine_Auto(UnityEngine.Coroutine)
-extern "C" void MonoBehaviour_StopCoroutine_Auto_m5_655 (MonoBehaviour_t5_92 * __this, Coroutine_t5_14 * ___routine, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopCoroutine_Auto_m5_658 (MonoBehaviour_t5_93 * __this, Coroutine_t5_14 * ___routine, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_StopCoroutine_Auto_m5_655_ftn) (MonoBehaviour_t5_92 *, Coroutine_t5_14 *);
-	static MonoBehaviour_StopCoroutine_Auto_m5_655_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_StopCoroutine_Auto_m5_658_ftn) (MonoBehaviour_t5_93 *, Coroutine_t5_14 *);
+	static MonoBehaviour_StopCoroutine_Auto_m5_658_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StopCoroutine_Auto_m5_655_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutine_Auto(UnityEngine.Coroutine)");
+	_il2cpp_icall_func = (MonoBehaviour_StopCoroutine_Auto_m5_658_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopCoroutine_Auto(UnityEngine.Coroutine)");
 	_il2cpp_icall_func(__this, ___routine);
 }
 // System.Void UnityEngine.MonoBehaviour::StopAllCoroutines()
-extern "C" void MonoBehaviour_StopAllCoroutines_m5_656 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" void MonoBehaviour_StopAllCoroutines_m5_659 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_StopAllCoroutines_m5_656_ftn) (MonoBehaviour_t5_92 *);
-	static MonoBehaviour_StopAllCoroutines_m5_656_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_StopAllCoroutines_m5_659_ftn) (MonoBehaviour_t5_93 *);
+	static MonoBehaviour_StopAllCoroutines_m5_659_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_StopAllCoroutines_m5_656_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopAllCoroutines()");
+	_il2cpp_icall_func = (MonoBehaviour_StopAllCoroutines_m5_659_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::StopAllCoroutines()");
 	_il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.MonoBehaviour::print(System.Object)
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
-extern "C" void MonoBehaviour_print_m5_657 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
+extern "C" void MonoBehaviour_print_m5_660 (Object_t * __this /* static, unused */, Object_t * ___message, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Object_t * L_0 = ___message;
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_Log_m5_616(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_Log_m5_619(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.MonoBehaviour::get_useGUILayout()
-extern "C" bool MonoBehaviour_get_useGUILayout_m5_658 (MonoBehaviour_t5_92 * __this, const MethodInfo* method)
+extern "C" bool MonoBehaviour_get_useGUILayout_m5_661 (MonoBehaviour_t5_93 * __this, const MethodInfo* method)
 {
-	typedef bool (*MonoBehaviour_get_useGUILayout_m5_658_ftn) (MonoBehaviour_t5_92 *);
-	static MonoBehaviour_get_useGUILayout_m5_658_ftn _il2cpp_icall_func;
+	typedef bool (*MonoBehaviour_get_useGUILayout_m5_661_ftn) (MonoBehaviour_t5_93 *);
+	static MonoBehaviour_get_useGUILayout_m5_661_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_get_useGUILayout_m5_658_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::get_useGUILayout()");
+	_il2cpp_icall_func = (MonoBehaviour_get_useGUILayout_m5_661_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::get_useGUILayout()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.MonoBehaviour::set_useGUILayout(System.Boolean)
-extern "C" void MonoBehaviour_set_useGUILayout_m5_659 (MonoBehaviour_t5_92 * __this, bool ___value, const MethodInfo* method)
+extern "C" void MonoBehaviour_set_useGUILayout_m5_662 (MonoBehaviour_t5_93 * __this, bool ___value, const MethodInfo* method)
 {
-	typedef void (*MonoBehaviour_set_useGUILayout_m5_659_ftn) (MonoBehaviour_t5_92 *, bool);
-	static MonoBehaviour_set_useGUILayout_m5_659_ftn _il2cpp_icall_func;
+	typedef void (*MonoBehaviour_set_useGUILayout_m5_662_ftn) (MonoBehaviour_t5_93 *, bool);
+	static MonoBehaviour_set_useGUILayout_m5_662_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (MonoBehaviour_set_useGUILayout_m5_659_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::set_useGUILayout(System.Boolean)");
+	_il2cpp_icall_func = (MonoBehaviour_set_useGUILayout_m5_662_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.MonoBehaviour::set_useGUILayout(System.Boolean)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Int32 UnityEngine.Touch::get_fingerId()
-extern "C" int32_t Touch_get_fingerId_m5_660 (Touch_t5_96 * __this, const MethodInfo* method)
+extern "C" int32_t Touch_get_fingerId_m5_663 (Touch_t5_97 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (__this->___m_FingerId_0);
@@ -12302,7 +12341,7 @@ extern "C" int32_t Touch_get_fingerId_m5_660 (Touch_t5_96 * __this, const Method
 	}
 }
 // UnityEngine.Vector2 UnityEngine.Touch::get_position()
-extern "C" Vector2_t5_44  Touch_get_position_m5_661 (Touch_t5_96 * __this, const MethodInfo* method)
+extern "C" Vector2_t5_44  Touch_get_position_m5_664 (Touch_t5_97 * __this, const MethodInfo* method)
 {
 	{
 		Vector2_t5_44  L_0 = (__this->___m_Position_1);
@@ -12310,7 +12349,7 @@ extern "C" Vector2_t5_44  Touch_get_position_m5_661 (Touch_t5_96 * __this, const
 	}
 }
 // UnityEngine.TouchPhase UnityEngine.Touch::get_phase()
-extern "C" int32_t Touch_get_phase_m5_662 (Touch_t5_96 * __this, const MethodInfo* method)
+extern "C" int32_t Touch_get_phase_m5_665 (Touch_t5_97 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (__this->___m_Phase_6);
@@ -12318,7 +12357,7 @@ extern "C" int32_t Touch_get_phase_m5_662 (Touch_t5_96 * __this, const MethodInf
 	}
 }
 // Conversion methods for marshalling of: UnityEngine.Touch
-extern "C" void Touch_t5_96_marshal(const Touch_t5_96& unmarshaled, Touch_t5_96_marshaled& marshaled)
+extern "C" void Touch_t5_97_marshal(const Touch_t5_97& unmarshaled, Touch_t5_97_marshaled& marshaled)
 {
 	marshaled.___m_FingerId_0 = unmarshaled.___m_FingerId_0;
 	marshaled.___m_Position_1 = unmarshaled.___m_Position_1;
@@ -12335,7 +12374,7 @@ extern "C" void Touch_t5_96_marshal(const Touch_t5_96& unmarshaled, Touch_t5_96_
 	marshaled.___m_AltitudeAngle_12 = unmarshaled.___m_AltitudeAngle_12;
 	marshaled.___m_AzimuthAngle_13 = unmarshaled.___m_AzimuthAngle_13;
 }
-extern "C" void Touch_t5_96_marshal_back(const Touch_t5_96_marshaled& marshaled, Touch_t5_96& unmarshaled)
+extern "C" void Touch_t5_97_marshal_back(const Touch_t5_97_marshaled& marshaled, Touch_t5_97& unmarshaled)
 {
 	unmarshaled.___m_FingerId_0 = marshaled.___m_FingerId_0;
 	unmarshaled.___m_Position_1 = marshaled.___m_Position_1;
@@ -12353,256 +12392,256 @@ extern "C" void Touch_t5_96_marshal_back(const Touch_t5_96_marshaled& marshaled,
 	unmarshaled.___m_AzimuthAngle_13 = marshaled.___m_AzimuthAngle_13;
 }
 // Conversion method for clean up from marshalling of: UnityEngine.Touch
-extern "C" void Touch_t5_96_marshal_cleanup(Touch_t5_96_marshaled& marshaled)
+extern "C" void Touch_t5_97_marshal_cleanup(Touch_t5_97_marshaled& marshaled)
 {
 }
 // System.Void UnityEngine.Input::.cctor()
-extern "C" void Input__cctor_m5_663 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" void Input__cctor_m5_666 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	{
 		return;
 	}
 }
 // System.Boolean UnityEngine.Input::GetKeyUpInt(System.Int32)
-extern "C" bool Input_GetKeyUpInt_m5_664 (Object_t * __this /* static, unused */, int32_t ___key, const MethodInfo* method)
+extern "C" bool Input_GetKeyUpInt_m5_667 (Object_t * __this /* static, unused */, int32_t ___key, const MethodInfo* method)
 {
-	typedef bool (*Input_GetKeyUpInt_m5_664_ftn) (int32_t);
-	static Input_GetKeyUpInt_m5_664_ftn _il2cpp_icall_func;
+	typedef bool (*Input_GetKeyUpInt_m5_667_ftn) (int32_t);
+	static Input_GetKeyUpInt_m5_667_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetKeyUpInt_m5_664_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetKeyUpInt(System.Int32)");
+	_il2cpp_icall_func = (Input_GetKeyUpInt_m5_667_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetKeyUpInt(System.Int32)");
 	return _il2cpp_icall_func(___key);
 }
 // System.Single UnityEngine.Input::GetAxis(System.String)
-extern "C" float Input_GetAxis_m5_665 (Object_t * __this /* static, unused */, String_t* ___axisName, const MethodInfo* method)
+extern "C" float Input_GetAxis_m5_668 (Object_t * __this /* static, unused */, String_t* ___axisName, const MethodInfo* method)
 {
-	typedef float (*Input_GetAxis_m5_665_ftn) (String_t*);
-	static Input_GetAxis_m5_665_ftn _il2cpp_icall_func;
+	typedef float (*Input_GetAxis_m5_668_ftn) (String_t*);
+	static Input_GetAxis_m5_668_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetAxis_m5_665_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetAxis(System.String)");
+	_il2cpp_icall_func = (Input_GetAxis_m5_668_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetAxis(System.String)");
 	return _il2cpp_icall_func(___axisName);
 }
 // System.Single UnityEngine.Input::GetAxisRaw(System.String)
-extern "C" float Input_GetAxisRaw_m5_666 (Object_t * __this /* static, unused */, String_t* ___axisName, const MethodInfo* method)
+extern "C" float Input_GetAxisRaw_m5_669 (Object_t * __this /* static, unused */, String_t* ___axisName, const MethodInfo* method)
 {
-	typedef float (*Input_GetAxisRaw_m5_666_ftn) (String_t*);
-	static Input_GetAxisRaw_m5_666_ftn _il2cpp_icall_func;
+	typedef float (*Input_GetAxisRaw_m5_669_ftn) (String_t*);
+	static Input_GetAxisRaw_m5_669_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetAxisRaw_m5_666_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetAxisRaw(System.String)");
+	_il2cpp_icall_func = (Input_GetAxisRaw_m5_669_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetAxisRaw(System.String)");
 	return _il2cpp_icall_func(___axisName);
 }
 // System.Boolean UnityEngine.Input::GetButtonDown(System.String)
-extern "C" bool Input_GetButtonDown_m5_667 (Object_t * __this /* static, unused */, String_t* ___buttonName, const MethodInfo* method)
+extern "C" bool Input_GetButtonDown_m5_670 (Object_t * __this /* static, unused */, String_t* ___buttonName, const MethodInfo* method)
 {
-	typedef bool (*Input_GetButtonDown_m5_667_ftn) (String_t*);
-	static Input_GetButtonDown_m5_667_ftn _il2cpp_icall_func;
+	typedef bool (*Input_GetButtonDown_m5_670_ftn) (String_t*);
+	static Input_GetButtonDown_m5_670_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetButtonDown_m5_667_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetButtonDown(System.String)");
+	_il2cpp_icall_func = (Input_GetButtonDown_m5_670_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetButtonDown(System.String)");
 	return _il2cpp_icall_func(___buttonName);
 }
 // System.Boolean UnityEngine.Input::GetKeyUp(UnityEngine.KeyCode)
-extern TypeInfo* Input_t5_97_il2cpp_TypeInfo_var;
-extern "C" bool Input_GetKeyUp_m5_668 (Object_t * __this /* static, unused */, int32_t ___key, const MethodInfo* method)
+extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
+extern "C" bool Input_GetKeyUp_m5_671 (Object_t * __this /* static, unused */, int32_t ___key, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Input_t5_97_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
+		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		int32_t L_0 = ___key;
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_97_il2cpp_TypeInfo_var);
-		bool L_1 = Input_GetKeyUpInt_m5_664(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		bool L_1 = Input_GetKeyUpInt_m5_667(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // System.Boolean UnityEngine.Input::GetMouseButton(System.Int32)
-extern "C" bool Input_GetMouseButton_m5_669 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
+extern "C" bool Input_GetMouseButton_m5_672 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
 {
-	typedef bool (*Input_GetMouseButton_m5_669_ftn) (int32_t);
-	static Input_GetMouseButton_m5_669_ftn _il2cpp_icall_func;
+	typedef bool (*Input_GetMouseButton_m5_672_ftn) (int32_t);
+	static Input_GetMouseButton_m5_672_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetMouseButton_m5_669_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButton(System.Int32)");
+	_il2cpp_icall_func = (Input_GetMouseButton_m5_672_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButton(System.Int32)");
 	return _il2cpp_icall_func(___button);
 }
 // System.Boolean UnityEngine.Input::GetMouseButtonDown(System.Int32)
-extern "C" bool Input_GetMouseButtonDown_m5_670 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
+extern "C" bool Input_GetMouseButtonDown_m5_673 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
 {
-	typedef bool (*Input_GetMouseButtonDown_m5_670_ftn) (int32_t);
-	static Input_GetMouseButtonDown_m5_670_ftn _il2cpp_icall_func;
+	typedef bool (*Input_GetMouseButtonDown_m5_673_ftn) (int32_t);
+	static Input_GetMouseButtonDown_m5_673_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetMouseButtonDown_m5_670_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButtonDown(System.Int32)");
+	_il2cpp_icall_func = (Input_GetMouseButtonDown_m5_673_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButtonDown(System.Int32)");
 	return _il2cpp_icall_func(___button);
 }
 // System.Boolean UnityEngine.Input::GetMouseButtonUp(System.Int32)
-extern "C" bool Input_GetMouseButtonUp_m5_671 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
+extern "C" bool Input_GetMouseButtonUp_m5_674 (Object_t * __this /* static, unused */, int32_t ___button, const MethodInfo* method)
 {
-	typedef bool (*Input_GetMouseButtonUp_m5_671_ftn) (int32_t);
-	static Input_GetMouseButtonUp_m5_671_ftn _il2cpp_icall_func;
+	typedef bool (*Input_GetMouseButtonUp_m5_674_ftn) (int32_t);
+	static Input_GetMouseButtonUp_m5_674_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetMouseButtonUp_m5_671_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButtonUp(System.Int32)");
+	_il2cpp_icall_func = (Input_GetMouseButtonUp_m5_674_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetMouseButtonUp(System.Int32)");
 	return _il2cpp_icall_func(___button);
 }
 // UnityEngine.Vector3 UnityEngine.Input::get_mousePosition()
-extern TypeInfo* Input_t5_97_il2cpp_TypeInfo_var;
-extern "C" Vector3_t5_45  Input_get_mousePosition_m5_672 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
+extern "C" Vector3_t5_45  Input_get_mousePosition_m5_675 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Input_t5_97_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
+		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
 	Vector3_t5_45  V_0 = {0};
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_97_il2cpp_TypeInfo_var);
-		Input_INTERNAL_get_mousePosition_m5_673(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		Input_INTERNAL_get_mousePosition_m5_676(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Input::INTERNAL_get_mousePosition(UnityEngine.Vector3&)
-extern "C" void Input_INTERNAL_get_mousePosition_m5_673 (Object_t * __this /* static, unused */, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Input_INTERNAL_get_mousePosition_m5_676 (Object_t * __this /* static, unused */, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Input_INTERNAL_get_mousePosition_m5_673_ftn) (Vector3_t5_45 *);
-	static Input_INTERNAL_get_mousePosition_m5_673_ftn _il2cpp_icall_func;
+	typedef void (*Input_INTERNAL_get_mousePosition_m5_676_ftn) (Vector3_t5_45 *);
+	static Input_INTERNAL_get_mousePosition_m5_676_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_INTERNAL_get_mousePosition_m5_673_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_mousePosition(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Input_INTERNAL_get_mousePosition_m5_676_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_mousePosition(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___value);
 }
 // UnityEngine.Vector2 UnityEngine.Input::get_mouseScrollDelta()
-extern TypeInfo* Input_t5_97_il2cpp_TypeInfo_var;
-extern "C" Vector2_t5_44  Input_get_mouseScrollDelta_m5_674 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
+extern "C" Vector2_t5_44  Input_get_mouseScrollDelta_m5_677 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Input_t5_97_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
+		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
 	Vector2_t5_44  V_0 = {0};
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_97_il2cpp_TypeInfo_var);
-		Input_INTERNAL_get_mouseScrollDelta_m5_675(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		Input_INTERNAL_get_mouseScrollDelta_m5_678(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
 		Vector2_t5_44  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Input::INTERNAL_get_mouseScrollDelta(UnityEngine.Vector2&)
-extern "C" void Input_INTERNAL_get_mouseScrollDelta_m5_675 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method)
+extern "C" void Input_INTERNAL_get_mouseScrollDelta_m5_678 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method)
 {
-	typedef void (*Input_INTERNAL_get_mouseScrollDelta_m5_675_ftn) (Vector2_t5_44 *);
-	static Input_INTERNAL_get_mouseScrollDelta_m5_675_ftn _il2cpp_icall_func;
+	typedef void (*Input_INTERNAL_get_mouseScrollDelta_m5_678_ftn) (Vector2_t5_44 *);
+	static Input_INTERNAL_get_mouseScrollDelta_m5_678_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_INTERNAL_get_mouseScrollDelta_m5_675_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_mouseScrollDelta(UnityEngine.Vector2&)");
+	_il2cpp_icall_func = (Input_INTERNAL_get_mouseScrollDelta_m5_678_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_mouseScrollDelta(UnityEngine.Vector2&)");
 	_il2cpp_icall_func(___value);
 }
 // System.Boolean UnityEngine.Input::get_mousePresent()
-extern "C" bool Input_get_mousePresent_m5_676 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" bool Input_get_mousePresent_m5_679 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef bool (*Input_get_mousePresent_m5_676_ftn) ();
-	static Input_get_mousePresent_m5_676_ftn _il2cpp_icall_func;
+	typedef bool (*Input_get_mousePresent_m5_679_ftn) ();
+	static Input_get_mousePresent_m5_679_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_get_mousePresent_m5_676_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_mousePresent()");
+	_il2cpp_icall_func = (Input_get_mousePresent_m5_679_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_mousePresent()");
 	return _il2cpp_icall_func();
 }
 // UnityEngine.Vector3 UnityEngine.Input::get_acceleration()
-extern TypeInfo* Input_t5_97_il2cpp_TypeInfo_var;
-extern "C" Vector3_t5_45  Input_get_acceleration_m5_677 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
+extern "C" Vector3_t5_45  Input_get_acceleration_m5_680 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Input_t5_97_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
+		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
 	Vector3_t5_45  V_0 = {0};
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_97_il2cpp_TypeInfo_var);
-		Input_INTERNAL_get_acceleration_m5_678(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		Input_INTERNAL_get_acceleration_m5_681(NULL /*static, unused*/, (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Input::INTERNAL_get_acceleration(UnityEngine.Vector3&)
-extern "C" void Input_INTERNAL_get_acceleration_m5_678 (Object_t * __this /* static, unused */, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Input_INTERNAL_get_acceleration_m5_681 (Object_t * __this /* static, unused */, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Input_INTERNAL_get_acceleration_m5_678_ftn) (Vector3_t5_45 *);
-	static Input_INTERNAL_get_acceleration_m5_678_ftn _il2cpp_icall_func;
+	typedef void (*Input_INTERNAL_get_acceleration_m5_681_ftn) (Vector3_t5_45 *);
+	static Input_INTERNAL_get_acceleration_m5_681_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_INTERNAL_get_acceleration_m5_678_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_acceleration(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Input_INTERNAL_get_acceleration_m5_681_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_get_acceleration(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___value);
 }
 // UnityEngine.Touch UnityEngine.Input::GetTouch(System.Int32)
-extern "C" Touch_t5_96  Input_GetTouch_m5_679 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method)
+extern "C" Touch_t5_97  Input_GetTouch_m5_682 (Object_t * __this /* static, unused */, int32_t ___index, const MethodInfo* method)
 {
-	typedef Touch_t5_96  (*Input_GetTouch_m5_679_ftn) (int32_t);
-	static Input_GetTouch_m5_679_ftn _il2cpp_icall_func;
+	typedef Touch_t5_97  (*Input_GetTouch_m5_682_ftn) (int32_t);
+	static Input_GetTouch_m5_682_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_GetTouch_m5_679_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetTouch(System.Int32)");
+	_il2cpp_icall_func = (Input_GetTouch_m5_682_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::GetTouch(System.Int32)");
 	return _il2cpp_icall_func(___index);
 }
 // System.Int32 UnityEngine.Input::get_touchCount()
-extern "C" int32_t Input_get_touchCount_m5_680 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" int32_t Input_get_touchCount_m5_683 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef int32_t (*Input_get_touchCount_m5_680_ftn) ();
-	static Input_get_touchCount_m5_680_ftn _il2cpp_icall_func;
+	typedef int32_t (*Input_get_touchCount_m5_683_ftn) ();
+	static Input_get_touchCount_m5_683_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_get_touchCount_m5_680_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_touchCount()");
+	_il2cpp_icall_func = (Input_get_touchCount_m5_683_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_touchCount()");
 	return _il2cpp_icall_func();
 }
 // System.Boolean UnityEngine.Input::get_touchSupported()
-extern "C" bool Input_get_touchSupported_m5_681 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" bool Input_get_touchSupported_m5_684 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
 	{
 		return 1;
 	}
 }
 // System.Void UnityEngine.Input::set_imeCompositionMode(UnityEngine.IMECompositionMode)
-extern "C" void Input_set_imeCompositionMode_m5_682 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
+extern "C" void Input_set_imeCompositionMode_m5_685 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*Input_set_imeCompositionMode_m5_682_ftn) (int32_t);
-	static Input_set_imeCompositionMode_m5_682_ftn _il2cpp_icall_func;
+	typedef void (*Input_set_imeCompositionMode_m5_685_ftn) (int32_t);
+	static Input_set_imeCompositionMode_m5_685_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_set_imeCompositionMode_m5_682_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::set_imeCompositionMode(UnityEngine.IMECompositionMode)");
+	_il2cpp_icall_func = (Input_set_imeCompositionMode_m5_685_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::set_imeCompositionMode(UnityEngine.IMECompositionMode)");
 	_il2cpp_icall_func(___value);
 }
 // System.String UnityEngine.Input::get_compositionString()
-extern "C" String_t* Input_get_compositionString_m5_683 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" String_t* Input_get_compositionString_m5_686 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef String_t* (*Input_get_compositionString_m5_683_ftn) ();
-	static Input_get_compositionString_m5_683_ftn _il2cpp_icall_func;
+	typedef String_t* (*Input_get_compositionString_m5_686_ftn) ();
+	static Input_get_compositionString_m5_686_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_get_compositionString_m5_683_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_compositionString()");
+	_il2cpp_icall_func = (Input_get_compositionString_m5_686_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::get_compositionString()");
 	return _il2cpp_icall_func();
 }
 // System.Void UnityEngine.Input::set_compositionCursorPos(UnityEngine.Vector2)
-extern TypeInfo* Input_t5_97_il2cpp_TypeInfo_var;
-extern "C" void Input_set_compositionCursorPos_m5_684 (Object_t * __this /* static, unused */, Vector2_t5_44  ___value, const MethodInfo* method)
+extern TypeInfo* Input_t5_98_il2cpp_TypeInfo_var;
+extern "C" void Input_set_compositionCursorPos_m5_687 (Object_t * __this /* static, unused */, Vector2_t5_44  ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Input_t5_97_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(878);
+		Input_t5_98_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_97_il2cpp_TypeInfo_var);
-		Input_INTERNAL_set_compositionCursorPos_m5_685(NULL /*static, unused*/, (&___value), /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Input_t5_98_il2cpp_TypeInfo_var);
+		Input_INTERNAL_set_compositionCursorPos_m5_688(NULL /*static, unused*/, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Input::INTERNAL_set_compositionCursorPos(UnityEngine.Vector2&)
-extern "C" void Input_INTERNAL_set_compositionCursorPos_m5_685 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method)
+extern "C" void Input_INTERNAL_set_compositionCursorPos_m5_688 (Object_t * __this /* static, unused */, Vector2_t5_44 * ___value, const MethodInfo* method)
 {
-	typedef void (*Input_INTERNAL_set_compositionCursorPos_m5_685_ftn) (Vector2_t5_44 *);
-	static Input_INTERNAL_set_compositionCursorPos_m5_685_ftn _il2cpp_icall_func;
+	typedef void (*Input_INTERNAL_set_compositionCursorPos_m5_688_ftn) (Vector2_t5_44 *);
+	static Input_INTERNAL_set_compositionCursorPos_m5_688_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Input_INTERNAL_set_compositionCursorPos_m5_685_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_set_compositionCursorPos(UnityEngine.Vector2&)");
+	_il2cpp_icall_func = (Input_INTERNAL_set_compositionCursorPos_m5_688_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Input::INTERNAL_set_compositionCursorPos(UnityEngine.Vector2&)");
 	_il2cpp_icall_func(___value);
 }
 // System.Void UnityEngine.Object::.ctor()
-extern "C" void Object__ctor_m5_686 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" void Object__ctor_m5_689 (Object_t5_5 * __this, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
@@ -12610,211 +12649,211 @@ extern "C" void Object__ctor_m5_686 (Object_t5_5 * __this, const MethodInfo* met
 	}
 }
 // UnityEngine.Object UnityEngine.Object::Internal_CloneSingle(UnityEngine.Object)
-extern "C" Object_t5_5 * Object_Internal_CloneSingle_m5_687 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_Internal_CloneSingle_m5_690 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, const MethodInfo* method)
 {
-	typedef Object_t5_5 * (*Object_Internal_CloneSingle_m5_687_ftn) (Object_t5_5 *);
-	static Object_Internal_CloneSingle_m5_687_ftn _il2cpp_icall_func;
+	typedef Object_t5_5 * (*Object_Internal_CloneSingle_m5_690_ftn) (Object_t5_5 *);
+	static Object_Internal_CloneSingle_m5_690_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_Internal_CloneSingle_m5_687_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::Internal_CloneSingle(UnityEngine.Object)");
+	_il2cpp_icall_func = (Object_Internal_CloneSingle_m5_690_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::Internal_CloneSingle(UnityEngine.Object)");
 	return _il2cpp_icall_func(___data);
 }
 // UnityEngine.Object UnityEngine.Object::Internal_InstantiateSingle(UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
-extern "C" Object_t5_5 * Object_Internal_InstantiateSingle_m5_688 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, Vector3_t5_45  ___pos, Quaternion_t5_47  ___rot, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_Internal_InstantiateSingle_m5_691 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, Vector3_t5_45  ___pos, Quaternion_t5_47  ___rot, const MethodInfo* method)
 {
 	{
 		Object_t5_5 * L_0 = ___data;
-		Object_t5_5 * L_1 = Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_689(NULL /*static, unused*/, L_0, (&___pos), (&___rot), /*hidden argument*/NULL);
+		Object_t5_5 * L_1 = Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_692(NULL /*static, unused*/, L_0, (&___pos), (&___rot), /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // UnityEngine.Object UnityEngine.Object::INTERNAL_CALL_Internal_InstantiateSingle(UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)
-extern "C" Object_t5_5 * Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_689 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, Vector3_t5_45 * ___pos, Quaternion_t5_47 * ___rot, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_692 (Object_t * __this /* static, unused */, Object_t5_5 * ___data, Vector3_t5_45 * ___pos, Quaternion_t5_47 * ___rot, const MethodInfo* method)
 {
-	typedef Object_t5_5 * (*Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_689_ftn) (Object_t5_5 *, Vector3_t5_45 *, Quaternion_t5_47 *);
-	static Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_689_ftn _il2cpp_icall_func;
+	typedef Object_t5_5 * (*Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_692_ftn) (Object_t5_5 *, Vector3_t5_45 *, Quaternion_t5_47 *);
+	static Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_692_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_689_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::INTERNAL_CALL_Internal_InstantiateSingle(UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)");
+	_il2cpp_icall_func = (Object_INTERNAL_CALL_Internal_InstantiateSingle_m5_692_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::INTERNAL_CALL_Internal_InstantiateSingle(UnityEngine.Object,UnityEngine.Vector3&,UnityEngine.Quaternion&)");
 	return _il2cpp_icall_func(___data, ___pos, ___rot);
 }
 // System.Void UnityEngine.Object::Destroy(UnityEngine.Object,System.Single)
-extern "C" void Object_Destroy_m5_690 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, float ___t, const MethodInfo* method)
+extern "C" void Object_Destroy_m5_693 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, float ___t, const MethodInfo* method)
 {
-	typedef void (*Object_Destroy_m5_690_ftn) (Object_t5_5 *, float);
-	static Object_Destroy_m5_690_ftn _il2cpp_icall_func;
+	typedef void (*Object_Destroy_m5_693_ftn) (Object_t5_5 *, float);
+	static Object_Destroy_m5_693_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_Destroy_m5_690_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::Destroy(UnityEngine.Object,System.Single)");
+	_il2cpp_icall_func = (Object_Destroy_m5_693_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::Destroy(UnityEngine.Object,System.Single)");
 	_il2cpp_icall_func(___obj, ___t);
 }
 // System.Void UnityEngine.Object::Destroy(UnityEngine.Object)
-extern "C" void Object_Destroy_m5_691 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
+extern "C" void Object_Destroy_m5_694 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
 {
 	float V_0 = 0.0f;
 	{
 		V_0 = (0.0f);
 		Object_t5_5 * L_0 = ___obj;
 		float L_1 = V_0;
-		Object_Destroy_m5_690(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		Object_Destroy_m5_693(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Object::DestroyImmediate(UnityEngine.Object,System.Boolean)
-extern "C" void Object_DestroyImmediate_m5_692 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, bool ___allowDestroyingAssets, const MethodInfo* method)
+extern "C" void Object_DestroyImmediate_m5_695 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, bool ___allowDestroyingAssets, const MethodInfo* method)
 {
-	typedef void (*Object_DestroyImmediate_m5_692_ftn) (Object_t5_5 *, bool);
-	static Object_DestroyImmediate_m5_692_ftn _il2cpp_icall_func;
+	typedef void (*Object_DestroyImmediate_m5_695_ftn) (Object_t5_5 *, bool);
+	static Object_DestroyImmediate_m5_695_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_DestroyImmediate_m5_692_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DestroyImmediate(UnityEngine.Object,System.Boolean)");
+	_il2cpp_icall_func = (Object_DestroyImmediate_m5_695_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DestroyImmediate(UnityEngine.Object,System.Boolean)");
 	_il2cpp_icall_func(___obj, ___allowDestroyingAssets);
 }
 // System.Void UnityEngine.Object::DestroyImmediate(UnityEngine.Object)
-extern "C" void Object_DestroyImmediate_m5_693 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
+extern "C" void Object_DestroyImmediate_m5_696 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
 {
 	bool V_0 = false;
 	{
 		V_0 = 0;
 		Object_t5_5 * L_0 = ___obj;
 		bool L_1 = V_0;
-		Object_DestroyImmediate_m5_692(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		Object_DestroyImmediate_m5_695(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Object[] UnityEngine.Object::FindObjectsOfType(System.Type)
-extern "C" ObjectU5BU5D_t5_282* Object_FindObjectsOfType_m5_694 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t5_283* Object_FindObjectsOfType_m5_697 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
 {
-	typedef ObjectU5BU5D_t5_282* (*Object_FindObjectsOfType_m5_694_ftn) (Type_t *);
-	static Object_FindObjectsOfType_m5_694_ftn _il2cpp_icall_func;
+	typedef ObjectU5BU5D_t5_283* (*Object_FindObjectsOfType_m5_697_ftn) (Type_t *);
+	static Object_FindObjectsOfType_m5_697_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_FindObjectsOfType_m5_694_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindObjectsOfType(System.Type)");
+	_il2cpp_icall_func = (Object_FindObjectsOfType_m5_697_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindObjectsOfType(System.Type)");
 	return _il2cpp_icall_func(___type);
 }
 // System.String UnityEngine.Object::get_name()
-extern "C" String_t* Object_get_name_m5_695 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" String_t* Object_get_name_m5_698 (Object_t5_5 * __this, const MethodInfo* method)
 {
-	typedef String_t* (*Object_get_name_m5_695_ftn) (Object_t5_5 *);
-	static Object_get_name_m5_695_ftn _il2cpp_icall_func;
+	typedef String_t* (*Object_get_name_m5_698_ftn) (Object_t5_5 *);
+	static Object_get_name_m5_698_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_get_name_m5_695_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::get_name()");
+	_il2cpp_icall_func = (Object_get_name_m5_698_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::get_name()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Object::set_name(System.String)
-extern "C" void Object_set_name_m5_696 (Object_t5_5 * __this, String_t* ___value, const MethodInfo* method)
+extern "C" void Object_set_name_m5_699 (Object_t5_5 * __this, String_t* ___value, const MethodInfo* method)
 {
-	typedef void (*Object_set_name_m5_696_ftn) (Object_t5_5 *, String_t*);
-	static Object_set_name_m5_696_ftn _il2cpp_icall_func;
+	typedef void (*Object_set_name_m5_699_ftn) (Object_t5_5 *, String_t*);
+	static Object_set_name_m5_699_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_set_name_m5_696_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::set_name(System.String)");
+	_il2cpp_icall_func = (Object_set_name_m5_699_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::set_name(System.String)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Object::DontDestroyOnLoad(UnityEngine.Object)
-extern "C" void Object_DontDestroyOnLoad_m5_697 (Object_t * __this /* static, unused */, Object_t5_5 * ___target, const MethodInfo* method)
+extern "C" void Object_DontDestroyOnLoad_m5_700 (Object_t * __this /* static, unused */, Object_t5_5 * ___target, const MethodInfo* method)
 {
-	typedef void (*Object_DontDestroyOnLoad_m5_697_ftn) (Object_t5_5 *);
-	static Object_DontDestroyOnLoad_m5_697_ftn _il2cpp_icall_func;
+	typedef void (*Object_DontDestroyOnLoad_m5_700_ftn) (Object_t5_5 *);
+	static Object_DontDestroyOnLoad_m5_700_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_DontDestroyOnLoad_m5_697_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DontDestroyOnLoad(UnityEngine.Object)");
+	_il2cpp_icall_func = (Object_DontDestroyOnLoad_m5_700_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DontDestroyOnLoad(UnityEngine.Object)");
 	_il2cpp_icall_func(___target);
 }
 // UnityEngine.HideFlags UnityEngine.Object::get_hideFlags()
-extern "C" int32_t Object_get_hideFlags_m5_698 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" int32_t Object_get_hideFlags_m5_701 (Object_t5_5 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*Object_get_hideFlags_m5_698_ftn) (Object_t5_5 *);
-	static Object_get_hideFlags_m5_698_ftn _il2cpp_icall_func;
+	typedef int32_t (*Object_get_hideFlags_m5_701_ftn) (Object_t5_5 *);
+	static Object_get_hideFlags_m5_701_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_get_hideFlags_m5_698_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::get_hideFlags()");
+	_il2cpp_icall_func = (Object_get_hideFlags_m5_701_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::get_hideFlags()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)
-extern "C" void Object_set_hideFlags_m5_699 (Object_t5_5 * __this, int32_t ___value, const MethodInfo* method)
+extern "C" void Object_set_hideFlags_m5_702 (Object_t5_5 * __this, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*Object_set_hideFlags_m5_699_ftn) (Object_t5_5 *, int32_t);
-	static Object_set_hideFlags_m5_699_ftn _il2cpp_icall_func;
+	typedef void (*Object_set_hideFlags_m5_702_ftn) (Object_t5_5 *, int32_t);
+	static Object_set_hideFlags_m5_702_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_set_hideFlags_m5_699_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)");
+	_il2cpp_icall_func = (Object_set_hideFlags_m5_702_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Object::DestroyObject(UnityEngine.Object,System.Single)
-extern "C" void Object_DestroyObject_m5_700 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, float ___t, const MethodInfo* method)
+extern "C" void Object_DestroyObject_m5_703 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, float ___t, const MethodInfo* method)
 {
-	typedef void (*Object_DestroyObject_m5_700_ftn) (Object_t5_5 *, float);
-	static Object_DestroyObject_m5_700_ftn _il2cpp_icall_func;
+	typedef void (*Object_DestroyObject_m5_703_ftn) (Object_t5_5 *, float);
+	static Object_DestroyObject_m5_703_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_DestroyObject_m5_700_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DestroyObject(UnityEngine.Object,System.Single)");
+	_il2cpp_icall_func = (Object_DestroyObject_m5_703_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DestroyObject(UnityEngine.Object,System.Single)");
 	_il2cpp_icall_func(___obj, ___t);
 }
 // System.Void UnityEngine.Object::DestroyObject(UnityEngine.Object)
-extern "C" void Object_DestroyObject_m5_701 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
+extern "C" void Object_DestroyObject_m5_704 (Object_t * __this /* static, unused */, Object_t5_5 * ___obj, const MethodInfo* method)
 {
 	float V_0 = 0.0f;
 	{
 		V_0 = (0.0f);
 		Object_t5_5 * L_0 = ___obj;
 		float L_1 = V_0;
-		Object_DestroyObject_m5_700(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		Object_DestroyObject_m5_703(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Object[] UnityEngine.Object::FindSceneObjectsOfType(System.Type)
-extern "C" ObjectU5BU5D_t5_282* Object_FindSceneObjectsOfType_m5_702 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t5_283* Object_FindSceneObjectsOfType_m5_705 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
 {
-	typedef ObjectU5BU5D_t5_282* (*Object_FindSceneObjectsOfType_m5_702_ftn) (Type_t *);
-	static Object_FindSceneObjectsOfType_m5_702_ftn _il2cpp_icall_func;
+	typedef ObjectU5BU5D_t5_283* (*Object_FindSceneObjectsOfType_m5_705_ftn) (Type_t *);
+	static Object_FindSceneObjectsOfType_m5_705_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_FindSceneObjectsOfType_m5_702_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindSceneObjectsOfType(System.Type)");
+	_il2cpp_icall_func = (Object_FindSceneObjectsOfType_m5_705_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindSceneObjectsOfType(System.Type)");
 	return _il2cpp_icall_func(___type);
 }
 // UnityEngine.Object[] UnityEngine.Object::FindObjectsOfTypeIncludingAssets(System.Type)
-extern "C" ObjectU5BU5D_t5_282* Object_FindObjectsOfTypeIncludingAssets_m5_703 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
+extern "C" ObjectU5BU5D_t5_283* Object_FindObjectsOfTypeIncludingAssets_m5_706 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
 {
-	typedef ObjectU5BU5D_t5_282* (*Object_FindObjectsOfTypeIncludingAssets_m5_703_ftn) (Type_t *);
-	static Object_FindObjectsOfTypeIncludingAssets_m5_703_ftn _il2cpp_icall_func;
+	typedef ObjectU5BU5D_t5_283* (*Object_FindObjectsOfTypeIncludingAssets_m5_706_ftn) (Type_t *);
+	static Object_FindObjectsOfTypeIncludingAssets_m5_706_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_FindObjectsOfTypeIncludingAssets_m5_703_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindObjectsOfTypeIncludingAssets(System.Type)");
+	_il2cpp_icall_func = (Object_FindObjectsOfTypeIncludingAssets_m5_706_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::FindObjectsOfTypeIncludingAssets(System.Type)");
 	return _il2cpp_icall_func(___type);
 }
 // System.String UnityEngine.Object::ToString()
-extern "C" String_t* Object_ToString_m5_704 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" String_t* Object_ToString_m5_707 (Object_t5_5 * __this, const MethodInfo* method)
 {
-	typedef String_t* (*Object_ToString_m5_704_ftn) (Object_t5_5 *);
-	static Object_ToString_m5_704_ftn _il2cpp_icall_func;
+	typedef String_t* (*Object_ToString_m5_707_ftn) (Object_t5_5 *);
+	static Object_ToString_m5_707_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_ToString_m5_704_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::ToString()");
+	_il2cpp_icall_func = (Object_ToString_m5_707_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::ToString()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Boolean UnityEngine.Object::DoesObjectWithInstanceIDExist(System.Int32)
-extern "C" bool Object_DoesObjectWithInstanceIDExist_m5_705 (Object_t * __this /* static, unused */, int32_t ___instanceID, const MethodInfo* method)
+extern "C" bool Object_DoesObjectWithInstanceIDExist_m5_708 (Object_t * __this /* static, unused */, int32_t ___instanceID, const MethodInfo* method)
 {
-	typedef bool (*Object_DoesObjectWithInstanceIDExist_m5_705_ftn) (int32_t);
-	static Object_DoesObjectWithInstanceIDExist_m5_705_ftn _il2cpp_icall_func;
+	typedef bool (*Object_DoesObjectWithInstanceIDExist_m5_708_ftn) (int32_t);
+	static Object_DoesObjectWithInstanceIDExist_m5_708_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Object_DoesObjectWithInstanceIDExist_m5_705_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DoesObjectWithInstanceIDExist(System.Int32)");
+	_il2cpp_icall_func = (Object_DoesObjectWithInstanceIDExist_m5_708_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Object::DoesObjectWithInstanceIDExist(System.Int32)");
 	return _il2cpp_icall_func(___instanceID);
 }
 // System.Boolean UnityEngine.Object::Equals(System.Object)
 extern TypeInfo* Object_t5_5_il2cpp_TypeInfo_var;
-extern "C" bool Object_Equals_m5_706 (Object_t5_5 * __this, Object_t * ___o, const MethodInfo* method)
+extern "C" bool Object_Equals_m5_709 (Object_t5_5 * __this, Object_t * ___o, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Object_t5_5_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(879);
+		Object_t5_5_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(869);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Object_t * L_0 = ___o;
-		bool L_1 = Object_CompareBaseObjects_m5_708(NULL /*static, unused*/, __this, ((Object_t5_5 *)IsInstClass(L_0, Object_t5_5_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
+		bool L_1 = Object_CompareBaseObjects_m5_711(NULL /*static, unused*/, __this, ((Object_t5_5 *)IsInstClass(L_0, Object_t5_5_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // System.Int32 UnityEngine.Object::GetHashCode()
-extern "C" int32_t Object_GetHashCode_m5_707 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" int32_t Object_GetHashCode_m5_710 (Object_t5_5 * __this, const MethodInfo* method)
 {
 	{
-		int32_t L_0 = Object_GetInstanceID_m5_710(__this, /*hidden argument*/NULL);
+		int32_t L_0 = Object_GetInstanceID_m5_713(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // System.Boolean UnityEngine.Object::CompareBaseObjects(UnityEngine.Object,UnityEngine.Object)
-extern "C" bool Object_CompareBaseObjects_m5_708 (Object_t * __this /* static, unused */, Object_t5_5 * ___lhs, Object_t5_5 * ___rhs, const MethodInfo* method)
+extern "C" bool Object_CompareBaseObjects_m5_711 (Object_t * __this /* static, unused */, Object_t5_5 * ___lhs, Object_t5_5 * ___rhs, const MethodInfo* method)
 {
 	bool V_0 = false;
 	bool V_1 = false;
@@ -12850,7 +12889,7 @@ IL_0018:
 	}
 	{
 		Object_t5_5 * L_5 = ___lhs;
-		bool L_6 = Object_IsNativeObjectAlive_m5_709(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
+		bool L_6 = Object_IsNativeObjectAlive_m5_712(NULL /*static, unused*/, L_5, /*hidden argument*/NULL);
 		return ((((int32_t)L_6) == ((int32_t)0))? 1 : 0);
 	}
 
@@ -12864,7 +12903,7 @@ IL_0028:
 	}
 	{
 		Object_t5_5 * L_8 = ___rhs;
-		bool L_9 = Object_IsNativeObjectAlive_m5_709(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
+		bool L_9 = Object_IsNativeObjectAlive_m5_712(NULL /*static, unused*/, L_8, /*hidden argument*/NULL);
 		return ((((int32_t)L_9) == ((int32_t)0))? 1 : 0);
 	}
 
@@ -12881,7 +12920,7 @@ IL_0038:
 }
 // System.Boolean UnityEngine.Object::IsNativeObjectAlive(UnityEngine.Object)
 extern TypeInfo* IntPtr_t_il2cpp_TypeInfo_var;
-extern "C" bool Object_IsNativeObjectAlive_m5_709 (Object_t * __this /* static, unused */, Object_t5_5 * ___o, const MethodInfo* method)
+extern "C" bool Object_IsNativeObjectAlive_m5_712 (Object_t * __this /* static, unused */, Object_t5_5 * ___o, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -12892,14 +12931,14 @@ extern "C" bool Object_IsNativeObjectAlive_m5_709 (Object_t * __this /* static, 
 	{
 		Object_t5_5 * L_0 = ___o;
 		NullCheck(L_0);
-		IntPtr_t L_1 = Object_GetCachedPtr_m5_711(L_0, /*hidden argument*/NULL);
+		IntPtr_t L_1 = Object_GetCachedPtr_m5_714(L_0, /*hidden argument*/NULL);
 		IntPtr_t L_2 = ((IntPtr_t_StaticFields*)IntPtr_t_il2cpp_TypeInfo_var->static_fields)->___Zero_1;
 		bool L_3 = IntPtr_op_Inequality_m1_644(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
 // System.Int32 UnityEngine.Object::GetInstanceID()
-extern "C" int32_t Object_GetInstanceID_m5_710 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" int32_t Object_GetInstanceID_m5_713 (Object_t5_5 * __this, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = (__this->___m_InstanceID_0);
@@ -12907,7 +12946,7 @@ extern "C" int32_t Object_GetInstanceID_m5_710 (Object_t5_5 * __this, const Meth
 	}
 }
 // System.IntPtr UnityEngine.Object::GetCachedPtr()
-extern "C" IntPtr_t Object_GetCachedPtr_m5_711 (Object_t5_5 * __this, const MethodInfo* method)
+extern "C" IntPtr_t Object_GetCachedPtr_m5_714 (Object_t5_5 * __this, const MethodInfo* method)
 {
 	{
 		IntPtr_t L_0 = (__this->___m_CachedPtr_1);
@@ -12916,7 +12955,7 @@ extern "C" IntPtr_t Object_GetCachedPtr_m5_711 (Object_t5_5 * __this, const Meth
 }
 // UnityEngine.Object UnityEngine.Object::Instantiate(UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
 extern Il2CppCodeGenString* _stringLiteral2525;
-extern "C" Object_t5_5 * Object_Instantiate_m5_712 (Object_t * __this /* static, unused */, Object_t5_5 * ___original, Vector3_t5_45  ___position, Quaternion_t5_47  ___rotation, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_Instantiate_m5_715 (Object_t * __this /* static, unused */, Object_t5_5 * ___original, Vector3_t5_45  ___position, Quaternion_t5_47  ___rotation, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -12926,17 +12965,17 @@ extern "C" Object_t5_5 * Object_Instantiate_m5_712 (Object_t * __this /* static,
 	}
 	{
 		Object_t5_5 * L_0 = ___original;
-		Object_CheckNullArgument_m5_714(NULL /*static, unused*/, L_0, _stringLiteral2525, /*hidden argument*/NULL);
+		Object_CheckNullArgument_m5_717(NULL /*static, unused*/, L_0, _stringLiteral2525, /*hidden argument*/NULL);
 		Object_t5_5 * L_1 = ___original;
 		Vector3_t5_45  L_2 = ___position;
 		Quaternion_t5_47  L_3 = ___rotation;
-		Object_t5_5 * L_4 = Object_Internal_InstantiateSingle_m5_688(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
+		Object_t5_5 * L_4 = Object_Internal_InstantiateSingle_m5_691(NULL /*static, unused*/, L_1, L_2, L_3, /*hidden argument*/NULL);
 		return L_4;
 	}
 }
 // UnityEngine.Object UnityEngine.Object::Instantiate(UnityEngine.Object)
 extern Il2CppCodeGenString* _stringLiteral2525;
-extern "C" Object_t5_5 * Object_Instantiate_m5_713 (Object_t * __this /* static, unused */, Object_t5_5 * ___original, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_Instantiate_m5_716 (Object_t * __this /* static, unused */, Object_t5_5 * ___original, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -12946,15 +12985,15 @@ extern "C" Object_t5_5 * Object_Instantiate_m5_713 (Object_t * __this /* static,
 	}
 	{
 		Object_t5_5 * L_0 = ___original;
-		Object_CheckNullArgument_m5_714(NULL /*static, unused*/, L_0, _stringLiteral2525, /*hidden argument*/NULL);
+		Object_CheckNullArgument_m5_717(NULL /*static, unused*/, L_0, _stringLiteral2525, /*hidden argument*/NULL);
 		Object_t5_5 * L_1 = ___original;
-		Object_t5_5 * L_2 = Object_Internal_CloneSingle_m5_687(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
+		Object_t5_5 * L_2 = Object_Internal_CloneSingle_m5_690(NULL /*static, unused*/, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Void UnityEngine.Object::CheckNullArgument(System.Object,System.String)
 extern TypeInfo* ArgumentException_t1_636_il2cpp_TypeInfo_var;
-extern "C" void Object_CheckNullArgument_m5_714 (Object_t * __this /* static, unused */, Object_t * ___arg, String_t* ___message, const MethodInfo* method)
+extern "C" void Object_CheckNullArgument_m5_717 (Object_t * __this /* static, unused */, Object_t * ___arg, String_t* ___message, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
@@ -12972,7 +13011,7 @@ extern "C" void Object_CheckNullArgument_m5_714 (Object_t * __this /* static, un
 	{
 		String_t* L_1 = ___message;
 		ArgumentException_t1_636 * L_2 = (ArgumentException_t1_636 *)il2cpp_codegen_object_new (ArgumentException_t1_636_il2cpp_TypeInfo_var);
-		ArgumentException__ctor_m1_4567(L_2, L_1, /*hidden argument*/NULL);
+		ArgumentException__ctor_m1_4562(L_2, L_1, /*hidden argument*/NULL);
 		il2cpp_codegen_raise_exception((Il2CppCodeGenException*)L_2);
 	}
 
@@ -12982,14 +13021,14 @@ IL_000d:
 	}
 }
 // UnityEngine.Object UnityEngine.Object::FindObjectOfType(System.Type)
-extern "C" Object_t5_5 * Object_FindObjectOfType_m5_715 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
+extern "C" Object_t5_5 * Object_FindObjectOfType_m5_718 (Object_t * __this /* static, unused */, Type_t * ___type, const MethodInfo* method)
 {
-	ObjectU5BU5D_t5_282* V_0 = {0};
+	ObjectU5BU5D_t5_283* V_0 = {0};
 	{
 		Type_t * L_0 = ___type;
-		ObjectU5BU5D_t5_282* L_1 = Object_FindObjectsOfType_m5_694(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
+		ObjectU5BU5D_t5_283* L_1 = Object_FindObjectsOfType_m5_697(NULL /*static, unused*/, L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
-		ObjectU5BU5D_t5_282* L_2 = V_0;
+		ObjectU5BU5D_t5_283* L_2 = V_0;
 		NullCheck(L_2);
 		if ((((int32_t)(((int32_t)((int32_t)(((Array_t *)L_2)->max_length))))) <= ((int32_t)0)))
 		{
@@ -12997,7 +13036,7 @@ extern "C" Object_t5_5 * Object_FindObjectOfType_m5_715 (Object_t * __this /* st
 		}
 	}
 	{
-		ObjectU5BU5D_t5_282* L_3 = V_0;
+		ObjectU5BU5D_t5_283* L_3 = V_0;
 		NullCheck(L_3);
 		IL2CPP_ARRAY_BOUNDS_CHECK(L_3, 0);
 		int32_t L_4 = 0;
@@ -13010,31 +13049,31 @@ IL_0014:
 	}
 }
 // System.Boolean UnityEngine.Object::op_Implicit(UnityEngine.Object)
-extern "C" bool Object_op_Implicit_m5_716 (Object_t * __this /* static, unused */, Object_t5_5 * ___exists, const MethodInfo* method)
+extern "C" bool Object_op_Implicit_m5_719 (Object_t * __this /* static, unused */, Object_t5_5 * ___exists, const MethodInfo* method)
 {
 	{
 		Object_t5_5 * L_0 = ___exists;
-		bool L_1 = Object_CompareBaseObjects_m5_708(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
+		bool L_1 = Object_CompareBaseObjects_m5_711(NULL /*static, unused*/, L_0, (Object_t5_5 *)NULL, /*hidden argument*/NULL);
 		return ((((int32_t)L_1) == ((int32_t)0))? 1 : 0);
 	}
 }
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
-extern "C" bool Object_op_Equality_m5_717 (Object_t * __this /* static, unused */, Object_t5_5 * ___x, Object_t5_5 * ___y, const MethodInfo* method)
+extern "C" bool Object_op_Equality_m5_720 (Object_t * __this /* static, unused */, Object_t5_5 * ___x, Object_t5_5 * ___y, const MethodInfo* method)
 {
 	{
 		Object_t5_5 * L_0 = ___x;
 		Object_t5_5 * L_1 = ___y;
-		bool L_2 = Object_CompareBaseObjects_m5_708(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_CompareBaseObjects_m5_711(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)
-extern "C" bool Object_op_Inequality_m5_718 (Object_t * __this /* static, unused */, Object_t5_5 * ___x, Object_t5_5 * ___y, const MethodInfo* method)
+extern "C" bool Object_op_Inequality_m5_721 (Object_t * __this /* static, unused */, Object_t5_5 * ___x, Object_t5_5 * ___y, const MethodInfo* method)
 {
 	{
 		Object_t5_5 * L_0 = ___x;
 		Object_t5_5 * L_1 = ___y;
-		bool L_2 = Object_CompareBaseObjects_m5_708(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		bool L_2 = Object_CompareBaseObjects_m5_711(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return ((((int32_t)L_2) == ((int32_t)0))? 1 : 0);
 	}
 }
@@ -13054,214 +13093,214 @@ extern "C" void Object_t5_5_marshal_cleanup(Object_t5_5_marshaled& marshaled)
 {
 }
 // System.Void UnityEngine.Component::.ctor()
-extern "C" void Component__ctor_m5_719 (Component_t5_25 * __this, const MethodInfo* method)
+extern "C" void Component__ctor_m5_722 (Component_t5_25 * __this, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Transform UnityEngine.Component::get_transform()
-extern "C" Transform_t5_71 * Component_get_transform_m5_720 (Component_t5_25 * __this, const MethodInfo* method)
+extern "C" Transform_t5_71 * Component_get_transform_m5_723 (Component_t5_25 * __this, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*Component_get_transform_m5_720_ftn) (Component_t5_25 *);
-	static Component_get_transform_m5_720_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*Component_get_transform_m5_723_ftn) (Component_t5_25 *);
+	static Component_get_transform_m5_723_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_get_transform_m5_720_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::get_transform()");
+	_il2cpp_icall_func = (Component_get_transform_m5_723_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::get_transform()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.GameObject UnityEngine.Component::get_gameObject()
-extern "C" GameObject_t5_100 * Component_get_gameObject_m5_721 (Component_t5_25 * __this, const MethodInfo* method)
+extern "C" GameObject_t5_101 * Component_get_gameObject_m5_724 (Component_t5_25 * __this, const MethodInfo* method)
 {
-	typedef GameObject_t5_100 * (*Component_get_gameObject_m5_721_ftn) (Component_t5_25 *);
-	static Component_get_gameObject_m5_721_ftn _il2cpp_icall_func;
+	typedef GameObject_t5_101 * (*Component_get_gameObject_m5_724_ftn) (Component_t5_25 *);
+	static Component_get_gameObject_m5_724_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_get_gameObject_m5_721_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::get_gameObject()");
+	_il2cpp_icall_func = (Component_get_gameObject_m5_724_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::get_gameObject()");
 	return _il2cpp_icall_func(__this);
 }
 // UnityEngine.Component UnityEngine.Component::GetComponent(System.Type)
-extern "C" Component_t5_25 * Component_GetComponent_m5_722 (Component_t5_25 * __this, Type_t * ___type, const MethodInfo* method)
+extern "C" Component_t5_25 * Component_GetComponent_m5_725 (Component_t5_25 * __this, Type_t * ___type, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___type;
 		NullCheck(L_0);
-		Component_t5_25 * L_2 = GameObject_GetComponent_m5_755(L_0, L_1, /*hidden argument*/NULL);
+		Component_t5_25 * L_2 = GameObject_GetComponent_m5_758(L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Void UnityEngine.Component::GetComponentFastPath(System.Type,System.IntPtr)
-extern "C" void Component_GetComponentFastPath_m5_723 (Component_t5_25 * __this, Type_t * ___type, IntPtr_t ___oneFurtherThanResultValue, const MethodInfo* method)
+extern "C" void Component_GetComponentFastPath_m5_726 (Component_t5_25 * __this, Type_t * ___type, IntPtr_t ___oneFurtherThanResultValue, const MethodInfo* method)
 {
-	typedef void (*Component_GetComponentFastPath_m5_723_ftn) (Component_t5_25 *, Type_t *, IntPtr_t);
-	static Component_GetComponentFastPath_m5_723_ftn _il2cpp_icall_func;
+	typedef void (*Component_GetComponentFastPath_m5_726_ftn) (Component_t5_25 *, Type_t *, IntPtr_t);
+	static Component_GetComponentFastPath_m5_726_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_GetComponentFastPath_m5_723_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponentFastPath(System.Type,System.IntPtr)");
+	_il2cpp_icall_func = (Component_GetComponentFastPath_m5_726_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponentFastPath(System.Type,System.IntPtr)");
 	_il2cpp_icall_func(__this, ___type, ___oneFurtherThanResultValue);
 }
 // UnityEngine.Component UnityEngine.Component::GetComponent(System.String)
-extern "C" Component_t5_25 * Component_GetComponent_m5_724 (Component_t5_25 * __this, String_t* ___type, const MethodInfo* method)
+extern "C" Component_t5_25 * Component_GetComponent_m5_727 (Component_t5_25 * __this, String_t* ___type, const MethodInfo* method)
 {
-	typedef Component_t5_25 * (*Component_GetComponent_m5_724_ftn) (Component_t5_25 *, String_t*);
-	static Component_GetComponent_m5_724_ftn _il2cpp_icall_func;
+	typedef Component_t5_25 * (*Component_GetComponent_m5_727_ftn) (Component_t5_25 *, String_t*);
+	static Component_GetComponent_m5_727_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_GetComponent_m5_724_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponent(System.String)");
+	_il2cpp_icall_func = (Component_GetComponent_m5_727_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponent(System.String)");
 	return _il2cpp_icall_func(__this, ___type);
 }
 // UnityEngine.Component UnityEngine.Component::GetComponentInChildren(System.Type)
-extern "C" Component_t5_25 * Component_GetComponentInChildren_m5_725 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
+extern "C" Component_t5_25 * Component_GetComponentInChildren_m5_728 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
 {
 	bool V_0 = false;
 	{
 		V_0 = 0;
 		Type_t * L_0 = ___t;
 		bool L_1 = V_0;
-		Component_t5_25 * L_2 = Component_GetComponentInChildren_m5_726(__this, L_0, L_1, /*hidden argument*/NULL);
+		Component_t5_25 * L_2 = Component_GetComponentInChildren_m5_729(__this, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Component UnityEngine.Component::GetComponentInChildren(System.Type,System.Boolean)
-extern "C" Component_t5_25 * Component_GetComponentInChildren_m5_726 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
+extern "C" Component_t5_25 * Component_GetComponentInChildren_m5_729 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___t;
 		bool L_2 = ___includeInactive;
 		NullCheck(L_0);
-		Component_t5_25 * L_3 = GameObject_GetComponentInChildren_m5_757(L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_t5_25 * L_3 = GameObject_GetComponentInChildren_m5_760(L_0, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
 // UnityEngine.Component[] UnityEngine.Component::GetComponentsInChildren(System.Type)
-extern "C" ComponentU5BU5D_t5_293* Component_GetComponentsInChildren_m5_727 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
+extern "C" ComponentU5BU5D_t5_294* Component_GetComponentsInChildren_m5_730 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
 {
 	bool V_0 = false;
 	{
 		V_0 = 0;
 		Type_t * L_0 = ___t;
 		bool L_1 = V_0;
-		ComponentU5BU5D_t5_293* L_2 = Component_GetComponentsInChildren_m5_728(__this, L_0, L_1, /*hidden argument*/NULL);
+		ComponentU5BU5D_t5_294* L_2 = Component_GetComponentsInChildren_m5_731(__this, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Component[] UnityEngine.Component::GetComponentsInChildren(System.Type,System.Boolean)
-extern "C" ComponentU5BU5D_t5_293* Component_GetComponentsInChildren_m5_728 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
+extern "C" ComponentU5BU5D_t5_294* Component_GetComponentsInChildren_m5_731 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___t;
 		bool L_2 = ___includeInactive;
 		NullCheck(L_0);
-		ComponentU5BU5D_t5_293* L_3 = GameObject_GetComponentsInChildren_m5_760(L_0, L_1, L_2, /*hidden argument*/NULL);
+		ComponentU5BU5D_t5_294* L_3 = GameObject_GetComponentsInChildren_m5_763(L_0, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
 // UnityEngine.Component UnityEngine.Component::GetComponentInParent(System.Type)
-extern "C" Component_t5_25 * Component_GetComponentInParent_m5_729 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
+extern "C" Component_t5_25 * Component_GetComponentInParent_m5_732 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___t;
 		NullCheck(L_0);
-		Component_t5_25 * L_2 = GameObject_GetComponentInParent_m5_758(L_0, L_1, /*hidden argument*/NULL);
+		Component_t5_25 * L_2 = GameObject_GetComponentInParent_m5_761(L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Component[] UnityEngine.Component::GetComponentsInParent(System.Type)
-extern "C" ComponentU5BU5D_t5_293* Component_GetComponentsInParent_m5_730 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
+extern "C" ComponentU5BU5D_t5_294* Component_GetComponentsInParent_m5_733 (Component_t5_25 * __this, Type_t * ___t, const MethodInfo* method)
 {
 	bool V_0 = false;
 	{
 		V_0 = 0;
 		Type_t * L_0 = ___t;
 		bool L_1 = V_0;
-		ComponentU5BU5D_t5_293* L_2 = Component_GetComponentsInParent_m5_731(__this, L_0, L_1, /*hidden argument*/NULL);
+		ComponentU5BU5D_t5_294* L_2 = Component_GetComponentsInParent_m5_734(__this, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Component[] UnityEngine.Component::GetComponentsInParent(System.Type,System.Boolean)
-extern "C" ComponentU5BU5D_t5_293* Component_GetComponentsInParent_m5_731 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
+extern "C" ComponentU5BU5D_t5_294* Component_GetComponentsInParent_m5_734 (Component_t5_25 * __this, Type_t * ___t, bool ___includeInactive, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___t;
 		bool L_2 = ___includeInactive;
 		NullCheck(L_0);
-		ComponentU5BU5D_t5_293* L_3 = GameObject_GetComponentsInParent_m5_761(L_0, L_1, L_2, /*hidden argument*/NULL);
+		ComponentU5BU5D_t5_294* L_3 = GameObject_GetComponentsInParent_m5_764(L_0, L_1, L_2, /*hidden argument*/NULL);
 		return L_3;
 	}
 }
 // UnityEngine.Component[] UnityEngine.Component::GetComponents(System.Type)
-extern "C" ComponentU5BU5D_t5_293* Component_GetComponents_m5_732 (Component_t5_25 * __this, Type_t * ___type, const MethodInfo* method)
+extern "C" ComponentU5BU5D_t5_294* Component_GetComponents_m5_735 (Component_t5_25 * __this, Type_t * ___type, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		Type_t * L_1 = ___type;
 		NullCheck(L_0);
-		ComponentU5BU5D_t5_293* L_2 = GameObject_GetComponents_m5_759(L_0, L_1, /*hidden argument*/NULL);
+		ComponentU5BU5D_t5_294* L_2 = GameObject_GetComponents_m5_762(L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Void UnityEngine.Component::GetComponentsForListInternal(System.Type,System.Object)
-extern "C" void Component_GetComponentsForListInternal_m5_733 (Component_t5_25 * __this, Type_t * ___searchType, Object_t * ___resultList, const MethodInfo* method)
+extern "C" void Component_GetComponentsForListInternal_m5_736 (Component_t5_25 * __this, Type_t * ___searchType, Object_t * ___resultList, const MethodInfo* method)
 {
-	typedef void (*Component_GetComponentsForListInternal_m5_733_ftn) (Component_t5_25 *, Type_t *, Object_t *);
-	static Component_GetComponentsForListInternal_m5_733_ftn _il2cpp_icall_func;
+	typedef void (*Component_GetComponentsForListInternal_m5_736_ftn) (Component_t5_25 *, Type_t *, Object_t *);
+	static Component_GetComponentsForListInternal_m5_736_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_GetComponentsForListInternal_m5_733_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponentsForListInternal(System.Type,System.Object)");
+	_il2cpp_icall_func = (Component_GetComponentsForListInternal_m5_736_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::GetComponentsForListInternal(System.Type,System.Object)");
 	_il2cpp_icall_func(__this, ___searchType, ___resultList);
 }
 // System.Void UnityEngine.Component::GetComponents(System.Type,System.Collections.Generic.List`1<UnityEngine.Component>)
-extern "C" void Component_GetComponents_m5_734 (Component_t5_25 * __this, Type_t * ___type, List_1_t1_894 * ___results, const MethodInfo* method)
+extern "C" void Component_GetComponents_m5_737 (Component_t5_25 * __this, Type_t * ___type, List_1_t1_894 * ___results, const MethodInfo* method)
 {
 	{
 		Type_t * L_0 = ___type;
 		List_1_t1_894 * L_1 = ___results;
-		Component_GetComponentsForListInternal_m5_733(__this, L_0, L_1, /*hidden argument*/NULL);
+		Component_GetComponentsForListInternal_m5_736(__this, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.String UnityEngine.Component::get_tag()
-extern "C" String_t* Component_get_tag_m5_735 (Component_t5_25 * __this, const MethodInfo* method)
+extern "C" String_t* Component_get_tag_m5_738 (Component_t5_25 * __this, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		NullCheck(L_0);
-		String_t* L_1 = GameObject_get_tag_m5_769(L_0, /*hidden argument*/NULL);
+		String_t* L_1 = GameObject_get_tag_m5_772(L_0, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // System.Void UnityEngine.Component::set_tag(System.String)
-extern "C" void Component_set_tag_m5_736 (Component_t5_25 * __this, String_t* ___value, const MethodInfo* method)
+extern "C" void Component_set_tag_m5_739 (Component_t5_25 * __this, String_t* ___value, const MethodInfo* method)
 {
 	{
-		GameObject_t5_100 * L_0 = Component_get_gameObject_m5_721(__this, /*hidden argument*/NULL);
+		GameObject_t5_101 * L_0 = Component_get_gameObject_m5_724(__this, /*hidden argument*/NULL);
 		String_t* L_1 = ___value;
 		NullCheck(L_0);
-		GameObject_set_tag_m5_770(L_0, L_1, /*hidden argument*/NULL);
+		GameObject_set_tag_m5_773(L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Boolean UnityEngine.Component::CompareTag(System.String)
-extern "C" bool Component_CompareTag_m5_737 (Component_t5_25 * __this, String_t* ___tag, const MethodInfo* method)
+extern "C" bool Component_CompareTag_m5_740 (Component_t5_25 * __this, String_t* ___tag, const MethodInfo* method)
 {
-	typedef bool (*Component_CompareTag_m5_737_ftn) (Component_t5_25 *, String_t*);
-	static Component_CompareTag_m5_737_ftn _il2cpp_icall_func;
+	typedef bool (*Component_CompareTag_m5_740_ftn) (Component_t5_25 *, String_t*);
+	static Component_CompareTag_m5_740_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_CompareTag_m5_737_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::CompareTag(System.String)");
+	_il2cpp_icall_func = (Component_CompareTag_m5_740_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::CompareTag(System.String)");
 	return _il2cpp_icall_func(__this, ___tag);
 }
 // System.Void UnityEngine.Component::SendMessageUpwards(System.String,System.Object,UnityEngine.SendMessageOptions)
-extern "C" void Component_SendMessageUpwards_m5_738 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_SendMessageUpwards_m5_741 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
 {
-	typedef void (*Component_SendMessageUpwards_m5_738_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
-	static Component_SendMessageUpwards_m5_738_ftn _il2cpp_icall_func;
+	typedef void (*Component_SendMessageUpwards_m5_741_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
+	static Component_SendMessageUpwards_m5_741_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_SendMessageUpwards_m5_738_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::SendMessageUpwards(System.String,System.Object,UnityEngine.SendMessageOptions)");
+	_il2cpp_icall_func = (Component_SendMessageUpwards_m5_741_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::SendMessageUpwards(System.String,System.Object,UnityEngine.SendMessageOptions)");
 	_il2cpp_icall_func(__this, ___methodName, ___value, ___options);
 }
 // System.Void UnityEngine.Component::SendMessageUpwards(System.String,System.Object)
-extern "C" void Component_SendMessageUpwards_m5_739 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
+extern "C" void Component_SendMessageUpwards_m5_742 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
@@ -13269,12 +13308,12 @@ extern "C" void Component_SendMessageUpwards_m5_739 (Component_t5_25 * __this, S
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = ___value;
 		int32_t L_2 = V_0;
-		Component_SendMessageUpwards_m5_738(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_SendMessageUpwards_m5_741(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::SendMessageUpwards(System.String)
-extern "C" void Component_SendMessageUpwards_m5_740 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" void Component_SendMessageUpwards_m5_743 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	Object_t * V_1 = {0};
@@ -13284,31 +13323,31 @@ extern "C" void Component_SendMessageUpwards_m5_740 (Component_t5_25 * __this, S
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = V_1;
 		int32_t L_2 = V_0;
-		Component_SendMessageUpwards_m5_738(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_SendMessageUpwards_m5_741(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::SendMessageUpwards(System.String,UnityEngine.SendMessageOptions)
-extern "C" void Component_SendMessageUpwards_m5_741 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_SendMessageUpwards_m5_744 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___methodName;
 		int32_t L_1 = ___options;
-		Component_SendMessageUpwards_m5_738(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
+		Component_SendMessageUpwards_m5_741(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
-extern "C" void Component_SendMessage_m5_742 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_SendMessage_m5_745 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
 {
-	typedef void (*Component_SendMessage_m5_742_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
-	static Component_SendMessage_m5_742_ftn _il2cpp_icall_func;
+	typedef void (*Component_SendMessage_m5_745_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
+	static Component_SendMessage_m5_745_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_SendMessage_m5_742_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
+	_il2cpp_icall_func = (Component_SendMessage_m5_745_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
 	_il2cpp_icall_func(__this, ___methodName, ___value, ___options);
 }
 // System.Void UnityEngine.Component::SendMessage(System.String,System.Object)
-extern "C" void Component_SendMessage_m5_743 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
+extern "C" void Component_SendMessage_m5_746 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___value, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
@@ -13316,12 +13355,12 @@ extern "C" void Component_SendMessage_m5_743 (Component_t5_25 * __this, String_t
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = ___value;
 		int32_t L_2 = V_0;
-		Component_SendMessage_m5_742(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_SendMessage_m5_745(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::SendMessage(System.String)
-extern "C" void Component_SendMessage_m5_744 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" void Component_SendMessage_m5_747 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	Object_t * V_1 = {0};
@@ -13331,31 +13370,31 @@ extern "C" void Component_SendMessage_m5_744 (Component_t5_25 * __this, String_t
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = V_1;
 		int32_t L_2 = V_0;
-		Component_SendMessage_m5_742(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_SendMessage_m5_745(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::SendMessage(System.String,UnityEngine.SendMessageOptions)
-extern "C" void Component_SendMessage_m5_745 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_SendMessage_m5_748 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___methodName;
 		int32_t L_1 = ___options;
-		Component_SendMessage_m5_742(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
+		Component_SendMessage_m5_745(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::BroadcastMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
-extern "C" void Component_BroadcastMessage_m5_746 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___parameter, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_BroadcastMessage_m5_749 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___parameter, int32_t ___options, const MethodInfo* method)
 {
-	typedef void (*Component_BroadcastMessage_m5_746_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
-	static Component_BroadcastMessage_m5_746_ftn _il2cpp_icall_func;
+	typedef void (*Component_BroadcastMessage_m5_749_ftn) (Component_t5_25 *, String_t*, Object_t *, int32_t);
+	static Component_BroadcastMessage_m5_749_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Component_BroadcastMessage_m5_746_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::BroadcastMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
+	_il2cpp_icall_func = (Component_BroadcastMessage_m5_749_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Component::BroadcastMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
 	_il2cpp_icall_func(__this, ___methodName, ___parameter, ___options);
 }
 // System.Void UnityEngine.Component::BroadcastMessage(System.String,System.Object)
-extern "C" void Component_BroadcastMessage_m5_747 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___parameter, const MethodInfo* method)
+extern "C" void Component_BroadcastMessage_m5_750 (Component_t5_25 * __this, String_t* ___methodName, Object_t * ___parameter, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
@@ -13363,12 +13402,12 @@ extern "C" void Component_BroadcastMessage_m5_747 (Component_t5_25 * __this, Str
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = ___parameter;
 		int32_t L_2 = V_0;
-		Component_BroadcastMessage_m5_746(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_BroadcastMessage_m5_749(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::BroadcastMessage(System.String)
-extern "C" void Component_BroadcastMessage_m5_748 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
+extern "C" void Component_BroadcastMessage_m5_751 (Component_t5_25 * __this, String_t* ___methodName, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	Object_t * V_1 = {0};
@@ -13378,296 +13417,296 @@ extern "C" void Component_BroadcastMessage_m5_748 (Component_t5_25 * __this, Str
 		String_t* L_0 = ___methodName;
 		Object_t * L_1 = V_1;
 		int32_t L_2 = V_0;
-		Component_BroadcastMessage_m5_746(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
+		Component_BroadcastMessage_m5_749(__this, L_0, L_1, L_2, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Component::BroadcastMessage(System.String,UnityEngine.SendMessageOptions)
-extern "C" void Component_BroadcastMessage_m5_749 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
+extern "C" void Component_BroadcastMessage_m5_752 (Component_t5_25 * __this, String_t* ___methodName, int32_t ___options, const MethodInfo* method)
 {
 	{
 		String_t* L_0 = ___methodName;
 		int32_t L_1 = ___options;
-		Component_BroadcastMessage_m5_746(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
+		Component_BroadcastMessage_m5_749(__this, L_0, NULL, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Color UnityEngine.Light::get_color()
-extern "C" Color_t5_164  Light_get_color_m5_750 (Light_t5_99 * __this, const MethodInfo* method)
+extern "C" Color_t5_165  Light_get_color_m5_753 (Light_t5_100 * __this, const MethodInfo* method)
 {
-	Color_t5_164  V_0 = {0};
+	Color_t5_165  V_0 = {0};
 	{
-		Light_INTERNAL_get_color_m5_752(__this, (&V_0), /*hidden argument*/NULL);
-		Color_t5_164  L_0 = V_0;
+		Light_INTERNAL_get_color_m5_755(__this, (&V_0), /*hidden argument*/NULL);
+		Color_t5_165  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Light::set_color(UnityEngine.Color)
-extern "C" void Light_set_color_m5_751 (Light_t5_99 * __this, Color_t5_164  ___value, const MethodInfo* method)
+extern "C" void Light_set_color_m5_754 (Light_t5_100 * __this, Color_t5_165  ___value, const MethodInfo* method)
 {
 	{
-		Light_INTERNAL_set_color_m5_753(__this, (&___value), /*hidden argument*/NULL);
+		Light_INTERNAL_set_color_m5_756(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Light::INTERNAL_get_color(UnityEngine.Color&)
-extern "C" void Light_INTERNAL_get_color_m5_752 (Light_t5_99 * __this, Color_t5_164 * ___value, const MethodInfo* method)
+extern "C" void Light_INTERNAL_get_color_m5_755 (Light_t5_100 * __this, Color_t5_165 * ___value, const MethodInfo* method)
 {
-	typedef void (*Light_INTERNAL_get_color_m5_752_ftn) (Light_t5_99 *, Color_t5_164 *);
-	static Light_INTERNAL_get_color_m5_752_ftn _il2cpp_icall_func;
+	typedef void (*Light_INTERNAL_get_color_m5_755_ftn) (Light_t5_100 *, Color_t5_165 *);
+	static Light_INTERNAL_get_color_m5_755_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Light_INTERNAL_get_color_m5_752_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Light::INTERNAL_get_color(UnityEngine.Color&)");
+	_il2cpp_icall_func = (Light_INTERNAL_get_color_m5_755_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Light::INTERNAL_get_color(UnityEngine.Color&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Light::INTERNAL_set_color(UnityEngine.Color&)
-extern "C" void Light_INTERNAL_set_color_m5_753 (Light_t5_99 * __this, Color_t5_164 * ___value, const MethodInfo* method)
+extern "C" void Light_INTERNAL_set_color_m5_756 (Light_t5_100 * __this, Color_t5_165 * ___value, const MethodInfo* method)
 {
-	typedef void (*Light_INTERNAL_set_color_m5_753_ftn) (Light_t5_99 *, Color_t5_164 *);
-	static Light_INTERNAL_set_color_m5_753_ftn _il2cpp_icall_func;
+	typedef void (*Light_INTERNAL_set_color_m5_756_ftn) (Light_t5_100 *, Color_t5_165 *);
+	static Light_INTERNAL_set_color_m5_756_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Light_INTERNAL_set_color_m5_753_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Light::INTERNAL_set_color(UnityEngine.Color&)");
+	_il2cpp_icall_func = (Light_INTERNAL_set_color_m5_756_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Light::INTERNAL_set_color(UnityEngine.Color&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.GameObject::.ctor(System.String)
-extern "C" void GameObject__ctor_m5_754 (GameObject_t5_100 * __this, String_t* ___name, const MethodInfo* method)
+extern "C" void GameObject__ctor_m5_757 (GameObject_t5_101 * __this, String_t* ___name, const MethodInfo* method)
 {
 	{
-		Object__ctor_m5_686(__this, /*hidden argument*/NULL);
+		Object__ctor_m5_689(__this, /*hidden argument*/NULL);
 		String_t* L_0 = ___name;
-		GameObject_Internal_CreateGameObject_m5_775(NULL /*static, unused*/, __this, L_0, /*hidden argument*/NULL);
+		GameObject_Internal_CreateGameObject_m5_778(NULL /*static, unused*/, __this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Component UnityEngine.GameObject::GetComponent(System.Type)
-extern "C" Component_t5_25 * GameObject_GetComponent_m5_755 (GameObject_t5_100 * __this, Type_t * ___type, const MethodInfo* method)
+extern "C" Component_t5_25 * GameObject_GetComponent_m5_758 (GameObject_t5_101 * __this, Type_t * ___type, const MethodInfo* method)
 {
-	typedef Component_t5_25 * (*GameObject_GetComponent_m5_755_ftn) (GameObject_t5_100 *, Type_t *);
-	static GameObject_GetComponent_m5_755_ftn _il2cpp_icall_func;
+	typedef Component_t5_25 * (*GameObject_GetComponent_m5_758_ftn) (GameObject_t5_101 *, Type_t *);
+	static GameObject_GetComponent_m5_758_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_GetComponent_m5_755_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponent(System.Type)");
+	_il2cpp_icall_func = (GameObject_GetComponent_m5_758_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponent(System.Type)");
 	return _il2cpp_icall_func(__this, ___type);
 }
 // System.Void UnityEngine.GameObject::GetComponentFastPath(System.Type,System.IntPtr)
-extern "C" void GameObject_GetComponentFastPath_m5_756 (GameObject_t5_100 * __this, Type_t * ___type, IntPtr_t ___oneFurtherThanResultValue, const MethodInfo* method)
+extern "C" void GameObject_GetComponentFastPath_m5_759 (GameObject_t5_101 * __this, Type_t * ___type, IntPtr_t ___oneFurtherThanResultValue, const MethodInfo* method)
 {
-	typedef void (*GameObject_GetComponentFastPath_m5_756_ftn) (GameObject_t5_100 *, Type_t *, IntPtr_t);
-	static GameObject_GetComponentFastPath_m5_756_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_GetComponentFastPath_m5_759_ftn) (GameObject_t5_101 *, Type_t *, IntPtr_t);
+	static GameObject_GetComponentFastPath_m5_759_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_GetComponentFastPath_m5_756_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentFastPath(System.Type,System.IntPtr)");
+	_il2cpp_icall_func = (GameObject_GetComponentFastPath_m5_759_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentFastPath(System.Type,System.IntPtr)");
 	_il2cpp_icall_func(__this, ___type, ___oneFurtherThanResultValue);
 }
 // UnityEngine.Component UnityEngine.GameObject::GetComponentInChildren(System.Type,System.Boolean)
-extern "C" Component_t5_25 * GameObject_GetComponentInChildren_m5_757 (GameObject_t5_100 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
+extern "C" Component_t5_25 * GameObject_GetComponentInChildren_m5_760 (GameObject_t5_101 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
 {
-	typedef Component_t5_25 * (*GameObject_GetComponentInChildren_m5_757_ftn) (GameObject_t5_100 *, Type_t *, bool);
-	static GameObject_GetComponentInChildren_m5_757_ftn _il2cpp_icall_func;
+	typedef Component_t5_25 * (*GameObject_GetComponentInChildren_m5_760_ftn) (GameObject_t5_101 *, Type_t *, bool);
+	static GameObject_GetComponentInChildren_m5_760_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_GetComponentInChildren_m5_757_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentInChildren(System.Type,System.Boolean)");
+	_il2cpp_icall_func = (GameObject_GetComponentInChildren_m5_760_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentInChildren(System.Type,System.Boolean)");
 	return _il2cpp_icall_func(__this, ___type, ___includeInactive);
 }
 // UnityEngine.Component UnityEngine.GameObject::GetComponentInParent(System.Type)
-extern "C" Component_t5_25 * GameObject_GetComponentInParent_m5_758 (GameObject_t5_100 * __this, Type_t * ___type, const MethodInfo* method)
+extern "C" Component_t5_25 * GameObject_GetComponentInParent_m5_761 (GameObject_t5_101 * __this, Type_t * ___type, const MethodInfo* method)
 {
-	typedef Component_t5_25 * (*GameObject_GetComponentInParent_m5_758_ftn) (GameObject_t5_100 *, Type_t *);
-	static GameObject_GetComponentInParent_m5_758_ftn _il2cpp_icall_func;
+	typedef Component_t5_25 * (*GameObject_GetComponentInParent_m5_761_ftn) (GameObject_t5_101 *, Type_t *);
+	static GameObject_GetComponentInParent_m5_761_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_GetComponentInParent_m5_758_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentInParent(System.Type)");
+	_il2cpp_icall_func = (GameObject_GetComponentInParent_m5_761_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentInParent(System.Type)");
 	return _il2cpp_icall_func(__this, ___type);
 }
 // UnityEngine.Component[] UnityEngine.GameObject::GetComponents(System.Type)
-extern TypeInfo* ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var;
-extern "C" ComponentU5BU5D_t5_293* GameObject_GetComponents_m5_759 (GameObject_t5_100 * __this, Type_t * ___type, const MethodInfo* method)
+extern TypeInfo* ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var;
+extern "C" ComponentU5BU5D_t5_294* GameObject_GetComponents_m5_762 (GameObject_t5_101 * __this, Type_t * ___type, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
+		ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Type_t * L_0 = ___type;
-		Array_t * L_1 = GameObject_GetComponentsInternal_m5_762(__this, L_0, 0, 0, 1, 0, NULL, /*hidden argument*/NULL);
-		return ((ComponentU5BU5D_t5_293*)Castclass(L_1, ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var));
+		Array_t * L_1 = GameObject_GetComponentsInternal_m5_765(__this, L_0, 0, 0, 1, 0, NULL, /*hidden argument*/NULL);
+		return ((ComponentU5BU5D_t5_294*)Castclass(L_1, ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var));
 	}
 }
 // UnityEngine.Component[] UnityEngine.GameObject::GetComponentsInChildren(System.Type,System.Boolean)
-extern TypeInfo* ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var;
-extern "C" ComponentU5BU5D_t5_293* GameObject_GetComponentsInChildren_m5_760 (GameObject_t5_100 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
+extern TypeInfo* ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var;
+extern "C" ComponentU5BU5D_t5_294* GameObject_GetComponentsInChildren_m5_763 (GameObject_t5_101 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
+		ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Type_t * L_0 = ___type;
 		bool L_1 = ___includeInactive;
-		Array_t * L_2 = GameObject_GetComponentsInternal_m5_762(__this, L_0, 0, 1, L_1, 0, NULL, /*hidden argument*/NULL);
-		return ((ComponentU5BU5D_t5_293*)Castclass(L_2, ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var));
+		Array_t * L_2 = GameObject_GetComponentsInternal_m5_765(__this, L_0, 0, 1, L_1, 0, NULL, /*hidden argument*/NULL);
+		return ((ComponentU5BU5D_t5_294*)Castclass(L_2, ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var));
 	}
 }
 // UnityEngine.Component[] UnityEngine.GameObject::GetComponentsInParent(System.Type,System.Boolean)
-extern TypeInfo* ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var;
-extern "C" ComponentU5BU5D_t5_293* GameObject_GetComponentsInParent_m5_761 (GameObject_t5_100 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
+extern TypeInfo* ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var;
+extern "C" ComponentU5BU5D_t5_294* GameObject_GetComponentsInParent_m5_764 (GameObject_t5_101 * __this, Type_t * ___type, bool ___includeInactive, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
+		ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(880);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
 		Type_t * L_0 = ___type;
 		bool L_1 = ___includeInactive;
-		Array_t * L_2 = GameObject_GetComponentsInternal_m5_762(__this, L_0, 0, 1, L_1, 1, NULL, /*hidden argument*/NULL);
-		return ((ComponentU5BU5D_t5_293*)Castclass(L_2, ComponentU5BU5D_t5_293_il2cpp_TypeInfo_var));
+		Array_t * L_2 = GameObject_GetComponentsInternal_m5_765(__this, L_0, 0, 1, L_1, 1, NULL, /*hidden argument*/NULL);
+		return ((ComponentU5BU5D_t5_294*)Castclass(L_2, ComponentU5BU5D_t5_294_il2cpp_TypeInfo_var));
 	}
 }
 // System.Array UnityEngine.GameObject::GetComponentsInternal(System.Type,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Object)
-extern "C" Array_t * GameObject_GetComponentsInternal_m5_762 (GameObject_t5_100 * __this, Type_t * ___type, bool ___useSearchTypeAsArrayReturnType, bool ___recursive, bool ___includeInactive, bool ___reverse, Object_t * ___resultList, const MethodInfo* method)
+extern "C" Array_t * GameObject_GetComponentsInternal_m5_765 (GameObject_t5_101 * __this, Type_t * ___type, bool ___useSearchTypeAsArrayReturnType, bool ___recursive, bool ___includeInactive, bool ___reverse, Object_t * ___resultList, const MethodInfo* method)
 {
-	typedef Array_t * (*GameObject_GetComponentsInternal_m5_762_ftn) (GameObject_t5_100 *, Type_t *, bool, bool, bool, bool, Object_t *);
-	static GameObject_GetComponentsInternal_m5_762_ftn _il2cpp_icall_func;
+	typedef Array_t * (*GameObject_GetComponentsInternal_m5_765_ftn) (GameObject_t5_101 *, Type_t *, bool, bool, bool, bool, Object_t *);
+	static GameObject_GetComponentsInternal_m5_765_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_GetComponentsInternal_m5_762_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentsInternal(System.Type,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Object)");
+	_il2cpp_icall_func = (GameObject_GetComponentsInternal_m5_765_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::GetComponentsInternal(System.Type,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Object)");
 	return _il2cpp_icall_func(__this, ___type, ___useSearchTypeAsArrayReturnType, ___recursive, ___includeInactive, ___reverse, ___resultList);
 }
 // UnityEngine.Transform UnityEngine.GameObject::get_transform()
-extern "C" Transform_t5_71 * GameObject_get_transform_m5_763 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" Transform_t5_71 * GameObject_get_transform_m5_766 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*GameObject_get_transform_m5_763_ftn) (GameObject_t5_100 *);
-	static GameObject_get_transform_m5_763_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*GameObject_get_transform_m5_766_ftn) (GameObject_t5_101 *);
+	static GameObject_get_transform_m5_766_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_get_transform_m5_763_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_transform()");
+	_il2cpp_icall_func = (GameObject_get_transform_m5_766_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_transform()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Int32 UnityEngine.GameObject::get_layer()
-extern "C" int32_t GameObject_get_layer_m5_764 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" int32_t GameObject_get_layer_m5_767 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*GameObject_get_layer_m5_764_ftn) (GameObject_t5_100 *);
-	static GameObject_get_layer_m5_764_ftn _il2cpp_icall_func;
+	typedef int32_t (*GameObject_get_layer_m5_767_ftn) (GameObject_t5_101 *);
+	static GameObject_get_layer_m5_767_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_get_layer_m5_764_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_layer()");
+	_il2cpp_icall_func = (GameObject_get_layer_m5_767_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_layer()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.GameObject::set_layer(System.Int32)
-extern "C" void GameObject_set_layer_m5_765 (GameObject_t5_100 * __this, int32_t ___value, const MethodInfo* method)
+extern "C" void GameObject_set_layer_m5_768 (GameObject_t5_101 * __this, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*GameObject_set_layer_m5_765_ftn) (GameObject_t5_100 *, int32_t);
-	static GameObject_set_layer_m5_765_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_set_layer_m5_768_ftn) (GameObject_t5_101 *, int32_t);
+	static GameObject_set_layer_m5_768_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_set_layer_m5_765_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::set_layer(System.Int32)");
+	_il2cpp_icall_func = (GameObject_set_layer_m5_768_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::set_layer(System.Int32)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.GameObject::SetActive(System.Boolean)
-extern "C" void GameObject_SetActive_m5_766 (GameObject_t5_100 * __this, bool ___value, const MethodInfo* method)
+extern "C" void GameObject_SetActive_m5_769 (GameObject_t5_101 * __this, bool ___value, const MethodInfo* method)
 {
-	typedef void (*GameObject_SetActive_m5_766_ftn) (GameObject_t5_100 *, bool);
-	static GameObject_SetActive_m5_766_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_SetActive_m5_769_ftn) (GameObject_t5_101 *, bool);
+	static GameObject_SetActive_m5_769_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_SetActive_m5_766_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::SetActive(System.Boolean)");
+	_il2cpp_icall_func = (GameObject_SetActive_m5_769_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::SetActive(System.Boolean)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Boolean UnityEngine.GameObject::get_activeSelf()
-extern "C" bool GameObject_get_activeSelf_m5_767 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" bool GameObject_get_activeSelf_m5_770 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
-	typedef bool (*GameObject_get_activeSelf_m5_767_ftn) (GameObject_t5_100 *);
-	static GameObject_get_activeSelf_m5_767_ftn _il2cpp_icall_func;
+	typedef bool (*GameObject_get_activeSelf_m5_770_ftn) (GameObject_t5_101 *);
+	static GameObject_get_activeSelf_m5_770_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_get_activeSelf_m5_767_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_activeSelf()");
+	_il2cpp_icall_func = (GameObject_get_activeSelf_m5_770_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_activeSelf()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Boolean UnityEngine.GameObject::get_activeInHierarchy()
-extern "C" bool GameObject_get_activeInHierarchy_m5_768 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" bool GameObject_get_activeInHierarchy_m5_771 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
-	typedef bool (*GameObject_get_activeInHierarchy_m5_768_ftn) (GameObject_t5_100 *);
-	static GameObject_get_activeInHierarchy_m5_768_ftn _il2cpp_icall_func;
+	typedef bool (*GameObject_get_activeInHierarchy_m5_771_ftn) (GameObject_t5_101 *);
+	static GameObject_get_activeInHierarchy_m5_771_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_get_activeInHierarchy_m5_768_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_activeInHierarchy()");
+	_il2cpp_icall_func = (GameObject_get_activeInHierarchy_m5_771_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_activeInHierarchy()");
 	return _il2cpp_icall_func(__this);
 }
 // System.String UnityEngine.GameObject::get_tag()
-extern "C" String_t* GameObject_get_tag_m5_769 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" String_t* GameObject_get_tag_m5_772 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
-	typedef String_t* (*GameObject_get_tag_m5_769_ftn) (GameObject_t5_100 *);
-	static GameObject_get_tag_m5_769_ftn _il2cpp_icall_func;
+	typedef String_t* (*GameObject_get_tag_m5_772_ftn) (GameObject_t5_101 *);
+	static GameObject_get_tag_m5_772_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_get_tag_m5_769_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_tag()");
+	_il2cpp_icall_func = (GameObject_get_tag_m5_772_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::get_tag()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.GameObject::set_tag(System.String)
-extern "C" void GameObject_set_tag_m5_770 (GameObject_t5_100 * __this, String_t* ___value, const MethodInfo* method)
+extern "C" void GameObject_set_tag_m5_773 (GameObject_t5_101 * __this, String_t* ___value, const MethodInfo* method)
 {
-	typedef void (*GameObject_set_tag_m5_770_ftn) (GameObject_t5_100 *, String_t*);
-	static GameObject_set_tag_m5_770_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_set_tag_m5_773_ftn) (GameObject_t5_101 *, String_t*);
+	static GameObject_set_tag_m5_773_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_set_tag_m5_770_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::set_tag(System.String)");
+	_il2cpp_icall_func = (GameObject_set_tag_m5_773_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::set_tag(System.String)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.GameObject UnityEngine.GameObject::FindGameObjectWithTag(System.String)
-extern "C" GameObject_t5_100 * GameObject_FindGameObjectWithTag_m5_771 (Object_t * __this /* static, unused */, String_t* ___tag, const MethodInfo* method)
+extern "C" GameObject_t5_101 * GameObject_FindGameObjectWithTag_m5_774 (Object_t * __this /* static, unused */, String_t* ___tag, const MethodInfo* method)
 {
-	typedef GameObject_t5_100 * (*GameObject_FindGameObjectWithTag_m5_771_ftn) (String_t*);
-	static GameObject_FindGameObjectWithTag_m5_771_ftn _il2cpp_icall_func;
+	typedef GameObject_t5_101 * (*GameObject_FindGameObjectWithTag_m5_774_ftn) (String_t*);
+	static GameObject_FindGameObjectWithTag_m5_774_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_FindGameObjectWithTag_m5_771_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::FindGameObjectWithTag(System.String)");
+	_il2cpp_icall_func = (GameObject_FindGameObjectWithTag_m5_774_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::FindGameObjectWithTag(System.String)");
 	return _il2cpp_icall_func(___tag);
 }
 // System.Void UnityEngine.GameObject::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)
-extern "C" void GameObject_SendMessage_m5_772 (GameObject_t5_100 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
+extern "C" void GameObject_SendMessage_m5_775 (GameObject_t5_101 * __this, String_t* ___methodName, Object_t * ___value, int32_t ___options, const MethodInfo* method)
 {
-	typedef void (*GameObject_SendMessage_m5_772_ftn) (GameObject_t5_100 *, String_t*, Object_t *, int32_t);
-	static GameObject_SendMessage_m5_772_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_SendMessage_m5_775_ftn) (GameObject_t5_101 *, String_t*, Object_t *, int32_t);
+	static GameObject_SendMessage_m5_775_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_SendMessage_m5_772_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
+	_il2cpp_icall_func = (GameObject_SendMessage_m5_775_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::SendMessage(System.String,System.Object,UnityEngine.SendMessageOptions)");
 	_il2cpp_icall_func(__this, ___methodName, ___value, ___options);
 }
 // UnityEngine.Component UnityEngine.GameObject::Internal_AddComponentWithType(System.Type)
-extern "C" Component_t5_25 * GameObject_Internal_AddComponentWithType_m5_773 (GameObject_t5_100 * __this, Type_t * ___componentType, const MethodInfo* method)
+extern "C" Component_t5_25 * GameObject_Internal_AddComponentWithType_m5_776 (GameObject_t5_101 * __this, Type_t * ___componentType, const MethodInfo* method)
 {
-	typedef Component_t5_25 * (*GameObject_Internal_AddComponentWithType_m5_773_ftn) (GameObject_t5_100 *, Type_t *);
-	static GameObject_Internal_AddComponentWithType_m5_773_ftn _il2cpp_icall_func;
+	typedef Component_t5_25 * (*GameObject_Internal_AddComponentWithType_m5_776_ftn) (GameObject_t5_101 *, Type_t *);
+	static GameObject_Internal_AddComponentWithType_m5_776_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_Internal_AddComponentWithType_m5_773_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Internal_AddComponentWithType(System.Type)");
+	_il2cpp_icall_func = (GameObject_Internal_AddComponentWithType_m5_776_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Internal_AddComponentWithType(System.Type)");
 	return _il2cpp_icall_func(__this, ___componentType);
 }
 // UnityEngine.Component UnityEngine.GameObject::AddComponent(System.Type)
-extern "C" Component_t5_25 * GameObject_AddComponent_m5_774 (GameObject_t5_100 * __this, Type_t * ___componentType, const MethodInfo* method)
+extern "C" Component_t5_25 * GameObject_AddComponent_m5_777 (GameObject_t5_101 * __this, Type_t * ___componentType, const MethodInfo* method)
 {
 	{
 		Type_t * L_0 = ___componentType;
-		Component_t5_25 * L_1 = GameObject_Internal_AddComponentWithType_m5_773(__this, L_0, /*hidden argument*/NULL);
+		Component_t5_25 * L_1 = GameObject_Internal_AddComponentWithType_m5_776(__this, L_0, /*hidden argument*/NULL);
 		return L_1;
 	}
 }
 // System.Void UnityEngine.GameObject::Internal_CreateGameObject(UnityEngine.GameObject,System.String)
-extern "C" void GameObject_Internal_CreateGameObject_m5_775 (Object_t * __this /* static, unused */, GameObject_t5_100 * ___mono, String_t* ___name, const MethodInfo* method)
+extern "C" void GameObject_Internal_CreateGameObject_m5_778 (Object_t * __this /* static, unused */, GameObject_t5_101 * ___mono, String_t* ___name, const MethodInfo* method)
 {
-	typedef void (*GameObject_Internal_CreateGameObject_m5_775_ftn) (GameObject_t5_100 *, String_t*);
-	static GameObject_Internal_CreateGameObject_m5_775_ftn _il2cpp_icall_func;
+	typedef void (*GameObject_Internal_CreateGameObject_m5_778_ftn) (GameObject_t5_101 *, String_t*);
+	static GameObject_Internal_CreateGameObject_m5_778_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_Internal_CreateGameObject_m5_775_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Internal_CreateGameObject(UnityEngine.GameObject,System.String)");
+	_il2cpp_icall_func = (GameObject_Internal_CreateGameObject_m5_778_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Internal_CreateGameObject(UnityEngine.GameObject,System.String)");
 	_il2cpp_icall_func(___mono, ___name);
 }
 // UnityEngine.GameObject UnityEngine.GameObject::Find(System.String)
-extern "C" GameObject_t5_100 * GameObject_Find_m5_776 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
+extern "C" GameObject_t5_101 * GameObject_Find_m5_779 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method)
 {
-	typedef GameObject_t5_100 * (*GameObject_Find_m5_776_ftn) (String_t*);
-	static GameObject_Find_m5_776_ftn _il2cpp_icall_func;
+	typedef GameObject_t5_101 * (*GameObject_Find_m5_779_ftn) (String_t*);
+	static GameObject_Find_m5_779_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (GameObject_Find_m5_776_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Find(System.String)");
+	_il2cpp_icall_func = (GameObject_Find_m5_779_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::Find(System.String)");
 	return _il2cpp_icall_func(___name);
 }
 // UnityEngine.GameObject UnityEngine.GameObject::get_gameObject()
-extern "C" GameObject_t5_100 * GameObject_get_gameObject_m5_777 (GameObject_t5_100 * __this, const MethodInfo* method)
+extern "C" GameObject_t5_101 * GameObject_get_gameObject_m5_780 (GameObject_t5_101 * __this, const MethodInfo* method)
 {
 	{
 		return __this;
 	}
 }
 // System.Void UnityEngine.Transform/Enumerator::.ctor(UnityEngine.Transform)
-extern "C" void Enumerator__ctor_m5_778 (Enumerator_t5_101 * __this, Transform_t5_71 * ___outer, const MethodInfo* method)
+extern "C" void Enumerator__ctor_m5_781 (Enumerator_t5_102 * __this, Transform_t5_71 * ___outer, const MethodInfo* method)
 {
 	{
 		__this->___currentIndex_1 = (-1);
@@ -13678,25 +13717,25 @@ extern "C" void Enumerator__ctor_m5_778 (Enumerator_t5_101 * __this, Transform_t
 	}
 }
 // System.Object UnityEngine.Transform/Enumerator::get_Current()
-extern "C" Object_t * Enumerator_get_Current_m5_779 (Enumerator_t5_101 * __this, const MethodInfo* method)
+extern "C" Object_t * Enumerator_get_Current_m5_782 (Enumerator_t5_102 * __this, const MethodInfo* method)
 {
 	{
 		Transform_t5_71 * L_0 = (__this->___outer_0);
 		int32_t L_1 = (__this->___currentIndex_1);
 		NullCheck(L_0);
-		Transform_t5_71 * L_2 = Transform_GetChild_m5_828(L_0, L_1, /*hidden argument*/NULL);
+		Transform_t5_71 * L_2 = Transform_GetChild_m5_831(L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Boolean UnityEngine.Transform/Enumerator::MoveNext()
-extern "C" bool Enumerator_MoveNext_m5_780 (Enumerator_t5_101 * __this, const MethodInfo* method)
+extern "C" bool Enumerator_MoveNext_m5_783 (Enumerator_t5_102 * __this, const MethodInfo* method)
 {
 	int32_t V_0 = 0;
 	int32_t V_1 = 0;
 	{
 		Transform_t5_71 * L_0 = (__this->___outer_0);
 		NullCheck(L_0);
-		int32_t L_1 = Transform_get_childCount_m5_822(L_0, /*hidden argument*/NULL);
+		int32_t L_1 = Transform_get_childCount_m5_825(L_0, /*hidden argument*/NULL);
 		V_0 = L_1;
 		int32_t L_2 = (__this->___currentIndex_1);
 		int32_t L_3 = ((int32_t)((int32_t)L_2+(int32_t)1));
@@ -13708,7 +13747,7 @@ extern "C" bool Enumerator_MoveNext_m5_780 (Enumerator_t5_101 * __this, const Me
 	}
 }
 // System.Void UnityEngine.Transform/Enumerator::Reset()
-extern "C" void Enumerator_Reset_m5_781 (Enumerator_t5_101 * __this, const MethodInfo* method)
+extern "C" void Enumerator_Reset_m5_784 (Enumerator_t5_102 * __this, const MethodInfo* method)
 {
 	{
 		__this->___currentIndex_1 = (-1);
@@ -13716,214 +13755,214 @@ extern "C" void Enumerator_Reset_m5_781 (Enumerator_t5_101 * __this, const Metho
 	}
 }
 // UnityEngine.Vector3 UnityEngine.Transform::get_position()
-extern "C" Vector3_t5_45  Transform_get_position_m5_782 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_get_position_m5_785 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_get_position_m5_784(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_position_m5_787(__this, (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_position(UnityEngine.Vector3)
-extern "C" void Transform_set_position_m5_783 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
+extern "C" void Transform_set_position_m5_786 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
 {
 	{
-		Transform_INTERNAL_set_position_m5_785(__this, (&___value), /*hidden argument*/NULL);
+		Transform_INTERNAL_set_position_m5_788(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_position(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_get_position_m5_784 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_position_m5_787 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_position_m5_784_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_get_position_m5_784_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_position_m5_787_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_get_position_m5_787_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_position_m5_784_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_position(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_position_m5_787_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_position(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::INTERNAL_set_position(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_set_position_m5_785 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_set_position_m5_788 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_set_position_m5_785_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_set_position_m5_785_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_set_position_m5_788_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_set_position_m5_788_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_set_position_m5_785_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_position(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_set_position_m5_788_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_position(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Vector3 UnityEngine.Transform::get_localPosition()
-extern "C" Vector3_t5_45  Transform_get_localPosition_m5_786 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_get_localPosition_m5_789 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_get_localPosition_m5_788(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_localPosition_m5_791(__this, (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_localPosition(UnityEngine.Vector3)
-extern "C" void Transform_set_localPosition_m5_787 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
+extern "C" void Transform_set_localPosition_m5_790 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
 {
 	{
-		Transform_INTERNAL_set_localPosition_m5_789(__this, (&___value), /*hidden argument*/NULL);
+		Transform_INTERNAL_set_localPosition_m5_792(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_localPosition(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_get_localPosition_m5_788 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_localPosition_m5_791 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_localPosition_m5_788_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_get_localPosition_m5_788_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_localPosition_m5_791_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_get_localPosition_m5_791_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_localPosition_m5_788_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localPosition(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_localPosition_m5_791_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localPosition(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::INTERNAL_set_localPosition(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_set_localPosition_m5_789 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_set_localPosition_m5_792 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_set_localPosition_m5_789_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_set_localPosition_m5_789_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_set_localPosition_m5_792_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_set_localPosition_m5_792_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_set_localPosition_m5_789_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localPosition(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_set_localPosition_m5_792_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localPosition(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Vector3 UnityEngine.Transform::get_forward()
-extern "C" Vector3_t5_45  Transform_get_forward_m5_790 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_get_forward_m5_793 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	{
-		Quaternion_t5_47  L_0 = Transform_get_rotation_m5_791(__this, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_0 = Transform_get_rotation_m5_794(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_1 = Vector3_get_forward_m5_235(NULL /*static, unused*/, /*hidden argument*/NULL);
 		Vector3_t5_45  L_2 = Quaternion_op_Multiply_m5_264(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // UnityEngine.Quaternion UnityEngine.Transform::get_rotation()
-extern "C" Quaternion_t5_47  Transform_get_rotation_m5_791 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Quaternion_t5_47  Transform_get_rotation_m5_794 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Quaternion_t5_47  V_0 = {0};
 	{
-		Transform_INTERNAL_get_rotation_m5_793(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_rotation_m5_796(__this, (&V_0), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_rotation(UnityEngine.Quaternion)
-extern "C" void Transform_set_rotation_m5_792 (Transform_t5_71 * __this, Quaternion_t5_47  ___value, const MethodInfo* method)
+extern "C" void Transform_set_rotation_m5_795 (Transform_t5_71 * __this, Quaternion_t5_47  ___value, const MethodInfo* method)
 {
 	{
-		Transform_INTERNAL_set_rotation_m5_794(__this, (&___value), /*hidden argument*/NULL);
+		Transform_INTERNAL_set_rotation_m5_797(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_rotation(UnityEngine.Quaternion&)
-extern "C" void Transform_INTERNAL_get_rotation_m5_793 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_rotation_m5_796 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_rotation_m5_793_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
-	static Transform_INTERNAL_get_rotation_m5_793_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_rotation_m5_796_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
+	static Transform_INTERNAL_get_rotation_m5_796_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_rotation_m5_793_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_rotation(UnityEngine.Quaternion&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_rotation_m5_796_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_rotation(UnityEngine.Quaternion&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::INTERNAL_set_rotation(UnityEngine.Quaternion&)
-extern "C" void Transform_INTERNAL_set_rotation_m5_794 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_set_rotation_m5_797 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_set_rotation_m5_794_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
-	static Transform_INTERNAL_set_rotation_m5_794_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_set_rotation_m5_797_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
+	static Transform_INTERNAL_set_rotation_m5_797_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_set_rotation_m5_794_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_rotation(UnityEngine.Quaternion&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_set_rotation_m5_797_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_rotation(UnityEngine.Quaternion&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Quaternion UnityEngine.Transform::get_localRotation()
-extern "C" Quaternion_t5_47  Transform_get_localRotation_m5_795 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Quaternion_t5_47  Transform_get_localRotation_m5_798 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Quaternion_t5_47  V_0 = {0};
 	{
-		Transform_INTERNAL_get_localRotation_m5_797(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_localRotation_m5_800(__this, (&V_0), /*hidden argument*/NULL);
 		Quaternion_t5_47  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_localRotation(UnityEngine.Quaternion)
-extern "C" void Transform_set_localRotation_m5_796 (Transform_t5_71 * __this, Quaternion_t5_47  ___value, const MethodInfo* method)
+extern "C" void Transform_set_localRotation_m5_799 (Transform_t5_71 * __this, Quaternion_t5_47  ___value, const MethodInfo* method)
 {
 	{
-		Transform_INTERNAL_set_localRotation_m5_798(__this, (&___value), /*hidden argument*/NULL);
+		Transform_INTERNAL_set_localRotation_m5_801(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_localRotation(UnityEngine.Quaternion&)
-extern "C" void Transform_INTERNAL_get_localRotation_m5_797 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_localRotation_m5_800 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_localRotation_m5_797_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
-	static Transform_INTERNAL_get_localRotation_m5_797_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_localRotation_m5_800_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
+	static Transform_INTERNAL_get_localRotation_m5_800_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_localRotation_m5_797_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localRotation(UnityEngine.Quaternion&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_localRotation_m5_800_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localRotation(UnityEngine.Quaternion&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::INTERNAL_set_localRotation(UnityEngine.Quaternion&)
-extern "C" void Transform_INTERNAL_set_localRotation_m5_798 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_set_localRotation_m5_801 (Transform_t5_71 * __this, Quaternion_t5_47 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_set_localRotation_m5_798_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
-	static Transform_INTERNAL_set_localRotation_m5_798_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_set_localRotation_m5_801_ftn) (Transform_t5_71 *, Quaternion_t5_47 *);
+	static Transform_INTERNAL_set_localRotation_m5_801_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_set_localRotation_m5_798_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localRotation(UnityEngine.Quaternion&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_set_localRotation_m5_801_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localRotation(UnityEngine.Quaternion&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Vector3 UnityEngine.Transform::get_localScale()
-extern "C" Vector3_t5_45  Transform_get_localScale_m5_799 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_get_localScale_m5_802 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_get_localScale_m5_801(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_localScale_m5_804(__this, (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_localScale(UnityEngine.Vector3)
-extern "C" void Transform_set_localScale_m5_800 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
+extern "C" void Transform_set_localScale_m5_803 (Transform_t5_71 * __this, Vector3_t5_45  ___value, const MethodInfo* method)
 {
 	{
-		Transform_INTERNAL_set_localScale_m5_802(__this, (&___value), /*hidden argument*/NULL);
+		Transform_INTERNAL_set_localScale_m5_805(__this, (&___value), /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_localScale(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_get_localScale_m5_801 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_localScale_m5_804 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_localScale_m5_801_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_get_localScale_m5_801_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_localScale_m5_804_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_get_localScale_m5_804_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_localScale_m5_801_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localScale(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_localScale_m5_804_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_localScale(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::INTERNAL_set_localScale(UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_set_localScale_m5_802 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_set_localScale_m5_805 (Transform_t5_71 * __this, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_set_localScale_m5_802_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_set_localScale_m5_802_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_set_localScale_m5_805_ftn) (Transform_t5_71 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_set_localScale_m5_805_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_set_localScale_m5_802_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localScale(UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_set_localScale_m5_805_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_set_localScale(UnityEngine.Vector3&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // UnityEngine.Transform UnityEngine.Transform::get_parent()
-extern "C" Transform_t5_71 * Transform_get_parent_m5_803 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Transform_t5_71 * Transform_get_parent_m5_806 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	{
-		Transform_t5_71 * L_0 = Transform_get_parentInternal_m5_805(__this, /*hidden argument*/NULL);
+		Transform_t5_71 * L_0 = Transform_get_parentInternal_m5_808(__this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::set_parent(UnityEngine.Transform)
 extern TypeInfo* RectTransform_t5_70_il2cpp_TypeInfo_var;
-extern TypeInfo* Debug_t5_87_il2cpp_TypeInfo_var;
+extern TypeInfo* Debug_t5_88_il2cpp_TypeInfo_var;
 extern Il2CppCodeGenString* _stringLiteral2526;
-extern "C" void Transform_set_parent_m5_804 (Transform_t5_71 * __this, Transform_t5_71 * ___value, const MethodInfo* method)
+extern "C" void Transform_set_parent_m5_807 (Transform_t5_71 * __this, Transform_t5_71 * ___value, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
 		RectTransform_t5_70_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(867);
-		Debug_t5_87_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
+		Debug_t5_88_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(826);
 		_stringLiteral2526 = il2cpp_codegen_string_literal_from_index(2526);
 		s_Il2CppMethodIntialized = true;
 	}
@@ -13934,86 +13973,86 @@ extern "C" void Transform_set_parent_m5_804 (Transform_t5_71 * __this, Transform
 		}
 	}
 	{
-		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_87_il2cpp_TypeInfo_var);
-		Debug_LogWarning_m5_622(NULL /*static, unused*/, _stringLiteral2526, __this, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Debug_t5_88_il2cpp_TypeInfo_var);
+		Debug_LogWarning_m5_625(NULL /*static, unused*/, _stringLiteral2526, __this, /*hidden argument*/NULL);
 	}
 
 IL_0016:
 	{
 		Transform_t5_71 * L_0 = ___value;
-		Transform_set_parentInternal_m5_806(__this, L_0, /*hidden argument*/NULL);
+		Transform_set_parentInternal_m5_809(__this, L_0, /*hidden argument*/NULL);
 		return;
 	}
 }
 // UnityEngine.Transform UnityEngine.Transform::get_parentInternal()
-extern "C" Transform_t5_71 * Transform_get_parentInternal_m5_805 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Transform_t5_71 * Transform_get_parentInternal_m5_808 (Transform_t5_71 * __this, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*Transform_get_parentInternal_m5_805_ftn) (Transform_t5_71 *);
-	static Transform_get_parentInternal_m5_805_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*Transform_get_parentInternal_m5_808_ftn) (Transform_t5_71 *);
+	static Transform_get_parentInternal_m5_808_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_get_parentInternal_m5_805_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_parentInternal()");
+	_il2cpp_icall_func = (Transform_get_parentInternal_m5_808_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_parentInternal()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Transform::set_parentInternal(UnityEngine.Transform)
-extern "C" void Transform_set_parentInternal_m5_806 (Transform_t5_71 * __this, Transform_t5_71 * ___value, const MethodInfo* method)
+extern "C" void Transform_set_parentInternal_m5_809 (Transform_t5_71 * __this, Transform_t5_71 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_set_parentInternal_m5_806_ftn) (Transform_t5_71 *, Transform_t5_71 *);
-	static Transform_set_parentInternal_m5_806_ftn _il2cpp_icall_func;
+	typedef void (*Transform_set_parentInternal_m5_809_ftn) (Transform_t5_71 *, Transform_t5_71 *);
+	static Transform_set_parentInternal_m5_809_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_set_parentInternal_m5_806_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::set_parentInternal(UnityEngine.Transform)");
+	_il2cpp_icall_func = (Transform_set_parentInternal_m5_809_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::set_parentInternal(UnityEngine.Transform)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::SetParent(UnityEngine.Transform)
-extern "C" void Transform_SetParent_m5_807 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, const MethodInfo* method)
+extern "C" void Transform_SetParent_m5_810 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, const MethodInfo* method)
 {
 	{
 		Transform_t5_71 * L_0 = ___parent;
-		Transform_SetParent_m5_808(__this, L_0, 1, /*hidden argument*/NULL);
+		Transform_SetParent_m5_811(__this, L_0, 1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::SetParent(UnityEngine.Transform,System.Boolean)
-extern "C" void Transform_SetParent_m5_808 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, bool ___worldPositionStays, const MethodInfo* method)
+extern "C" void Transform_SetParent_m5_811 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, bool ___worldPositionStays, const MethodInfo* method)
 {
-	typedef void (*Transform_SetParent_m5_808_ftn) (Transform_t5_71 *, Transform_t5_71 *, bool);
-	static Transform_SetParent_m5_808_ftn _il2cpp_icall_func;
+	typedef void (*Transform_SetParent_m5_811_ftn) (Transform_t5_71 *, Transform_t5_71 *, bool);
+	static Transform_SetParent_m5_811_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_SetParent_m5_808_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetParent(UnityEngine.Transform,System.Boolean)");
+	_il2cpp_icall_func = (Transform_SetParent_m5_811_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetParent(UnityEngine.Transform,System.Boolean)");
 	_il2cpp_icall_func(__this, ___parent, ___worldPositionStays);
 }
 // UnityEngine.Matrix4x4 UnityEngine.Transform::get_worldToLocalMatrix()
-extern "C" Matrix4x4_t5_49  Transform_get_worldToLocalMatrix_m5_809 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Matrix4x4_t5_49  Transform_get_worldToLocalMatrix_m5_812 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	Matrix4x4_t5_49  V_0 = {0};
 	{
-		Transform_INTERNAL_get_worldToLocalMatrix_m5_810(__this, (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_get_worldToLocalMatrix_m5_813(__this, (&V_0), /*hidden argument*/NULL);
 		Matrix4x4_t5_49  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_get_worldToLocalMatrix(UnityEngine.Matrix4x4&)
-extern "C" void Transform_INTERNAL_get_worldToLocalMatrix_m5_810 (Transform_t5_71 * __this, Matrix4x4_t5_49 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_get_worldToLocalMatrix_m5_813 (Transform_t5_71 * __this, Matrix4x4_t5_49 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_get_worldToLocalMatrix_m5_810_ftn) (Transform_t5_71 *, Matrix4x4_t5_49 *);
-	static Transform_INTERNAL_get_worldToLocalMatrix_m5_810_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_get_worldToLocalMatrix_m5_813_ftn) (Transform_t5_71 *, Matrix4x4_t5_49 *);
+	static Transform_INTERNAL_get_worldToLocalMatrix_m5_813_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_get_worldToLocalMatrix_m5_810_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_worldToLocalMatrix(UnityEngine.Matrix4x4&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_get_worldToLocalMatrix_m5_813_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_get_worldToLocalMatrix(UnityEngine.Matrix4x4&)");
 	_il2cpp_icall_func(__this, ___value);
 }
 // System.Void UnityEngine.Transform::Translate(UnityEngine.Vector3)
-extern "C" void Transform_Translate_m5_811 (Transform_t5_71 * __this, Vector3_t5_45  ___translation, const MethodInfo* method)
+extern "C" void Transform_Translate_m5_814 (Transform_t5_71 * __this, Vector3_t5_45  ___translation, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
 		V_0 = 1;
 		Vector3_t5_45  L_0 = ___translation;
 		int32_t L_1 = V_0;
-		Transform_Translate_m5_812(__this, L_0, L_1, /*hidden argument*/NULL);
+		Transform_Translate_m5_815(__this, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::Translate(UnityEngine.Vector3,UnityEngine.Space)
-extern "C" void Transform_Translate_m5_812 (Transform_t5_71 * __this, Vector3_t5_45  ___translation, int32_t ___relativeTo, const MethodInfo* method)
+extern "C" void Transform_Translate_m5_815 (Transform_t5_71 * __this, Vector3_t5_45  ___translation, int32_t ___relativeTo, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___relativeTo;
@@ -14023,20 +14062,20 @@ extern "C" void Transform_Translate_m5_812 (Transform_t5_71 * __this, Vector3_t5
 		}
 	}
 	{
-		Vector3_t5_45  L_1 = Transform_get_position_m5_782(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_1 = Transform_get_position_m5_785(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_2 = ___translation;
 		Vector3_t5_45  L_3 = Vector3_op_Addition_m5_241(NULL /*static, unused*/, L_1, L_2, /*hidden argument*/NULL);
-		Transform_set_position_m5_783(__this, L_3, /*hidden argument*/NULL);
+		Transform_set_position_m5_786(__this, L_3, /*hidden argument*/NULL);
 		goto IL_0035;
 	}
 
 IL_001d:
 	{
-		Vector3_t5_45  L_4 = Transform_get_position_m5_782(__this, /*hidden argument*/NULL);
+		Vector3_t5_45  L_4 = Transform_get_position_m5_785(__this, /*hidden argument*/NULL);
 		Vector3_t5_45  L_5 = ___translation;
-		Vector3_t5_45  L_6 = Transform_TransformDirection_m5_815(__this, L_5, /*hidden argument*/NULL);
+		Vector3_t5_45  L_6 = Transform_TransformDirection_m5_818(__this, L_5, /*hidden argument*/NULL);
 		Vector3_t5_45  L_7 = Vector3_op_Addition_m5_241(NULL /*static, unused*/, L_4, L_6, /*hidden argument*/NULL);
-		Transform_set_position_m5_783(__this, L_7, /*hidden argument*/NULL);
+		Transform_set_position_m5_786(__this, L_7, /*hidden argument*/NULL);
 	}
 
 IL_0035:
@@ -14045,19 +14084,19 @@ IL_0035:
 	}
 }
 // System.Void UnityEngine.Transform::Rotate(UnityEngine.Vector3)
-extern "C" void Transform_Rotate_m5_813 (Transform_t5_71 * __this, Vector3_t5_45  ___eulerAngles, const MethodInfo* method)
+extern "C" void Transform_Rotate_m5_816 (Transform_t5_71 * __this, Vector3_t5_45  ___eulerAngles, const MethodInfo* method)
 {
 	int32_t V_0 = {0};
 	{
 		V_0 = 1;
 		Vector3_t5_45  L_0 = ___eulerAngles;
 		int32_t L_1 = V_0;
-		Transform_Rotate_m5_814(__this, L_0, L_1, /*hidden argument*/NULL);
+		Transform_Rotate_m5_817(__this, L_0, L_1, /*hidden argument*/NULL);
 		return;
 	}
 }
 // System.Void UnityEngine.Transform::Rotate(UnityEngine.Vector3,UnityEngine.Space)
-extern "C" void Transform_Rotate_m5_814 (Transform_t5_71 * __this, Vector3_t5_45  ___eulerAngles, int32_t ___relativeTo, const MethodInfo* method)
+extern "C" void Transform_Rotate_m5_817 (Transform_t5_71 * __this, Vector3_t5_45  ___eulerAngles, int32_t ___relativeTo, const MethodInfo* method)
 {
 	Quaternion_t5_47  V_0 = {0};
 	{
@@ -14073,24 +14112,24 @@ extern "C" void Transform_Rotate_m5_814 (Transform_t5_71 * __this, Vector3_t5_45
 		}
 	}
 	{
-		Quaternion_t5_47  L_5 = Transform_get_localRotation_m5_795(__this, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_5 = Transform_get_localRotation_m5_798(__this, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_6 = V_0;
 		Quaternion_t5_47  L_7 = Quaternion_op_Multiply_m5_263(NULL /*static, unused*/, L_5, L_6, /*hidden argument*/NULL);
-		Transform_set_localRotation_m5_796(__this, L_7, /*hidden argument*/NULL);
+		Transform_set_localRotation_m5_799(__this, L_7, /*hidden argument*/NULL);
 		goto IL_0066;
 	}
 
 IL_0039:
 	{
-		Quaternion_t5_47  L_8 = Transform_get_rotation_m5_791(__this, /*hidden argument*/NULL);
-		Quaternion_t5_47  L_9 = Transform_get_rotation_m5_791(__this, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_8 = Transform_get_rotation_m5_794(__this, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_9 = Transform_get_rotation_m5_794(__this, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_10 = Quaternion_Inverse_m5_254(NULL /*static, unused*/, L_9, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_11 = V_0;
 		Quaternion_t5_47  L_12 = Quaternion_op_Multiply_m5_263(NULL /*static, unused*/, L_10, L_11, /*hidden argument*/NULL);
-		Quaternion_t5_47  L_13 = Transform_get_rotation_m5_791(__this, /*hidden argument*/NULL);
+		Quaternion_t5_47  L_13 = Transform_get_rotation_m5_794(__this, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_14 = Quaternion_op_Multiply_m5_263(NULL /*static, unused*/, L_12, L_13, /*hidden argument*/NULL);
 		Quaternion_t5_47  L_15 = Quaternion_op_Multiply_m5_263(NULL /*static, unused*/, L_8, L_14, /*hidden argument*/NULL);
-		Transform_set_rotation_m5_792(__this, L_15, /*hidden argument*/NULL);
+		Transform_set_rotation_m5_795(__this, L_15, /*hidden argument*/NULL);
 	}
 
 IL_0066:
@@ -14099,252 +14138,252 @@ IL_0066:
 	}
 }
 // UnityEngine.Vector3 UnityEngine.Transform::TransformDirection(UnityEngine.Vector3)
-extern "C" Vector3_t5_45  Transform_TransformDirection_m5_815 (Transform_t5_71 * __this, Vector3_t5_45  ___direction, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_TransformDirection_m5_818 (Transform_t5_71 * __this, Vector3_t5_45  ___direction, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_CALL_TransformDirection_m5_816(NULL /*static, unused*/, __this, (&___direction), (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_CALL_TransformDirection_m5_819(NULL /*static, unused*/, __this, (&___direction), (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_CALL_TransformDirection(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_CALL_TransformDirection_m5_816 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___direction, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_CALL_TransformDirection_m5_819 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___direction, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_CALL_TransformDirection_m5_816_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_CALL_TransformDirection_m5_816_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_CALL_TransformDirection_m5_819_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_CALL_TransformDirection_m5_819_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_CALL_TransformDirection_m5_816_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_TransformDirection(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_CALL_TransformDirection_m5_819_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_TransformDirection(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___self, ___direction, ___value);
 }
 // UnityEngine.Vector3 UnityEngine.Transform::TransformPoint(UnityEngine.Vector3)
-extern "C" Vector3_t5_45  Transform_TransformPoint_m5_817 (Transform_t5_71 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_TransformPoint_m5_820 (Transform_t5_71 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_CALL_TransformPoint_m5_818(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_CALL_TransformPoint_m5_821(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_CALL_TransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_CALL_TransformPoint_m5_818 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_CALL_TransformPoint_m5_821 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_CALL_TransformPoint_m5_818_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_CALL_TransformPoint_m5_818_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_CALL_TransformPoint_m5_821_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_CALL_TransformPoint_m5_821_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_CALL_TransformPoint_m5_818_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_TransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_CALL_TransformPoint_m5_821_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_TransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___self, ___position, ___value);
 }
 // UnityEngine.Vector3 UnityEngine.Transform::InverseTransformPoint(UnityEngine.Vector3)
-extern "C" Vector3_t5_45  Transform_InverseTransformPoint_m5_819 (Transform_t5_71 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
+extern "C" Vector3_t5_45  Transform_InverseTransformPoint_m5_822 (Transform_t5_71 * __this, Vector3_t5_45  ___position, const MethodInfo* method)
 {
 	Vector3_t5_45  V_0 = {0};
 	{
-		Transform_INTERNAL_CALL_InverseTransformPoint_m5_820(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
+		Transform_INTERNAL_CALL_InverseTransformPoint_m5_823(NULL /*static, unused*/, __this, (&___position), (&V_0), /*hidden argument*/NULL);
 		Vector3_t5_45  L_0 = V_0;
 		return L_0;
 	}
 }
 // System.Void UnityEngine.Transform::INTERNAL_CALL_InverseTransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)
-extern "C" void Transform_INTERNAL_CALL_InverseTransformPoint_m5_820 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
+extern "C" void Transform_INTERNAL_CALL_InverseTransformPoint_m5_823 (Object_t * __this /* static, unused */, Transform_t5_71 * ___self, Vector3_t5_45 * ___position, Vector3_t5_45 * ___value, const MethodInfo* method)
 {
-	typedef void (*Transform_INTERNAL_CALL_InverseTransformPoint_m5_820_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
-	static Transform_INTERNAL_CALL_InverseTransformPoint_m5_820_ftn _il2cpp_icall_func;
+	typedef void (*Transform_INTERNAL_CALL_InverseTransformPoint_m5_823_ftn) (Transform_t5_71 *, Vector3_t5_45 *, Vector3_t5_45 *);
+	static Transform_INTERNAL_CALL_InverseTransformPoint_m5_823_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_INTERNAL_CALL_InverseTransformPoint_m5_820_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_InverseTransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
+	_il2cpp_icall_func = (Transform_INTERNAL_CALL_InverseTransformPoint_m5_823_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::INTERNAL_CALL_InverseTransformPoint(UnityEngine.Transform,UnityEngine.Vector3&,UnityEngine.Vector3&)");
 	_il2cpp_icall_func(___self, ___position, ___value);
 }
 // UnityEngine.Transform UnityEngine.Transform::get_root()
-extern "C" Transform_t5_71 * Transform_get_root_m5_821 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" Transform_t5_71 * Transform_get_root_m5_824 (Transform_t5_71 * __this, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*Transform_get_root_m5_821_ftn) (Transform_t5_71 *);
-	static Transform_get_root_m5_821_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*Transform_get_root_m5_824_ftn) (Transform_t5_71 *);
+	static Transform_get_root_m5_824_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_get_root_m5_821_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_root()");
+	_il2cpp_icall_func = (Transform_get_root_m5_824_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_root()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Int32 UnityEngine.Transform::get_childCount()
-extern "C" int32_t Transform_get_childCount_m5_822 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" int32_t Transform_get_childCount_m5_825 (Transform_t5_71 * __this, const MethodInfo* method)
 {
-	typedef int32_t (*Transform_get_childCount_m5_822_ftn) (Transform_t5_71 *);
-	static Transform_get_childCount_m5_822_ftn _il2cpp_icall_func;
+	typedef int32_t (*Transform_get_childCount_m5_825_ftn) (Transform_t5_71 *);
+	static Transform_get_childCount_m5_825_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_get_childCount_m5_822_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_childCount()");
+	_il2cpp_icall_func = (Transform_get_childCount_m5_825_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::get_childCount()");
 	return _il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Transform::SetAsFirstSibling()
-extern "C" void Transform_SetAsFirstSibling_m5_823 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" void Transform_SetAsFirstSibling_m5_826 (Transform_t5_71 * __this, const MethodInfo* method)
 {
-	typedef void (*Transform_SetAsFirstSibling_m5_823_ftn) (Transform_t5_71 *);
-	static Transform_SetAsFirstSibling_m5_823_ftn _il2cpp_icall_func;
+	typedef void (*Transform_SetAsFirstSibling_m5_826_ftn) (Transform_t5_71 *);
+	static Transform_SetAsFirstSibling_m5_826_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_SetAsFirstSibling_m5_823_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetAsFirstSibling()");
+	_il2cpp_icall_func = (Transform_SetAsFirstSibling_m5_826_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetAsFirstSibling()");
 	_il2cpp_icall_func(__this);
 }
 // System.Void UnityEngine.Transform::SetAsLastSibling()
-extern "C" void Transform_SetAsLastSibling_m5_824 (Transform_t5_71 * __this, const MethodInfo* method)
+extern "C" void Transform_SetAsLastSibling_m5_827 (Transform_t5_71 * __this, const MethodInfo* method)
 {
-	typedef void (*Transform_SetAsLastSibling_m5_824_ftn) (Transform_t5_71 *);
-	static Transform_SetAsLastSibling_m5_824_ftn _il2cpp_icall_func;
+	typedef void (*Transform_SetAsLastSibling_m5_827_ftn) (Transform_t5_71 *);
+	static Transform_SetAsLastSibling_m5_827_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_SetAsLastSibling_m5_824_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetAsLastSibling()");
+	_il2cpp_icall_func = (Transform_SetAsLastSibling_m5_827_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::SetAsLastSibling()");
 	_il2cpp_icall_func(__this);
 }
 // UnityEngine.Transform UnityEngine.Transform::Find(System.String)
-extern "C" Transform_t5_71 * Transform_Find_m5_825 (Transform_t5_71 * __this, String_t* ___name, const MethodInfo* method)
+extern "C" Transform_t5_71 * Transform_Find_m5_828 (Transform_t5_71 * __this, String_t* ___name, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*Transform_Find_m5_825_ftn) (Transform_t5_71 *, String_t*);
-	static Transform_Find_m5_825_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*Transform_Find_m5_828_ftn) (Transform_t5_71 *, String_t*);
+	static Transform_Find_m5_828_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_Find_m5_825_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::Find(System.String)");
+	_il2cpp_icall_func = (Transform_Find_m5_828_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::Find(System.String)");
 	return _il2cpp_icall_func(__this, ___name);
 }
 // System.Boolean UnityEngine.Transform::IsChildOf(UnityEngine.Transform)
-extern "C" bool Transform_IsChildOf_m5_826 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, const MethodInfo* method)
+extern "C" bool Transform_IsChildOf_m5_829 (Transform_t5_71 * __this, Transform_t5_71 * ___parent, const MethodInfo* method)
 {
-	typedef bool (*Transform_IsChildOf_m5_826_ftn) (Transform_t5_71 *, Transform_t5_71 *);
-	static Transform_IsChildOf_m5_826_ftn _il2cpp_icall_func;
+	typedef bool (*Transform_IsChildOf_m5_829_ftn) (Transform_t5_71 *, Transform_t5_71 *);
+	static Transform_IsChildOf_m5_829_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_IsChildOf_m5_826_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::IsChildOf(UnityEngine.Transform)");
+	_il2cpp_icall_func = (Transform_IsChildOf_m5_829_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::IsChildOf(UnityEngine.Transform)");
 	return _il2cpp_icall_func(__this, ___parent);
 }
 // System.Collections.IEnumerator UnityEngine.Transform::GetEnumerator()
-extern TypeInfo* Enumerator_t5_101_il2cpp_TypeInfo_var;
-extern "C" Object_t * Transform_GetEnumerator_m5_827 (Transform_t5_71 * __this, const MethodInfo* method)
+extern TypeInfo* Enumerator_t5_102_il2cpp_TypeInfo_var;
+extern "C" Object_t * Transform_GetEnumerator_m5_830 (Transform_t5_71 * __this, const MethodInfo* method)
 {
 	static bool s_Il2CppMethodIntialized;
 	if (!s_Il2CppMethodIntialized)
 	{
-		Enumerator_t5_101_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(882);
+		Enumerator_t5_102_il2cpp_TypeInfo_var = il2cpp_codegen_type_info_from_index(882);
 		s_Il2CppMethodIntialized = true;
 	}
 	{
-		Enumerator_t5_101 * L_0 = (Enumerator_t5_101 *)il2cpp_codegen_object_new (Enumerator_t5_101_il2cpp_TypeInfo_var);
-		Enumerator__ctor_m5_778(L_0, __this, /*hidden argument*/NULL);
+		Enumerator_t5_102 * L_0 = (Enumerator_t5_102 *)il2cpp_codegen_object_new (Enumerator_t5_102_il2cpp_TypeInfo_var);
+		Enumerator__ctor_m5_781(L_0, __this, /*hidden argument*/NULL);
 		return L_0;
 	}
 }
 // UnityEngine.Transform UnityEngine.Transform::GetChild(System.Int32)
-extern "C" Transform_t5_71 * Transform_GetChild_m5_828 (Transform_t5_71 * __this, int32_t ___index, const MethodInfo* method)
+extern "C" Transform_t5_71 * Transform_GetChild_m5_831 (Transform_t5_71 * __this, int32_t ___index, const MethodInfo* method)
 {
-	typedef Transform_t5_71 * (*Transform_GetChild_m5_828_ftn) (Transform_t5_71 *, int32_t);
-	static Transform_GetChild_m5_828_ftn _il2cpp_icall_func;
+	typedef Transform_t5_71 * (*Transform_GetChild_m5_831_ftn) (Transform_t5_71 *, int32_t);
+	static Transform_GetChild_m5_831_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Transform_GetChild_m5_828_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::GetChild(System.Int32)");
+	_il2cpp_icall_func = (Transform_GetChild_m5_831_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Transform::GetChild(System.Int32)");
 	return _il2cpp_icall_func(__this, ___index);
 }
 // System.Single UnityEngine.Time::get_time()
-extern "C" float Time_get_time_m5_829 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_time_m5_832 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_time_m5_829_ftn) ();
-	static Time_get_time_m5_829_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_time_m5_832_ftn) ();
+	static Time_get_time_m5_832_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_time_m5_829_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_time()");
+	_il2cpp_icall_func = (Time_get_time_m5_832_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_time()");
 	return _il2cpp_icall_func();
 }
 // System.Single UnityEngine.Time::get_deltaTime()
-extern "C" float Time_get_deltaTime_m5_830 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_deltaTime_m5_833 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_deltaTime_m5_830_ftn) ();
-	static Time_get_deltaTime_m5_830_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_deltaTime_m5_833_ftn) ();
+	static Time_get_deltaTime_m5_833_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_deltaTime_m5_830_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_deltaTime()");
+	_il2cpp_icall_func = (Time_get_deltaTime_m5_833_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_deltaTime()");
 	return _il2cpp_icall_func();
 }
 // System.Single UnityEngine.Time::get_unscaledTime()
-extern "C" float Time_get_unscaledTime_m5_831 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_unscaledTime_m5_834 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_unscaledTime_m5_831_ftn) ();
-	static Time_get_unscaledTime_m5_831_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_unscaledTime_m5_834_ftn) ();
+	static Time_get_unscaledTime_m5_834_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_unscaledTime_m5_831_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_unscaledTime()");
+	_il2cpp_icall_func = (Time_get_unscaledTime_m5_834_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_unscaledTime()");
 	return _il2cpp_icall_func();
 }
 // System.Single UnityEngine.Time::get_unscaledDeltaTime()
-extern "C" float Time_get_unscaledDeltaTime_m5_832 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_unscaledDeltaTime_m5_835 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_unscaledDeltaTime_m5_832_ftn) ();
-	static Time_get_unscaledDeltaTime_m5_832_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_unscaledDeltaTime_m5_835_ftn) ();
+	static Time_get_unscaledDeltaTime_m5_835_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_unscaledDeltaTime_m5_832_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_unscaledDeltaTime()");
+	_il2cpp_icall_func = (Time_get_unscaledDeltaTime_m5_835_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_unscaledDeltaTime()");
 	return _il2cpp_icall_func();
 }
 // System.Single UnityEngine.Time::get_timeScale()
-extern "C" float Time_get_timeScale_m5_833 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_timeScale_m5_836 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_timeScale_m5_833_ftn) ();
-	static Time_get_timeScale_m5_833_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_timeScale_m5_836_ftn) ();
+	static Time_get_timeScale_m5_836_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_timeScale_m5_833_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_timeScale()");
+	_il2cpp_icall_func = (Time_get_timeScale_m5_836_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_timeScale()");
 	return _il2cpp_icall_func();
 }
 // System.Void UnityEngine.Time::set_timeScale(System.Single)
-extern "C" void Time_set_timeScale_m5_834 (Object_t * __this /* static, unused */, float ___value, const MethodInfo* method)
+extern "C" void Time_set_timeScale_m5_837 (Object_t * __this /* static, unused */, float ___value, const MethodInfo* method)
 {
-	typedef void (*Time_set_timeScale_m5_834_ftn) (float);
-	static Time_set_timeScale_m5_834_ftn _il2cpp_icall_func;
+	typedef void (*Time_set_timeScale_m5_837_ftn) (float);
+	static Time_set_timeScale_m5_837_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_set_timeScale_m5_834_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::set_timeScale(System.Single)");
+	_il2cpp_icall_func = (Time_set_timeScale_m5_837_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::set_timeScale(System.Single)");
 	_il2cpp_icall_func(___value);
 }
 // System.Single UnityEngine.Time::get_realtimeSinceStartup()
-extern "C" float Time_get_realtimeSinceStartup_m5_835 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Time_get_realtimeSinceStartup_m5_838 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Time_get_realtimeSinceStartup_m5_835_ftn) ();
-	static Time_get_realtimeSinceStartup_m5_835_ftn _il2cpp_icall_func;
+	typedef float (*Time_get_realtimeSinceStartup_m5_838_ftn) ();
+	static Time_get_realtimeSinceStartup_m5_838_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_realtimeSinceStartup_m5_835_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_realtimeSinceStartup()");
+	_il2cpp_icall_func = (Time_get_realtimeSinceStartup_m5_838_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_realtimeSinceStartup()");
 	return _il2cpp_icall_func();
 }
 // System.Void UnityEngine.Random::set_seed(System.Int32)
-extern "C" void Random_set_seed_m5_836 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
+extern "C" void Random_set_seed_m5_839 (Object_t * __this /* static, unused */, int32_t ___value, const MethodInfo* method)
 {
-	typedef void (*Random_set_seed_m5_836_ftn) (int32_t);
-	static Random_set_seed_m5_836_ftn _il2cpp_icall_func;
+	typedef void (*Random_set_seed_m5_839_ftn) (int32_t);
+	static Random_set_seed_m5_839_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Random_set_seed_m5_836_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::set_seed(System.Int32)");
+	_il2cpp_icall_func = (Random_set_seed_m5_839_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::set_seed(System.Int32)");
 	_il2cpp_icall_func(___value);
 }
 // System.Single UnityEngine.Random::Range(System.Single,System.Single)
-extern "C" float Random_Range_m5_837 (Object_t * __this /* static, unused */, float ___min, float ___max, const MethodInfo* method)
+extern "C" float Random_Range_m5_840 (Object_t * __this /* static, unused */, float ___min, float ___max, const MethodInfo* method)
 {
-	typedef float (*Random_Range_m5_837_ftn) (float, float);
-	static Random_Range_m5_837_ftn _il2cpp_icall_func;
+	typedef float (*Random_Range_m5_840_ftn) (float, float);
+	static Random_Range_m5_840_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Random_Range_m5_837_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::Range(System.Single,System.Single)");
+	_il2cpp_icall_func = (Random_Range_m5_840_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::Range(System.Single,System.Single)");
 	return _il2cpp_icall_func(___min, ___max);
 }
 // System.Int32 UnityEngine.Random::Range(System.Int32,System.Int32)
-extern "C" int32_t Random_Range_m5_838 (Object_t * __this /* static, unused */, int32_t ___min, int32_t ___max, const MethodInfo* method)
+extern "C" int32_t Random_Range_m5_841 (Object_t * __this /* static, unused */, int32_t ___min, int32_t ___max, const MethodInfo* method)
 {
 	{
 		int32_t L_0 = ___min;
 		int32_t L_1 = ___max;
-		int32_t L_2 = Random_RandomRangeInt_m5_839(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
+		int32_t L_2 = Random_RandomRangeInt_m5_842(NULL /*static, unused*/, L_0, L_1, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
 // System.Int32 UnityEngine.Random::RandomRangeInt(System.Int32,System.Int32)
-extern "C" int32_t Random_RandomRangeInt_m5_839 (Object_t * __this /* static, unused */, int32_t ___min, int32_t ___max, const MethodInfo* method)
+extern "C" int32_t Random_RandomRangeInt_m5_842 (Object_t * __this /* static, unused */, int32_t ___min, int32_t ___max, const MethodInfo* method)
 {
-	typedef int32_t (*Random_RandomRangeInt_m5_839_ftn) (int32_t, int32_t);
-	static Random_RandomRangeInt_m5_839_ftn _il2cpp_icall_func;
+	typedef int32_t (*Random_RandomRangeInt_m5_842_ftn) (int32_t, int32_t);
+	static Random_RandomRangeInt_m5_842_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Random_RandomRangeInt_m5_839_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::RandomRangeInt(System.Int32,System.Int32)");
+	_il2cpp_icall_func = (Random_RandomRangeInt_m5_842_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::RandomRangeInt(System.Int32,System.Int32)");
 	return _il2cpp_icall_func(___min, ___max);
 }
 // System.Single UnityEngine.Random::get_value()
-extern "C" float Random_get_value_m5_840 (Object_t * __this /* static, unused */, const MethodInfo* method)
+extern "C" float Random_get_value_m5_843 (Object_t * __this /* static, unused */, const MethodInfo* method)
 {
-	typedef float (*Random_get_value_m5_840_ftn) ();
-	static Random_get_value_m5_840_ftn _il2cpp_icall_func;
+	typedef float (*Random_get_value_m5_843_ftn) ();
+	static Random_get_value_m5_843_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Random_get_value_m5_840_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::get_value()");
+	_il2cpp_icall_func = (Random_get_value_m5_843_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Random::get_value()");
 	return _il2cpp_icall_func();
 }
 // System.Void UnityEngine.YieldInstruction::.ctor()
-extern "C" void YieldInstruction__ctor_m5_841 (YieldInstruction_t5_11 * __this, const MethodInfo* method)
+extern "C" void YieldInstruction__ctor_m5_844 (YieldInstruction_t5_11 * __this, const MethodInfo* method)
 {
 	{
 		Object__ctor_m1_0(__this, /*hidden argument*/NULL);
@@ -14363,18 +14402,18 @@ extern "C" void YieldInstruction_t5_11_marshal_cleanup(YieldInstruction_t5_11_ma
 {
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void BannerWasClickedDelegate__ctor_m5_842 (BannerWasClickedDelegate_t5_104 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void BannerWasClickedDelegate__ctor_m5_845 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::Invoke()
-extern "C" void BannerWasClickedDelegate_Invoke_m5_843 (BannerWasClickedDelegate_t5_104 * __this, const MethodInfo* method)
+extern "C" void BannerWasClickedDelegate_Invoke_m5_846 (BannerWasClickedDelegate_t5_105 * __this, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		BannerWasClickedDelegate_Invoke_m5_843((BannerWasClickedDelegate_t5_104 *)__this->___prev_9, method);
+		BannerWasClickedDelegate_Invoke_m5_846((BannerWasClickedDelegate_t5_105 *)__this->___prev_9, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -14389,7 +14428,7 @@ extern "C" void BannerWasClickedDelegate_Invoke_m5_843 (BannerWasClickedDelegate
 		((FunctionPointerType)__this->___method_ptr_0)(__this->___m_target_2,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 }
-extern "C" void pinvoke_delegate_wrapper_BannerWasClickedDelegate_t5_104(Il2CppObject* delegate)
+extern "C" void pinvoke_delegate_wrapper_BannerWasClickedDelegate_t5_105(Il2CppObject* delegate)
 {
 	typedef void (STDCALL *native_function_ptr_type)();
 	native_function_ptr_type _il2cpp_pinvoke_func = ((native_function_ptr_type)((Il2CppDelegate*)delegate)->method->method);
@@ -14398,29 +14437,29 @@ extern "C" void pinvoke_delegate_wrapper_BannerWasClickedDelegate_t5_104(Il2CppO
 
 }
 // System.IAsyncResult UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * BannerWasClickedDelegate_BeginInvoke_m5_844 (BannerWasClickedDelegate_t5_104 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * BannerWasClickedDelegate_BeginInvoke_m5_847 (BannerWasClickedDelegate_t5_105 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[1] = {0};
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasClickedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void BannerWasClickedDelegate_EndInvoke_m5_845 (BannerWasClickedDelegate_t5_104 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" void BannerWasClickedDelegate_EndInvoke_m5_848 (BannerWasClickedDelegate_t5_105 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasLoadedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void BannerWasLoadedDelegate__ctor_m5_846 (BannerWasLoadedDelegate_t5_105 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
+extern "C" void BannerWasLoadedDelegate__ctor_m5_849 (BannerWasLoadedDelegate_t5_106 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
 {
 	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
 	__this->___method_3 = ___method;
 	__this->___m_target_2 = ___object;
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasLoadedDelegate::Invoke()
-extern "C" void BannerWasLoadedDelegate_Invoke_m5_847 (BannerWasLoadedDelegate_t5_105 * __this, const MethodInfo* method)
+extern "C" void BannerWasLoadedDelegate_Invoke_m5_850 (BannerWasLoadedDelegate_t5_106 * __this, const MethodInfo* method)
 {
 	if(__this->___prev_9 != NULL)
 	{
-		BannerWasLoadedDelegate_Invoke_m5_847((BannerWasLoadedDelegate_t5_105 *)__this->___prev_9, method);
+		BannerWasLoadedDelegate_Invoke_m5_850((BannerWasLoadedDelegate_t5_106 *)__this->___prev_9, method);
 	}
 	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
 	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
@@ -14435,7 +14474,7 @@ extern "C" void BannerWasLoadedDelegate_Invoke_m5_847 (BannerWasLoadedDelegate_t
 		((FunctionPointerType)__this->___method_ptr_0)(__this->___m_target_2,(MethodInfo*)(__this->___method_3.___m_value_0));
 	}
 }
-extern "C" void pinvoke_delegate_wrapper_BannerWasLoadedDelegate_t5_105(Il2CppObject* delegate)
+extern "C" void pinvoke_delegate_wrapper_BannerWasLoadedDelegate_t5_106(Il2CppObject* delegate)
 {
 	typedef void (STDCALL *native_function_ptr_type)();
 	native_function_ptr_type _il2cpp_pinvoke_func = ((native_function_ptr_type)((Il2CppDelegate*)delegate)->method->method);
@@ -14444,59 +14483,13 @@ extern "C" void pinvoke_delegate_wrapper_BannerWasLoadedDelegate_t5_105(Il2CppOb
 
 }
 // System.IAsyncResult UnityEngine.iOS.ADBannerView/BannerWasLoadedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * BannerWasLoadedDelegate_BeginInvoke_m5_848 (BannerWasLoadedDelegate_t5_105 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
+extern "C" Object_t * BannerWasLoadedDelegate_BeginInvoke_m5_851 (BannerWasLoadedDelegate_t5_106 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
 {
 	void *__d_args[1] = {0};
 	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
 }
 // System.Void UnityEngine.iOS.ADBannerView/BannerWasLoadedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void BannerWasLoadedDelegate_EndInvoke_m5_849 (BannerWasLoadedDelegate_t5_105 * __this, Object_t * ___result, const MethodInfo* method)
-{
-	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
-}
-// System.Void UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void BannerFailedToLoadDelegate__ctor_m5_850 (BannerFailedToLoadDelegate_t5_106 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method)
-{
-	__this->___method_ptr_0 = (methodPointerType)((MethodInfo*)___method.___m_value_0)->method;
-	__this->___method_3 = ___method;
-	__this->___m_target_2 = ___object;
-}
-// System.Void UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate::Invoke()
-extern "C" void BannerFailedToLoadDelegate_Invoke_m5_851 (BannerFailedToLoadDelegate_t5_106 * __this, const MethodInfo* method)
-{
-	if(__this->___prev_9 != NULL)
-	{
-		BannerFailedToLoadDelegate_Invoke_m5_851((BannerFailedToLoadDelegate_t5_106 *)__this->___prev_9, method);
-	}
-	il2cpp_codegen_raise_execution_engine_exception_if_method_is_not_found((MethodInfo*)(__this->___method_3.___m_value_0));
-	bool ___methodIsStatic = MethodIsStatic((MethodInfo*)(__this->___method_3.___m_value_0));
-	if ((__this->___m_target_2 != NULL || MethodHasParameters((MethodInfo*)(__this->___method_3.___m_value_0))) && ___methodIsStatic)
-	{
-		typedef void (*FunctionPointerType) (Object_t *, Object_t * __this, const MethodInfo* method);
-		((FunctionPointerType)__this->___method_ptr_0)(NULL,__this->___m_target_2,(MethodInfo*)(__this->___method_3.___m_value_0));
-	}
-	else
-	{
-		typedef void (*FunctionPointerType) (Object_t * __this, const MethodInfo* method);
-		((FunctionPointerType)__this->___method_ptr_0)(__this->___m_target_2,(MethodInfo*)(__this->___method_3.___m_value_0));
-	}
-}
-extern "C" void pinvoke_delegate_wrapper_BannerFailedToLoadDelegate_t5_106(Il2CppObject* delegate)
-{
-	typedef void (STDCALL *native_function_ptr_type)();
-	native_function_ptr_type _il2cpp_pinvoke_func = ((native_function_ptr_type)((Il2CppDelegate*)delegate)->method->method);
-	// Native function invocation
-	_il2cpp_pinvoke_func();
-
-}
-// System.IAsyncResult UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * BannerFailedToLoadDelegate_BeginInvoke_m5_852 (BannerFailedToLoadDelegate_t5_106 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method)
-{
-	void *__d_args[1] = {0};
-	return (Object_t *)il2cpp_delegate_begin_invoke((Il2CppDelegate*)__this, __d_args, (Il2CppDelegate*)___callback, (Il2CppObject*)___object);
-}
-// System.Void UnityEngine.iOS.ADBannerView/BannerFailedToLoadDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void BannerFailedToLoadDelegate_EndInvoke_m5_853 (BannerFailedToLoadDelegate_t5_106 * __this, Object_t * ___result, const MethodInfo* method)
+extern "C" void BannerWasLoadedDelegate_EndInvoke_m5_852 (BannerWasLoadedDelegate_t5_106 * __this, Object_t * ___result, const MethodInfo* method)
 {
 	il2cpp_delegate_end_invoke((Il2CppAsyncResult*) ___result, 0);
 }

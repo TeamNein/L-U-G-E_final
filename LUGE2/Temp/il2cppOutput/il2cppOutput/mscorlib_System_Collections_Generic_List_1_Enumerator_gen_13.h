@@ -13,7 +13,7 @@
 // System.Collections.Generic.List`1<UnityEngine.Experimental.Director.Playable>
 struct List_1_t1_895;
 // UnityEngine.Experimental.Director.Playable
-struct Playable_t5_117;
+struct Playable_t5_118;
 
 #include "mscorlib_System_ValueType.h"
 
@@ -27,5 +27,5 @@ struct  Enumerator_t1_1217
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::ver
 	int32_t ___ver_2;
 	// T System.Collections.Generic.List`1/Enumerator::current
-	Playable_t5_117 * ___current_3;
+	Playable_t5_118 * ___current_3;
 };

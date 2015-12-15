@@ -19,11 +19,11 @@ struct DefaultComparer_t1_1234;
 #include "UnityEngine_UnityEngine_UIVertex.h"
 
 // System.Void System.Collections.Generic.EqualityComparer`1/DefaultComparer<UnityEngine.UIVertex>::.ctor()
-extern "C" void DefaultComparer__ctor_m1_8675_gshared (DefaultComparer_t1_1234 * __this, const MethodInfo* method);
-#define DefaultComparer__ctor_m1_8675(__this, method) (( void (*) (DefaultComparer_t1_1234 *, const MethodInfo*))DefaultComparer__ctor_m1_8675_gshared)(__this, method)
+extern "C" void DefaultComparer__ctor_m1_8670_gshared (DefaultComparer_t1_1234 * __this, const MethodInfo* method);
+#define DefaultComparer__ctor_m1_8670(__this, method) (( void (*) (DefaultComparer_t1_1234 *, const MethodInfo*))DefaultComparer__ctor_m1_8670_gshared)(__this, method)
 // System.Int32 System.Collections.Generic.EqualityComparer`1/DefaultComparer<UnityEngine.UIVertex>::GetHashCode(T)
-extern "C" int32_t DefaultComparer_GetHashCode_m1_8676_gshared (DefaultComparer_t1_1234 * __this, UIVertex_t5_173  ___obj, const MethodInfo* method);
-#define DefaultComparer_GetHashCode_m1_8676(__this, ___obj, method) (( int32_t (*) (DefaultComparer_t1_1234 *, UIVertex_t5_173 , const MethodInfo*))DefaultComparer_GetHashCode_m1_8676_gshared)(__this, ___obj, method)
+extern "C" int32_t DefaultComparer_GetHashCode_m1_8671_gshared (DefaultComparer_t1_1234 * __this, UIVertex_t5_174  ___obj, const MethodInfo* method);
+#define DefaultComparer_GetHashCode_m1_8671(__this, ___obj, method) (( int32_t (*) (DefaultComparer_t1_1234 *, UIVertex_t5_174 , const MethodInfo*))DefaultComparer_GetHashCode_m1_8671_gshared)(__this, ___obj, method)
 // System.Boolean System.Collections.Generic.EqualityComparer`1/DefaultComparer<UnityEngine.UIVertex>::Equals(T,T)
-extern "C" bool DefaultComparer_Equals_m1_8677_gshared (DefaultComparer_t1_1234 * __this, UIVertex_t5_173  ___x, UIVertex_t5_173  ___y, const MethodInfo* method);
-#define DefaultComparer_Equals_m1_8677(__this, ___x, ___y, method) (( bool (*) (DefaultComparer_t1_1234 *, UIVertex_t5_173 , UIVertex_t5_173 , const MethodInfo*))DefaultComparer_Equals_m1_8677_gshared)(__this, ___x, ___y, method)
+extern "C" bool DefaultComparer_Equals_m1_8672_gshared (DefaultComparer_t1_1234 * __this, UIVertex_t5_174  ___x, UIVertex_t5_174  ___y, const MethodInfo* method);
+#define DefaultComparer_Equals_m1_8672(__this, ___x, ___y, method) (( bool (*) (DefaultComparer_t1_1234 *, UIVertex_t5_174 , UIVertex_t5_174 , const MethodInfo*))DefaultComparer_Equals_m1_8672_gshared)(__this, ___x, ___y, method)

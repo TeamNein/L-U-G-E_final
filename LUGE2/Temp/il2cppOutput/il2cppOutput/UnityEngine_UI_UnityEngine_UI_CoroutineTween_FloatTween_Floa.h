@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Events_UnityEvent_1_gen_1.h"
 
 // UnityEngine.UI.CoroutineTween.FloatTween/FloatTweenCallback
-struct  FloatTweenCallback_t6_50  : public UnityEvent_1_t5_311
+struct  FloatTweenCallback_t6_50  : public UnityEvent_1_t5_312
 {
 };

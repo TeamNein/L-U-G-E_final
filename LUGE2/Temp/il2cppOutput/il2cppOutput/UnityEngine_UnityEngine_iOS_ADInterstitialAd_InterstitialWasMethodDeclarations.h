@@ -13,7 +13,7 @@
 #include <exception>
 
 // UnityEngine.iOS.ADInterstitialAd/InterstitialWasLoadedDelegate
-struct InterstitialWasLoadedDelegate_t5_108;
+struct InterstitialWasLoadedDelegate_t5_109;
 // System.Object
 struct Object_t;
 // System.IAsyncResult
@@ -25,11 +25,11 @@ struct AsyncCallback_t1_28;
 #include "mscorlib_System_IntPtr.h"
 
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasLoadedDelegate::.ctor(System.Object,System.IntPtr)
-extern "C" void InterstitialWasLoadedDelegate__ctor_m5_860 (InterstitialWasLoadedDelegate_t5_108 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void InterstitialWasLoadedDelegate__ctor_m5_863 (InterstitialWasLoadedDelegate_t5_109 * __this, Object_t * ___object, IntPtr_t ___method, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasLoadedDelegate::Invoke()
-extern "C" void InterstitialWasLoadedDelegate_Invoke_m5_861 (InterstitialWasLoadedDelegate_t5_108 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
-extern "C" void pinvoke_delegate_wrapper_InterstitialWasLoadedDelegate_t5_108(Il2CppObject* delegate);
+extern "C" void InterstitialWasLoadedDelegate_Invoke_m5_864 (InterstitialWasLoadedDelegate_t5_109 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void pinvoke_delegate_wrapper_InterstitialWasLoadedDelegate_t5_109(Il2CppObject* delegate);
 // System.IAsyncResult UnityEngine.iOS.ADInterstitialAd/InterstitialWasLoadedDelegate::BeginInvoke(System.AsyncCallback,System.Object)
-extern "C" Object_t * InterstitialWasLoadedDelegate_BeginInvoke_m5_862 (InterstitialWasLoadedDelegate_t5_108 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Object_t * InterstitialWasLoadedDelegate_BeginInvoke_m5_865 (InterstitialWasLoadedDelegate_t5_109 * __this, AsyncCallback_t1_28 * ___callback, Object_t * ___object, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.iOS.ADInterstitialAd/InterstitialWasLoadedDelegate::EndInvoke(System.IAsyncResult)
-extern "C" void InterstitialWasLoadedDelegate_EndInvoke_m5_863 (InterstitialWasLoadedDelegate_t5_108 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void InterstitialWasLoadedDelegate_EndInvoke_m5_866 (InterstitialWasLoadedDelegate_t5_109 * __this, Object_t * ___result, const MethodInfo* method) IL2CPP_METHOD_ATTR;

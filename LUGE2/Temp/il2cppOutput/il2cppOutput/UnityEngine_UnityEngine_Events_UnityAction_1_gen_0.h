@@ -22,6 +22,6 @@ struct Object_t;
 #include "UnityEngine_UnityEngine_Color.h"
 
 // UnityEngine.Events.UnityAction`1<UnityEngine.Color>
-struct  UnityAction_1_t5_319  : public MulticastDelegate_t1_21
+struct  UnityAction_1_t5_320  : public MulticastDelegate_t1_21
 {
 };

@@ -14,6 +14,6 @@
 #include "mscorlib_System_Object.h"
 
 // UnityEngine.Input
-struct  Input_t5_97  : public Object_t
+struct  Input_t5_98  : public Object_t
 {
 };

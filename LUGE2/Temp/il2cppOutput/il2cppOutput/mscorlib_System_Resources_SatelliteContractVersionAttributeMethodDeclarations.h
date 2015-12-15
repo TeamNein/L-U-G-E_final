@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Resources.SatelliteContractVersionAttribute::.ctor(System.String)
-extern "C" void SatelliteContractVersionAttribute__ctor_m1_3022 (SatelliteContractVersionAttribute_t1_368 * __this, String_t* ___version, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SatelliteContractVersionAttribute__ctor_m1_3017 (SatelliteContractVersionAttribute_t1_368 * __this, String_t* ___version, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Rigidbody2D[]
-struct Rigidbody2DU5BU5D_t5_331;
+struct Rigidbody2DU5BU5D_t5_332;
 
 #include "mscorlib_System_Object.h"
 
@@ -19,7 +19,7 @@ struct Rigidbody2DU5BU5D_t5_331;
 struct  List_1_t1_879  : public Object_t
 {
 	// T[] System.Collections.Generic.List`1::_items
-	Rigidbody2DU5BU5D_t5_331* ____items_1;
+	Rigidbody2DU5BU5D_t5_332* ____items_1;
 	// System.Int32 System.Collections.Generic.List`1::_size
 	int32_t ____size_2;
 	// System.Int32 System.Collections.Generic.List`1::_version
@@ -27,5 +27,5 @@ struct  List_1_t1_879  : public Object_t
 };
 struct List_1_t1_879_StaticFields{
 	// T[] System.Collections.Generic.List`1::EmptyArray
-	Rigidbody2DU5BU5D_t5_331* ___EmptyArray_4;
+	Rigidbody2DU5BU5D_t5_332* ___EmptyArray_4;
 };

@@ -18,4 +18,4 @@ struct ConstructionLevelActivator_t1_399;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.Activation.ConstructionLevelActivator::.ctor()
-extern "C" void ConstructionLevelActivator__ctor_m1_3069 (ConstructionLevelActivator_t1_399 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ConstructionLevelActivator__ctor_m1_3064 (ConstructionLevelActivator_t1_399 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -24,6 +24,6 @@ struct SerializationInfo_t1_176;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.DelegateSerializationHolder/DelegateEntry::.ctor(System.Delegate,System.String)
-extern "C" void DelegateEntry__ctor_m1_4957 (DelegateEntry_t1_700 * __this, Delegate_t1_22 * ___del, String_t* ___targetLabel, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DelegateEntry__ctor_m1_4952 (DelegateEntry_t1_700 * __this, Delegate_t1_22 * ___del, String_t* ___targetLabel, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Delegate System.DelegateSerializationHolder/DelegateEntry::DeserializeDelegate(System.Runtime.Serialization.SerializationInfo)
-extern "C" Delegate_t1_22 * DelegateEntry_DeserializeDelegate_m1_4958 (DelegateEntry_t1_700 * __this, SerializationInfo_t1_176 * ___info, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Delegate_t1_22 * DelegateEntry_DeserializeDelegate_m1_4953 (DelegateEntry_t1_700 * __this, SerializationInfo_t1_176 * ___info, const MethodInfo* method) IL2CPP_METHOD_ATTR;

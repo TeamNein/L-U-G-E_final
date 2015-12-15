@@ -13,12 +13,12 @@
 // System.Object
 struct Object_t;
 // PlayerControl
-struct PlayerControl_t7_29;
+struct PlayerControl_t7_30;
 
 #include "mscorlib_System_Object.h"
 
 // PlayerControl/<Taunt>c__Iterator5
-struct  U3CTauntU3Ec__Iterator5_t7_38  : public Object_t
+struct  U3CTauntU3Ec__Iterator5_t7_39  : public Object_t
 {
 	// System.Single PlayerControl/<Taunt>c__Iterator5::<tauntChance>__0
 	float ___U3CtauntChanceU3E__0_0;
@@ -27,5 +27,5 @@ struct  U3CTauntU3Ec__Iterator5_t7_38  : public Object_t
 	// System.Object PlayerControl/<Taunt>c__Iterator5::$current
 	Object_t * ___U24current_2;
 	// PlayerControl PlayerControl/<Taunt>c__Iterator5::<>f__this
-	PlayerControl_t7_29 * ___U3CU3Ef__this_3;
+	PlayerControl_t7_30 * ___U3CU3Ef__this_3;
 };

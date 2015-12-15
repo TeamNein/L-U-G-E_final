@@ -23,13 +23,13 @@ struct Graphic_t6_76;
 // UnityEngine.UI.Image
 struct Image_t6_65;
 // UnityEngine.Animator
-struct Animator_t5_155;
+struct Animator_t5_156;
 // UnityEngine.RectTransform
 struct RectTransform_t5_70;
 // UnityEngine.EventSystems.AxisEventData
 struct AxisEventData_t6_33;
 // UnityEngine.Sprite
-struct Sprite_t5_78;
+struct Sprite_t5_79;
 // System.String
 struct String_t;
 // UnityEngine.EventSystems.BaseEventData
@@ -98,7 +98,7 @@ extern "C" Image_t6_65 * Selectable_get_image_m6_1001 (Selectable_t6_56 * __this
 // System.Void UnityEngine.UI.Selectable::set_image(UnityEngine.UI.Image)
 extern "C" void Selectable_set_image_m6_1002 (Selectable_t6_56 * __this, Image_t6_65 * ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Animator UnityEngine.UI.Selectable::get_animator()
-extern "C" Animator_t5_155 * Selectable_get_animator_m6_1003 (Selectable_t6_56 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Animator_t5_156 * Selectable_get_animator_m6_1003 (Selectable_t6_56 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Selectable::Awake()
 extern "C" void Selectable_Awake_m6_1004 (Selectable_t6_56 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Selectable::OnCanvasGroupChanged()
@@ -136,9 +136,9 @@ extern "C" Selectable_t6_56 * Selectable_FindSelectableOnDown_m6_1020 (Selectabl
 // System.Void UnityEngine.UI.Selectable::OnMove(UnityEngine.EventSystems.AxisEventData)
 extern "C" void Selectable_OnMove_m6_1021 (Selectable_t6_56 * __this, AxisEventData_t6_33 * ___eventData, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Selectable::StartColorTween(UnityEngine.Color,System.Boolean)
-extern "C" void Selectable_StartColorTween_m6_1022 (Selectable_t6_56 * __this, Color_t5_164  ___targetColor, bool ___instant, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Selectable_StartColorTween_m6_1022 (Selectable_t6_56 * __this, Color_t5_165  ___targetColor, bool ___instant, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Selectable::DoSpriteSwap(UnityEngine.Sprite)
-extern "C" void Selectable_DoSpriteSwap_m6_1023 (Selectable_t6_56 * __this, Sprite_t5_78 * ___newSprite, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Selectable_DoSpriteSwap_m6_1023 (Selectable_t6_56 * __this, Sprite_t5_79 * ___newSprite, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Selectable::TriggerAnimation(System.String)
 extern "C" void Selectable_TriggerAnimation_m6_1024 (Selectable_t6_56 * __this, String_t* ___triggername, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Boolean UnityEngine.UI.Selectable::IsHighlighted(UnityEngine.EventSystems.BaseEventData)

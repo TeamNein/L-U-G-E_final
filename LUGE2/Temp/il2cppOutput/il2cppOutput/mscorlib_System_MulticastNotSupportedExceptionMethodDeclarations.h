@@ -23,8 +23,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.MulticastNotSupportedException::.ctor()
-extern "C" void MulticastNotSupportedException__ctor_m1_5151 (MulticastNotSupportedException_t1_736 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MulticastNotSupportedException__ctor_m1_5146 (MulticastNotSupportedException_t1_736 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.MulticastNotSupportedException::.ctor(System.String)
-extern "C" void MulticastNotSupportedException__ctor_m1_5152 (MulticastNotSupportedException_t1_736 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MulticastNotSupportedException__ctor_m1_5147 (MulticastNotSupportedException_t1_736 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.MulticastNotSupportedException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void MulticastNotSupportedException__ctor_m1_5153 (MulticastNotSupportedException_t1_736 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void MulticastNotSupportedException__ctor_m1_5148 (MulticastNotSupportedException_t1_736 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

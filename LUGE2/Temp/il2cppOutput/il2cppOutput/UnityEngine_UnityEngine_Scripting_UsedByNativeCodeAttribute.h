@@ -14,6 +14,6 @@
 #include "mscorlib_System_Attribute.h"
 
 // UnityEngine.Scripting.UsedByNativeCodeAttribute
-struct  UsedByNativeCodeAttribute_t5_277  : public Attribute_t1_2
+struct  UsedByNativeCodeAttribute_t5_278  : public Attribute_t1_2
 {
 };

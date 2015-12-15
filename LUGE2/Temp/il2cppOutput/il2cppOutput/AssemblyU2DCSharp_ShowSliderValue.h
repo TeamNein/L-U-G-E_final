@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ShowSliderValue
-struct  ShowSliderValue_t7_46  : public MonoBehaviour_t5_92
+struct  ShowSliderValue_t7_47  : public MonoBehaviour_t5_93
 {
 };

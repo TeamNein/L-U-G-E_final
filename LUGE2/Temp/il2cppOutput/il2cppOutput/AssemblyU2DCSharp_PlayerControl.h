@@ -11,16 +11,16 @@
 #include <stdint.h>
 
 // UnityEngine.AudioClip[]
-struct AudioClipU5BU5D_t5_325;
+struct AudioClipU5BU5D_t5_326;
 // UnityEngine.Transform
 struct Transform_t5_71;
 // UnityEngine.Animator
-struct Animator_t5_155;
+struct Animator_t5_156;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // PlayerControl
-struct  PlayerControl_t7_29  : public MonoBehaviour_t5_92
+struct  PlayerControl_t7_30  : public MonoBehaviour_t5_93
 {
 	// System.Boolean PlayerControl::facingRight
 	bool ___facingRight_2;
@@ -31,11 +31,11 @@ struct  PlayerControl_t7_29  : public MonoBehaviour_t5_92
 	// System.Single PlayerControl::maxSpeed
 	float ___maxSpeed_5;
 	// UnityEngine.AudioClip[] PlayerControl::jumpClips
-	AudioClipU5BU5D_t5_325* ___jumpClips_6;
+	AudioClipU5BU5D_t5_326* ___jumpClips_6;
 	// System.Single PlayerControl::jumpForce
 	float ___jumpForce_7;
 	// UnityEngine.AudioClip[] PlayerControl::taunts
-	AudioClipU5BU5D_t5_325* ___taunts_8;
+	AudioClipU5BU5D_t5_326* ___taunts_8;
 	// System.Single PlayerControl::tauntProbability
 	float ___tauntProbability_9;
 	// System.Single PlayerControl::tauntDelay
@@ -47,5 +47,5 @@ struct  PlayerControl_t7_29  : public MonoBehaviour_t5_92
 	// System.Boolean PlayerControl::grounded
 	bool ___grounded_13;
 	// UnityEngine.Animator PlayerControl::anim
-	Animator_t5_155 * ___anim_14;
+	Animator_t5_156 * ___anim_14;
 };

@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Events_UnityEvent_1_gen_4.h"
 
 // UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-struct  CullStateChangedEvent_t6_102  : public UnityEvent_1_t5_315
+struct  CullStateChangedEvent_t6_102  : public UnityEvent_1_t5_316
 {
 };

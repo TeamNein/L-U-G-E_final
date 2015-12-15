@@ -18,7 +18,7 @@ struct Texture2D_t5_34;
 #include "mscorlib_System_ValueType.h"
 
 // UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData
-struct  GcUserProfileData_t5_227 
+struct  GcUserProfileData_t5_228 
 {
 	// System.String UnityEngine.SocialPlatforms.GameCenter.GcUserProfileData::userName
 	String_t* ___userName_0;

@@ -22,6 +22,6 @@ struct Object_t;
 #include "mscorlib_System_Boolean.h"
 
 // UnityEngine.Events.UnityAction`1<System.Boolean>
-struct  UnityAction_1_t5_321  : public MulticastDelegate_t1_21
+struct  UnityAction_1_t5_322  : public MulticastDelegate_t1_21
 {
 };

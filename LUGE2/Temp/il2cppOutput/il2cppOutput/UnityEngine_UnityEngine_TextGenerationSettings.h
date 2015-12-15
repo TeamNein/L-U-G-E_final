@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 // UnityEngine.Font
-struct Font_t5_163;
+struct Font_t5_164;
 
 #include "mscorlib_System_ValueType.h"
 #include "UnityEngine_UnityEngine_Color.h"
@@ -22,12 +22,12 @@ struct Font_t5_163;
 #include "UnityEngine_UnityEngine_Vector2.h"
 
 // UnityEngine.TextGenerationSettings
-struct  TextGenerationSettings_t5_162 
+struct  TextGenerationSettings_t5_163 
 {
 	// UnityEngine.Font UnityEngine.TextGenerationSettings::font
-	Font_t5_163 * ___font_0;
+	Font_t5_164 * ___font_0;
 	// UnityEngine.Color UnityEngine.TextGenerationSettings::color
-	Color_t5_164  ___color_1;
+	Color_t5_165  ___color_1;
 	// System.Int32 UnityEngine.TextGenerationSettings::fontSize
 	int32_t ___fontSize_2;
 	// System.Single UnityEngine.TextGenerationSettings::lineSpacing

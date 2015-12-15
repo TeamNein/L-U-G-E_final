@@ -16,7 +16,7 @@ struct String_t;
 struct Object_t5_5;
 struct Object_t5_5_marshaled;
 // UnityEngine.AnimationState
-struct AnimationState_t5_150;
+struct AnimationState_t5_151;
 
 #include "mscorlib_System_Object.h"
 #include "UnityEngine_UnityEngine_AnimationEventSource.h"
@@ -24,7 +24,7 @@ struct AnimationState_t5_150;
 #include "UnityEngine_UnityEngine_AnimatorClipInfo.h"
 
 // UnityEngine.AnimationEvent
-struct  AnimationEvent_t5_149  : public Object_t
+struct  AnimationEvent_t5_150  : public Object_t
 {
 	// System.Single UnityEngine.AnimationEvent::m_Time
 	float ___m_Time_0;
@@ -43,9 +43,9 @@ struct  AnimationEvent_t5_149  : public Object_t
 	// UnityEngine.AnimationEventSource UnityEngine.AnimationEvent::m_Source
 	int32_t ___m_Source_7;
 	// UnityEngine.AnimationState UnityEngine.AnimationEvent::m_StateSender
-	AnimationState_t5_150 * ___m_StateSender_8;
+	AnimationState_t5_151 * ___m_StateSender_8;
 	// UnityEngine.AnimatorStateInfo UnityEngine.AnimationEvent::m_AnimatorStateInfo
-	AnimatorStateInfo_t5_151  ___m_AnimatorStateInfo_9;
+	AnimatorStateInfo_t5_152  ___m_AnimatorStateInfo_9;
 	// UnityEngine.AnimatorClipInfo UnityEngine.AnimationEvent::m_AnimatorClipInfo
-	AnimatorClipInfo_t5_152  ___m_AnimatorClipInfo_10;
+	AnimatorClipInfo_t5_153  ___m_AnimatorClipInfo_10;
 };

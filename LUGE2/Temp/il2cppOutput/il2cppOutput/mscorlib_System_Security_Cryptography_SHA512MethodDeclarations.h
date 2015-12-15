@@ -18,4 +18,4 @@ struct SHA512_t1_596;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Security.Cryptography.SHA512::.ctor()
-extern "C" void SHA512__ctor_m1_3983 (SHA512_t1_596 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SHA512__ctor_m1_3978 (SHA512_t1_596 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

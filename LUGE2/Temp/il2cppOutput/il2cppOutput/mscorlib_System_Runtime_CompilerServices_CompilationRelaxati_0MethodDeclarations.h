@@ -19,4 +19,4 @@ struct CompilationRelaxationsAttribute_t1_370;
 #include "mscorlib_System_Runtime_CompilerServices_CompilationRelaxati.h"
 
 // System.Void System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(System.Runtime.CompilerServices.CompilationRelaxations)
-extern "C" void CompilationRelaxationsAttribute__ctor_m1_3023 (CompilationRelaxationsAttribute_t1_370 * __this, int32_t ___relaxations, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void CompilationRelaxationsAttribute__ctor_m1_3018 (CompilationRelaxationsAttribute_t1_370 * __this, int32_t ___relaxations, const MethodInfo* method) IL2CPP_METHOD_ATTR;

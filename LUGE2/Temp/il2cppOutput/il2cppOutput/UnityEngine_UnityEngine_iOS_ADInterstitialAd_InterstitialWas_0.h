@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.iOS.ADInterstitialAd/InterstitialWasViewedDelegate
-struct  InterstitialWasViewedDelegate_t5_109  : public MulticastDelegate_t1_21
+struct  InterstitialWasViewedDelegate_t5_110  : public MulticastDelegate_t1_21
 {
 };

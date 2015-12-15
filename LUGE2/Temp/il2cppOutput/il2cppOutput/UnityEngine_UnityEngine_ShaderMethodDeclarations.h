@@ -18,4 +18,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Int32 UnityEngine.Shader::PropertyToID(System.String)
-extern "C" int32_t Shader_PropertyToID_m5_513 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" int32_t Shader_PropertyToID_m5_516 (Object_t * __this /* static, unused */, String_t* ___name, const MethodInfo* method) IL2CPP_METHOD_ATTR;

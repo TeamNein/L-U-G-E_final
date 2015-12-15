@@ -24,6 +24,6 @@ struct Object_t;
 #include "UnityEngine_UnityEngine_LogType.h"
 
 // UnityEngine.Application/LogCallback
-struct  LogCallback_t5_82  : public MulticastDelegate_t1_21
+struct  LogCallback_t5_83  : public MulticastDelegate_t1_21
 {
 };

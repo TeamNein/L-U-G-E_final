@@ -23,8 +23,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.NotImplementedException::.ctor()
-extern "C" void NotImplementedException__ctor_m1_5155 (NotImplementedException_t1_738 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotImplementedException__ctor_m1_5150 (NotImplementedException_t1_738 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.NotImplementedException::.ctor(System.String)
-extern "C" void NotImplementedException__ctor_m1_5156 (NotImplementedException_t1_738 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotImplementedException__ctor_m1_5151 (NotImplementedException_t1_738 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.NotImplementedException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void NotImplementedException__ctor_m1_5157 (NotImplementedException_t1_738 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotImplementedException__ctor_m1_5152 (NotImplementedException_t1_738 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

@@ -91,13 +91,13 @@ void RegisterAllClasses()
 	void RegisterClass_Transform();
 	RegisterClass_Transform();
 
-	//14. Shader
-	void RegisterClass_Shader();
-	RegisterClass_Shader();
-
-	//15. TextAsset
+	//14. TextAsset
 	void RegisterClass_TextAsset();
 	RegisterClass_TextAsset();
+
+	//15. Shader
+	void RegisterClass_Shader();
+	RegisterClass_Shader();
 
 	//16. Material
 	void RegisterClass_Material();

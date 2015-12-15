@@ -19,7 +19,7 @@ struct EventSystem_t6_2;
 // System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult>
 struct List_1_t1_912;
 // UnityEngine.GameObject
-struct GameObject_t5_100;
+struct GameObject_t5_101;
 // UnityEngine.EventSystems.PointerEventData
 struct PointerEventData_t6_37;
 // UnityEngine.EventSystems.AxisEventData
@@ -46,9 +46,9 @@ extern "C" int32_t BaseInputModule_DetermineMoveDirection_m6_175 (Object_t * __t
 // UnityEngine.EventSystems.MoveDirection UnityEngine.EventSystems.BaseInputModule::DetermineMoveDirection(System.Single,System.Single,System.Single)
 extern "C" int32_t BaseInputModule_DetermineMoveDirection_m6_176 (Object_t * __this /* static, unused */, float ___x, float ___y, float ___deadZone, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.GameObject UnityEngine.EventSystems.BaseInputModule::FindCommonRoot(UnityEngine.GameObject,UnityEngine.GameObject)
-extern "C" GameObject_t5_100 * BaseInputModule_FindCommonRoot_m6_177 (Object_t * __this /* static, unused */, GameObject_t5_100 * ___g1, GameObject_t5_100 * ___g2, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" GameObject_t5_101 * BaseInputModule_FindCommonRoot_m6_177 (Object_t * __this /* static, unused */, GameObject_t5_101 * ___g1, GameObject_t5_101 * ___g2, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.EventSystems.BaseInputModule::HandlePointerExitAndEnter(UnityEngine.EventSystems.PointerEventData,UnityEngine.GameObject)
-extern "C" void BaseInputModule_HandlePointerExitAndEnter_m6_178 (BaseInputModule_t6_4 * __this, PointerEventData_t6_37 * ___currentPointerData, GameObject_t5_100 * ___newEnterTarget, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void BaseInputModule_HandlePointerExitAndEnter_m6_178 (BaseInputModule_t6_4 * __this, PointerEventData_t6_37 * ___currentPointerData, GameObject_t5_101 * ___newEnterTarget, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.EventSystems.AxisEventData UnityEngine.EventSystems.BaseInputModule::GetAxisEventData(System.Single,System.Single,System.Single)
 extern "C" AxisEventData_t6_33 * BaseInputModule_GetAxisEventData_m6_179 (BaseInputModule_t6_4 * __this, float ___x, float ___y, float ___moveDeadZone, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.EventSystems.BaseEventData UnityEngine.EventSystems.BaseInputModule::GetBaseEventData()

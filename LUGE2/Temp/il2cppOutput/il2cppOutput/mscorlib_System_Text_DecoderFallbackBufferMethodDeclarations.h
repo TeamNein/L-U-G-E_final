@@ -18,6 +18,6 @@ struct DecoderFallbackBuffer_t1_632;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Text.DecoderFallbackBuffer::.ctor()
-extern "C" void DecoderFallbackBuffer__ctor_m1_4192 (DecoderFallbackBuffer_t1_632 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DecoderFallbackBuffer__ctor_m1_4187 (DecoderFallbackBuffer_t1_632 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.Text.DecoderFallbackBuffer::Reset()
-extern "C" void DecoderFallbackBuffer_Reset_m1_4193 (DecoderFallbackBuffer_t1_632 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void DecoderFallbackBuffer_Reset_m1_4188 (DecoderFallbackBuffer_t1_632 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

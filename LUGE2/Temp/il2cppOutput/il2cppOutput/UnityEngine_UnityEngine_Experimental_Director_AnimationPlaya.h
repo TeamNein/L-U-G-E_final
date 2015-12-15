@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_Experimental_Director_Playable.h"
 
 // UnityEngine.Experimental.Director.AnimationPlayable
-struct  AnimationPlayable_t5_160  : public Playable_t5_117
+struct  AnimationPlayable_t5_161  : public Playable_t5_118
 {
 };

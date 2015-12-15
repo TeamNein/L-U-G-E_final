@@ -14,6 +14,6 @@
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // ApplicationManager
-struct  ApplicationManager_t7_9  : public MonoBehaviour_t5_92
+struct  ApplicationManager_t7_10  : public MonoBehaviour_t5_93
 {
 };

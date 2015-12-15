@@ -11,13 +11,13 @@
 #include <stdint.h>
 
 // UnityEngine.ParticleSystem
-struct ParticleSystem_t5_122;
+struct ParticleSystem_t5_123;
 
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // Explode
-struct  Explode_t7_5  : public MonoBehaviour_t5_92
+struct  Explode_t7_5  : public MonoBehaviour_t5_93
 {
 	// UnityEngine.ParticleSystem Explode::ps
-	ParticleSystem_t5_122 * ___ps_2;
+	ParticleSystem_t5_123 * ___ps_2;
 };

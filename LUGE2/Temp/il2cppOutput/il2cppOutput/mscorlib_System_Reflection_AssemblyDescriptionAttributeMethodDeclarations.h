@@ -20,4 +20,4 @@ struct String_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Reflection.AssemblyDescriptionAttribute::.ctor(System.String)
-extern "C" void AssemblyDescriptionAttribute__ctor_m1_2694 (AssemblyDescriptionAttribute_t1_308 * __this, String_t* ___description, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void AssemblyDescriptionAttribute__ctor_m1_2689 (AssemblyDescriptionAttribute_t1_308 * __this, String_t* ___description, const MethodInfo* method) IL2CPP_METHOD_ATTR;

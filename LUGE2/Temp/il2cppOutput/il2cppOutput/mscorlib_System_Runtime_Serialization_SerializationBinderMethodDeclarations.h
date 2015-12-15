@@ -18,4 +18,4 @@ struct SerializationBinder_t1_503;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Serialization.SerializationBinder::.ctor()
-extern "C" void SerializationBinder__ctor_m1_3603 (SerializationBinder_t1_503 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SerializationBinder__ctor_m1_3598 (SerializationBinder_t1_503 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

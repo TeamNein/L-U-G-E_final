@@ -21,6 +21,6 @@ struct Object_t;
 #include "mscorlib_System_Void.h"
 
 // UnityEngine.Canvas/WillRenderCanvases
-struct  WillRenderCanvases_t5_175  : public MulticastDelegate_t1_21
+struct  WillRenderCanvases_t5_176  : public MulticastDelegate_t1_21
 {
 };

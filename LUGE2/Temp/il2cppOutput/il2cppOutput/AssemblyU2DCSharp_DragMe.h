@@ -18,7 +18,7 @@ struct Dictionary_2_t1_953;
 #include "UnityEngine_UnityEngine_MonoBehaviour.h"
 
 // DragMe
-struct  DragMe_t7_22  : public MonoBehaviour_t5_92
+struct  DragMe_t7_23  : public MonoBehaviour_t5_93
 {
 	// System.Boolean DragMe::dragOnSurfaces
 	bool ___dragOnSurfaces_2;

@@ -24,4 +24,4 @@ struct Type_t;
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void System.Runtime.Remoting.SingleCallIdentity::.ctor(System.String,System.Runtime.Remoting.Contexts.Context,System.Type)
-extern "C" void SingleCallIdentity__ctor_m1_3476 (SingleCallIdentity_t1_491 * __this, String_t* ___objectUri, Context_t1_412 * ___context, Type_t * ___objectType, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void SingleCallIdentity__ctor_m1_3471 (SingleCallIdentity_t1_491 * __this, String_t* ___objectUri, Context_t1_412 * ___context, Type_t * ___objectType, const MethodInfo* method) IL2CPP_METHOD_ATTR;

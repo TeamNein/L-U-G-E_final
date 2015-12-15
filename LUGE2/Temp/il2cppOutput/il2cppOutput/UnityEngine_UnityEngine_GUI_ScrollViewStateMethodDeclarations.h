@@ -13,9 +13,9 @@
 #include <exception>
 
 // UnityEngine.GUI/ScrollViewState
-struct ScrollViewState_t5_185;
+struct ScrollViewState_t5_186;
 
 #include "codegen/il2cpp-codegen.h"
 
 // System.Void UnityEngine.GUI/ScrollViewState::.ctor()
-extern "C" void ScrollViewState__ctor_m5_1290 (ScrollViewState_t5_185 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void ScrollViewState__ctor_m5_1293 (ScrollViewState_t5_186 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;

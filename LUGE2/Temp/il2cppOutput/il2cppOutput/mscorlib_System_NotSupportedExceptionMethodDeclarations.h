@@ -23,8 +23,8 @@ struct SerializationInfo_t1_176;
 #include "mscorlib_System_Runtime_Serialization_StreamingContext.h"
 
 // System.Void System.NotSupportedException::.ctor()
-extern "C" void NotSupportedException__ctor_m1_5158 (NotSupportedException_t1_739 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotSupportedException__ctor_m1_5153 (NotSupportedException_t1_739 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.NotSupportedException::.ctor(System.String)
-extern "C" void NotSupportedException__ctor_m1_5159 (NotSupportedException_t1_739 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotSupportedException__ctor_m1_5154 (NotSupportedException_t1_739 * __this, String_t* ___message, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void System.NotSupportedException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-extern "C" void NotSupportedException__ctor_m1_5160 (NotSupportedException_t1_739 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void NotSupportedException__ctor_m1_5155 (NotSupportedException_t1_739 * __this, SerializationInfo_t1_176 * ___info, StreamingContext_t1_504  ___context, const MethodInfo* method) IL2CPP_METHOD_ATTR;

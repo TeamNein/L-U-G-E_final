@@ -27,9 +27,9 @@ struct VertexHelper_t6_78;
 // System.Void UnityEngine.UI.Shadow::.ctor()
 extern "C" void Shadow__ctor_m6_1414 (Shadow_t6_158 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Color UnityEngine.UI.Shadow::get_effectColor()
-extern "C" Color_t5_164  Shadow_get_effectColor_m6_1415 (Shadow_t6_158 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" Color_t5_165  Shadow_get_effectColor_m6_1415 (Shadow_t6_158 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Shadow::set_effectColor(UnityEngine.Color)
-extern "C" void Shadow_set_effectColor_m6_1416 (Shadow_t6_158 * __this, Color_t5_164  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+extern "C" void Shadow_set_effectColor_m6_1416 (Shadow_t6_158 * __this, Color_t5_165  ___value, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // UnityEngine.Vector2 UnityEngine.UI.Shadow::get_effectDistance()
 extern "C" Vector2_t5_44  Shadow_get_effectDistance_m6_1417 (Shadow_t6_158 * __this, const MethodInfo* method) IL2CPP_METHOD_ATTR;
 // System.Void UnityEngine.UI.Shadow::set_effectDistance(UnityEngine.Vector2)
