@@ -162,7 +162,7 @@ public class WordManager : MonoBehaviour {
 			nextLetterIndex++; 
 			wordCurrent = wordCurrent + goLetter;
 			lettersGotten++; 
-			Debug.Log ("sound!"); 
+			//Debug.Log ("sound!"); 
 			audio.PlayOneShot (pickup);
 			//Destroy (go);
 			SetWordText (); 
@@ -171,9 +171,10 @@ public class WordManager : MonoBehaviour {
 			if (wordCurrent == wordFinal) {
 				nextLevel ();
 			}
-		} else {
-			audio.PlayOneShot (wrongLetter);
 		}
+		//	else {
+//			audio.PlayOneShot (wrongLetter);
+//		}
 
 		Animator anim =  go.gameObject.GetComponent<Animator>();
 
