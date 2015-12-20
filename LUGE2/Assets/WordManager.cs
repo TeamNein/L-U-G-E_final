@@ -84,14 +84,18 @@ public class WordManager : MonoBehaviour {
 	}
 
 	private void SetWordText(){
-		wordCurrentText.text = "Letters: " + wordCurrent; 
-
+		//wordCurrentText.text = wordCurrent; 
+		string disp_word = "";
 //		Debug.Log (wordLength - lettersGotten);
 		//add in spaces _ for letters player needs to get
-		for (int i = 0; i < wordLength - lettersGotten; i++) {
-			//wordCurrentText.text = wordCurrentText.text + "_ "; 
-			wordCurrentText.text += " _";
+		for (int i = 0; i < wordLength; i++){//wordLength - lettersGotten; i++) {
+			if (i < lettersGotten)
+				disp_word += wordCurrent[i] + " ";
+			else
+				disp_word += "_ ";
 		}
+
+		wordCurrentText.text = disp_word;
 //		Debug.Log (wordCurrentText.text);
 	}
 	
